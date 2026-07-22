@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RFP Digest — Live Advertising &amp; Marketing RFPs</title>
+  <meta name="description" content="Daily digest of live advertising and marketing RFPs for US agencies — federal, state & local government, brand agency searches, and web-sourced opportunities." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <div class="page">
+    <header class="digest-head" id="digestHead">
+      <h1>Daily <span class="rfp">RFP</span> Digest <span class="dash">—</span> <span id="headDate">…</span></h1>
+      <p class="summary" id="summary">Loading opportunities…</p>
+    </header>
+
+    <div class="toolbar">
+      <input type="search" id="search" placeholder="Filter by title, issuer, or keyword…" autocomplete="off" />
+      <span class="live"><span class="pulse"></span> Updated daily</span>
+    </div>
+
+    <main id="sections"></main>
+    <p class="empty" id="empty" hidden>No opportunities match your filter.</p>
+
+    <footer class="foot">
+      <p id="footMeta">RFP Tracker — advertising &amp; marketing opportunities, refreshed daily.</p>
+      <p class="disclaimer">Always verify details and deadlines on the official posting before applying.</p>
+    </footer>
+  </div>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

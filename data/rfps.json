@@ -1,0 +1,171 @@
+{
+  "generated": "2026-07-21",
+  "note": "Demo dataset shaped to match rfp.py's unified record schema. Replace with a real export using build_data.py.",
+  "rfps": [
+    {
+      "id": "demo-001",
+      "type": "gov_federal",
+      "title": "Nationwide Advertising & Multimedia Services for Public Health Outreach",
+      "issuer": "U.S. Department of Health and Human Services",
+      "posted": "2026-07-09",
+      "deadline": "2026-08-14",
+      "url": "https://sam.gov/opp/example001/view",
+      "naics": "541810",
+      "description": "Full-service advertising, media buying, and multimedia production to support a national public health awareness campaign, including creative development, media planning, and paid placement across broadcast, digital, and social channels."
+    },
+    {
+      "id": "demo-002",
+      "type": "gov_federal",
+      "title": "Recruitment Marketing & Digital Advertising Agency Support",
+      "issuer": "U.S. Department of Veterans Affairs",
+      "posted": "2026-07-02",
+      "deadline": "2026-07-30",
+      "url": "https://sam.gov/opp/example002/view",
+      "naics": "541810",
+      "description": "Advertising agency to deliver recruitment marketing, employer branding, and performance-based digital advertising to support hiring goals across clinical and administrative roles."
+    },
+    {
+      "id": "demo-003",
+      "type": "gov_federal",
+      "title": "Public Relations & Strategic Communications Support Services",
+      "issuer": "National Park Service",
+      "posted": "2026-06-25",
+      "deadline": "2026-08-05",
+      "url": "https://sam.gov/opp/example003/view",
+      "naics": "541820",
+      "description": "PR agency to provide strategic communications, media relations, and content creation supporting conservation messaging and visitor engagement programs."
+    },
+    {
+      "id": "demo-004",
+      "type": "state_local",
+      "title": "Statewide Tourism Marketing & Media Buying Services",
+      "issuer": "Colorado Tourism Office",
+      "posted": "2026-07-11",
+      "deadline": "2026-08-22",
+      "url": "https://bidnet.example.gov/rfp/co-tourism-2026",
+      "naics": "541810",
+      "description": "Integrated marketing agency to lead brand strategy, creative, and media buying for the statewide destination marketing program, targeting domestic leisure travel."
+    },
+    {
+      "id": "demo-005",
+      "type": "state_local",
+      "title": "Lottery Advertising & Creative Agency of Record",
+      "issuer": "Texas Lottery Commission",
+      "posted": "2026-07-07",
+      "deadline": "2026-08-18",
+      "url": "https://demandstar.example.com/rfp/tx-lottery-aor",
+      "naics": "541810",
+      "description": "Agency of record for advertising, creative, promotions, and media across the state lottery portfolio, including responsible-play messaging and retailer support."
+    },
+    {
+      "id": "demo-006",
+      "type": "state_local",
+      "title": "Transit Authority Public Awareness & Advertising Campaign",
+      "issuer": "Metropolitan Transportation Authority",
+      "posted": "2026-06-30",
+      "deadline": "2026-07-28",
+      "url": "https://procurement.example.gov/mta-advertising-2026",
+      "naics": "541850",
+      "description": "Creative and media services for a public awareness campaign promoting transit ridership, safety, and new service launches across the metro region."
+    },
+    {
+      "id": "demo-007",
+      "type": "state_local",
+      "title": "University Brand & Enrollment Marketing Services",
+      "issuer": "University of Michigan",
+      "posted": "2026-07-05",
+      "deadline": "2026-08-30",
+      "url": "https://procurement.example.edu/umich-brand-2026",
+      "naics": "541613",
+      "description": "Marketing agency to support brand strategy and enrollment/recruitment marketing, including digital advertising, content, and prospective-student engagement."
+    },
+    {
+      "id": "demo-008",
+      "type": "brand_lead",
+      "title": "Global Creative Agency Review — Consumer Beverages",
+      "issuer": "Everclear Beverages Co.",
+      "posted": "2026-07-14",
+      "deadline": "2026-09-01",
+      "url": "https://adage.example.com/article/everclear-creative-review",
+      "source_domain": "adage.example.com",
+      "description": "Major beverage brand launching a global creative agency review covering brand campaigns, digital, and social. Incumbent relationship under evaluation; new roster expected by Q4."
+    },
+    {
+      "id": "demo-009",
+      "type": "brand_lead",
+      "title": "Media Agency Pitch — Retail & E-commerce",
+      "issuer": "NorthPeak Retail Group",
+      "posted": "2026-07-10",
+      "deadline": "2026-08-25",
+      "url": "https://adweek.example.com/article/northpeak-media-pitch",
+      "source_domain": "adweek.example.com",
+      "description": "National retailer reviewing its media planning and buying account, with an emphasis on retail media networks, connected TV, and performance marketing."
+    },
+    {
+      "id": "demo-010",
+      "type": "brand_lead",
+      "title": "Casino & Gaming Brand Seeking Integrated Agency Partner",
+      "issuer": "Silverline Gaming Resorts",
+      "posted": "2026-07-03",
+      "deadline": "2026-08-08",
+      "url": "https://prweek.example.com/article/silverline-agency-search",
+      "source_domain": "prweek.example.com",
+      "description": "Regional casino and resort operator seeking an integrated agency for brand, loyalty marketing, and destination advertising ahead of a property expansion."
+    },
+    {
+      "id": "demo-011",
+      "type": "perplexity",
+      "title": "Economic Development Marketing & Advertising Services",
+      "issuer": "Greater Phoenix Economic Council",
+      "posted": "2026-07-08",
+      "deadline": "2026-08-12",
+      "url": "https://example.gov/gpec-marketing-rfp-2026",
+      "source_domain": "example.gov",
+      "description": "Agency to deliver marketing, advertising, and lead-generation services promoting regional business attraction and talent recruitment."
+    },
+    {
+      "id": "demo-012",
+      "type": "perplexity",
+      "title": "Convention & Visitors Bureau Advertising Agency of Record",
+      "issuer": "Visit Savannah",
+      "posted": "2026-07-06",
+      "deadline": "2026-07-27",
+      "url": "https://example.org/visit-savannah-aor",
+      "source_domain": "example.org",
+      "description": "Destination marketing organization seeking an advertising agency of record for creative, media, and campaign management targeting leisure and group travel."
+    },
+    {
+      "id": "demo-013",
+      "type": "perplexity",
+      "title": "Sports Commission Sponsorship & Promotional Marketing RFP",
+      "issuer": "Indiana Sports Corp",
+      "posted": "2026-06-28",
+      "deadline": "2026-08-20",
+      "url": "https://example.org/indiana-sports-marketing",
+      "source_domain": "example.org",
+      "description": "Marketing and promotional services to support event sponsorship activation, fan engagement, and destination promotion for major sporting events."
+    },
+    {
+      "id": "demo-014",
+      "type": "gov_federal",
+      "title": "Market Research & Audience Insights Services",
+      "issuer": "U.S. Census Bureau",
+      "posted": "2026-07-12",
+      "deadline": "2026-09-04",
+      "url": "https://sam.gov/opp/example014/view",
+      "naics": "541910",
+      "description": "Market research and audience insights to inform outreach and communications strategy, including survey design, segmentation, and message testing."
+    },
+    {
+      "id": "demo-015",
+      "type": "state_local",
+      "title": "City Communications & Social Media Management Services",
+      "issuer": "City of Austin",
+      "posted": "2026-07-01",
+      "deadline": "2026-07-24",
+      "url": "https://procurement.example.gov/austin-comms-2026",
+      "naics": "541890",
+      "description": "Communications agency to manage social media, content creation, and paid promotion for citywide public information and engagement initiatives."
+    }
+  ]
+}
