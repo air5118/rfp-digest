@@ -2,15 +2,76 @@
   "generated": "2026-07-22",
   "rfps": [
     {
+      "id": "3028f48449d1be9b",
+      "type": "perplexity",
+      "title": "active or recent 2026 agency review/pitch activity",
+      "issuer": "review/pitch activity**, but public, timely information is l",
+      "posted": "2026-07-22",
+      "deadline": "",
+      "url": "https://clutch.co/us/agencies?page=3",
+      "source_domain": "https://clutch.co/us/agencies?page=3",
+      "description": "Several major US brands are in active or recent 2026 agency review/pitch activity, but public, timely information is limited; most detailed coverage of live reviews comes from trade outlets like Ad Age, Campaign US, and PRWeek, which are not in the current result set and typically sit behind paywalls. Based on accessible information right now, there are no clearly documented, still-open 2026 reviews for the specific sectors you list in the visibl",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "a162a236a55c1f81",
+      "type": "perplexity",
+      "title": "Texas \u2013 Tourism Advertising and Marketing Services (Tourism Board \u2013 Recently Closed, 2026 Cycle)",
+      "issuer": "** State of Texas, contracting entity **301** (Office of the",
+      "posted": "2026-07-22",
+      "deadline": "",
+      "url": "https://discover.govdash.com/solicitations/019de2b7-5354-76f9-9c40-19142ed3fac0--tourism-advertising-and-marketing-services",
+      "source_domain": "https://discover.govdash.com/solicitations/019de2b7-5354-76f9-9c40-19142ed3fac0--tourism-advertising-and-marketing-services",
+      "description": "Texas \u2013 Tourism Advertising and Marketing Services (Tourism Board \u2013 Recently Closed, 2026 Cycle) - Issuing organization: State of Texas, contracting entity 301 (Office of the Governor, Economic Development & Tourism) - What was sought: A full\u2011service advertising agency to provide comprehensive tourism advertising and marketing services positioning Texas as a premier travel destination. Scope includes strategic planning, creative, media, and perfo",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "de7f8babecced720",
+      "type": "perplexity",
+      "title": "Sector\u2011Specific Notes (Casino/Gaming, Food/Beverage, Retail, Consumer Goods)",
+      "issuer": "searches in **casino/gaming, food/beverage, retail, and cons",
+      "posted": "2026-07-22",
+      "deadline": "",
+      "url": "https://ekgamingllc.com/rfp-portal",
+      "source_domain": "https://ekgamingllc.com/rfp-portal",
+      "description": "Sector\u2011Specific Notes (Casino/Gaming, Food/Beverage, Retail, Consumer Goods) Publicly posted, brand\u2011side agency searches in casino/gaming, food/beverage, retail, and consumer goods are rarely indexed in general RFP aggregators; most occur via closed consultant\u2011run reviews or invitation\u2011only processes. Casino & Gaming - The EK Gaming RFP Portal tracks 311 RFPs (298 open) across casino, sports, lottery, and charitable gaming in the US, including ma",
+      "first_seen": "2026-07-22"
+    },
+    {
       "id": "a5fbabc812f00d14",
-      "type": "state_local",
+      "type": "brand_lead",
       "title": "PR News | Augusta Airport Flies Out Marketing RFP - Thu., Apr. 23, 2026",
       "issuer": "O'Dwyer's PR",
       "posted": "2026-04-23",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1FUbE5weVViME1aVWh1M2Q2aUw0VmpRUTdxZ3puT2IxN0haRDYxeV93NGZ1VmxrQVFnNzQ2SUNEdlFTeUdtMUtvN3NjbGs0VkJScnpUUnpVdXJYblNXQTJZM2lOMXE1YW9FNjdPOF84cUVYa0hUTkxkUWJnejcwa1gtcVZpcXota0JteEtPMFBUTm9UMXhPTjBtMTJ3M3Zv?oc=5",
       "source_domain": "https://www.odwyerpr.com",
-      "description": "PR News | Augusta Airport Flies Out Marketing RFP - Thu., Apr. 23, 2026 O'Dwyer's PR"
+      "description": "PR News | Augusta Airport Flies Out Marketing RFP - Thu., Apr. 23, 2026 O'Dwyer's PR",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "18ad1955d5cbf4c0",
+      "type": "perplexity",
+      "title": "New York \u2013 Marketing and Advertising Company Services (Public Sector \u2013 Likely Economic/Local Government)",
+      "issuer": "** New York State/local government entity (exact department",
+      "posted": "2026-07-22",
+      "deadline": "",
+      "url": "https://rfpplanet.com/mktg-2424/marketing-and-advertising-company-services",
+      "source_domain": "https://rfpplanet.com/mktg-2424/marketing-and-advertising-company-services",
+      "description": "New York \u2013 Marketing and Advertising Company Services (Public Sector \u2013 Likely Economic/Local Government) - Issuing organization: New York State/local government entity (exact department not specified in synopsis) - What is being sought: Marketing and Advertising Company Services \u2013 a government RFP seeking an agency/company to provide marketing and advertising services; typically these notices cover campaign development, media placement, and relat",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "dd5ff13d9c45c3f0",
+      "type": "perplexity",
+      "title": "New York \u2013 Marketing and Advertising Company Service (State / Local Agency)",
+      "issuer": "** Not fully named in the excerpt, but described as a **USA",
+      "posted": "2026-07-22",
+      "deadline": "",
+      "url": "https://www.governmentrfps.com/1142722-usa-new-york-marketing-and-advertising-company-service-rfp.html",
+      "source_domain": "https://www.governmentrfps.com/1142722-usa-new-york-marketing-and-advertising-company-service-rfp.html",
+      "description": "New York \u2013 Marketing and Advertising Company Service (State / Local Agency) - Issuing organization: Not fully named in the excerpt, but described as a USA (New York) government entity seeking marketing and advertising services. - What is being sought: Marketing and advertising company services (general marketing/advertising support; likely a full-service marketing firm). - Solicitation ID: MRB-55772. - Posted date: Monday, July 13, 2026. - Deadli",
+      "first_seen": "2026-07-22"
     },
     {
       "id": "38ce6567df277673",
@@ -21,7 +82,8 @@
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdEJaRTFrNkpTbERhWEpONUFiX2RNMldEc3VLLXBIV0JuNFkyVkgyMkJDZlhTTEZuNUwwRVlESnVxTnZWU2p5UGllYmxHeFVKSmlwcDhYd0xvTER1bEtXY1NmZ1FjQnBzeDdHTDlOcUVnXzRKd1JRakFRbWJPZThmdE03VzVjNm1UN2ZqRTZkeE1IdEVEenBhQ0Y1dXNnQmNqVnI2VndtMjkwSE5jVEE?oc=5",
       "source_domain": "https://www.mediapost.com",
-      "description": "Navy Issues RFP For New Ad Contract 05/22/2026 MediaPost"
+      "description": "Navy Issues RFP For New Ad Contract 05/22/2026 MediaPost",
+      "first_seen": "2026-07-22"
     },
     {
       "id": "c422c95b42e5d75f",
@@ -32,29 +94,20 @@
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcjJBQVZILVAtQ01xOVN2aV9pVkJCU2Rzbkc1Y3dDR1RfSkE2aEdaa1liazZyR0RpSEZZdWZrcmM4ekJjZFNJbG5UVVdXN2FTZGNiQlFyTTJLUkxWVFNnZkZ2SEdseHlMdmdabFA0d2h4cjQ0eFY5N3VQQXJRdk9ZMzFDVFVMVDVDRUktMFlMQ0Z1emZHc2pWd1NB?oc=5",
       "source_domain": "https://mumbrella.com.au",
-      "description": "M+C Saatchi bows out as Woolworths launches creative pitch Mumbrella"
+      "description": "M+C Saatchi bows out as Woolworths launches creative pitch Mumbrella",
+      "first_seen": "2026-07-22"
     },
     {
-      "id": "c67466e494ecca5d",
-      "type": "brand_lead",
-      "title": "Coca-Cola media, data and tech agency review pits WPP against Publicis",
-      "issuer": "Ad Age",
-      "posted": "2026-06-03",
+      "id": "6c765a8a9fe0447a",
+      "type": "perplexity",
+      "title": "Limitations and why other categories are not listed",
+      "issuer": "See source",
+      "posted": "2026-07-22",
       "deadline": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaUstVVhweEVzN0Y3dEdZZHBIdVZ3eUVCRGlzY1U3T2paUVlIbmFycG5jNWpvS09pOXN1S3MxTU8zaTFUWF9GaE5zNDA0RW5fS2tyU0thZ3hPSFVvY2NRS1RfQWxndndNREpaUDlvSEoxVXBJX0ZZV1N3UW95TU1CeW81dnhJTS1POUdfcjRoQnRvb1BsWkFZQUxn?oc=5",
-      "source_domain": "https://adage.com",
-      "description": "Coca-Cola media, data and tech agency review pits WPP against Publicis Ad Age"
-    },
-    {
-      "id": "fd1dbc0c5d74b8cc",
-      "type": "brand_lead",
-      "title": "10 agency reviews to know about: Heineken, Hershey, Mondel\u0113z, Subway, Wawa",
-      "issuer": "Ad Age",
-      "posted": "2026-06-01",
-      "deadline": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWUFlUk9iM2RsbjNFQU9tamZsN0p5ZHpPVXhWT3dwbkFzYjFpeGY5QzZ2ZFNJcXlnTmt5WFZEdWVBQTJMSHN4MGlLVklkcjRpcEI1b0gxRmtHZmh5Y3l6ajFhWldCR2draDlQM3kwMjVPOFNGdEtiZUNtSTRsVWppa00tYmdBeHZQSXJKZktRUDNibGdIT21WS2p6a3FZbHhSNUZIdm5R?oc=5",
-      "source_domain": "https://adage.com",
-      "description": "10 agency reviews to know about: Heineken, Hershey, Mondel\u0113z, Subway, Wawa Ad Age"
+      "url": "https://www.govcb.com/government-bids/search.htm",
+      "source_domain": "https://www.govcb.com/government-bids/search.htm",
+      "description": "Limitations and why other categories are not listed The search results you provided are mainly: - General RFP aggregators (GovCB, RFPhound, RFPPlanet, RFPSchoolWatch) that show counts of open bids but do not expose specific, dated marketing/advertising RFP records in the snippets. - How\u2011to and advisory content about finding RFPs and setting up alerts, rather than actual RFP notices. - A Facebook post pointing to RFPMart records, but those require",
+      "first_seen": "2026-07-22"
     },
     {
       "id": "f51fab582ecf2d16",
@@ -65,18 +118,80 @@
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVJTWFRMSElwUHJJLVdxWWlCbXRJOXZDVnRKX0ZrbWk5bW1fLXlxWjRyVWEyclA3RzUybUE4eHdOTS1zTUVzcDZ2VkFYazA4RlRYRWlfeVZUQll6QlUwMzFidlhXUnlnQ2M2SVRyQW5vcElta2xnd21oVGo2Sm1MNFJlSWpJeVlKcEFhMkhKOWcycDNHSVhGeERMV1FFMEh2ZVBHZG1OY05Odw?oc=5",
       "source_domain": "https://www.mediapost.com",
-      "description": "Intuit Puts Its $690 Million U.S. Media Account In Review 07/09/2026 MediaPost"
+      "description": "Intuit Puts Its $690 Million U.S. Media Account In Review 07/09/2026 MediaPost",
+      "first_seen": "2026-07-22"
     },
     {
-      "id": "08e01d7f2f360cd2",
-      "type": "brand_lead",
-      "title": "Intuit Puts Its $690 Million U.S. Media Account In Review 07/09/2026",
-      "issuer": "MediaPost",
-      "posted": "2026-07-08",
+      "id": "814293a13b73befd",
+      "type": "perplexity",
+      "title": "Connecticut Airport Authority \u2013 Marketing/Advertising, Media Buying, PR & Website Maintenance/Development (Connecticut)",
+      "issuer": "** Connecticut Airport Authority (CAA), a quasi-public state",
+      "posted": "2026-07-22",
       "deadline": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLUhoaEpIMXc2aE52NjRnTVRycDRyUk44TlMzaHZRVUtFSzRTMEc2c2ZzbjVMOFV3SGhtczVoc1lHaHRvY1FocG9rc0ZHb1FVYk9aTkVfVDJsOHMxSDh3aFRmUi0tR3VpenFsdHJSNjV1ODFaMER4VTBVM1NEajdUWXl3ZVNMRTEwSzJveVNvQWdGT1FpbUFGRnUwZHRaZ21fcl8xVTRxU0tEQnNlb2ZSVGJQZ0lhRFdaTlJwa3B3?oc=5",
-      "source_domain": "https://www.mediapost.com",
-      "description": "Intuit Puts Its $690 Million U.S. Media Account In Review 07/09/2026 MediaPost"
+      "url": "https://www.cleat.ai/government/contracts/marketing-advertising-media-buying-public-relations-and-website-maint-andamp-dev-eb5e",
+      "source_domain": "https://www.cleat.ai/government/contracts/marketing-advertising-media-buying-public-relations-and-website-maint-andamp-dev-eb5e",
+      "description": "Connecticut Airport Authority \u2013 Marketing/Advertising, Media Buying, PR & Website Maintenance/Development (Connecticut) - Issuing organization: Connecticut Airport Authority (CAA), a quasi-public state entity. - What is being sought: Comprehensive marketing/advertising, media buying, public relations, and website maintenance & development services. - Solicitation number: RFP No. 2027-001. - Available date: July 9, 2026, 10:00 AM \u2013 proposal materi",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "257aad2f0fe585d5",
+      "type": "perplexity",
+      "title": "Collin College \u2013 Districtwide Branding, Marketing & Communications Services (Texas)",
+      "issuer": "** Collin College (community college district, Texas)",
+      "posted": "2026-07-22",
+      "deadline": "",
+      "url": "https://www.govcb.com/government-bids/DISTRICTWIDE-BRANDING-MARKETING-AND-23471742.htm?cts=c5b75",
+      "source_domain": "https://www.govcb.com/government-bids/DISTRICTWIDE-BRANDING-MARKETING-AND-23471742.htm?cts=c5b75",
+      "description": "Collin College \u2013 Districtwide Branding, Marketing & Communications Services (Texas) - Issuing organization: Collin College (community college district, Texas) - What is being sought: Districtwide branding, marketing, advertising, and communications services to support college-wide communication efforts aligned with its master and strategic plans. - Deadline: March 30, 2026, 12:00 PM CT. - Estimated value: Not stated in the notice; likely multi\u2011ye",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "c67466e494ecca5d",
+      "type": "brand_lead",
+      "title": "Coca-Cola media, data and tech agency review pits WPP against Publicis",
+      "issuer": "Ad Age",
+      "posted": "2026-06-03",
+      "deadline": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaUstVVhweEVzN0Y3dEdZZHBIdVZ3eUVCRGlzY1U3T2paUVlIbmFycG5jNWpvS09pOXN1S3MxTU8zaTFUWF9GaE5zNDA0RW5fS2tyU0thZ3hPSFVvY2NRS1RfQWxndndNREpaUDlvSEoxVXBJX0ZZV1N3UW95TU1CeW81dnhJTS1POUdfcjRoQnRvb1BsWkFZQUxn?oc=5",
+      "source_domain": "https://adage.com",
+      "description": "Coca-Cola media, data and tech agency review pits WPP against Publicis Ad Age",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "82475cd5ef9b158b",
+      "type": "perplexity",
+      "title": "City of Chesapeake \u2013 Convention & Visitors Bureau Advertising/Marketing Agency of Record (Virginia)",
+      "issuer": "of Record (Virginia)",
+      "posted": "2026-07-22",
+      "deadline": "",
+      "url": "https://discover.govdash.com/solicitations/019edf49-a420-727c-921a-cbdd65e57e22--rfp-26-226-4342-convention-visitors-bureau-adver",
+      "source_domain": "https://discover.govdash.com/solicitations/019edf49-a420-727c-921a-cbdd65e57e22--rfp-26-226-4342-convention-visitors-bureau-adver",
+      "description": "City of Chesapeake \u2013 Convention & Visitors Bureau Advertising/Marketing Agency of Record (Virginia) - Issuing organization: City of Chesapeake, Department of Parks, Recreation and Tourism (Convention & Visitors Bureau). - What is being sought: A full-service advertising and marketing agency to serve as Agency of Record for the",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "a285b042870278e3",
+      "type": "perplexity",
+      "title": "Capital Area Transit System \u2013 Transit Advertising Services (Louisiana)",
+      "issuer": "** Capital Area Transit System (CATS), Baton Rouge, Louisian",
+      "posted": "2026-07-22",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/transit-advertising-services-8wnr",
+      "source_domain": "https://www.cleat.ai/government/contracts/transit-advertising-services-8wnr",
+      "description": "Capital Area Transit System \u2013 Transit Advertising Services (Louisiana) - Issuing organization: Capital Area Transit System (CATS), Baton Rouge, Louisiana. - What is being sought: Transit advertising services to manage and sell advertising space on buses and other transit assets (full-service transit ad sales / management contract). - Solicitation number: CATS-2026-TransitAdvertising. - Deadline: August 10, 2026, 4:00 PM (local time). - Estimated",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "id": "292e26d8be82e3a9",
+      "type": "perplexity",
+      "title": "California Department of Insurance \u2013 Outreach and Advertising Services (Public Sector \u2013 Consumer Programs)",
+      "issuer": "of Insurance \u2013 Outreach and Advertising Services (Public Sec",
+      "posted": "2026-07-22",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/outreach-and-advertising-services-rfp-26crob-037s-8ru3",
+      "source_domain": "https://www.cleat.ai/government/contracts/outreach-and-advertising-services-rfp-26crob-037s-8ru3",
+      "description": "California Department of Insurance \u2013 Outreach and Advertising Services (Public Sector \u2013 Consumer Programs) - Issuing organization: California Department of Insurance (CDI) - What is being sought: A single contractor to deliver comprehensive outreach and advertising services for three consumer protection programs: - California Low\u2011Cost Auto Insurance Program (CLCA) - Patient and Provider Protection Act (PPPA) - Life and Annuity Consumer Protection",
+      "first_seen": "2026-07-22"
     },
     {
       "id": "b47786c91c6e5600",
@@ -87,18 +202,20 @@
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPclpoWGJiLXVVYnhUSjlwQV9wXzlvcGFPUkpYOFEzdnN5d1NNaEt2QUJHLWhmTmRhb2s1YV8tVmZoVVRfLUFCRVA1OUdMWXJzV2diOUNaZEwtVVAtWGppQy11NzdHRVB4SXZOWGlfLThLcDMzTXRVbG96ZjdxdU1ibTJLUHdNUQ?oc=5",
       "source_domain": "https://www.personalcareinsights.com",
-      "description": "April in review: Navigating Iran war, K-beauty opportunities, In-cosmetics Global 2026 Personal Care Insights"
+      "description": "April in review: Navigating Iran war, K-beauty opportunities, In-cosmetics Global 2026 Personal Care Insights",
+      "first_seen": "2026-07-22"
     },
     {
-      "id": "a5fbabc812f00d14",
+      "id": "fd1dbc0c5d74b8cc",
       "type": "brand_lead",
-      "title": "PR News | Augusta Airport Flies Out Marketing RFP - Thu., Apr. 23, 2026",
-      "issuer": "O'Dwyer's PR",
-      "posted": "2026-04-23",
+      "title": "10 agency reviews to know about: Heineken, Hershey, Mondel\u0113z, Subway, Wawa",
+      "issuer": "Ad Age",
+      "posted": "2026-06-01",
       "deadline": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1FUbE5weVViME1aVWh1M2Q2aUw0VmpRUTdxZ3puT2IxN0haRDYxeV93NGZ1VmxrQVFnNzQ2SUNEdlFTeUdtMUtvN3NjbGs0VkJScnpUUnpVdXJYblNXQTJZM2lOMXE1YW9FNjdPOF84cUVYa0hUTkxkUWJnejcwa1gtcVZpcXota0JteEtPMFBUTm9UMXhPTjBtMTJ3M3Zv?oc=5",
-      "source_domain": "https://www.odwyerpr.com",
-      "description": "PR News | Augusta Airport Flies Out Marketing RFP - Thu., Apr. 23, 2026 O'Dwyer's PR"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWUFlUk9iM2RsbjNFQU9tamZsN0p5ZHpPVXhWT3dwbkFzYjFpeGY5QzZ2ZFNJcXlnTmt5WFZEdWVBQTJMSHN4MGlLVklkcjRpcEI1b0gxRmtHZmh5Y3l6ajFhWldCR2draDlQM3kwMjVPOFNGdEtiZUNtSTRsVWppa00tYmdBeHZQSXJKZktRUDNibGdIT21WS2p6a3FZbHhSNUZIdm5R?oc=5",
+      "source_domain": "https://adage.com",
+      "description": "10 agency reviews to know about: Heineken, Hershey, Mondel\u0113z, Subway, Wawa Ad Age",
+      "first_seen": "2026-07-22"
     }
   ]
 }
