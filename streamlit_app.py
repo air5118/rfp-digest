@@ -6,6 +6,7 @@ sections (Federal / State & Local / Brand Searches / AI-sourced) from data/rfps.
 Deploy free on Streamlit Community Cloud: https://share.streamlit.io
 """
 import json
+import urllib.request
 from datetime import datetime, date
 from pathlib import Path
 from html import escape
@@ -13,6 +14,9 @@ from html import escape
 import streamlit as st
 
 DATA_FILE = Path(__file__).parent / "data" / "rfps.json"
+# Live feed URL — the app fetches this over HTTP so it reflects new data on its
+# own (every ~5 min via the cache TTL below), WITHOUT waiting for a redeploy.
+FEED_URL = "https://raw.githubusercontent.com/air5118/rfp-digest/main/data/rfps.json"
 
 # Section definitions — mirror build_email_html() in rfp.py exactly.
 SECTIONS = [
@@ -97,8 +101,16 @@ st.markdown(CSS, unsafe_allow_html=True)
 
 @st.cache_data(ttl=300)
 def load_data():
-    with open(DATA_FILE, encoding="utf-8") as f:
-        return json.load(f)
+    # Fetch the live feed over HTTP so the app auto-refreshes every ~5 min
+    # (the cache TTL) with no redeploy/reboot needed. Fall back to the bundled
+    # file only if the network read fails.
+    try:
+        req = urllib.request.Request(FEED_URL, headers={"User-Agent": "rfp-digest-app"})
+        with urllib.request.urlopen(req, timeout=15) as r:
+            return json.loads(r.read().decode("utf-8"))
+    except Exception:  # noqa: BLE001
+        with open(DATA_FILE, encoding="utf-8") as f:
+            return json.load(f)
 
 
 def days_left(deadline):
