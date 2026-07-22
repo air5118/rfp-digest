@@ -1,0 +1,37 @@
+name: Keep Streamlit App Warm
+
+# Pings the Streamlit Community Cloud app on a schedule so it doesn't sleep,
+# avoiding the cold-start delay for visitors. Independent of everything else.
+# Note: hitting the /_stcore/health endpoint registers activity; if Streamlit
+# changes its sleep logic this may need revisiting.
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'   # every 10 minutes
+  workflow_dispatch:
+
+# Avoid piling up overlapping runs if one is slow.
+concurrency:
+  group: keep-warm
+  cancel-in-progress: true
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Ping Streamlit app
+        run: |
+          APP="https://rfp-digest.streamlit.app"
+          echo "Pinging $APP"
+          # Health endpoint returns "ok" when the app is up; also hit the root.
+          code_health=$(curl -sS -L --max-time 40 -o /dev/null -w "%{http_code}" "$APP/_stcore/health" || echo "000")
+          code_root=$(curl -sS -L --max-time 40 -o /dev/null -w "%{http_code}" "$APP/" || echo "000")
+          echo "health: $code_health   root: $code_root"
+          # Don't fail the job on a transient non-200 — the point is just to
+          # generate traffic. Log it and move on.
+          if [ "$code_health" = "200" ] || [ "$code_root" = "200" ]; then
+            echo "App responded OK."
+          else
+            echo "::warning::App did not return 200 (health=$code_health root=$code_root). If it is not deployed yet, that's expected."
+          fi
