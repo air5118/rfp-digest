@@ -47,7 +47,8 @@ async function init() {
     render();
   });
   try {
-    const res = await fetch("data/rfps.json", { cache: "no-store" });
+    // cache-buster query param → unique URL each load, bypasses GitHub's CDN cache
+    const res = await fetch("data/rfps.json?t=" + Date.now(), { cache: "no-store" });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
     state.all = (data.rfps || []).filter((r) => r && r.title);
