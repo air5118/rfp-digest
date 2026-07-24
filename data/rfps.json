@@ -2,6 +2,18 @@
   "generated": "2026-07-24",
   "rfps": [
     {
+      "id": "75eacbf4714671e5",
+      "type": "perplexity",
+      "title": "many marketing/advertising RFPs in 2026",
+      "issuer": "See source",
+      "posted": "2026-07-24",
+      "deadline": "",
+      "url": "https://www.rfpschoolwatch.com/bid-opportunities/marketing",
+      "source_domain": "https://www.rfpschoolwatch.com/bid-opportunities/marketing",
+      "description": "There are many marketing/advertising RFPs in 2026, but I cannot reliably filter for \u201cstill open as of May 2026\u201d vs. already closed using the generic aggregators in your results; most list 2026 opportunities but do not expose close dates in a way I can verify for May 2026 specifically. Because of that, I cannot confidently give you a list restricted to \u201copen in May 2026\u201d that meets your accuracy requirements. Below is how you can systematically ge",
+      "first_seen": "2026-07-24"
+    },
+    {
       "id": "6b527c0009bc9180",
       "type": "perplexity",
       "title": "insufficient reliable public information",
@@ -11,6 +23,18 @@
       "url": "https://improvado.io/blog/best-marketing-agencies-new-york",
       "source_domain": "https://improvado.io/blog/best-marketing-agencies-new-york",
       "description": "There is insufficient reliable public information in the current search results about specific major US brands actively in agency review or pitch cycles in 2026 across the sectors you listed. The available results focus on lists of agencies, pricing guides, and selection advice\u2014not on live brand-side reviews. Because the sources you provided do not contain brand-side review data, any claim that \u201cBrand X is in review now\u201d would be speculative rath",
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "66eb4f4ca489d955",
+      "type": "perplexity",
+      "title": "agency review activity in 2026",
+      "issuer": "review activity in 2026**, but detailed, verifiable informat",
+      "posted": "2026-07-24",
+      "deadline": "",
+      "url": "https://www.linkedin.com/posts/ivanfernandes1_the-2026-wave-of-agency-reviews-is-telling-activity-7479850686675943426-ETxb",
+      "source_domain": "https://www.linkedin.com/posts/ivanfernandes1_the-2026-wave-of-agency-reviews-is-telling-activity-7479850686675943426-ETxb",
+      "description": "Several major US and global brands are reported to be in agency review activity in 2026, but detailed, verifiable information (scope, budgets, formal RFPs) is extremely limited in publicly indexed sources as of mid\u20112026. Below is what can be grounded in available data, followed by a clarification of limitations.",
       "first_seen": "2026-07-24"
     },
     {
@@ -26,27 +50,75 @@
       "first_seen": "2026-07-24"
     },
     {
+      "id": "0741ff2e7fab0c66",
+      "type": "perplexity",
+      "title": "Tourism / Convention / Economic Development / Sports Commissions",
+      "issuer": "See source",
+      "posted": "2026-07-24",
+      "deadline": "",
+      "url": "https://www.globaltenders.com/rfp-us/digital-marketing-bids",
+      "source_domain": "https://www.globaltenders.com/rfp-us/digital-marketing-bids",
+      "description": "Tourism / Convention / Economic Development / Sports Commissions Using general RFP archives and aggregators (Everything\u2011PR, GovDash, GlobalTenders), I could confirm that many tourism boards, convention bureaus, and economic development agencies issue marketing and advertising RFPs each year, but I could not retrieve a specific, still\u2011open 2026 RFP in those categories with full details and a direct URL from the snippets available. - Everything\u2011PR",
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "186b7b52dac13ca3",
+      "type": "perplexity",
+      "title": "State Lottery Advertising (multiple states)",
+      "issuer": "See source",
+      "posted": "2026-07-24",
+      "deadline": "",
+      "url": "https://www.sifthub.io/blog/find-rfp",
+      "source_domain": "https://www.sifthub.io/blog/find-rfp",
+      "description": "State Lottery Advertising (multiple states) Use state procurement portals; most allow date and keyword filters similar to SAM.gov. Typical workflow:",
+      "first_seen": "2026-07-24"
+    },
+    {
       "id": "b2899cd018566b76",
       "type": "perplexity",
-      "title": "Other search-result items that do **not** meet your criteria",
-      "issuer": "search",
+      "title": "New York \u2013 Global Marketing and Advertising Agencies Services (Jurisdiction Not Fully Clear)",
+      "issuer": "** Listed as **\u201cUSA (New York) \u2013 GLOBAL \u2013 Marketing and Adve",
       "posted": "2026-07-24",
       "deadline": "",
       "url": "https://www.scanningrfp.com/1134872-usa-new-york-global-marketing-and-advertising-agencies-service-rfp.html",
       "source_domain": "https://www.scanningrfp.com/1134872-usa-new-york-global-marketing-and-advertising-agencies-service-rfp.html",
-      "description": "Other search-result items that do not meet your criteria - The \u201cGlobal - Marketing and Advertising Agencies Service\u201d notice appears to be a generic directory result with an expiry date of July 24, 2026, but the available snippet does not identify the issuing brand, industry, or an accessible official solicitation record, so I cannot verify it as a valid active RFP. - The Live! Casino & Hotel page is a contact/media page, not an RFP or agency sear",
+      "description": "New York \u2013 Global Marketing and Advertising Agencies Services (Jurisdiction Not Fully Clear) - Issuing organization: Listed as \u201cUSA (New York) \u2013 GLOBAL \u2013 Marketing and Advertising Agencies Service RFP\u201d on ScanningRFP. - Sector: Likely public sector or quasi\u2011public (exact issuing entity not clear from the snippet). - What is being sought: - Marketing and advertising agency services; the posting is clearly for agency support but the detailed scope",
       "first_seen": "2026-07-24"
     },
     {
       "id": "f3d71f90b6064e0a",
       "type": "perplexity",
-      "title": "New York \u2013 Marketing and Advertising Company Service (MRB\u201155772)",
-      "issuer": "See source",
+      "title": "MRB-55772 \u2013 New York \u2013 Marketing and Advertising Company Service",
+      "issuer": "** A New York state/local public entity (exact agency name i",
       "posted": "2026-07-24",
       "deadline": "",
       "url": "https://www.governmentrfps.com/social-media-internet-marketing-and-seo-rfp-government-contract.html",
       "source_domain": "https://www.governmentrfps.com/social-media-internet-marketing-and-seo-rfp-government-contract.html",
-      "description": "New York \u2013 Marketing and Advertising Company Service (MRB\u201155772) - Issuing organization: Government authority in New York (state/local; identified only by an internal code MRB\u201155772 in the synopsis). - What is being sought: Marketing and advertising company services \u2013 broad advertising/marketing scope (exact scope details are in the underlying government RFP). - Deadline: - Posted: July 13, 2026. - Expiry / proposal deadline: August 7, 2026. - Es",
+      "description": "MRB-55772 \u2013 New York \u2013 Marketing and Advertising Company Service - Issuing organization: A New York state/local public entity (exact agency name is not visible in the aggregator listing but it is a US government buyer in New York). - What is being sought: Marketing and advertising company services, including marketing and branding support. - Deadline: August 7, 2026 (proposal due date). Questions due July 28, 2026. - Estimated value: Not disclose",
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "aa2d41fdd570a6c8",
+      "type": "perplexity",
+      "title": "From each RFP page, capture:",
+      "issuer": "name",
+      "posted": "2026-07-24",
+      "deadline": "",
+      "url": "https://govbidreport.com/bids/",
+      "source_domain": "https://govbidreport.com/bids/",
+      "description": "3. From each RFP page, capture: - Agency name. - RFP title (e.g., \u201cBus and Rail Advertising Concession\u201d or \u201cMarketing & Communications Services\u201d). - Deadline. - Known value or revenue\u2011share description. - Direct opportunity URL. The aggregators in your results explicitly state they track \u201copen government bids & RFPs\u201d and provide requirements, deadline, and compliance summaries, but they don\u2019t expose a pre\u2011filtered list of \u201cadvertising in May 2026",
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "e9f48816244d5b66",
+      "type": "perplexity",
+      "title": "For each lottery marketing RFP you find:",
+      "issuer": "See source",
+      "posted": "2026-07-24",
+      "deadline": "",
+      "url": "https://www.govcb.com/",
+      "source_domain": "https://www.govcb.com/",
+      "description": "3. For each lottery marketing RFP you find: - Organization: e.g., \u201c[State] Lottery Commission\u201d. - Title: e.g., \u201cIntegrated Marketing & Advertising Services\u201d. - Deadline: from the bid details. - Estimated value: often in the RFP PDF or summary, sometimes as \u201cbudget not to exceed.\u201d - URL: the bid detail page in that state\u2019s procurement system. Because the search results I have are aggregator/\u201chow to find RFP\u201d resources, not specific lottery RFP rec",
       "first_seen": "2026-07-24"
     },
     {
@@ -59,6 +131,18 @@
       "url": "https://rfpplanet.com/mktg-2290/advertising-marketing-and-public-relation",
       "source_domain": "https://rfpplanet.com/mktg-2290/advertising-marketing-and-public-relation",
       "description": "Florida \u2013 Seasonal Strategic Advertising, Creative & Digital Marketing Services This opportunity appears on a Florida government advertising/marketing category feed and is described as a government authority RFP with an offsite performance location. - Issuing organization: A Florida government authority (state/local \u2013 exact agency name is not specified in the aggregator synopsis, but the RFP is labeled as government, USA\u2011Florida). - What is being",
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "2a7590b6925c8230",
+      "type": "perplexity",
+      "title": "Define precise filters",
+      "issuer": "See source",
+      "posted": "2026-07-24",
+      "deadline": "",
+      "url": "https://bidbanana.thebidlab.com/articles/how-to-track-rfps-and-reuse-content-in-2026",
+      "source_domain": "https://bidbanana.thebidlab.com/articles/how-to-track-rfps-and-reuse-content-in-2026",
+      "description": "1. Define precise filters for your profile (ad/marketing only, US\u2011only, public sector)\u2013this is a standard first step in RFP tracking.",
       "first_seen": "2026-07-24"
     },
     {
@@ -98,18 +182,6 @@
       "first_seen": "2026-07-23"
     },
     {
-      "id": "49bd76d3cd04620f",
-      "type": "perplexity",
-      "title": "active public-sector advertising/marketing solicitation in Nevada-style gaming",
-      "issuer": "See source",
-      "posted": "2026-07-24",
-      "deadline": "",
-      "url": "https://discover.govdash.com/solicitations/019f0db1-4e84-7575-90b7-620675cb3955--experiential-marketing",
-      "source_domain": "https://discover.govdash.com/solicitations/019f0db1-4e84-7575-90b7-620675cb3955--experiential-marketing",
-      "description": "I could identify one active public-sector advertising/marketing solicitation in Nevada-style gaming, but the search results provided are not sufficient to verify current 2026 active RFPs across all the industries you requested without risking false positives. The strongest confirmed item in the results is a Virginia Lottery experiential marketing RFP posted in 2026, but it is now past its due date, so it does not qualify as active today.",
-      "first_seen": "2026-07-23"
-    },
-    {
       "id": "3431a833a66bcaff",
       "type": "perplexity",
       "title": "Virginia State Lottery \u2014 active lottery marketing cycle context",
@@ -122,6 +194,18 @@
       "first_seen": "2026-07-23"
     },
     {
+      "id": "49bd76d3cd04620f",
+      "type": "perplexity",
+      "title": "Virginia Lottery \u2013 Experiential Marketing Services (Public Sector, Gaming)",
+      "issuer": "** Virginia State Lottery",
+      "posted": "2026-07-24",
+      "deadline": "",
+      "url": "https://discover.govdash.com/solicitations/019f0db1-4e84-7575-90b7-620675cb3955--experiential-marketing",
+      "source_domain": "https://discover.govdash.com/solicitations/019f0db1-4e84-7575-90b7-620675cb3955--experiential-marketing",
+      "description": "Virginia Lottery \u2013 Experiential Marketing Services (Public Sector, Gaming) - Issuing organization: Virginia State Lottery - Sector: Lottery / gaming (public sector) - What is being sought: - Experiential marketing services to design and execute innovative, in\u2011person brand experiences that promote the Virginia Lottery\u2019s games and offerings statewide. - Scope includes development and implementation of experiential marketing strategies to enhance en",
+      "first_seen": "2026-07-23"
+    },
+    {
       "id": "3fee8aa2043b06e3",
       "type": "perplexity",
       "title": "Tourism Marketing \u2013 Town of Yarmouth (US Tourism Marketing Contract)",
@@ -131,18 +215,6 @@
       "url": "https://www.instantmarkets.com/q/tourism_marketing?defaultSearch=true",
       "source_domain": "https://www.instantmarkets.com/q/tourism_marketing?defaultSearch=true",
       "description": "Tourism Marketing \u2013 Town of Yarmouth (US Tourism Marketing Contract) - Organization: Town of Yarmouth (tourism office), United States - RFP Title: Marketing Services, Visitor Support, and Event Coordination to Promote Yarmouth Year\u2011Round - What is being sought: - A qualified firm to provide tourism marketing services, including: - Year\u2011round marketing campaigns promoting Yarmouth as a destination - Visitor support and staffing for visitor service",
-      "first_seen": "2026-07-23"
-    },
-    {
-      "id": "b26a4b63b83611e8",
-      "type": "perplexity",
-      "title": "There are **no reliable, public search results that show specific advertising/marketing RFPs that were open in May 2026*",
-      "issuer": "See source",
-      "posted": "2026-07-24",
-      "deadline": "",
-      "url": "https://sam.gov/opportunities",
-      "source_domain": "https://sam.gov/opportunities",
-      "description": "There are no reliable, public search results that show specific advertising/marketing RFPs that were open in May 2026 matching your detailed categories (federal, lottery, tourism, university, transit, city/county) with full solicitation data. The sources surfaced are primarily aggregator portals or generic guidance and either do not expose individual opportunities without login/payment, or show non\u2011marketing solicitations. Because of that, I cann",
       "first_seen": "2026-07-23"
     },
     {
@@ -203,6 +275,18 @@
       "url": "https://www.facebook.com/RFPMart/posts/a-government-authority-located-in-california-is-looking-for-a-vendor-for-marketi/1461542992659712/",
       "source_domain": "https://www.facebook.com/RFPMart/posts/a-government-authority-located-in-california-is-looking-for-a-vendor-for-marketi/1461542992659712/",
       "description": "Hawaii Tourism Destination Brand Marketing Services (Tourism Marketing) - Organization: A Hawaii government tourism authority (exact agency name requires access to the paid RFPMart listing) - RFP title: Tourism Destination Brand Marketing Services (USA, Hawaii) - What is being sought: A vendor to provide destination brand marketing services\u2014likely including brand strategy, creative development, digital and traditional tourism marketing campaigns",
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "b26a4b63b83611e8",
+      "type": "perplexity",
+      "title": "Federal \u2013 SAM.gov (all agencies)",
+      "issuer": "See source",
+      "posted": "2026-07-24",
+      "deadline": "",
+      "url": "https://sam.gov/opportunities",
+      "source_domain": "https://sam.gov/opportunities",
+      "description": "Federal \u2013 SAM.gov (all agencies) Portal: SAM.gov Contract Opportunities What\u2019s available: All federal opportunities \u2265 \\$25,000, including advertising, public affairs, outreach, and marketing. How to pull May 2026 open marketing/advertising RFPs:",
       "first_seen": "2026-07-23"
     },
     {
