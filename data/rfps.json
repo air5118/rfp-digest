@@ -1,17 +1,65 @@
 {
-  "generated": "2026-07-24",
+  "generated": "2026-07-25",
   "rfps": [
     {
-      "id": "75eacbf4714671e5",
+      "id": "f39189a26e175ba3",
       "type": "perplexity",
-      "title": "many marketing/advertising RFPs in 2026",
-      "issuer": "See source",
-      "posted": "2026-07-24",
+      "title": "no clearly documented, open 2026 advertising/marketing agency RFPs",
+      "issuer": "RFPs** that match all of your filters (US brands in casino/g",
+      "posted": "2026-07-25",
       "deadline": "",
-      "url": "https://www.rfpschoolwatch.com/bid-opportunities/marketing",
-      "source_domain": "https://www.rfpschoolwatch.com/bid-opportunities/marketing",
-      "description": "There are many marketing/advertising RFPs in 2026, but I cannot reliably filter for \u201cstill open as of May 2026\u201d vs. already closed using the generic aggregators in your results; most list 2026 opportunities but do not expose close dates in a way I can verify for May 2026 specifically. Because of that, I cannot confidently give you a list restricted to \u201copen in May 2026\u201d that meets your accuracy requirements. Below is how you can systematically ge",
-      "first_seen": "2026-07-24"
+      "url": "https://everything-pr.com/pr-marketing-rfps",
+      "source_domain": "https://everything-pr.com/pr-marketing-rfps",
+      "description": "There are currently no clearly documented, open 2026 advertising/marketing agency RFPs that match all of your filters (US brands in casino/gaming, food/beverage, retail, consumer goods, or public\u2011sector tourism/economic development/sports) in the limited results provided, and the one RFP\u2011oriented result is explicitly not an active-opportunity archive. Below is what can be grounded in the available sources, followed by practical pointers and URLs",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "bbb26e42d23d58e6",
+      "type": "perplexity",
+      "title": "UConn (University of Connecticut) \u2013 Bid Opportunities Page (Context only, not clearly marketing)",
+      "issuer": "See source",
+      "posted": "2026-07-25",
+      "deadline": "",
+      "url": "https://purchasing.procurement.uconn.edu/home-2/bid-opportunities-2020/",
+      "source_domain": "https://purchasing.procurement.uconn.edu/home-2/bid-opportunities-2020/",
+      "description": "UConn (University of Connecticut) \u2013 Bid Opportunities Page (Context only, not clearly marketing) UConn\u2019s 2026 bid\u2011opportunities page confirms that it is posting 2026 RFPs, but the specific entry visible (\u201cTB062326 \u2013 Open 6/23/2026\u201d) does not display an advertising/marketing/creative scope in the public snippet, and details require log\u2011in. I am therefore not treating it as a confirmed marketing/advertising RFP for your purposes, but noting it in c",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "2bc13ef191f85958",
+      "type": "perplexity",
+      "title": "Minnesota \u2013 general grants/RFP portal (not advertising-specific)",
+      "issuer": "** Minnesota Department of Human Services \u2013 Office of Inspec",
+      "posted": "2026-07-25",
+      "deadline": "",
+      "url": "https://mn.gov/dhs/partners-and-providers/grants-rfps/open-rfps/",
+      "source_domain": "https://mn.gov/dhs/partners-and-providers/grants-rfps/open-rfps/",
+      "description": "Minnesota \u2013 general grants/RFP portal (not advertising-specific) - Issuing organization: Minnesota Department of Human Services \u2013 Office of Inspector General. - What is being sought: Various grants and RFPs, accessed via an online listing where you \u201cclick on a headline to view a Grant RFP or RFI,\u201d and filter by category/tag. - Relevance: This is a generic state grants/RFP portal; the snippet does not show a tourism/marketing/advertising RFP. - De",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "1a7c81dcec2fa9e3",
+      "type": "perplexity",
+      "title": "Important limitations and why the list is short",
+      "issuer": "See source",
+      "posted": "2026-07-25",
+      "deadline": "",
+      "url": "https://www.bidnetdirect.com/tennessee",
+      "source_domain": "https://www.bidnetdirect.com/tennessee",
+      "description": "Important limitations and why the list is short You asked specifically for 2026 state and local advertising/marketing/creative RFPs and for direct links to each RFP posting, including content from BidNet, DemandStar, state procurement sites, and entities such as utilities, schools, and hospitals. Based on current public search: - BidNet and DemandStar: Public landing pages exist, but the individual RFP details and direct solicitation links are ga",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "7248cabab27d694b",
+      "type": "perplexity",
+      "title": "Casino / gaming \u2013 general RFP & contact structures",
+      "issuer": "searches**, but they show how some gaming brands structure R",
+      "posted": "2026-07-25",
+      "deadline": "",
+      "url": "https://www.livech.com/en/media-center",
+      "source_domain": "https://www.livech.com/en/media-center",
+      "description": "Casino / gaming \u2013 general RFP & contact structures These are not agency searches, but they show how some gaming brands structure RFP and advertising contacts in 2026. Live! Casino & Hotel (multiple locations) - Issuing organization: Live! Casino & Hotel (Louisiana, Philadelphia, Pittsburgh, etc.). - What is being sought: - General advertising and promotional inquiries via email or contact form (not a formal RFP for agency-of-record). - Sales, Mee",
+      "first_seen": "2026-07-25"
     },
     {
       "id": "6b527c0009bc9180",
@@ -40,13 +88,25 @@
     {
       "id": "296eb2ac5f310d90",
       "type": "perplexity",
-      "title": "What the current results cover (and why they don\u2019t answer the query)",
-      "issuer": "directories and rankings**",
-      "posted": "2026-07-24",
+      "title": "agency rankings and buyer guides",
+      "issuer": "reviews, media pitches, or creative searches in 2026 across",
+      "posted": "2026-07-25",
       "deadline": "",
       "url": "https://vidico.com/news/creative-advertising-agencies/",
       "source_domain": "https://vidico.com/news/creative-advertising-agencies/",
-      "description": "What the current results cover (and why they don\u2019t answer the query) - Agency directories and rankings - Creative agency lists, such as Wieden+Kennedy, Mischief, Ogilvy, Giant Spoon, Johannes Leonardo, Droga5/Accenture Song, are profiled as \u201ctop agencies in 2026,\u201d but there is no mention of which major brands are currently reviewing or pitching work to them. - DesignRush and similar platforms provide guidance on choosing agencies and show agency",
+      "description": "A search of recent industry and news sources does not surface any reliable, up\u2011to\u2011date lists of specific major US brands currently in live agency reviews, media pitches, or creative searches in 2026 across the sectors you listed. Most available 2026 content focuses on agency rankings and buyer guides, not brand-side RFPs or reviews. Because of that, I cannot credibly name specific brands with active reviews right now, nor provide accurate timelin",
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "75eacbf4714671e5",
+      "type": "perplexity",
+      "title": "University marketing",
+      "issuer": "See source",
+      "posted": "2026-07-25",
+      "deadline": "",
+      "url": "https://www.rfpschoolwatch.com/bid-opportunities/marketing",
+      "source_domain": "https://www.rfpschoolwatch.com/bid-opportunities/marketing",
+      "description": "4. University marketing - Use RFP SchoolWatch and then go directly to university procurement sites for any 2026 marketing listings. - Filter by \u201cMarketing,\u201d \u201cEnrollment,\u201d \u201cBranding,\u201d \u201cCommunications,\u201d posted in May 2026, and confirm that they are still open (many higher-ed RFPs have 30\u201345 day windows).",
       "first_seen": "2026-07-24"
     },
     {
@@ -110,18 +170,6 @@
       "first_seen": "2026-07-24"
     },
     {
-      "id": "e9f48816244d5b66",
-      "type": "perplexity",
-      "title": "For each lottery marketing RFP you find:",
-      "issuer": "See source",
-      "posted": "2026-07-24",
-      "deadline": "",
-      "url": "https://www.govcb.com/",
-      "source_domain": "https://www.govcb.com/",
-      "description": "3. For each lottery marketing RFP you find: - Organization: e.g., \u201c[State] Lottery Commission\u201d. - Title: e.g., \u201cIntegrated Marketing & Advertising Services\u201d. - Deadline: from the bid details. - Estimated value: often in the RFP PDF or summary, sometimes as \u201cbudget not to exceed.\u201d - URL: the bid detail page in that state\u2019s procurement system. Because the search results I have are aggregator/\u201chow to find RFP\u201d resources, not specific lottery RFP rec",
-      "first_seen": "2026-07-24"
-    },
-    {
       "id": "a63a9c1a99cb63f5",
       "type": "perplexity",
       "title": "Florida \u2013 Seasonal Strategic Advertising, Creative & Digital Marketing Services",
@@ -143,6 +191,18 @@
       "url": "https://bidbanana.thebidlab.com/articles/how-to-track-rfps-and-reuse-content-in-2026",
       "source_domain": "https://bidbanana.thebidlab.com/articles/how-to-track-rfps-and-reuse-content-in-2026",
       "description": "1. Define precise filters for your profile (ad/marketing only, US\u2011only, public sector)\u2013this is a standard first step in RFP tracking.",
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "e9f48816244d5b66",
+      "type": "perplexity",
+      "title": "City / County / University / Transit \u2013 Insufficient Detail in Current Results",
+      "issuer": "See source",
+      "posted": "2026-07-25",
+      "deadline": "",
+      "url": "https://www.govcb.com/",
+      "source_domain": "https://www.govcb.com/",
+      "description": "City / County / University / Transit \u2013 Insufficient Detail in Current Results The other search results provided (RFPhound, RFPPlanet, GovBidReport, FindRFP, GovCB, bidsUSA, etc.) are aggregator portals, but the snippets here do not show specific 2026 advertising or marketing opportunities with titles, deadlines, and URLs. Examples: - RFP SchoolWatch \u2013 Marketing Bids: shows only January 2026 higher-ed marketing opportunities (e.g., Bowie State Uni",
       "first_seen": "2026-07-24"
     },
     {
@@ -266,27 +326,27 @@
       "first_seen": "2026-07-23"
     },
     {
-      "id": "795dbebbec98a19f",
-      "type": "perplexity",
-      "title": "Hawaii Tourism Destination Brand Marketing Services (Tourism Marketing)",
-      "issuer": "** A **Hawaii government tourism authority** (exact agency n",
-      "posted": "2026-07-23",
-      "deadline": "",
-      "url": "https://www.facebook.com/RFPMart/posts/a-government-authority-located-in-california-is-looking-for-a-vendor-for-marketi/1461542992659712/",
-      "source_domain": "https://www.facebook.com/RFPMart/posts/a-government-authority-located-in-california-is-looking-for-a-vendor-for-marketi/1461542992659712/",
-      "description": "Hawaii Tourism Destination Brand Marketing Services (Tourism Marketing) - Organization: A Hawaii government tourism authority (exact agency name requires access to the paid RFPMart listing) - RFP title: Tourism Destination Brand Marketing Services (USA, Hawaii) - What is being sought: A vendor to provide destination brand marketing services\u2014likely including brand strategy, creative development, digital and traditional tourism marketing campaigns",
-      "first_seen": "2026-07-23"
-    },
-    {
       "id": "b26a4b63b83611e8",
       "type": "perplexity",
-      "title": "Federal \u2013 SAM.gov (all agencies)",
+      "title": "Federal \u2013 SAM.gov / Federal Advertising & Marketing",
       "issuer": "See source",
-      "posted": "2026-07-24",
+      "posted": "2026-07-25",
       "deadline": "",
       "url": "https://sam.gov/opportunities",
       "source_domain": "https://sam.gov/opportunities",
-      "description": "Federal \u2013 SAM.gov (all agencies) Portal: SAM.gov Contract Opportunities What\u2019s available: All federal opportunities \u2265 \\$25,000, including advertising, public affairs, outreach, and marketing. How to pull May 2026 open marketing/advertising RFPs:",
+      "description": "Federal \u2013 SAM.gov / Federal Advertising & Marketing I cannot see individual SAM.gov opportunity detail pages in the provided results beyond the generic portal description, so I cannot reliably identify specific still-open federal advertising/marketing RFPs from May 2026 using only these sources. To work these: - Go to SAM.gov \u201cContract Opportunities\u201d and filter: - Date range: Posted between May 1\u201331, 2026 - NAICS: 541810 (Advertising), 541613 (Ma",
+      "first_seen": "2026-07-23"
+    },
+    {
+      "id": "795dbebbec98a19f",
+      "type": "perplexity",
+      "title": "California \u2013 Government Authority \u201cMarketing and Communications Services\u201d",
+      "issuer": "** Government authority in California (likely a city or coun",
+      "posted": "2026-07-25",
+      "deadline": "",
+      "url": "https://www.facebook.com/RFPMart/posts/a-government-authority-located-in-california-is-looking-for-a-vendor-for-marketi/1461542992659712/",
+      "source_domain": "https://www.facebook.com/RFPMart/posts/a-government-authority-located-in-california-is-looking-for-a-vendor-for-marketi/1461542992659712/",
+      "description": "California \u2013 Government Authority \u201cMarketing and Communications Services\u201d Organization: Government authority in California (likely a city or county; exact name not shown in result) RFP Title: \u201cMarketing and Communications Services\u201d Deadline: July 22, 2026 Estimated Value: Not disclosed in the search snippet Direct URL to learn more / obtain RFP: - RFPMart listing: `https://rfpmart.com/1138335-usa-california-marketing-and-communications-services-r",
       "first_seen": "2026-07-23"
     },
     {
@@ -436,13 +496,13 @@
     {
       "id": "814293a13b73befd",
       "type": "perplexity",
-      "title": "Connecticut Airport Authority \u2013 Marketing/Advertising, Media Buying, PR & Web",
-      "issuer": "** Connecticut Airport Authority (Bradley International Airp",
-      "posted": "2026-07-24",
+      "title": "Connecticut Airport Authority \u2013 Marketing/Advertising, Media Buying, PR, Website",
+      "issuer": "** Connecticut Airport Authority (CAA), for Bradley Internat",
+      "posted": "2026-07-25",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/marketing-advertising-media-buying-public-relations-and-website-maint-andamp-dev-eb5e",
       "source_domain": "https://www.cleat.ai/government/contracts/marketing-advertising-media-buying-public-relations-and-website-maint-andamp-dev-eb5e",
-      "description": "Connecticut Airport Authority \u2013 Marketing/Advertising, Media Buying, PR & Web - Issuing organization: Connecticut Airport Authority (Bradley International Airport and CAA general aviation airports) - What is being sought: Comprehensive marketing, advertising, media buying, video production, public relations, and website maintenance and development services over a five\u2011year term to support Bradley International Airport and CAA\u2011owned/operated GA ai",
+      "description": "Connecticut Airport Authority \u2013 Marketing/Advertising, Media Buying, PR, Website - Issuing organization: Connecticut Airport Authority (CAA), for Bradley International Airport and CAA\u2011owned/operated general aviation airports. - What is being sought: Comprehensive marketing/advertising, media buying, video production, public relations, and website maintenance and development services to further the profile of Bradley International Airport and CAA",
       "first_seen": "2026-07-22"
     },
     {
