@@ -1,6 +1,30 @@
 {
-  "generated": "2026-07-28",
+  "generated": "2026-07-29",
   "rfps": [
+    {
+      "id": "bc099b3978658e10",
+      "type": "perplexity",
+      "title": "University marketing",
+      "issuer": "See source",
+      "posted": "2026-07-29",
+      "deadline": "",
+      "url": "http://www.bidsusa.net/Default.cfm?Page=400&BSID=4869107",
+      "source_domain": "http://www.bidsusa.net/Default.cfm?Page=400&BSID=4869107",
+      "description": "4. University marketing - For target universities, go to \u201cPurchasing,\u201d \u201cProcurement,\u201d or \u201cSupplier Portal.\u201d - Use their search to find RFPs containing \u201cadvertising,\u201d \u201cbranding,\u201d \u201cmarketing,\u201d or \u201ccommunications\u201d with issue dates in May 2026 and status = open. - Example patterns are visible in generic higher\u2011ed bid lists (e.g., BidsUSA showing an MSU event with a July 8, 2026 deadline, but that item is expired so not suitable here).",
+      "first_seen": "2026-07-29"
+    },
+    {
+      "id": "74ed44acfad5c5f8",
+      "type": "perplexity",
+      "title": "Generic RFP lists from July 2026 don\u2019t qualify.",
+      "issuer": "See source",
+      "posted": "2026-07-29",
+      "deadline": "",
+      "url": "https://rfpsnapshot.com/solicitation-roundup-july-06-2026",
+      "source_domain": "https://rfpsnapshot.com/solicitation-roundup-july-06-2026",
+      "description": "2. Generic RFP lists from July 2026 don\u2019t qualify. Roundup-style articles (e.g., RFP Snapshot\u2019s June 29\u2013July 5, 2026 roundup) show federal RFPs with June\u2013July due dates (e.g., DHS, Commerce, Navy) but those are not advertising/marketing, and they are outside May.",
+      "first_seen": "2026-07-29"
+    },
     {
       "id": "53376a43a7242fb7",
       "type": "perplexity",
@@ -14,52 +38,76 @@
       "first_seen": "2026-07-28"
     },
     {
+      "id": "70b3a4a39eb6016f",
+      "type": "perplexity",
+      "title": "Transit authority advertising",
+      "issuer": "See source",
+      "posted": "2026-07-29",
+      "deadline": "",
+      "url": "https://www.instantmarkets.com/q/digital_marketing",
+      "source_domain": "https://www.instantmarkets.com/q/digital_marketing",
+      "description": "5. Transit authority advertising - Target major transit agencies (e.g., MTA, WMATA, Sound Transit, LA Metro, etc.). - Enter their procurement/bids portals, search or filter RFPs with \u201cadvertising,\u201d \u201cconcession,\u201d \u201cmarketing,\u201d or \u201ccommunications\u201d in the title or description, with issue dates in May 2026 and status = open. - Note that aggregators like InstantMarkets show some transit marketing solicitations, but the examples surfaced (e.g., Sound Tr",
+      "first_seen": "2026-07-28"
+    },
+    {
       "id": "7a00fb09f95a25aa",
       "type": "perplexity",
-      "title": "Texas \u2013 Marketing, Venue Development, Event Recruitment & Brand Coordination (Tourism / Events / Economic Development)",
-      "issuer": "** Government authority in **Texas, USA** (exact entity name",
-      "posted": "2026-07-28",
+      "title": "Texas \u2013 Marketing, Venue Development, Event Recruitment & Brand Coordination (Public Sector / Events & Tourism)",
+      "issuer": "** Government authority located in **Texas, USA** (exact ent",
+      "posted": "2026-07-29",
       "deadline": "",
       "url": "https://www.scanningrfp.com/marketing-and-branding-rfp-government-contract.html",
       "source_domain": "https://www.scanningrfp.com/marketing-and-branding-rfp-government-contract.html",
-      "description": "Texas \u2013 Marketing, Venue Development, Event Recruitment & Brand Coordination (Tourism / Events / Economic Development) - Issuing organization: Government authority in Texas, USA (exact entity name not shown in snippet; likely a city or venue development authority). - What is being sought: Marketing, venue development, event recruitment, and brand coordination services, suggesting a partner to market a destination/venue, recruit events, and manage",
+      "description": "Texas \u2013 Marketing, Venue Development, Event Recruitment & Brand Coordination (Public Sector / Events & Tourism) - Issuing organization: Government authority located in Texas, USA (exact entity not shown in the index, but categorized as a government contract). - What is being sought: - Marketing, venue development, event recruitment and brand coordination services. - This reads as a comprehensive marketing and brand support scope likely tied to a",
       "first_seen": "2026-07-28"
     },
     {
       "id": "c770070f963d26ce",
       "type": "perplexity",
-      "title": "Maryland \u2013 RFISSN for Tobacco-Related Death & Disease Support (Health Communications)",
-      "issuer": "** Federal/CDC or Maryland\u2011based health authority (not fully",
-      "posted": "2026-07-28",
+      "title": "Texas \u2013 Epic Central Phase 3 Marketing Services (Public Sector / Tourism & Convention\u2011Style Venue)",
+      "issuer": "** A local government in **Texas** associated with **Epic Ce",
+      "posted": "2026-07-29",
       "deadline": "",
       "url": "https://rfpdelivery.com/home/view_bids_industry/Consulting:+Marketing,+Advertising,+PR,+Graphic+Design",
       "source_domain": "https://rfpdelivery.com/home/view_bids_industry/Consulting:+Marketing,+Advertising,+PR,+Graphic+Design",
-      "description": "Maryland \u2013 RFISSN for Tobacco-Related Death & Disease Support (Health Communications) - Issuing organization: Federal/CDC or Maryland\u2011based health authority (not fully specified, but categorized under \u201cProtecting Americans from Tobacco-Related Death and Disease support services\u201d). - What is being sought: Support services tied to tobacco\u2011related disease prevention; category is Consulting: Marketing, Advertising, PR, Graphic Design, implying signif",
-      "first_seen": "2026-07-28"
-    },
-    {
-      "id": "70b3a4a39eb6016f",
-      "type": "perplexity",
-      "title": "City of Farragut, Tennessee \u2013 Tourism Media Plan & Marketing",
-      "issuer": "** Town/City of Farragut, TN (Tourism Program)",
-      "posted": "2026-07-28",
-      "deadline": "",
-      "url": "https://www.instantmarkets.com/q/digital_marketing",
-      "source_domain": "https://www.instantmarkets.com/q/digital_marketing",
-      "description": "City of Farragut, Tennessee \u2013 Tourism Media Plan & Marketing Issuing organization: Town/City of Farragut, TN (Tourism Program) RFP title: Comprehensive Media Plan for Tourism Program (digital and traditional marketing services) What is being sought: - Development of a comprehensive media plan to grow tourism-related revenue, with focus on visitors from 50+ miles away. - Strategic content, media buying, and templates to support staff in executing",
+      "description": "Texas \u2013 Epic Central Phase 3 Marketing Services (Public Sector / Tourism & Convention\u2011Style Venue) - Issuing organization: A local government in Texas associated with Epic Central (a large entertainment and tourism destination in Grand Prairie; detailed issuer not exposed in the index). - What is being sought: - Phase 3 Marketing Services for Epic Central. - Category: \u201cConsulting: Marketing, Advertising, PR, Graphic Design.\u201d - Likely includes cam",
       "first_seen": "2026-07-28"
     },
     {
       "id": "43d64fbc48c01957",
       "type": "perplexity",
-      "title": "Cherokee Nation \u2013 RAM Televisions and Equipment (Casino Environment \u2013 Not Marketing)",
-      "issuer": "** **Cherokee Nation** (Oklahoma)",
-      "posted": "2026-07-28",
+      "title": "Oklahoma \u2013 Cherokee Casino & Hotel (Gaming Industry Procurement; Not Marketing)",
+      "issuer": "** **Cherokee Nation**, Oklahoma",
+      "posted": "2026-07-29",
       "deadline": "",
       "url": "https://www.highergov.com/sl/contract-opportunity/ok-rfp-ram-televisions-and-equipment-71264527/",
       "source_domain": "https://www.highergov.com/sl/contract-opportunity/ok-rfp-ram-televisions-and-equipment-71264527/",
-      "description": "Cherokee Nation \u2013 RAM Televisions and Equipment (Casino Environment \u2013 Not Marketing) - Issuing organization: Cherokee Nation (Oklahoma). - What is being sought: Procurement and installation of additional televisions and equipment at the bar of Cherokee Casino & Hotel in Roland, OK, with a pre\u2011bid at Ramona Casino. - Industry fit: Casino/gaming infrastructure, but not a marketing/agency search; this is a facilities/AV procurement. - Deadline: Resp",
+      "description": "Oklahoma \u2013 Cherokee Casino & Hotel (Gaming Industry Procurement; Not Marketing) - Issuing organization: Cherokee Nation, Oklahoma. - What is being sought: - Procurement and installation of televisions and equipment at the bar of Cherokee Casino & Hotel in Roland, Oklahoma. - This is a facilities/AV procurement rather than an advertising/marketing agency search, but it is a live 2026 opportunity in the casino/gaming sector. - Deadline: July 29, 20",
       "first_seen": "2026-07-28"
+    },
+    {
+      "id": "37943271a038f033",
+      "type": "perplexity",
+      "title": "active 2026",
+      "issuer": "See source",
+      "posted": "2026-07-29",
+      "deadline": "",
+      "url": "https://www.callcenterrfp.com/1141130-usa-texas-advertising-and-media-related-services-rfp.html",
+      "source_domain": "https://www.callcenterrfp.com/1141130-usa-texas-advertising-and-media-related-services-rfp.html",
+      "description": "I found several active 2026 US state, local, and public-institution advertising/marketing/creative solicitations that match your request, but the provided search results are not sufficient to reliably confirm BidNet/DemandStar portal postings for every item. I therefore included only opportunities explicitly shown as open in the results and provided the direct posting pages available in those results.",
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "3b310f47feaf895e",
+      "type": "perplexity",
+      "title": "Wisconsin Government Authority \u2014 **Marketing Campaign Development and Implementation Service**",
+      "issuer": "** Government authority in Wisconsin (identified in the resu",
+      "posted": "2026-07-29",
+      "deadline": "",
+      "url": "https://www.websitedesignrfp.com/marketing-and-branding-rfp-government-contract.html",
+      "source_domain": "https://www.websitedesignrfp.com/marketing-and-branding-rfp-government-contract.html",
+      "description": "Wisconsin Government Authority \u2014 Marketing Campaign Development and Implementation Service - Issuing organization: Government authority in Wisconsin (identified in the result list) - What is being sought: Marketing campaign development and implementation services - Deadline: July 30, 2026 - Estimated value: Not stated in the result - Status: Active/open by posting date and deadline window in the result list - Direct posting: The result list refer",
+      "first_seen": "2026-07-27"
     },
     {
       "id": "08f45a126585a1ce",
@@ -86,51 +134,39 @@
       "first_seen": "2026-07-27"
     },
     {
-      "id": "3b310f47feaf895e",
-      "type": "perplexity",
-      "title": "USA (Georgia) \u2013 Radio Advertising Services (Public Sector)",
-      "issuer": "** Government authority located in Georgia, USA (exact agenc",
-      "posted": "2026-07-28",
-      "deadline": "",
-      "url": "https://www.websitedesignrfp.com/marketing-and-branding-rfp-government-contract.html",
-      "source_domain": "https://www.websitedesignrfp.com/marketing-and-branding-rfp-government-contract.html",
-      "description": "USA (Georgia) \u2013 Radio Advertising Services (Public Sector) - Issuing organization: Government authority located in Georgia, USA (exact agency not named in summary listing). - What is being sought: - Radio advertising services, likely including media planning, buying, and potentially creative for public-sector communication campaigns. - RFP ID: MRB-55618 \u2013 USA (Georgia) \u2013 Radio Advertising Services. - Deadline: July 17, 2026. - Estimated value: No",
-      "first_seen": "2026-07-27"
-    },
-    {
-      "id": "37943271a038f033",
-      "type": "perplexity",
-      "title": "Texas \u2013 Advertising and Media Related Services (MRB\u201155716)",
-      "issuer": "** Government authority located in Texas (state/local, not s",
-      "posted": "2026-07-27",
-      "deadline": "",
-      "url": "https://www.callcenterrfp.com/1141130-usa-texas-advertising-and-media-related-services-rfp.html",
-      "source_domain": "https://www.callcenterrfp.com/1141130-usa-texas-advertising-and-media-related-services-rfp.html",
-      "description": "Texas \u2013 Advertising and Media Related Services (MRB\u201155716) - Issuing organization: Government authority located in Texas (state/local, not specified further in the summary) - What is being sought: Advertising and media related services, including creative, media planning/buying, and potentially digital/graphics/social media under marketing and branding categories. - Solicitation ID: MRB\u201155716 \u2013 USA (Texas) \u2013 Advertising and Media Related Services",
-      "first_seen": "2026-07-27"
-    },
-    {
       "id": "0567448770c25619",
       "type": "perplexity",
-      "title": "Texas A&M University \u2013 Enrollment Marketing & Advertising Services (Graduate Programs)",
-      "issuer": "** Texas A&M University, Mays Business School (public univer",
-      "posted": "2026-07-27",
+      "title": "Texas A&M University \u2014 **Enrollment Marketing & Advertising Services**",
+      "issuer": "** Texas A&M University, Mays Business School",
+      "posted": "2026-07-29",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/enrollment-marketing-and-advertising-services-hwzd",
       "source_domain": "https://www.cleat.ai/government/contracts/enrollment-marketing-and-advertising-services-hwzd",
-      "description": "Texas A&M University \u2013 Enrollment Marketing & Advertising Services (Graduate Programs) - Issuing organization: Texas A&M University, Mays Business School (public university) - What is being sought: Marketing, branding, and advertising services focused on enrollment marketing for graduate programs at Mays Business School. Scope includes strategy, creative, media, and campaign management to drive applications/enrollment. - Solicitation ID: TAMU\u2011RFP",
+      "description": "Texas A&M University \u2014 Enrollment Marketing & Advertising Services - Issuing organization: Texas A&M University, Mays Business School - What is being sought: Marketing, branding, and advertising services to support graduate enrollment programs - Deadline: August 14, 2026 @ 5:00 p.m. CST - Estimated value: Not stated in the result - Status: Active/open - Direct posting: `cleat.ai/government/contracts/enrollment-marketing-and-advertising-services-h",
       "first_seen": "2026-07-27"
     },
     {
       "id": "4f5d3d141f3a2103",
       "type": "perplexity",
-      "title": "Michigan \u2013 State Department Marketing and Advertising Services (MKTG\u20112474)",
-      "issuer": "Marketing and Advertising Services (MKTG\u20112474)",
-      "posted": "2026-07-27",
+      "title": "Michigan Government Department \u2014 **Marketing and Advertising Services**",
+      "issuer": "\u2014 **Marketing and Advertising Services**",
+      "posted": "2026-07-29",
       "deadline": "",
       "url": "https://rfpplanet.com/mktg-2474/marketing-and-advertising-services",
       "source_domain": "https://rfpplanet.com/mktg-2474/marketing-and-advertising-services",
-      "description": "Michigan \u2013 State Department Marketing and Advertising Services (MKTG\u20112474) - Issuing organization: Michigan state government department (noted simply as \u201cGovernment Authority, Michigan, USA\u201d) - What is being sought: Full\u2011scope marketing and advertising services through the department\u2019s 2031 fiscal year, including: research/insights, integrated communications, media planning and buying, creative development, stakeholder communications, PR, analyti",
+      "description": "Michigan Government Department \u2014 Marketing and Advertising Services - Issuing organization: Michigan state government department (the result identifies a government authority in Michigan) - What is being sought: Marketing and advertising services including research, media planning/placement, creative/content development, communications, analytics, and strategic support - Deadline: August 4, 2026 - Estimated value: $8M - Status: Active/open - Dire",
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "5be5271b10926542",
+      "type": "perplexity",
+      "title": "May 2026",
+      "issuer": "See source",
+      "posted": "2026-07-29",
+      "deadline": "",
+      "url": "https://rfphound.com/rfps",
+      "source_domain": "https://rfphound.com/rfps",
+      "description": "There is not enough publicly indexed information to reliably list only still-open U.S. government advertising/marketing RFPs that were open specifically in May 2026 and remain active now; most procurement portals either (a) suppress closed items from search or (b) only show the current status without a simple way to filter by \u201copen in May 2026.\u201d Where an RFP\u2019s history is visible, it almost always shows July 2026 posting or closing dates rather th",
       "first_seen": "2026-07-27"
     },
     {
@@ -143,18 +179,6 @@
       "url": "https://www.andersoncollaborative.com/best-growth-marketing-agencies-in-the-united-states-accelerating-brand-expansion-through-innovative-strategies/",
       "source_domain": "https://www.andersoncollaborative.com/best-growth-marketing-agencies-in-the-united-states-accelerating-brand-expansion-through-innovative-strategies/",
       "description": "I can\u2019t reliably answer this as stated from the provided search results alone. The results you supplied are mostly agency directories or general commentary, and they do not substantiate specific, active 2026 brand reviews, pitches, or searches across the sectors you listed. What the results do indicate is only a broad claim that 2026 has seen \u201cagency reviews\u201d involving brands such as IBM, Adidas, and Coca-Cola, but that post is a LinkedIn activit",
-      "first_seen": "2026-07-27"
-    },
-    {
-      "id": "5be5271b10926542",
-      "type": "perplexity",
-      "title": "Federal Opportunities (SAM.gov) \u2013 Marketing & Communications (General Note)",
-      "issuer": "See source",
-      "posted": "2026-07-28",
-      "deadline": "",
-      "url": "https://rfphound.com/rfps",
-      "source_domain": "https://rfphound.com/rfps",
-      "description": "Federal Opportunities (SAM.gov) \u2013 Marketing & Communications (General Note) The sources provided include high\u2011level directories (RFPhound, FedOps, RFP Snapshot) but not the detailed individual SAM.gov pages for specific 2026 federal marketing/communications RFPs. As a result, I cannot reliably name and scope specific federal advertising RFPs still open without direct SAM.gov access. From these sources: - RFPhound confirms thousands of open federa",
       "first_seen": "2026-07-27"
     },
     {
@@ -220,13 +244,13 @@
     {
       "id": "e637fb56d4432149",
       "type": "perplexity",
-      "title": "North Dakota \u2013 Marketing and Advertising Services (Statewide / Public Sector)",
-      "issuer": "** Government authority located in **North Dakota, USA** (st",
-      "posted": "2026-07-28",
+      "title": "North Dakota \u2013 Marketing and Advertising Services (Public Sector / Economic Development & Tourism Potential)",
+      "issuer": "** Unspecified North Dakota government authority (state-leve",
+      "posted": "2026-07-29",
       "deadline": "",
       "url": "https://www.callcenterrfp.com/1138752-usa-north-dakota-marketing-and-advertising-services-rfp.html",
       "source_domain": "https://www.callcenterrfp.com/1138752-usa-north-dakota-marketing-and-advertising-services-rfp.html",
-      "description": "North Dakota \u2013 Marketing and Advertising Services (Statewide / Public Sector) - Issuing organization: Government authority located in North Dakota, USA (state or local agency \u2013 not fully specified in the snippet). - What is being sought: Full\u2011scope marketing and advertising services, 2\u2011year contract; agency is looking for an expert vendor to provide marketing and advertising work (likely multi\u2011channel, branding, campaign support). - Industry fit:",
+      "description": "North Dakota \u2013 Marketing and Advertising Services (Public Sector / Economic Development & Tourism Potential) - Issuing organization: Unspecified North Dakota government authority (state-level; described as \u201cGovernment Authority located in North Dakota; USA\u201d). - What is being sought: - Full\u2011service marketing and advertising services for a government authority. - Scope broadly includes marketing, branding, and graphics/animation work; likely campai",
       "first_seen": "2026-07-26"
     },
     {
@@ -640,13 +664,13 @@
     {
       "id": "3028f48449d1be9b",
       "type": "perplexity",
-      "title": "agency directory/ranking pages",
-      "issuer": "directory/ranking pages** and general guidance articles, not",
-      "posted": "2026-07-28",
+      "title": "major U.S. brands",
+      "issuer": "review cycles by name, sector, scope, and budget as you requ",
+      "posted": "2026-07-29",
       "deadline": "",
       "url": "https://clutch.co/us/agencies?page=3",
       "source_domain": "https://clutch.co/us/agencies?page=3",
-      "description": "I can\u2019t reliably answer this from the search results provided. The results are mostly agency directory/ranking pages and general guidance articles, not sources that identify specific 2026 brand-led agency reviews or searches for casino/gaming, CPG, food and beverage, retail, financial services, healthcare, or automotive brands. What\u2019s missing from the available results: - Named brands currently in review or search - Scope of the review/search, su",
+      "description": "There is not enough reliable, up\u2011to\u2011date public information in the current search results to list specific major U.S. brands that are currently (in 2026) in active advertising, media, or creative agency review cycles by name, sector, scope, and budget as you requested. The results I can access are dominated by agency directories and rankings, not brand-side pitch or review news, and they do not identify current live reviews or RFPs by brand.",
       "first_seen": "2026-07-22"
     },
     {
@@ -760,13 +784,13 @@
     {
       "id": "814293a13b73befd",
       "type": "perplexity",
-      "title": "Connecticut Airport Authority \u2013 Comprehensive Marketing/Advertising & Media Buying Services",
-      "issuer": "** Connecticut Airport Authority (Bradley International Airp",
-      "posted": "2026-07-27",
+      "title": "Connecticut Airport Authority \u2014 **Marketing/Advertising, Media Buying, Public Relations and Website Maintenance & Development**",
+      "issuer": "** Connecticut Airport Authority",
+      "posted": "2026-07-29",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/marketing-advertising-media-buying-public-relations-and-website-maint-andamp-dev-eb5e",
       "source_domain": "https://www.cleat.ai/government/contracts/marketing-advertising-media-buying-public-relations-and-website-maint-andamp-dev-eb5e",
-      "description": "Connecticut Airport Authority \u2013 Comprehensive Marketing/Advertising & Media Buying Services - Issuing organization: Connecticut Airport Authority (Bradley International Airport and CAA GA airports) - What is being sought: Comprehensive marketing, advertising, media buying, public relations, video production, and website maintenance & development services over a five\u2011year term to support Bradley International Airport and CAA\u2011owned/operated general",
+      "description": "Connecticut Airport Authority \u2014 Marketing/Advertising, Media Buying, Public Relations and Website Maintenance & Development - Issuing organization: Connecticut Airport Authority - What is being sought: Marketing/advertising, media buying, public relations, and website maintenance/development services for Bradley International Airport and related airports - Deadline: August 12, 2026, 1:00 p.m. - Estimated value: Not stated in the result - Status:",
       "first_seen": "2026-07-22"
     },
     {
