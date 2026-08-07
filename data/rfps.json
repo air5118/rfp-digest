@@ -1,6 +1,30 @@
 {
-  "generated": "2026-08-06",
+  "generated": "2026-08-07",
   "rfps": [
+    {
+      "id": "9514f9de89cd65f5",
+      "type": "perplexity",
+      "title": "There is not enough timely, brand\u2011specific review data in the provided search results to confidently identify active 202",
+      "issuer": "reviews for the sectors you listed",
+      "posted": "2026-08-07",
+      "deadline": "",
+      "url": "https://topbrandagencies.com/usa/",
+      "source_domain": "https://topbrandagencies.com/usa/",
+      "description": "There is not enough timely, brand\u2011specific review data in the provided search results to confidently identify active 2026 agency reviews for the sectors you listed. The results focus on \u201ctop agencies\u201d and general guidance, not current pitches or reviews, and none of them document live 2026 brand reviews, budgets, or timelines. Below is what can be said reliably from the available material, followed by why it does not satisfy your specific request",
+      "first_seen": "2026-08-07"
+    },
+    {
+      "id": "2f8edbe52e305378",
+      "type": "perplexity",
+      "title": "RFP 2026-070 U.S. Marketing Agency of Record",
+      "issuer": "of Record** on IonWave, listed as due **July 28, 2026**",
+      "posted": "2026-08-07",
+      "deadline": "",
+      "url": "https://www.xleagle.com/opportunity/rfp-u-s-marketing-agency-of-record-for-lcvb--sheet-739ec3c2edfca436",
+      "source_domain": "https://www.xleagle.com/opportunity/rfp-u-s-marketing-agency-of-record-for-lcvb--sheet-739ec3c2edfca436",
+      "description": "I can\u2019t reliably complete this request from the results provided alone because they are dominated by directories, expired notices, and generic guides, not a clean set of active 2026 agency-search RFPs with enough source detail to verify each opportunity. The one clearly active 2026 public-sector marketing RFP in the results is RFP 2026-070 U.S. Marketing Agency of Record on IonWave, listed as due July 28, 2026.",
+      "first_seen": "2026-08-07"
+    },
     {
       "id": "c7aa4c4c3f1a3340",
       "type": "perplexity",
@@ -74,6 +98,18 @@
       "first_seen": "2026-08-05"
     },
     {
+      "id": "b8735ade780f5e85",
+      "type": "perplexity",
+      "title": "active 2026 US state or local",
+      "issuer": "of Treasury marketing and advertising services solicitation",
+      "posted": "2026-08-07",
+      "deadline": "",
+      "url": "https://www.bidnetdirect.com/solicitations/open-bids",
+      "source_domain": "https://www.bidnetdirect.com/solicitations/open-bids",
+      "description": "I could not verify any active 2026 US state or local advertising, marketing, or creative-services RFPs from the provided search results that clearly meet your criteria and include direct posting links. The results are dominated by federal items, third-party aggregators, expired notices, or general search portals rather than confirmed active state/local procurements posted in 2026. What I could confirm from the results is that some portals do surf",
+      "first_seen": "2026-08-04"
+    },
+    {
       "id": "de5b1f44b6b9470b",
       "type": "perplexity",
       "title": "Notes on Scope and Exclusions",
@@ -95,18 +131,6 @@
       "url": "https://www.gaming.nv.gov/about-us/industry-notices/",
       "source_domain": "https://www.gaming.nv.gov/about-us/industry-notices/",
       "description": "Notes on Casino/Gaming, Retail, CPG, and Tourism/Convention/Sports Commissions - Casino / private gaming brands: - Public, open RFPs from US casinos in 2026 are not showing up in general search; most casino/gaming marketing agency searches (e.g., regional casino resorts, Vegas properties) are either handled via direct email intake (\u201csend us your credentials\u201d) or invite\u2011only pitches. For example, Live! Casino Hotel Philadelphia lists RFP and adver",
-      "first_seen": "2026-08-04"
-    },
-    {
-      "id": "b8735ade780f5e85",
-      "type": "perplexity",
-      "title": "Notes on BidNet, DemandStar, and State Portals",
-      "issuer": "See source",
-      "posted": "2026-08-04",
-      "deadline": "",
-      "url": "https://www.bidnetdirect.com/solicitations/open-bids",
-      "source_domain": "https://www.bidnetdirect.com/solicitations/open-bids",
-      "description": "Notes on BidNet, DemandStar, and State Portals - BidNet Direct\u2019s \u201cOpen Solicitations\u201d page shows current state and local bids but requires filter/search by categories like Advertising, Marketing, Public Relations, and by date; individual RFP pages are behind the portal and typically require registration to view the full posting and direct agency URL. - Many state procurement portals and DemandStar listings similarly gate detailed RFP information",
       "first_seen": "2026-08-04"
     },
     {
@@ -359,18 +383,6 @@
       "url": "https://www.instantmarkets.com/q/Advertising",
       "source_domain": "https://www.instantmarkets.com/q/Advertising",
       "description": "Palm Beach County Transit Advertising \u2013 Advertising Services (Transit / Local Government; Tourism Adjacent) - Issuing organization: Palm Beach County (Purchasing Department), via an advertising RFP aggregator. - Sector / category: Transit advertising services for a county transit authority; supports local tourism and economic activity. - What is being sought: Transit advertising services involving pressure\u2011sensitive adhesive decals and interior/e",
-      "first_seen": "2026-08-01"
-    },
-    {
-      "id": "0c448d6da53feac6",
-      "type": "perplexity",
-      "title": "Federal \u2013 NHTSA National Communications Marketing Media Support",
-      "issuer": "** National Highway Traffic Safety Administration (NHTSA), U",
-      "posted": "2026-08-05",
-      "deadline": "",
-      "url": "https://www.gdicwins.com/resources/active-federal-rfps/",
-      "source_domain": "https://www.gdicwins.com/resources/active-federal-rfps/",
-      "description": "Federal \u2013 NHTSA National Communications Marketing Media Support - Issuing organization: National Highway Traffic Safety Administration (NHTSA), U.S. Department of Transportation - What is being sought: National communications marketing and media support services (strategic communications, campaign development, media planning/buying to support NHTSA\u2019s safety initiatives) - RFP title: \u201cNHTSA National Communications Marketing Media Support\u201d - Deadli",
       "first_seen": "2026-08-01"
     },
     {
@@ -833,12 +845,12 @@
       "id": "e247c5c09f806bbd",
       "type": "brand_lead",
       "title": "In Review, June 2026: Headline highlights from Boots, Sephora, Charlotte Tilbury and more...",
-      "issuer": "theindustry.beauty",
+      "issuer": "TheIndustry.beauty",
       "posted": "2026-07-01",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb01aZ2FLZmpnM2wteWtISGhHNDIyMm0wVmxYb2FEQWF6bWVkUUJVdVo0eXdvSm1RcEF1MWk4b2MxYTE4T1AtMFludmJsbm9jeDNjMWFDS0pNRHNKbENpMm50ZDV1bVJMNFcyQ19Yd2hfRDlGcmRMdkE0TmFJRnlLWnAtSUdfdE5PdUhiUHRtVFdTQWpLaVFMRkZKNUl5dXE1QTBxUmJUdUN6ZDRlR1BFcTk4dw?oc=5",
       "source_domain": "https://theindustry.beauty",
-      "description": "In Review, June 2026: Headline highlights from Boots, Sephora, Charlotte Tilbury and more... theindustry.beauty",
+      "description": "In Review, June 2026: Headline highlights from Boots, Sephora, Charlotte Tilbury and more... TheIndustry.beauty",
       "first_seen": "2026-07-26"
     },
     {
@@ -868,13 +880,13 @@
     {
       "id": "bbb26e42d23d58e6",
       "type": "perplexity",
-      "title": "UConn (University of Connecticut) \u2013 Bid Opportunities Page (Context only, not clearly marketing)",
+      "title": "that were issued in",
       "issuer": "See source",
-      "posted": "2026-07-25",
+      "posted": "2026-08-07",
       "deadline": "",
       "url": "https://purchasing.procurement.uconn.edu/home-2/bid-opportunities-2020/",
       "source_domain": "https://purchasing.procurement.uconn.edu/home-2/bid-opportunities-2020/",
-      "description": "UConn (University of Connecticut) \u2013 Bid Opportunities Page (Context only, not clearly marketing) UConn\u2019s 2026 bid\u2011opportunities page confirms that it is posting 2026 RFPs, but the specific entry visible (\u201cTB062326 \u2013 Open 6/23/2026\u201d) does not display an advertising/marketing/creative scope in the public snippet, and details require log\u2011in. I am therefore not treating it as a confirmed marketing/advertising RFP for your purposes, but noting it in c",
+      "description": "There are very few searchable advertising/marketing-specific government RFPs still open that were issued in May 2026; most May 2026 solicitations have June\u2013July deadlines and are now expired. Below are opportunities that (1) are in the broad communications/marketing space, (2) are in the US public sector, and (3) were posted in May 2026 but still appear open in the sources. For each, I\u2019m using the best available information from the aggregators a",
       "first_seen": "2026-07-25"
     },
     {
@@ -1022,6 +1034,18 @@
       "first_seen": "2026-07-24"
     },
     {
+      "id": "e9f48816244d5b66",
+      "type": "perplexity",
+      "title": "Federal \u2013 NHTSA National Communications Marketing Media Support",
+      "issuer": "** National Highway Traffic Safety Administration (NHTSA), U",
+      "posted": "2026-08-07",
+      "deadline": "",
+      "url": "https://www.govcb.com/",
+      "source_domain": "https://www.govcb.com/",
+      "description": "Federal \u2013 NHTSA National Communications Marketing Media Support - Organization: National Highway Traffic Safety Administration (NHTSA), U.S. Department of Transportation - RFP title: \u201cNational Communications Marketing Media Support\u201d - What is being sought: NHTSA is seeking a contractor to provide national communications and marketing media support, including campaign strategy, media planning and buying, creative support, and related services for",
+      "first_seen": "2026-07-24"
+    },
+    {
       "id": "186b7b52dac13ca3",
       "type": "perplexity",
       "title": "Federal (SAM.gov):",
@@ -1055,18 +1079,6 @@
       "url": "https://www.callcenterrfp.com/1139582-usa-arizona-creative-and-graphic-design-services-rfp.html",
       "source_domain": "https://www.callcenterrfp.com/1139582-usa-arizona-creative-and-graphic-design-services-rfp.html",
       "description": "Arizona \u2013 Creative and Graphic Design Services (ANIM\u20119268) - Issuing organization: Government authority located in Arizona (USA), seeking creative services. - What is being sought: Creative and graphic design services, categorized under graphics and animation, marketing and branding, social media, internet marketing and SEO, and related digital content. - Deadline: - Posted: July 7, 2026. - Expiry / proposal deadline: July 17, 2026. - Estimated v",
-      "first_seen": "2026-07-24"
-    },
-    {
-      "id": "e9f48816244d5b66",
-      "type": "perplexity",
-      "title": "3. University marketing, state tourism, lottery, city/county communications",
-      "issuer": "See source",
-      "posted": "2026-08-04",
-      "deadline": "",
-      "url": "https://www.govcb.com/",
-      "source_domain": "https://www.govcb.com/",
-      "description": "3. University marketing, state tourism, lottery, city/county communications Within the snippets returned, there are no specific 2026 university marketing, state lottery advertising, or city/county communications RFPs that: - Are definitively identified as advertising/marketing; - Have visible metadata showing they were open in May 2026; - Have not yet expired; - Include title, deadline, value, and URL. Most of the general search/aggregator result",
       "first_seen": "2026-07-24"
     },
     {
