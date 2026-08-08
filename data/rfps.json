@@ -30,11 +30,11 @@
       "type": "perplexity",
       "title": "RFP 2026-070 U.S. Marketing Agency of Record",
       "issuer": "of Record",
-      "posted": "2026-08-07",
+      "posted": "2026-08-08",
       "deadline": "",
       "url": "https://www.xleagle.com/opportunity/rfp-u-s-marketing-agency-of-record-for-lcvb--sheet-739ec3c2edfca436",
       "source_domain": "https://www.xleagle.com/opportunity/rfp-u-s-marketing-agency-of-record-for-lcvb--sheet-739ec3c2edfca436",
-      "description": "RFP 2026-070 U.S. Marketing Agency of Record - Issuing organization: LCVB (local convention and visitors bureau), via IonWave. - What is being sought: A U.S. marketing agency of record. - Deadline: July 28, 2026. - Estimated value: Not stated in the result. - Source URL: `https://www.xleagle.com/opportunity/rfp-u-s-marketing-agency-of-record-for-lcvb--sheet-739ec3c2edfca436`",
+      "description": "RFP 2026-070 U.S. Marketing Agency of Record - Issuing organization: LCVB / tourism-related public entity, posted on IonWave via XL Eagle - What is being sought: U.S. Marketing Agency of Record - Deadline: July 28, 2026 - Estimated value: Not stated in the result provided - Source URL: https://www.xleagle.com/opportunity/rfp-u-s-marketing-agency-of-record-for-lcvb--sheet-739ec3c2edfca436",
       "first_seen": "2026-08-07"
     },
     {
@@ -62,6 +62,30 @@
       "first_seen": "2026-08-06"
     },
     {
+      "id": "e7a761543c147048",
+      "type": "perplexity",
+      "title": "active May 2026",
+      "issuer": "See source",
+      "posted": "2026-08-08",
+      "deadline": "",
+      "url": "https://www.powderspringsga.gov/507/Bid-Information",
+      "source_domain": "https://www.powderspringsga.gov/507/Bid-Information",
+      "description": "I can\u2019t reliably list active May 2026 US government advertising/marketing RFPs from the results provided, because the search results do not include a usable set of May 2026 solicitations with deadlines, values, and direct application URLs. The results are mostly directory pages, generic RFP aggregators, or opportunities dated outside May 2026, so any specific list would risk inventing details. What I can confirm from the available sources is that",
+      "first_seen": "2026-08-05"
+    },
+    {
+      "id": "d88c7b5acafc46cd",
+      "type": "perplexity",
+      "title": "active 2026 state/local marketing solicitation",
+      "issuer": "See source",
+      "posted": "2026-08-08",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
+      "source_domain": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
+      "description": "I found one clearly relevant active 2026 state/local marketing solicitation in the supplied results, but the results are too sparse to verify additional BidNet or DemandStar postings without more portal-specific search output. The strongest match is a Michigan state procurement for marketing and advertising services with an estimated value of $10.8 million.",
+      "first_seen": "2026-08-05"
+    },
+    {
       "id": "4f42276167665c8d",
       "type": "perplexity",
       "title": "Where to Look Next (Methodological Pointers)",
@@ -71,18 +95,6 @@
       "url": "https://www.nyscr.ny.gov/Ads/Search",
       "source_domain": "https://www.nyscr.ny.gov/Ads/Search",
       "description": "Where to Look Next (Methodological Pointers) Since you are a procurement researcher, the most efficient paths to expand beyond the items above would be: - State & local procurement portals for tourism/economic development entities Example: New York State Contracting Opportunities portal lists numerous advertising/marketing\u2011service solicitations when filters are applied for tourism, marketing, and economic development agencies. URL: `https://www.n",
-      "first_seen": "2026-08-05"
-    },
-    {
-      "id": "e7a761543c147048",
-      "type": "perplexity",
-      "title": "There are **no government advertising/marketing RFPs that were still open *during May 2026*** in the current result set;",
-      "issuer": "See source",
-      "posted": "2026-08-05",
-      "deadline": "",
-      "url": "https://www.powderspringsga.gov/507/Bid-Information",
-      "source_domain": "https://www.powderspringsga.gov/507/Bid-Information",
-      "description": "There are no government advertising/marketing RFPs that were still open during May 2026 in the current result set; everything identifiable either closed in or before May 2026 or is listed generically without the detail needed to confirm May-open status. Based on the available data, I cannot reliably list specific May\u20112026\u2011open US opportunities that match your criteria. Below is what can be established from the current sources and why it does not*",
       "first_seen": "2026-08-05"
     },
     {
@@ -98,27 +110,15 @@
       "first_seen": "2026-08-05"
     },
     {
-      "id": "d88c7b5acafc46cd",
-      "type": "perplexity",
-      "title": "2026 active-opportunity search",
-      "issuer": "See source",
-      "posted": "2026-08-08",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
-      "source_domain": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
-      "description": "I can\u2019t reliably complete the requested 2026 active-opportunity search from the provided results alone, because the search set does not include actual BidNet, DemandStar, or state/local procurement portal postings for open advertising/marketing/creative RFPs in 2026, and several results are unrelated, expired, federal, or third-party aggregators rather than the underlying procurement notices. What I can confirm from the results is: - A Michigan s",
-      "first_seen": "2026-08-05"
-    },
-    {
       "id": "101b7517f064f066",
       "type": "perplexity",
-      "title": "which major US brands are currently in review/pitch/search processes in 2026",
-      "issuer": "directories and rankings*, not live reporting on **which maj",
-      "posted": "2026-08-07",
+      "title": "active, open 2026 agency reviews or pitches by major US brands",
+      "issuer": "reviews or pitches by major US brands** from the provided se",
+      "posted": "2026-08-08",
       "deadline": "",
       "url": "https://joinbrands.com/blog/top-us-ad-agencies/",
       "source_domain": "https://joinbrands.com/blog/top-us-ad-agencies/",
-      "description": "I can\u2019t reliably answer this from the provided search results alone because the results are agency directories and rankings, not live reporting on which major US brands are currently in review/pitch/search processes in 2026. None of the supplied sources identify active brand-specific reviews, timelines, budgets, or source URLs for those reviews, so I would risk inventing facts if I listed brands. What I can confirm from the results is that they d",
+      "description": "I could not verify any active, open 2026 agency reviews or pitches by major US brands from the provided search results. The results you supplied are mostly agency ranking/list articles and do not document specific brand-led review processes, timelines, or budgets. If you want, I can still help in one of two ways: - Build a verified tracker of current 2026 brand reviews by sector, but I would need search results that include actual pitch/review co",
       "first_seen": "2026-08-04"
     },
     {
@@ -146,18 +146,6 @@
       "first_seen": "2026-08-04"
     },
     {
-      "id": "e983caa428c5e3c2",
-      "type": "perplexity",
-      "title": "Notes on Casino/Gaming, Retail, CPG, and Tourism/Convention/Sports Commissions",
-      "issuer": "searches (e",
-      "posted": "2026-08-04",
-      "deadline": "",
-      "url": "https://www.gaming.nv.gov/about-us/industry-notices/",
-      "source_domain": "https://www.gaming.nv.gov/about-us/industry-notices/",
-      "description": "Notes on Casino/Gaming, Retail, CPG, and Tourism/Convention/Sports Commissions - Casino / private gaming brands: - Public, open RFPs from US casinos in 2026 are not showing up in general search; most casino/gaming marketing agency searches (e.g., regional casino resorts, Vegas properties) are either handled via direct email intake (\u201csend us your credentials\u201d) or invite\u2011only pitches. For example, Live! Casino Hotel Philadelphia lists RFP and adver",
-      "first_seen": "2026-08-04"
-    },
-    {
       "id": "d642c0eee58b1f38",
       "type": "perplexity",
       "title": "Context on Casino/Gaming, Food/Beverage, Retail, and Consumer Goods Brand\u2011Issued Agency Searches (2026)",
@@ -179,6 +167,18 @@
       "url": "https://www.facebook.com/RFPMart/posts/a-government-authority-located-in-california-is-looking-for-a-vendor-for-public-/1466975582116453/",
       "source_domain": "https://www.facebook.com/RFPMart/posts/a-government-authority-located-in-california-is-looking-for-a-vendor-for-public-/1466975582116453/",
       "description": "California \u2013 Public Relations and Social Media Services Issuing organization: A government authority located in California (agency not named in snippet), likely a city, county, or special district What is being sought: Public relations and social media services Type of entity: Local government (California) Deadline: July 31, 2026 Estimated value: Not stated in snippet Direct link to posting: - RFPMart listing: \u201cUSA-California Public Relations and",
+      "first_seen": "2026-08-04"
+    },
+    {
+      "id": "e983caa428c5e3c2",
+      "type": "perplexity",
+      "title": "Additional relevant source pages to monitor",
+      "issuer": "search",
+      "posted": "2026-08-08",
+      "deadline": "",
+      "url": "https://www.gaming.nv.gov/about-us/industry-notices/",
+      "source_domain": "https://www.gaming.nv.gov/about-us/industry-notices/",
+      "description": "Additional relevant source pages to monitor - Live! Casino & Hotel Louisiana / Live! Casino hotel media center \u2014 shows advertising and promotional contact pathways, but the result does not show an active RFP or agency search - Nevada Gaming Control Board industry notices \u2014 regulatory notices, not advertising/marketing RFPs - Eilers & Krejcik Gaming reports \u2014 research/reporting page, not an RFP source I did not find enough verifiable evidence in t",
       "first_seen": "2026-08-04"
     },
     {
@@ -857,12 +857,12 @@
       "id": "e247c5c09f806bbd",
       "type": "brand_lead",
       "title": "In Review, June 2026: Headline highlights from Boots, Sephora, Charlotte Tilbury and more...",
-      "issuer": "theindustry.beauty",
+      "issuer": "TheIndustry.beauty",
       "posted": "2026-07-01",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb01aZ2FLZmpnM2wteWtISGhHNDIyMm0wVmxYb2FEQWF6bWVkUUJVdVo0eXdvSm1RcEF1MWk4b2MxYTE4T1AtMFludmJsbm9jeDNjMWFDS0pNRHNKbENpMm50ZDV1bVJMNFcyQ19Yd2hfRDlGcmRMdkE0TmFJRnlLWnAtSUdfdE5PdUhiUHRtVFdTQWpLaVFMRkZKNUl5dXE1QTBxUmJUdUN6ZDRlR1BFcTk4dw?oc=5",
       "source_domain": "https://theindustry.beauty",
-      "description": "In Review, June 2026: Headline highlights from Boots, Sephora, Charlotte Tilbury and more... theindustry.beauty",
+      "description": "In Review, June 2026: Headline highlights from Boots, Sephora, Charlotte Tilbury and more... TheIndustry.beauty",
       "first_seen": "2026-07-26"
     },
     {
@@ -959,18 +959,6 @@
       "url": "https://vidico.com/news/creative-advertising-agencies/",
       "source_domain": "https://vidico.com/news/creative-advertising-agencies/",
       "description": "A search of recent industry and news sources does not surface any reliable, up\u2011to\u2011date lists of specific major US brands currently in live agency reviews, media pitches, or creative searches in 2026 across the sectors you listed. Most available 2026 content focuses on agency rankings and buyer guides, not brand-side RFPs or reviews. Because of that, I cannot credibly name specific brands with active reviews right now, nor provide accurate timelin",
-      "first_seen": "2026-07-24"
-    },
-    {
-      "id": "f3d71f90b6064e0a",
-      "type": "perplexity",
-      "title": "active May 2026 US advertising/marketing RFPs",
-      "issuer": "See source",
-      "posted": "2026-08-07",
-      "deadline": "",
-      "url": "https://www.governmentrfps.com/social-media-internet-marketing-and-seo-rfp-government-contract.html",
-      "source_domain": "https://www.governmentrfps.com/social-media-internet-marketing-and-seo-rfp-government-contract.html",
-      "description": "I couldn\u2019t reliably identify active May 2026 US advertising/marketing RFPs from the provided results alone. The results include some live bid aggregators and a few marketing-related federal notices, but they do not provide enough source detail to confirm the specific opportunities you asked for across SAM.gov, state lottery, state tourism, university, transit, city, and county categories. What I can confirm from the search results is: - A federal",
       "first_seen": "2026-07-24"
     },
     {
@@ -1091,6 +1079,18 @@
       "url": "https://www.callcenterrfp.com/1139582-usa-arizona-creative-and-graphic-design-services-rfp.html",
       "source_domain": "https://www.callcenterrfp.com/1139582-usa-arizona-creative-and-graphic-design-services-rfp.html",
       "description": "Arizona \u2013 Creative and Graphic Design Services (ANIM\u20119268) - Issuing organization: Government authority located in Arizona (USA), seeking creative services. - What is being sought: Creative and graphic design services, categorized under graphics and animation, marketing and branding, social media, internet marketing and SEO, and related digital content. - Deadline: - Posted: July 7, 2026. - Expiry / proposal deadline: July 17, 2026. - Estimated v",
+      "first_seen": "2026-07-24"
+    },
+    {
+      "id": "f3d71f90b6064e0a",
+      "type": "perplexity",
+      "title": "Additional active 2026 candidates surfaced in the results",
+      "issuer": "\u2014 Marketing and Advertising Company Service** in New York, d",
+      "posted": "2026-08-08",
+      "deadline": "",
+      "url": "https://www.governmentrfps.com/social-media-internet-marketing-and-seo-rfp-government-contract.html",
+      "source_domain": "https://www.governmentrfps.com/social-media-internet-marketing-and-seo-rfp-government-contract.html",
+      "description": "Additional active 2026 candidates surfaced in the results - Unknown state/local agency \u2014 Marketing and Advertising Company Service in New York, deadline August 7, 2026. - Unknown state/local agency \u2014 Comprehensive Advertising Services in Pennsylvania, deadline August 4, 2026. - Unknown state/local agency \u2014 Integrated Digital Platform and Website Modernization Services Using CMS in Colorado, deadline August 3, 2026. - Unknown state/local agency \u2014",
       "first_seen": "2026-07-24"
     },
     {
