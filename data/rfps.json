@@ -98,18 +98,6 @@
       "first_seen": "2026-08-05"
     },
     {
-      "id": "d88c7b5acafc46cd",
-      "type": "perplexity",
-      "title": "active 2026 state/local marketing solicitation",
-      "issuer": "See source",
-      "posted": "2026-08-08",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
-      "source_domain": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
-      "description": "I found one clearly relevant active 2026 state/local marketing solicitation in the supplied results, but the results are too sparse to verify additional BidNet or DemandStar postings without more portal-specific search output. The strongest match is a Michigan state procurement for marketing and advertising services with an estimated value of $10.8 million.",
-      "first_seen": "2026-08-05"
-    },
-    {
       "id": "4f42276167665c8d",
       "type": "perplexity",
       "title": "Where to Look Next (Methodological Pointers)",
@@ -124,13 +112,25 @@
     {
       "id": "ce2be550f73ded6f",
       "type": "perplexity",
-      "title": "Miami-Dade County, Florida \u2014 Marketing and Public Relations Services",
-      "issuer": "** Miami-Dade County Strategic Procurement / Department of C",
+      "title": "Marketing and Public Relations Services",
+      "issuer": "** Miami-Dade County, Strategic Procurement Office, supporti",
       "posted": "2026-08-09",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/marketing-and-public-relations-services-3",
       "source_domain": "https://starbridge.ai/rfp/marketing-and-public-relations-services-3",
-      "description": "Miami-Dade County, Florida \u2014 Marketing and Public Relations Services - Issuing organization: Miami-Dade County Strategic Procurement / Department of Cultural Affairs - What is being sought: Marketing, advertising, media, public relations, digital campaigns, creative production, media relations, publicity, community engagement, and crisis communications - Deadline: August 20, 2026, 2:00 PM ET - Estimated value: Not provided in the result - Direct",
+      "description": "Marketing and Public Relations Services - Issuing organization: Miami-Dade County, Strategic Procurement Office, supporting the Department of Cultural Affairs - What is being sought: Marketing, advertising, media, public relations, creative production, media relations, publicity, community engagement, and crisis communications services - Deadline: August 20, 2026 at 2:00 PM Eastern Time - Estimated value: Not stated in the supplied result - Direc",
+      "first_seen": "2026-08-05"
+    },
+    {
+      "id": "d88c7b5acafc46cd",
+      "type": "perplexity",
+      "title": "Marketing and Advertising Services",
+      "issuer": "** Michigan Department of Treasury, for the Michigan Educati",
+      "posted": "2026-08-09",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
+      "source_domain": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
+      "description": "Marketing and Advertising Services - Issuing organization: Michigan Department of Treasury, for the Michigan Education Trust (MET) and Michigan Achieving a Better Life Experience (MiABLE) programs - What is being sought: A comprehensive marketing and advertising strategy including communications planning, market research, advertising materials, media placement, accessible deliverables, and Section 508 compliance - Deadline: Open from July 22, 202",
       "first_seen": "2026-08-05"
     },
     {
@@ -293,12 +293,12 @@
       "id": "2684442b89636022",
       "type": "brand_lead",
       "title": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released",
-      "issuer": "Help Net Security",
+      "issuer": "helpnetsecurity.com",
       "posted": "2026-08-02",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdktnNGVJbXl5N21kTGZpWXhlTHRWRlBGXzhheGYydjFvQklXckxTcHNHRlJyblg3bVRweGNGdmhPaG1NSnNPVnl0ZGhlb1JFQUg2ckdSNVRUS29Jb1BfN2lndlJxZHNLdU5XTVF6d0w5R2F4aTJQY1VyYUhidVdMYWpoeU94YTlQTjFvcWVOYlZkaE9xSGJBWTAwVFg3dWR6eG5EOUJpaUtUclJtQW0wWjR1M1RRSWtXMmN5SE5qeWV6Vl9XTlNaZ3JnbjE4bDE2TW0wTg?oc=5",
       "source_domain": "https://www.helpnetsecurity.com",
-      "description": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released Help Net Security",
+      "description": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released helpnetsecurity.com",
       "first_seen": "2026-08-02"
     },
     {
@@ -530,6 +530,18 @@
       "first_seen": "2026-07-31"
     },
     {
+      "id": "556d2a251a9d8b46",
+      "type": "perplexity",
+      "title": "one clearly active 2026 public-sector advertising/marketing RFP",
+      "issuer": "See source",
+      "posted": "2026-08-09",
+      "deadline": "",
+      "url": "https://discover.govdash.com/solicitations/019f4c99-01a6-74f7-b66f-ff03c192b191--experiential-marketing",
+      "source_domain": "https://discover.govdash.com/solicitations/019f4c99-01a6-74f7-b66f-ff03c192b191--experiential-marketing",
+      "description": "I found one clearly active 2026 public-sector advertising/marketing RFP in the supplied results, plus several sources that indicate possible leads but do not themselves prove an open RFP from a US brand in the target industries.",
+      "first_seen": "2026-07-30"
+    },
+    {
       "id": "1010987089dfd218",
       "type": "perplexity",
       "title": "no longer any active US government advertising or marketing RFPs that were still open in May 2026",
@@ -539,18 +551,6 @@
       "url": "https://www.douglascountynv.gov/rfp-bids",
       "source_domain": "https://www.douglascountynv.gov/rfp-bids",
       "description": "There are no longer any active US government advertising or marketing RFPs that were still open in May 2026 and remain open as of late July 2026; solicitations with May 2026 deadlines have already closed, and current bid portals list only newer opportunities with June/July 2026 due dates. Because your query is historically anchored to \u201copen in May 2026\u201d but you are searching now in late July, everything that legitimately closed in May is expired",
-      "first_seen": "2026-07-30"
-    },
-    {
-      "id": "556d2a251a9d8b46",
-      "type": "perplexity",
-      "title": "Virginia Lottery \u2013 Experiential Marketing Agency (Public Sector / Gaming)",
-      "issuer": "(Public Sector / Gaming)",
-      "posted": "2026-08-04",
-      "deadline": "",
-      "url": "https://discover.govdash.com/solicitations/019f4c99-01a6-74f7-b66f-ff03c192b191--experiential-marketing",
-      "source_domain": "https://discover.govdash.com/solicitations/019f4c99-01a6-74f7-b66f-ff03c192b191--experiential-marketing",
-      "description": "Virginia Lottery \u2013 Experiential Marketing Agency (Public Sector / Gaming) - Issuing organization: Virginia State Lottery - What is being sought: An experiential marketing agency to develop and execute immersive, interactive campaigns to strengthen consumer connection to the Virginia Lottery brand. - Industry: Lottery gaming (public sector), fits your gaming/casino category from a procurement standpoint. - Deadline: Proposals due July 23, 2026 at",
       "first_seen": "2026-07-30"
     },
     {
@@ -710,6 +710,18 @@
       "first_seen": "2026-07-28"
     },
     {
+      "id": "4f5d3d141f3a2103",
+      "type": "perplexity",
+      "title": "two active 2026 US state/local government advertising or marketing solicitations",
+      "issuer": "See source",
+      "posted": "2026-08-09",
+      "deadline": "",
+      "url": "https://rfpplanet.com/mktg-2474/marketing-and-advertising-services",
+      "source_domain": "https://rfpplanet.com/mktg-2474/marketing-and-advertising-services",
+      "description": "I found two active 2026 US state/local government advertising or marketing solicitations in the supplied results that are still open or not yet expired, with direct posting links included below. The other results shown are expired, sole-source notices, or third-party summary pages rather than clearly active open RFP postings.",
+      "first_seen": "2026-07-27"
+    },
+    {
       "id": "5be5271b10926542",
       "type": "perplexity",
       "title": "active U.S. government advertising/marketing RFPs open in May 2026",
@@ -779,18 +791,6 @@
       "url": "https://www.websitedesignrfp.com/marketing-and-branding-rfp-government-contract.html",
       "source_domain": "https://www.websitedesignrfp.com/marketing-and-branding-rfp-government-contract.html",
       "description": "State & Local Radio / Marketing & Advertising Services (Public Sector \u2013 Various; 2026) This listing aggregates several US state/local advertising/marketing procurements for 2026. Details are limited without downloading, but they are active 2026 RFPs for marketing/advertising services. - Issuing organizations: - Georgia \u2013 radio advertising services (exact issuing agency not shown in the snippet). - Texas \u2013 marketing and advertising services (exact",
-      "first_seen": "2026-07-27"
-    },
-    {
-      "id": "4f5d3d141f3a2103",
-      "type": "perplexity",
-      "title": "Michigan \u2013 Marketing and Advertising Services (MKTG-2474)",
-      "issuer": "** A **Michigan state department**, with work listed as \u201cGov",
-      "posted": "2026-08-05",
-      "deadline": "",
-      "url": "https://rfpplanet.com/mktg-2474/marketing-and-advertising-services",
-      "source_domain": "https://rfpplanet.com/mktg-2474/marketing-and-advertising-services",
-      "description": "Michigan \u2013 Marketing and Advertising Services (MKTG-2474) - Issuing organization: A Michigan state department, with work listed as \u201cGovernment \u2013 USA (Michigan)\u201d in the summary. - What is being sought: Full-scope marketing and advertising services through FY2031, including: - Research, insights, strategy - Integrated communications planning - Media planning/placement/optimization - Creative and content development - Stakeholder communications and",
       "first_seen": "2026-07-27"
     },
     {
@@ -881,12 +881,12 @@
       "id": "e247c5c09f806bbd",
       "type": "brand_lead",
       "title": "In Review, June 2026: Headline highlights from Boots, Sephora, Charlotte Tilbury and more...",
-      "issuer": "TheIndustry.beauty",
+      "issuer": "theindustry.beauty",
       "posted": "2026-07-01",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb01aZ2FLZmpnM2wteWtISGhHNDIyMm0wVmxYb2FEQWF6bWVkUUJVdVo0eXdvSm1RcEF1MWk4b2MxYTE4T1AtMFludmJsbm9jeDNjMWFDS0pNRHNKbENpMm50ZDV1bVJMNFcyQ19Yd2hfRDlGcmRMdkE0TmFJRnlLWnAtSUdfdE5PdUhiUHRtVFdTQWpLaVFMRkZKNUl5dXE1QTBxUmJUdUN6ZDRlR1BFcTk4dw?oc=5",
       "source_domain": "https://theindustry.beauty",
-      "description": "In Review, June 2026: Headline highlights from Boots, Sephora, Charlotte Tilbury and more... TheIndustry.beauty",
+      "description": "In Review, June 2026: Headline highlights from Boots, Sephora, Charlotte Tilbury and more... theindustry.beauty",
       "first_seen": "2026-07-26"
     },
     {
@@ -1202,6 +1202,18 @@
       "first_seen": "2026-07-23"
     },
     {
+      "id": "e07ae3f6535b0de0",
+      "type": "perplexity",
+      "title": "Notes on the rest of the request",
+      "issuer": "search** from a **US casino/gaming, food/beverage, retail, o",
+      "posted": "2026-08-09",
+      "deadline": "",
+      "url": "https://www.governmentrfps.com/marketing-and-branding-rfp-government-contract.html",
+      "source_domain": "https://www.governmentrfps.com/marketing-and-branding-rfp-government-contract.html",
+      "description": "Notes on the rest of the request - I did not find enough evidence in the provided results to verify an active, open 2026 agency search from a US casino/gaming, food/beverage, retail, or consumer goods brand. - The Hasbro/Evolution item is a partnership announcement, not an agency RFP. - The Live! Casino media page lists advertising/promotional inquiries and RFP forms, but it does not show an open 2026 agency search in the result itself. - The oth",
+      "first_seen": "2026-07-23"
+    },
+    {
       "id": "b26a4b63b83611e8",
       "type": "perplexity",
       "title": "May 2026",
@@ -1211,18 +1223,6 @@
       "url": "https://sam.gov/opportunities",
       "source_domain": "https://sam.gov/opportunities",
       "description": "I couldn\u2019t verify any May 2026-open U.S. government advertising or marketing RFPs from the search results you provided, and several of the sources are either general bid portals or point to postings outside May 2026. What I can confirm from the results is that: - SAM.gov is the federal contract portal to search for active opportunities, including solicitations and pre-solicitations. - The other results are mostly aggregators or unrelated pages, n",
-      "first_seen": "2026-07-23"
-    },
-    {
-      "id": "e07ae3f6535b0de0",
-      "type": "perplexity",
-      "title": "Marketing and Advertising Company Service \u2014 New York",
-      "issuer": "** Not fully identified in the result; listed as New York op",
-      "posted": "2026-07-23",
-      "deadline": "",
-      "url": "https://www.governmentrfps.com/marketing-and-branding-rfp-government-contract.html",
-      "source_domain": "https://www.governmentrfps.com/marketing-and-branding-rfp-government-contract.html",
-      "description": "Marketing and Advertising Company Service \u2014 New York - Issuing organization: Not fully identified in the result; listed as New York opportunity - What is being sought: Marketing and advertising company services - Deadline: August 7, 2026 - Estimated value: Not stated in the result - Direct link: https://www.governmentrfps.com/marketing-and-branding-rfp-government-contract.html",
       "first_seen": "2026-07-23"
     },
     {
