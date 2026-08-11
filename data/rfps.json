@@ -2,6 +2,18 @@
   "generated": "2026-08-11",
   "rfps": [
     {
+      "id": "dd1b9f53dcb0eccd",
+      "type": "perplexity",
+      "title": "active U.S. government advertising or marketing RFPs open in May 2026",
+      "issuer": "of Treasury had a marketing and advertising services opportu",
+      "posted": "2026-08-11",
+      "deadline": "",
+      "url": "https://www.governmentcontracts.us/government-contracts/?searchText",
+      "source_domain": "https://www.governmentcontracts.us/government-contracts/?searchText",
+      "description": "I could not reliably identify any active U.S. government advertising or marketing RFPs open in May 2026 from the search results provided. The results are either general procurement database pages, non-May-2026 opportunities, or unrelated solicitations, and none give a verifiable May 2026 open advertising/marketing opportunity with a direct application URL. What I can confirm from the results is: - SAM.gov / federal: one federal advertising-relate",
+      "first_seen": "2026-08-11"
+    },
+    {
       "id": "3b1293e1f1ee56df",
       "type": "perplexity",
       "title": "Why I\u2019m not listing more opportunities",
@@ -16,25 +28,25 @@
     {
       "id": "af54f1194f4441d0",
       "type": "perplexity",
-      "title": "City of Laredo Convention and Visitors Bureau \u2014 U.S. Marketing Agency of Record",
+      "title": "City of Laredo / Laredo Convention and Visitors Bureau \u2014 U.S. Marketing Agency of Record",
       "issuer": "of Record",
       "posted": "2026-08-11",
       "deadline": "",
       "url": "https://www.highergov.com/sl/contract-opportunity/tx-rfp-u-s-marketing-agency-of-record-fo-71376296/",
       "source_domain": "https://www.highergov.com/sl/contract-opportunity/tx-rfp-u-s-marketing-agency-of-record-fo-71376296/",
-      "description": "City of Laredo Convention and Visitors Bureau \u2014 U.S. Marketing Agency of Record - Issuing organization: City of Laredo, Texas / Laredo Convention and Visitors Bureau. - What is being sought: A U.S. Marketing Agency of Record for the Laredo Convention and Visitors Bureau. - Deadline: August 24, 2026. - Estimated value: Not stated in the available results. - Source URLs: [HigherGov](https://www.highergov.com/sl/contract-opportunity/tx-rfp-u-s-marke",
+      "description": "City of Laredo / Laredo Convention and Visitors Bureau \u2014 U.S. Marketing Agency of Record - Issuing organization: City of Laredo, Texas, for the Laredo Convention and Visitors Bureau (LCVB). - What is being sought: A U.S. Marketing Agency of Record for destination marketing. - Deadline: Aug. 24, 2026. - Estimated value: Not stated in the search results. - Source URLs: - https://starbridge.ai/rfp/rfp-2026-070-u-s-marketing-agency-of-record - https:",
       "first_seen": "2026-08-11"
     },
     {
       "id": "524d127f34396d29",
       "type": "perplexity",
-      "title": "verified watchlist",
-      "issuer": "directory/ranking pages* rather than *current brand-specific",
-      "posted": "2026-08-10",
+      "title": "currently open 2026 agency reviews or searches",
+      "issuer": "reviews or searches** from the search results you provided",
+      "posted": "2026-08-11",
       "deadline": "",
       "url": "https://www.adweek.com/agencies/2026-media-plan-of-the-year-strategies-changing-conversation/",
       "source_domain": "https://www.adweek.com/agencies/2026-media-plan-of-the-year-strategies-changing-conversation/",
-      "description": "I can\u2019t reliably answer this from the results provided, because they are mostly agency directory/ranking pages rather than current brand-specific agency review or pitch announcements. Those pages do not identify which major US brands are actively reviewing agencies in 2026, and they do not provide the required brand-by-brand timelines, budgets, or source URLs for live searches. What I can say from the supplied results is that they surface agencie",
+      "description": "I can\u2019t reliably identify currently open 2026 agency reviews or searches from the search results you provided, because those results are mostly agency lists and ranking articles, not announcements from brands about active pitches or reviews. The provided sources do not substantiate any specific brand-level review, timeline, budget, or source URL for current searches in the sectors you named. What I can confirm from the results is that they are no",
       "first_seen": "2026-08-10"
     },
     {
@@ -65,12 +77,12 @@
       "id": "947f01f951d8be4b",
       "type": "perplexity",
       "title": "City of Chesapeake, Virginia \u2014 Convention & Visitors Bureau Advertising",
-      "issuer": "** City of Chesapeake, Virginia, Department of Parks, Recrea",
+      "issuer": "** **City of Chesapeake**",
       "posted": "2026-08-11",
       "deadline": "",
       "url": "https://publicbidsearch.com/bids/convention-and-visitors-bureau-advertising-agency-city-of-chesapeake-va-e44059",
       "source_domain": "https://publicbidsearch.com/bids/convention-and-visitors-bureau-advertising-agency-city-of-chesapeake-va-e44059",
-      "description": "City of Chesapeake, Virginia \u2014 Convention & Visitors Bureau Advertising - Issuing organization: City of Chesapeake, Virginia, Department of Parks, Recreation and Tourism. - What is being sought: A full-service advertising and marketing agency to serve as the City\u2019s Agency of Record for destination marketing. - Deadline: August 5, 2026, 2:00 PM Eastern Time; the source notes the due date was extended to that date. - Estimated value: Not stated in",
+      "description": "City of Chesapeake, Virginia \u2014 Convention & Visitors Bureau Advertising - Issuing organization: City of Chesapeake. - What is being sought: A full-service advertising and marketing agency to serve as the City\u2019s Agency of Record for destination marketing through the Department of Parks, Recreation and Tourism. - Deadline: Aug. 5, 2026. - Estimated value: Not stated in the search results. - Source URL: - https://publicbidsearch.com/bids/convention-",
       "first_seen": "2026-08-10"
     },
     {
@@ -196,13 +208,13 @@
     {
       "id": "ce2be550f73ded6f",
       "type": "perplexity",
-      "title": "Miami-Dade County, FL \u2014 Marketing and Public Relations Services",
-      "issuer": "** Miami-Dade County Strategic Procurement office, supportin",
+      "title": "Miami-Dade County \u2014 Marketing and Public Relations Services",
+      "issuer": "** Miami-Dade County, Strategic Procurement Office",
       "posted": "2026-08-11",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/marketing-and-public-relations-services-3",
       "source_domain": "https://starbridge.ai/rfp/marketing-and-public-relations-services-3",
-      "description": "Miami-Dade County, FL \u2014 Marketing and Public Relations Services - Issuing organization: Miami-Dade County Strategic Procurement office, supporting the Department of Cultural Affairs - What is being sought: Marketing, advertising, media, and public relations services, including digital campaigns, creative production, media relations, publicity, community engagement, and crisis communications - Deadline: August 20, 2026, 2:00 PM Eastern Time - Esti",
+      "description": "Miami-Dade County \u2014 Marketing and Public Relations Services - Issuing organization: Miami-Dade County, Strategic Procurement Office - What is being sought: Marketing, advertising, media, and public relations services supporting the Department of Cultural Affairs\u2019 facilities and programs, including strategic marketing, digital campaigns, creative production, media relations, publicity, community engagement, and crisis communications - Deadline: Au",
       "first_seen": "2026-08-05"
     },
     {
@@ -292,13 +304,13 @@
     {
       "id": "f30faad5ed7a2827",
       "type": "perplexity",
-      "title": "Capital Area Transit System (CATS), Louisiana \u2014 Bus advertising services",
-      "issuer": "See source",
-      "posted": "2026-08-10",
+      "title": "Capital Area Transit System (CATS) \u2014 Bus Advertising Services",
+      "issuer": "** **Capital Area Transit System (CATS)**",
+      "posted": "2026-08-11",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/advertising-service",
       "source_domain": "https://starbridge.ai/rfp/advertising-service",
-      "description": "Capital Area Transit System (CATS), Louisiana \u2014 Bus advertising services - What\u2019s being sought: Revenue-generating bus advertising services for interiors and exteriors of buses, bus shelters, and benches. - Deadline: Not shown in the search result excerpt. - Estimated value: Not shown in the search result excerpt. - Direct posting: Not provided in the search results; the source is a third-party RFP page summarizing the opportunity.",
+      "description": "Capital Area Transit System (CATS) \u2014 Bus Advertising Services - Issuing organization: Capital Area Transit System (CATS). - What is being sought: Revenue-generating Bus Advertising Services on bus interiors/exteriors, shelters, and benches. - Deadline: The search result indicates the opportunity is open, but the exact deadline is not clearly provided in the snippet. - Estimated value: Not stated in the search results. - Source URL: - https://star",
       "first_seen": "2026-08-03"
     },
     {
@@ -365,12 +377,12 @@
       "id": "2684442b89636022",
       "type": "brand_lead",
       "title": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released",
-      "issuer": "helpnetsecurity.com",
+      "issuer": "Help Net Security",
       "posted": "2026-08-02",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdktnNGVJbXl5N21kTGZpWXhlTHRWRlBGXzhheGYydjFvQklXckxTcHNHRlJyblg3bVRweGNGdmhPaG1NSnNPVnl0ZGhlb1JFQUg2ckdSNVRUS29Jb1BfN2lndlJxZHNLdU5XTVF6d0w5R2F4aTJQY1VyYUhidVdMYWpoeU94YTlQTjFvcWVOYlZkaE9xSGJBWTAwVFg3dWR6eG5EOUJpaUtUclJtQW0wWjR1M1RRSWtXMmN5SE5qeWV6Vl9XTlNaZ3JnbjE4bDE2TW0wTg?oc=5",
       "source_domain": "https://www.helpnetsecurity.com",
-      "description": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released helpnetsecurity.com",
+      "description": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released Help Net Security",
       "first_seen": "2026-08-02"
     },
     {
@@ -821,12 +833,12 @@
       "id": "96605dbc7d741760",
       "type": "perplexity",
       "title": "Virginia State Lottery \u2014 Experiential Marketing",
-      "issuer": "** Virginia State Lottery",
+      "issuer": "** **Virginia State Lottery**",
       "posted": "2026-08-11",
       "deadline": "",
       "url": "https://discover.govdash.com/solicitations/019f7069-6118-73b1-8415-0465431f8585--experiential-marketing",
       "source_domain": "https://discover.govdash.com/solicitations/019f7069-6118-73b1-8415-0465431f8585--experiential-marketing",
-      "description": "Virginia State Lottery \u2014 Experiential Marketing - Issuing organization: Virginia State Lottery. - What is being sought: Experiential marketing services under RFP 123086-3. - Deadline: July 23, 2026, 19:07. - Estimated value: Not stated in the available results. - Source URL: [GovDash](https://discover.govdash.com/solicitations/019f7069-6118-73b1-8415-0465431f8585--experiential-marketing)",
+      "description": "Virginia State Lottery \u2014 Experiential Marketing - Issuing organization: Virginia State Lottery. - What is being sought: Experiential marketing services under RFP 123086-3. - Deadline: July 23, 2026. - Estimated value: Not stated in the search results. - Source URL: - https://discover.govdash.com/solicitations/019f7069-6118-73b1-8415-0465431f8585--experiential-marketing",
       "first_seen": "2026-07-27"
     },
     {
