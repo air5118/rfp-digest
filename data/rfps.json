@@ -1,6 +1,30 @@
 {
-  "generated": "2026-08-13",
+  "generated": "2026-08-14",
   "rfps": [
+    {
+      "id": "19d44d7b445ef0ac",
+      "type": "perplexity",
+      "title": "Why I did not list more",
+      "issuer": "reviews**",
+      "posted": "2026-08-14",
+      "deadline": "",
+      "url": "https://theremarkableagency.com/blog/marketing-agency-rfp-brief/",
+      "source_domain": "https://theremarkableagency.com/blog/marketing-agency-rfp-brief/",
+      "description": "Why I did not list more - The remaining search results included general articles, non-matching solicitations, or notices that were either expired/just past deadline or not clearly tied to the industries you requested. - One Arizona marketing-services solicitation appears to have expired on August 13, 2026, so I excluded it as requested. If you want, I can do a second pass focused specifically on: - casino/gaming brand RFPs - food/beverage and con",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "id": "d92e2baf3ab036aa",
+      "type": "perplexity",
+      "title": "I can\u2019t reliably produce the requested list from the provided results alone, because they do **not** include enough acti",
+      "issuer": "See source",
+      "posted": "2026-08-14",
+      "deadline": "",
+      "url": "https://www.softwarerfp.com/1156414-usa-california-rfi-for-advertising-and-media-buying-services-sources-sought-rfp.html",
+      "source_domain": "https://www.softwarerfp.com/1156414-usa-california-rfi-for-advertising-and-media-buying-services-sources-sought-rfp.html",
+      "description": "I can\u2019t reliably produce the requested list from the provided results alone, because they do not include enough active 2026 state/local advertising or marketing RFP postings with direct government-portal links. The only clearly relevant, still-open 2026 item in the results is a California advertising/media-buying RFI that appears to be on an external aggregator rather than a primary procurement portal.",
+      "first_seen": "2026-08-14"
+    },
     {
       "id": "9f42ae6743041225",
       "type": "perplexity",
@@ -88,13 +112,13 @@
     {
       "id": "1e3ee4bd86c7b5f2",
       "type": "perplexity",
-      "title": "active, open May 2026",
-      "issuer": "of Treasury** \u2014 marketing and advertising services for the M",
-      "posted": "2026-08-12",
+      "title": "active, open US government advertising or marketing RFPs specifically open in May 2026",
+      "issuer": "of Treasury marketing/advertising solicitation for MET and M",
+      "posted": "2026-08-14",
       "deadline": "",
       "url": "https://www.sandovalcountynm.gov/departments/online-business/request-for-proposal/",
       "source_domain": "https://www.sandovalcountynm.gov/departments/online-business/request-for-proposal/",
-      "description": "I can\u2019t reliably produce a clean list of active, open May 2026 US government advertising/marketing RFPs from the provided results alone, because the search set is mostly aggregators, expired items, or non-target solicitations, and it does not include enough direct procurement notices for the categories you specified. The only clearly relevant open opportunity in the results is a Michigan marketing/advertising services solicitation, but it was ope",
+      "description": "I couldn\u2019t reliably identify any active, open US government advertising or marketing RFPs specifically open in May 2026 from the results you provided. The available results either point to non-marketing procurements, expired/dated notices, or aggregator pages without enough detail to verify an active May 2026 solicitation. A few near-matches appeared, but they do not satisfy your May 2026, active-open requirement: - A Michigan Department of Treas",
       "first_seen": "2026-08-12"
     },
     {
@@ -256,13 +280,13 @@
     {
       "id": "947f01f951d8be4b",
       "type": "perplexity",
-      "title": "City of Chesapeake, Virginia \u2014 Convention & Visitors Bureau advertising",
-      "issuer": "** **City of Chesapeake, Virginia**",
-      "posted": "2026-08-13",
+      "title": "Bid #26-226-4342 \u2014 Convention & Visitors Bureau Advertising",
+      "issuer": "** City of Chesapeake, Virginia, Department of Parks, Recrea",
+      "posted": "2026-08-14",
       "deadline": "",
       "url": "https://publicbidsearch.com/bids/convention-and-visitors-bureau-advertising-agency-city-of-chesapeake-va-e44059",
       "source_domain": "https://publicbidsearch.com/bids/convention-and-visitors-bureau-advertising-agency-city-of-chesapeake-va-e44059",
-      "description": "City of Chesapeake, Virginia \u2014 Convention & Visitors Bureau advertising - Issuing organization: City of Chesapeake, Virginia - What is being sought: A full-service advertising and marketing agency to serve as the city\u2019s Agency of Record for destination marketing - Deadline: August 5, 2026; the listing says the due date was extended to that date - Estimated value: Not stated in the source - Source URL: https://publicbidsearch.com/bids/convention-a",
+      "description": "Bid 26-226-4342 \u2014 Convention & Visitors Bureau Advertising - Issuing organization: City of Chesapeake, Virginia, Department of Parks, Recreation and Tourism - What is being sought: A full-service advertising and marketing agency to serve as the City\u2019s Agency of Record for destination marketing. - Deadline: August 5, 2026, 2:00 PM Eastern Time; the notice also says the due date was extended to that time. - Estimated value: Not stated in the search",
       "first_seen": "2026-08-10"
     },
     {
@@ -362,6 +386,18 @@
       "first_seen": "2026-08-05"
     },
     {
+      "id": "d88c7b5acafc46cd",
+      "type": "perplexity",
+      "title": "Why I\u2019m not listing the other results",
+      "issuer": "See source",
+      "posted": "2026-08-14",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
+      "source_domain": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
+      "description": "Why I\u2019m not listing the other results - Several results are expired or already past deadline, such as the DC Grand Prix 250 Advertising notice and the Michigan marketing/advertising services notice. - Some results are aggregator pages, not primary government procurement portals, and your prompt asks for active postings from BidNet, DemandStar, and state procurement websites with direct links to each RFP posting. - Some results mention marketing/a",
+      "first_seen": "2026-08-05"
+    },
+    {
       "id": "4f42276167665c8d",
       "type": "perplexity",
       "title": "Where to Look Next (Methodological Pointers)",
@@ -371,18 +407,6 @@
       "url": "https://www.nyscr.ny.gov/Ads/Search",
       "source_domain": "https://www.nyscr.ny.gov/Ads/Search",
       "description": "Where to Look Next (Methodological Pointers) Since you are a procurement researcher, the most efficient paths to expand beyond the items above would be: - State & local procurement portals for tourism/economic development entities Example: New York State Contracting Opportunities portal lists numerous advertising/marketing\u2011service solicitations when filters are applied for tourism, marketing, and economic development agencies. URL: `https://www.n",
-      "first_seen": "2026-08-05"
-    },
-    {
-      "id": "d88c7b5acafc46cd",
-      "type": "perplexity",
-      "title": "Opportunities identified in the search results",
-      "issuer": "of Treasury",
-      "posted": "2026-08-13",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
-      "source_domain": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
-      "description": "Opportunities identified in the search results Michigan Department of Treasury - RFP title: Marketing and advertising services for the Michigan Education Trust (MET) and Michigan Achieving a Better Life Experience (MiABLE) programs. - Deadline: July 28, 2026. - Estimated value: $10,800,000 anticipated award. - Direct URL: Not provided in the search result; the result is on Starbridge AI, not a primary procurement portal. Sound Transit - RFP title",
       "first_seen": "2026-08-05"
     },
     {
@@ -400,13 +424,13 @@
     {
       "id": "101b7517f064f066",
       "type": "perplexity",
-      "title": "active 2026 brand reviews, media pitches, or creative searches",
-      "issuer": "reviews",
-      "posted": "2026-08-13",
+      "title": "active 2026 brand reviews or searches",
+      "issuer": "directory and ranking pages*, not evidence of **active 2026",
+      "posted": "2026-08-14",
       "deadline": "",
       "url": "https://joinbrands.com/blog/top-us-ad-agencies/",
       "source_domain": "https://joinbrands.com/blog/top-us-ad-agencies/",
-      "description": "I can\u2019t reliably answer this as asked from the provided search results, because the results are general agency-ranking articles rather than evidence of active 2026 brand reviews, media pitches, or creative searches by named US brands. None of the supplied sources identify current brand RFPs, review timelines, budgets, or source documents for casino/gaming, CPG, food and beverage, retail, financial services, healthcare, or automotive accounts. To",
+      "description": "I can\u2019t reliably answer this from the provided search results because they are agency directory and ranking pages, not evidence of active 2026 brand reviews or searches. None of the results identify a major US brand currently running an advertising agency review, media pitch, or creative agency search, so I would risk inventing or misattributing opportunities if I tried to name brands here. What the results do show is only that various agency rou",
       "first_seen": "2026-08-04"
     },
     {
@@ -506,6 +530,18 @@
       "first_seen": "2026-08-03"
     },
     {
+      "id": "24b7bfa75e1e7c06",
+      "type": "perplexity",
+      "title": "one clearly active 2026 advertising/marketing agency search",
+      "issuer": "search** in your target public-sector category and **one act",
+      "posted": "2026-08-14",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/rfp-2026-070-u-s-marketing-agency-of-record",
+      "source_domain": "https://starbridge.ai/rfp/rfp-2026-070-u-s-marketing-agency-of-record",
+      "description": "I found one clearly active 2026 advertising/marketing agency search in your target public-sector category and one active 2026 tourism/destination marketing RFP from a US city; the search results for the private-sector casino/gaming, food/beverage, retail, and consumer goods categories were not sufficient to verify additional active opportunities with confidence.",
+      "first_seen": "2026-08-02"
+    },
+    {
       "id": "c9ed90d0bbc40a76",
       "type": "perplexity",
       "title": "no still-active U.S. government advertising or marketing RFPs with May 2026 due dates",
@@ -527,18 +563,6 @@
       "url": "https://clutch.co/agencies",
       "source_domain": "https://clutch.co/agencies",
       "description": "There is no reliable, up\u2011to\u2011date public list that comprehensively tracks all current (2026) US brand advertising/media/creative agency reviews by sector, and none of the provided search results specifically identify live reviews or pitches by named brands in 2026. The available results focus on ranking agencies and listing capabilities rather than documenting which major brands are currently in review. Based on the search set you provided: - The",
-      "first_seen": "2026-08-02"
-    },
-    {
-      "id": "24b7bfa75e1e7c06",
-      "type": "perplexity",
-      "title": "active, 2026-issued",
-      "issuer": "opportunities in the provided results, and most are **public",
-      "posted": "2026-08-07",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/rfp-2026-070-u-s-marketing-agency-of-record",
-      "source_domain": "https://starbridge.ai/rfp/rfp-2026-070-u-s-marketing-agency-of-record",
-      "description": "I found only a small number of active, 2026-issued U.S. advertising/marketing agency opportunities in the provided results, and most are public-sector rather than brand-led private-sector RFPs. The clearest matches are a Texas convention bureau marketing agency of record search and a New York marketing/advertising company service solicitation; I did not find enough verified 2026 results in the casino/gaming, food/beverage, retail, or consumer goo",
       "first_seen": "2026-08-02"
     },
     {
@@ -1697,12 +1721,12 @@
       "id": "c67466e494ecca5d",
       "type": "brand_lead",
       "title": "Coca-Cola media, data and tech agency review pits WPP against Publicis",
-      "issuer": "Ad Age",
+      "issuer": "adage.com",
       "posted": "2026-06-03",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaUstVVhweEVzN0Y3dEdZZHBIdVZ3eUVCRGlzY1U3T2paUVlIbmFycG5jNWpvS09pOXN1S3MxTU8zaTFUWF9GaE5zNDA0RW5fS2tyU0thZ3hPSFVvY2NRS1RfQWxndndNREpaUDlvSEoxVXBJX0ZZV1N3UW95TU1CeW81dnhJTS1POUdfcjRoQnRvb1BsWkFZQUxn?oc=5",
       "source_domain": "https://adage.com",
-      "description": "Coca-Cola media, data and tech agency review pits WPP against Publicis Ad Age",
+      "description": "Coca-Cola media, data and tech agency review pits WPP against Publicis adage.com",
       "first_seen": "2026-07-22"
     },
     {
