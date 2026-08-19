@@ -2,6 +2,18 @@
   "generated": "2026-08-19",
   "rfps": [
     {
+      "id": "6e96e2593e1be00b",
+      "type": "perplexity",
+      "title": "general articles about agency RFP best practices",
+      "issuer": "RFP best practices** and one **municipal marketing services",
+      "posted": "2026-08-19",
+      "deadline": "",
+      "url": "https://digiday.com/media-buying/media-buying-briefing-how-instrument-won-crocs-business-in-a-day/",
+      "source_domain": "https://digiday.com/media-buying/media-buying-briefing-how-instrument-won-crocs-business-in-a-day/",
+      "description": "I can\u2019t reliably answer this as requested from the information currently gathered. The search results returned general articles about agency RFP best practices and one municipal marketing services RFP, but they do not provide verified, current, brand-level 2026 agency reviews, media pitches, or creative searches for major U.S. brands across the sectors you specified. The only somewhat relevant business-news item is a Digiday mention that Crocs ga",
+      "first_seen": "2026-08-19"
+    },
+    {
       "id": "bd96fa8be2748f75",
       "type": "perplexity",
       "title": "University of Houston \u2014 Bauer Graduate Programs Digital Marketing FY26",
@@ -28,13 +40,13 @@
     {
       "id": "8775d370028edb72",
       "type": "perplexity",
-      "title": "Tennessee \u2013 Rural Health Transformation Program (RHTP) Marketing and Advertising Services",
-      "issuer": "** Tennessee state agency (Rural Health Transformation Progr",
+      "title": "Tennessee \u2013 Rural Health Transformation Program (RHTP) Marketing and Advertising Services (RFP #34320\u201121227)",
+      "issuer": "** **State of Tennessee** agency (Rural Health Transformatio",
       "posted": "2026-08-19",
-      "deadline": "2026-08-21",
+      "deadline": "",
       "url": "https://starbridge.ai/rfp/rfp-34320-21227-rural-health-transformation-program",
       "source_domain": "https://starbridge.ai/rfp/rfp-34320-21227-rural-health-transformation-program",
-      "description": "Tennessee \u2013 Rural Health Transformation Program (RHTP) Marketing and Advertising Services - Issuing organization: Tennessee state agency (Rural Health Transformation Program \u2013 RHTP) - What is being sought: - Marketing and advertising services to develop, execute, and evaluate a comprehensive marketing campaign for the Rural Health Transformation Program. - Fixed\u2011unit\u2011cost, indefinite\u2011quantity services; includes campaign strategy, creative, media,",
+      "description": "Tennessee \u2013 Rural Health Transformation Program (RHTP) Marketing and Advertising Services (RFP 34320\u201121227) - Issuing organization: State of Tennessee agency (Rural Health Transformation Program \u2013 RHTP). - What is being sought: - Procurement of marketing and advertising services for the Rural Health Transformation Program. - The state is seeking qualified advertising and marketing vendors to develop, execute, and evaluate a comprehensive marketin",
       "first_seen": "2026-08-19"
     },
     {
@@ -52,13 +64,61 @@
     {
       "id": "dacb2a61b08d23f2",
       "type": "perplexity",
-      "title": "Notes on Other Portals Mentioned",
+      "title": "Notes and limitations",
       "issuer": "See source",
       "posted": "2026-08-19",
       "deadline": "",
       "url": "https://www.bidnetdirect.com/texas/townofaddison/solicitations/closed-bids",
       "source_domain": "https://www.bidnetdirect.com/texas/townofaddison/solicitations/closed-bids",
-      "description": "Notes on Other Portals Mentioned - BidNet / state portals: - The BidNet Direct and general state procurement pages surfaced in the search were either generic portal landing pages or \u201cclosed bids\u201d listings without specific, clearly open 2026 marketing/advertising RFPs in the snippets provided. - Because I cannot navigate interactively in this turn, I cannot reliably extract current, open marketing RFPs from those generic listings; you would need t",
+      "description": "Notes and limitations - Several search results reference BidNet and DemandStar, but the specific pages shown are generic bid listings or closed\u2011bids pages without current marketing RFP detail in the snippet (e.g., Town of Addison closed bids). Those do not provide enough information to list as discrete, active marketing/advertising RFPs. - Some aggregator entries (e.g., \u201cAdvertising Service RFP\u201d listing multiple agencies including North Carolina",
+      "first_seen": "2026-08-19"
+    },
+    {
+      "id": "4bb26950316cb968",
+      "type": "perplexity",
+      "title": "Federal \u2013 Multimedia Advertising",
+      "issuer": "** Federal agency (Army National Guard / similar) via SAM",
+      "posted": "2026-08-19",
+      "deadline": "",
+      "url": "https://sam.directory/opportunities/multimedia-advertising-w91zrs26qa006",
+      "source_domain": "https://sam.directory/opportunities/multimedia-advertising-w91zrs26qa006",
+      "description": "Federal \u2013 Multimedia Advertising - Organization: Federal agency (Army National Guard / similar) via SAM.gov - RFP / Solicitation ID: W91ZRS26QA006 - What is being sought: Multimedia advertising services, likely including digital, broadcast, and online media placements to support agency recruitment or public\u2011information campaigns. - Deadline: Listing indicates the opportunity is due August 17, 2026. - Estimated value: Not specified in the summary;",
+      "first_seen": "2026-08-19"
+    },
+    {
+      "id": "adc824278bb7245f",
+      "type": "perplexity",
+      "title": "Federal \u2013 Marketing & Advertising Services for Colorado Army National Guard",
+      "issuer": "** Colorado Army National Guard (U",
+      "posted": "2026-08-19",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/digital-marketing-strategy-and-campaign-planning-vgke",
+      "source_domain": "https://www.cleat.ai/government/contracts/digital-marketing-strategy-and-campaign-planning-vgke",
+      "description": "Federal \u2013 Marketing & Advertising Services for Colorado Army National Guard - Organization: Colorado Army National Guard (U.S. Department of the Army), federal opportunity via SAM.gov - RFP / Solicitation ID: W912LC\u201126\u2011Q\u20110037 - What is being sought: Marketing and advertising services to support Colorado Army National Guard recruitment, including development of comprehensive annual strategic marketing plans and related advertising campaigns. - Dea",
+      "first_seen": "2026-08-19"
+    },
+    {
+      "id": "96e21c683d2612ff",
+      "type": "perplexity",
+      "title": "Federal \u2013 Digital Marketing & Newsletter Distribution",
+      "issuer": "** U",
+      "posted": "2026-08-19",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/digital-marketing-and-newsletter-distribution-54ps",
+      "source_domain": "https://www.cleat.ai/government/contracts/digital-marketing-and-newsletter-distribution-54ps",
+      "description": "Federal \u2013 Digital Marketing & Newsletter Distribution - Organization: U.S. federal agency (via SAM.gov) - What is being sought: Digital marketing and newsletter distribution services, including development and dissemination of email/newsletter content and related digital promotion. - Deadline: The abstract notes responses must be submitted through the federal portal before the solicitation\u2019s deadline, but the specific close date is not shown in t",
+      "first_seen": "2026-08-19"
+    },
+    {
+      "id": "127af5cd9d715f93",
+      "type": "perplexity",
+      "title": "Federal / Texas \u2013 Social Media, Internet Marketing and SEO (Marketing & Advertising Services)",
+      "issuer": "** Likely a Texas\u2011based public sector client (US) using a go",
+      "posted": "2026-08-19",
+      "deadline": "",
+      "url": "https://governmentrfps.com/social-media-internet-marketing-and-seo-rfp-government-contract.html",
+      "source_domain": "https://governmentrfps.com/social-media-internet-marketing-and-seo-rfp-government-contract.html",
+      "description": "Federal / Texas \u2013 Social Media, Internet Marketing and SEO (Marketing & Advertising Services) - Organization: Likely a Texas\u2011based public sector client (US) using a government procurement platform; summary refers to Marketing and Advertising Services (MRB\u201156454\u2011USA, Texas) - What is being sought: Social media, internet marketing, and SEO services categorized under Marketing and Advertising Services. - Deadline: Listed as September 1, 2026. - Esti",
       "first_seen": "2026-08-19"
     },
     {
@@ -124,13 +184,13 @@
     {
       "id": "e7a3d0e9588194dd",
       "type": "perplexity",
-      "title": "Rockland Community College (NY) \u2013 Comprehensive Marketing and Public Relations Services",
-      "issuer": "** Rockland Community College, County of Rockland, New York[",
+      "title": "Rockland Community College (County of Rockland, NY) \u2013 Comprehensive Marketing and Public Relations Services (RFP\u2011RCC\u20112026\u2011003)",
+      "issuer": "** **Rockland Community College**, part of the County of Roc",
       "posted": "2026-08-19",
       "deadline": "",
       "url": "https://app.govly.com/public/opportunities/16909965",
       "source_domain": "https://app.govly.com/public/opportunities/16909965",
-      "description": "Rockland Community College (NY) \u2013 Comprehensive Marketing and Public Relations Services - Issuing organization: Rockland Community College, County of Rockland, New York - What is being sought: - Comprehensive marketing and public relations services including: - Communications marketing - Newspaper and publication advertising - Public information services (press releases) - Marketing consulting, research, promotions - Trade services related to mar",
+      "description": "Rockland Community College (County of Rockland, NY) \u2013 Comprehensive Marketing and Public Relations Services (RFP\u2011RCC\u20112026\u2011003) - Issuing organization: Rockland Community College, part of the County of Rockland, New York. - What is being sought: - A qualified marketing service provider to deliver comprehensive marketing and public relations services and communications marketing. - The provider is to develop and implement comprehensive marketing st",
       "first_seen": "2026-08-18"
     },
     {
@@ -350,6 +410,18 @@
       "first_seen": "2026-08-16"
     },
     {
+      "id": "b6ad05c04bd455ec",
+      "type": "perplexity",
+      "title": "Washington, DC \u2014 Promotion of Food and Beverage Items Service",
+      "issuer": "** Government authority in Washington, DC",
+      "posted": "2026-08-19",
+      "deadline": "",
+      "url": "https://www.governmentrfps.com/1157971-usa-washington-dc-promotion-of-food-and-beverage-items-service-rfp.html",
+      "source_domain": "https://www.governmentrfps.com/1157971-usa-washington-dc-promotion-of-food-and-beverage-items-service-rfp.html",
+      "description": "Washington, DC \u2014 Promotion of Food and Beverage Items Service - Issuing organization: Government authority in Washington, DC - What is being sought: A vendor to provide a promotion of food and beverage items service, including in-store promotional campaign design, implementation, and staffing - Deadline: August 27, 2026 - Estimated value: Not stated - Source URL: https://www.governmentrfps.com/1157971-usa-washington-dc-promotion-of-food-and-bever",
+      "first_seen": "2026-08-16"
+    },
+    {
       "id": "9c842e500f9dd333",
       "type": "perplexity",
       "title": "University of Houston \u2013 Bauer Graduate Programs Digital Marketing FY26 (RFP 730-UofH-3139)",
@@ -395,18 +467,6 @@
       "url": "https://www.cleat.ai/government/contracts/marketing-and-advertising-services-idqj",
       "source_domain": "https://www.cleat.ai/government/contracts/marketing-and-advertising-services-idqj",
       "description": "Sound Transit (Washington State) \u2013 Comprehensive Marketing and Advertising Services (RFP RP 0104\u201126) - Issuing organization: Sound Transit (Central Puget Sound Regional Transit Authority), Washington. - What is being sought: Sound Transit is requesting proposals from firms to provide comprehensive marketing and advertising services, including: - Research and identification of target markets - Development of integrated and digital marketing strate",
-      "first_seen": "2026-08-16"
-    },
-    {
-      "id": "b6ad05c04bd455ec",
-      "type": "perplexity",
-      "title": "Promotion of Food & Beverage Items \u2013 In-Store Marketing Campaign (Washington, DC)",
-      "issuer": "** Government authority located in **Washington, DC, USA** (",
-      "posted": "2026-08-18",
-      "deadline": "",
-      "url": "https://www.governmentrfps.com/1157971-usa-washington-dc-promotion-of-food-and-beverage-items-service-rfp.html",
-      "source_domain": "https://www.governmentrfps.com/1157971-usa-washington-dc-promotion-of-food-and-beverage-items-service-rfp.html",
-      "description": "Promotion of Food & Beverage Items \u2013 In-Store Marketing Campaign (Washington, DC) - Issuing organization: Government authority located in Washington, DC, USA (not named in snippet, but identified as a U.S.-based government organization). - Sector/industry: Food & beverage, with strong marketing and retail promotion components. - What is being sought: Vendor to provide promotion of food and beverage items service, including: - Design and implement",
       "first_seen": "2026-08-16"
     },
     {
@@ -590,39 +650,27 @@
       "first_seen": "2026-08-14"
     },
     {
-      "id": "b021150fe8aefec2",
-      "type": "perplexity",
-      "title": "Tourism Marketing & Advertising Services \u2013 State of Colorado",
-      "issuer": "See source",
-      "posted": "2026-08-19",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/emergency-final-cost-tourism-marketing-and-creative",
-      "source_domain": "https://starbridge.ai/rfp/emergency-final-cost-tourism-marketing-and-creative",
-      "description": "Tourism Marketing & Advertising Services \u2013 State of Colorado - Issuing organization: State of Colorado, using BidNet Direct / Rocky Mountain E\u2011Purchasing System. - What is being sought: Tourism Marketing & Advertising Services; the summary describes a solicitation for qualified vendors to provide tourism marketing and advertising services. - Deadline: One synopsis indicates a bid opening/response date of August 13, 2026 for an emergency tourism m",
-      "first_seen": "2026-08-14"
-    },
-    {
       "id": "5170a08860294b17",
       "type": "perplexity",
-      "title": "Polk County Government (FL) \u2013 Advertising & Marketing Services for Visit Central Florida",
-      "issuer": "** Polk County Government / Visit Central Florida",
+      "title": "Polk County, FL \u2013 Advertising & Marketing Services for Visit Central Florida (RFP 26-345)",
+      "issuer": "** Polk County Government, Florida; for **Visit Central Flor",
       "posted": "2026-08-19",
       "deadline": "",
       "url": "https://www.highergov.com/sl/contract-opportunity/fl-advertising-marketing-services-for-vis-71410802/",
       "source_domain": "https://www.highergov.com/sl/contract-opportunity/fl-advertising-marketing-services-for-vis-71410802/",
-      "description": "Polk County Government (FL) \u2013 Advertising & Marketing Services for Visit Central Florida - Issuing organization: Polk County Government / Visit Central Florida - What is being sought: - Full\u2011service advertising and marketing services for destination marketing, tourism promotion, hospitality, and place\u2011based storytelling for Visit Central Florida. - Scope includes comprehensive marketing strategy and execution for the county\u2019s tourism brand. - Dea",
+      "description": "Polk County, FL \u2013 Advertising & Marketing Services for Visit Central Florida (RFP 26-345) - Issuing organization: Polk County Government, Florida; for Visit Central Florida. - What is being sought: Full\u2011service advertising and marketing services with experience in destination marketing, tourism promotion, hospitality, and place\u2011based storytelling for Visit Central Florida. - Scope includes comprehensive campaign development, media, and creative f",
       "first_seen": "2026-08-14"
     },
     {
       "id": "ac6b5952c171f21f",
       "type": "perplexity",
-      "title": "North Dakota Lottery \u2014 Marketing and Advertising Services",
-      "issuer": "** North Dakota Office of Attorney General, Lottery Division",
+      "title": "North Dakota Lottery \u2013 Marketing and Advertising Services",
+      "issuer": "** State of North Dakota, Office of Attorney General \u2013 Lotte",
       "posted": "2026-08-19",
       "deadline": "",
       "url": "https://discover.govdash.com/solicitations/019f3d0a-20ee-717c-a1ea-f014114a922b--north-dakota-lottery-marketing-and-advertising-services",
       "source_domain": "https://discover.govdash.com/solicitations/019f3d0a-20ee-717c-a1ea-f014114a922b--north-dakota-lottery-marketing-and-advertising-services",
-      "description": "North Dakota Lottery \u2014 Marketing and Advertising Services - Organization: North Dakota Office of Attorney General, Lottery Division - What is being sought: Comprehensive marketing and advertising services for the North Dakota Lottery and its products - Deadline: August 4, 2026 at 2:00 PM Central - Estimated value: Not disclosed in the available snippet - URL: The solicitation was published through the state procurement process, but the snippet do",
+      "description": "North Dakota Lottery \u2013 Marketing and Advertising Services - Organization: State of North Dakota, Office of Attorney General \u2013 Lottery Division - What is being sought: A full\u2011service advertising agency to provide comprehensive marketing and advertising services for the North Dakota Lottery and its products. Scope includes strategy, creative, media, and execution to support lottery sales and brand promotion. - Deadline: Proposals due August 4, 2026",
       "first_seen": "2026-08-14"
     },
     {
@@ -671,6 +719,18 @@
       "url": "https://rfpplanet.com/mktg-2537/tourism-marketing-services",
       "source_domain": "https://rfpplanet.com/mktg-2537/tourism-marketing-services",
       "description": "Colorado \u2013 Tourism Marketing Services (Government Authority) Issuing organization: Unspecified government authority located in Colorado, USA (tourism\u2011focused) What is being sought: The authority is seeking a vendor to provide tourism marketing services, classified under Marketing and Branding, Social Media, Internet Marketing and SEO, Travel Agency or Support Services, Web Design and Development. This suggests a broad tourism marketing scope, inc",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "id": "b021150fe8aefec2",
+      "type": "perplexity",
+      "title": "Colorado Tourism \u2013 Tourism Marketing & Advertising Services",
+      "issuer": "** State of Colorado (via BidNet Direct / Rocky Mountain E\u2011P",
+      "posted": "2026-08-19",
+      "deadline": "2026-08-31",
+      "url": "https://starbridge.ai/rfp/emergency-final-cost-tourism-marketing-and-creative",
+      "source_domain": "https://starbridge.ai/rfp/emergency-final-cost-tourism-marketing-and-creative",
+      "description": "Colorado Tourism \u2013 Tourism Marketing & Advertising Services - Organization: State of Colorado (via BidNet Direct / Rocky Mountain E\u2011Purchasing System) - What is being sought: Tourism marketing and advertising services for Colorado, including strategic tourism marketing, creative services, and campaign execution to promote the state as a travel destination. - Deadline: Proposals due August 31, 2026 at 4:00 PM MDT. - Estimated value: The summary de",
       "first_seen": "2026-08-14"
     },
     {
@@ -916,13 +976,13 @@
     {
       "id": "af54f1194f4441d0",
       "type": "perplexity",
-      "title": "City of Laredo, TX \u2013 U.S. Marketing Agency of Record for Laredo Convention & Visitors Bureau (LCVB)",
-      "issuer": "of Record for Laredo Convention & Visitors Bureau (LCVB)",
-      "posted": "2026-08-18",
+      "title": "City of Laredo / Laredo Convention and Visitors Bureau \u2014 U.S. Marketing Agency of Record",
+      "issuer": "of Record",
+      "posted": "2026-08-19",
       "deadline": "",
       "url": "https://www.highergov.com/sl/contract-opportunity/tx-rfp-u-s-marketing-agency-of-record-fo-71376296/",
       "source_domain": "https://www.highergov.com/sl/contract-opportunity/tx-rfp-u-s-marketing-agency-of-record-fo-71376296/",
-      "description": "City of Laredo, TX \u2013 U.S. Marketing Agency of Record for Laredo Convention & Visitors Bureau (LCVB) Issuing organization: City of Laredo, Texas \u2013 Laredo Convention and Visitors Bureau (LCVB), USA What is being sought: The City of Laredo is issuing an RFP for a U.S. Marketing Agency of Record to support the Laredo Convention and Visitors Bureau\u2019s tourism marketing efforts, implying ongoing marketing and advertising services for destination promoti",
+      "description": "City of Laredo / Laredo Convention and Visitors Bureau \u2014 U.S. Marketing Agency of Record - Issuing organization: City of Laredo, Texas, for the Laredo Convention and Visitors Bureau (LCVB) - What is being sought: A U.S. Marketing Agency of Record for the LCVB, i.e., an agency to support destination marketing and related promotional work - Deadline: August 24, 2026 - Estimated value: Not stated in the retrieved sources - Source URL: https://www.hi",
       "first_seen": "2026-08-11"
     },
     {
@@ -1070,18 +1130,6 @@
       "first_seen": "2026-08-05"
     },
     {
-      "id": "d88c7b5acafc46cd",
-      "type": "perplexity",
-      "title": "Rural Health & Education Programs \u2013 Additional Marketing/Advertising Opportunities (Verification Recommended)",
-      "issuer": "of Treasury \u2013 Marketing and Advertising Services for MET and",
-      "posted": "2026-08-19",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
-      "source_domain": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
-      "description": "Rural Health & Education Programs \u2013 Additional Marketing/Advertising Opportunities (Verification Recommended) The search results also surfaced related marketing/advertising solicitations that appear tied to state or local entities but need verification on the official portals because only partial details were visible: Michigan Department of Treasury \u2013 Marketing and Advertising Services for MET and MiABLE - Issuing organization: Michigan Departmen",
-      "first_seen": "2026-08-05"
-    },
-    {
       "id": "4f42276167665c8d",
       "type": "perplexity",
       "title": "New York \u2014 Contracting Opportunities portal result",
@@ -1091,6 +1139,18 @@
       "url": "https://www.nyscr.ny.gov/Ads/Search",
       "source_domain": "https://www.nyscr.ny.gov/Ads/Search",
       "description": "New York \u2014 Contracting Opportunities portal result - Issuing organization: New York State Contract Reporter / NY.gov - What is being sought: The retrieved result shows an advertising/marketing category listing, but the snippet is too limited to confirm a specific active RFP title beyond \u201cWinter Tree Lighting Services For Hudson River Park\u201d - Deadline: Not stated in the retrieved snippet - Estimated value: Not stated in the retrieved record - Dire",
+      "first_seen": "2026-08-05"
+    },
+    {
+      "id": "d88c7b5acafc46cd",
+      "type": "perplexity",
+      "title": "Michigan Department of Treasury \u2013 Marketing and Advertising Services for MET and MiABLE (RFP 260000001532)",
+      "issuer": "of Treasury \u2013 Marketing and Advertising Services for MET and",
+      "posted": "2026-08-19",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
+      "source_domain": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
+      "description": "Michigan Department of Treasury \u2013 Marketing and Advertising Services for MET and MiABLE (RFP 260000001532) (Status note: the snippet describes a \u201cNotice of Intent to Award\u201d but also states the solicitation was open July 22\u201328, 2026. As of August 19, 2026, this would be expired for bidding; I am therefore not treating it as an active opportunity, but including a brief note because it is a significant 2026 marketing contract.) - Issuing organizatio",
       "first_seen": "2026-08-05"
     },
     {
@@ -1253,12 +1313,24 @@
       "id": "2684442b89636022",
       "type": "brand_lead",
       "title": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released",
-      "issuer": "helpnetsecurity.com",
+      "issuer": "Help Net Security",
       "posted": "2026-08-02",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdktnNGVJbXl5N21kTGZpWXhlTHRWRlBGXzhheGYydjFvQklXckxTcHNHRlJyblg3bVRweGNGdmhPaG1NSnNPVnl0ZGhlb1JFQUg2ckdSNVRUS29Jb1BfN2lndlJxZHNLdU5XTVF6d0w5R2F4aTJQY1VyYUhidVdMYWpoeU94YTlQTjFvcWVOYlZkaE9xSGJBWTAwVFg3dWR6eG5EOUJpaUtUclJtQW0wWjR1M1RRSWtXMmN5SE5qeWV6Vl9XTlNaZ3JnbjE4bDE2TW0wTg?oc=5",
       "source_domain": "https://www.helpnetsecurity.com",
-      "description": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released helpnetsecurity.com",
+      "description": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released Help Net Security",
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "24b7bfa75e1e7c06",
+      "type": "perplexity",
+      "title": "Town of Parker / Parker Arts \u2014 Media Buying and Marketing Agency Services",
+      "issuer": "Services",
+      "posted": "2026-08-19",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/rfp-2026-070-u-s-marketing-agency-of-record",
+      "source_domain": "https://starbridge.ai/rfp/rfp-2026-070-u-s-marketing-agency-of-record",
+      "description": "Town of Parker / Parker Arts \u2014 Media Buying and Marketing Agency Services - Issuing organization: Town of Parker, Colorado, for Parker Arts - What is being sought: Media buying and marketing agency services, including annual media planning, channel mix and audience targeting, media negotiation and placement, performance analysis, creative input, media accounting, and earned/paid social support - Deadline: September 3, 2026 at 2:00 p.m. MDT - Esti",
       "first_seen": "2026-08-02"
     },
     {
@@ -1271,18 +1343,6 @@
       "url": "https://senecacasinos.com/media/0zqhxvg0/digital-marketing-services-rfp-71.docx",
       "source_domain": "https://senecacasinos.com/media/0zqhxvg0/digital-marketing-services-rfp-71.docx",
       "description": "Seneca Gaming Corporation \u2014 Digital Marketing Services RFP - Issuing organization: Seneca Gaming Corporation - What is being sought: An experienced and innovative digital marketing agency to create a cohesive digital ecosystem and support online presence - Deadline: July 16, 2025 - Estimated value: Not stated in the available source - Source URL: https://senecacasinos.com/media/0zqhxvg0/digital-marketing-services-rfp-71.docx",
-      "first_seen": "2026-08-02"
-    },
-    {
-      "id": "24b7bfa75e1e7c06",
-      "type": "perplexity",
-      "title": "Laredo Convention & Visitors Bureau \u2013 U.S. Marketing Agency of Record (Texas)",
-      "issuer": "of Record (Texas)",
-      "posted": "2026-08-19",
-      "deadline": "2026-08-24",
-      "url": "https://starbridge.ai/rfp/rfp-2026-070-u-s-marketing-agency-of-record",
-      "source_domain": "https://starbridge.ai/rfp/rfp-2026-070-u-s-marketing-agency-of-record",
-      "description": "Laredo Convention & Visitors Bureau \u2013 U.S. Marketing Agency of Record (Texas) - Issuing organization: City of Laredo, Convention and Visitors Bureau (LCVB), Texas. - What is being sought: Procurement of a U.S. Marketing Agency of Record to handle marketing for the Laredo Convention and Visitors Bureau. - Deadline: RFP 2026-070 was released July 20, 2026 and closes August 24, 2026. - Estimated value: The published synopsis does not list an estimat",
       "first_seen": "2026-08-02"
     },
     {
@@ -1319,6 +1379,18 @@
       "url": "https://www.goodfirms.co/advertising-companies/usa",
       "source_domain": "https://www.goodfirms.co/advertising-companies/usa",
       "description": "I can\u2019t reliably identify current 2026 brand agency reviews or pitches from the search results you provided, because the results are mostly agency directory/listicle pages rather than reports of active, open review processes by brands. The sources available do not support a trustworthy list of which major US brands are currently reviewing creative, media, PR, or digital agencies in 2026. What I can say from the provided results is that they are g",
+      "first_seen": "2026-08-01"
+    },
+    {
+      "id": "ecf8910bccaf41f3",
+      "type": "perplexity",
+      "title": "Visit Central Florida \u2013 Advertising & Marketing Services (Tourism)",
+      "issuer": "** Visit Central Florida (likely under Polk County Tourism /",
+      "posted": "2026-08-19",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/rfp-26-345-advertising-marketing-services-for-visit",
+      "source_domain": "https://starbridge.ai/rfp/rfp-26-345-advertising-marketing-services-for-visit",
+      "description": "Visit Central Florida \u2013 Advertising & Marketing Services (Tourism) - Organization: Visit Central Florida (likely under Polk County Tourism / Central Florida destination marketing) - What is being sought: Comprehensive advertising and marketing services for Visit Central Florida, focused on destination marketing, tourism promotion, and storytelling about the region. - Deadline: The summary page confirms the RFP is active in 2026 but does not list",
       "first_seen": "2026-08-01"
     },
     {
@@ -1379,18 +1451,6 @@
       "url": "https://www.instantmarkets.com/q/Advertising",
       "source_domain": "https://www.instantmarkets.com/q/Advertising",
       "description": "Palm Beach County Transit Advertising \u2013 Advertising Services (Transit / Local Government; Tourism Adjacent) - Issuing organization: Palm Beach County (Purchasing Department), via an advertising RFP aggregator. - Sector / category: Transit advertising services for a county transit authority; supports local tourism and economic activity. - What is being sought: Transit advertising services involving pressure\u2011sensitive adhesive decals and interior/e",
-      "first_seen": "2026-08-01"
-    },
-    {
-      "id": "ecf8910bccaf41f3",
-      "type": "perplexity",
-      "title": "Hidalgo County, Texas \u2013 Comprehensive Marketing & Advertising Services (RFP No. 26-0268-07-17-03-REBID)",
-      "issuer": "** **Hidalgo County**, Texas (county government)",
-      "posted": "2026-08-18",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/rfp-26-345-advertising-marketing-services-for-visit",
-      "source_domain": "https://starbridge.ai/rfp/rfp-26-345-advertising-marketing-services-for-visit",
-      "description": "Hidalgo County, Texas \u2013 Comprehensive Marketing & Advertising Services (RFP No. 26-0268-07-17-03-REBID) - Issuing organization: Hidalgo County, Texas (county government) - What is being sought: - Comprehensive Marketing & Advertising Services, via a rebid to enhance county outreach and engagement, including marketing strategy and advertising execution. - Deadline: - The snippet does not state a specific due date; it notes that the solicitation is",
       "first_seen": "2026-08-01"
     },
     {
@@ -1720,13 +1780,13 @@
     {
       "id": "96605dbc7d741760",
       "type": "perplexity",
-      "title": "Virginia State Lottery \u2013 Experiential Marketing Services",
-      "issuer": "** **Virginia State Lottery**",
-      "posted": "2026-08-18",
+      "title": "Virginia Lottery \u2013 Experiential Marketing Services",
+      "issuer": "** Virginia State Lottery",
+      "posted": "2026-08-19",
       "deadline": "",
       "url": "https://discover.govdash.com/solicitations/019f7069-6118-73b1-8415-0465431f8585--experiential-marketing",
       "source_domain": "https://discover.govdash.com/solicitations/019f7069-6118-73b1-8415-0465431f8585--experiential-marketing",
-      "description": "Virginia State Lottery \u2013 Experiential Marketing Services RFP type: State lottery experiential marketing - Organization: Virginia State Lottery - Title: Experiential Marketing (RFP 123086\u20113) - What is being sought: A vendor to provide experiential marketing services for the Virginia Lottery, including design and delivery of experiential activations. - Deadline: The RFP sets a proposal submission deadline of July 23, 2026, at 19:07. - Estimated val",
+      "description": "Virginia Lottery \u2013 Experiential Marketing Services - Organization: Virginia State Lottery - What is being sought: Experiential marketing services to design and deliver live/interactive brand experiences and events promoting Virginia Lottery games. The RFP seeks qualified vendors to ideate, plan, and execute experiential campaigns. - Deadline: Proposal submission deadline July 23, 2026 (time noted as 19:07). - Estimated value: Estimated contract v",
       "first_seen": "2026-07-27"
     },
     {
@@ -1924,13 +1984,13 @@
     {
       "id": "7248cabab27d694b",
       "type": "perplexity",
-      "title": "Live! Casino & Hotel Louisiana media center",
-      "issuer": "** Live! Casino & Hotel / Live! brand properties",
-      "posted": "2026-08-10",
+      "title": "Live! Casino & Hotel Louisiana \u2014 Advertising and Promotional Inquiries",
+      "issuer": "** Live! Casino & Hotel Louisiana",
+      "posted": "2026-08-19",
       "deadline": "",
       "url": "https://www.livech.com/en/media-center",
       "source_domain": "https://www.livech.com/en/media-center",
-      "description": "Live! Casino & Hotel Louisiana media center - Issuing organization: Live! Casino & Hotel / Live! brand properties. - What is being sought: The page provides contact channels for advertising/promotional inquiries and a separate RFP form for sales, meetings, and events. - Deadline: Not stated. - Estimated value: Not stated. - Direct source URL: https://www.livech.com/en/media-center",
+      "description": "Live! Casino & Hotel Louisiana \u2014 Advertising and Promotional Inquiries - Issuing organization: Live! Casino & Hotel Louisiana - What is being sought: The retrieved source indicates advertising and promotional inquiries are being handled via direct email contact, but it does not clearly identify a public RFP or agency search - Deadline: Not stated - Estimated value: Not stated - Source URL: https://www.livech.com/en/media-center",
       "first_seen": "2026-07-25"
     },
     {
