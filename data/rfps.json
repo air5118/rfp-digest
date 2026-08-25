@@ -74,16 +74,28 @@
       "first_seen": "2026-08-25"
     },
     {
-      "id": "af09019301a36561",
+      "id": "969a49159102dce7",
       "type": "perplexity",
-      "title": "Why federal/SAM.gov and other May 2026\u2011specific items are missing here",
+      "title": "4. University marketing RFPs (May 2026)",
       "issuer": "See source",
-      "posted": "2026-08-24",
+      "posted": "2026-08-25",
       "deadline": "",
-      "url": "https://sam.gov/alerts/contract-opportunities-data-bank-reports-error",
-      "source_domain": "https://sam.gov/alerts/contract-opportunities-data-bank-reports-error",
-      "description": "Why federal/SAM.gov and other May 2026\u2011specific items are missing here The search result set I can see includes only one general SAM.gov\u2011related hit, which is a technical notice about data bank report errors, not a marketing/advertising RFP. There are no visible SAM.gov entries in this set that clearly correspond to an advertising or marketing RFP open in May 2026. Similarly, while the query asked for: - State lottery advertising (e.g., marketing",
-      "first_seen": "2026-08-24"
+      "url": "https://www.highergov.com/sl/contract-opportunity/ny-marketing-and-public-relations-services-72184323/",
+      "source_domain": "https://www.highergov.com/sl/contract-opportunity/ny-marketing-and-public-relations-services-72184323/",
+      "description": "4. University marketing RFPs (May 2026) Many university opportunities I saw in August 2026 (e.g., Rockland Community College marketing and public relations services) are posted in state or institutional procurement portals and in higher\u2011ed bid aggregators. For May 2026: - Check: - State university \u201cProcurement,\u201d \u201cBids/RFPs,\u201d or \u201cSupplier\u201d pages - System\u2011wide higher\u2011ed procurement sites (e.g., SUNY, CSU, UNC system) - Filter by: - Issue date in Ma",
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "f36c45f5885b4b4e",
+      "type": "perplexity",
+      "title": "1. What the 2026 search results actually show",
+      "issuer": "reviews, media pitches, or creative agency searches in 2026?",
+      "posted": "2026-08-25",
+      "deadline": "",
+      "url": "https://coolnerdsmarketing.com/top-cpg-performance-marketing-agencies/",
+      "source_domain": "https://coolnerdsmarketing.com/top-cpg-performance-marketing-agencies/",
+      "description": "1. What the 2026 search results actually show The pages retrieved are: - Rankings of agencies serving CPG, food & beverage, and DTC brands (e.g., Cool Nerds Marketing, Tinuiti, VaynerMedia, Jetfuel.agency, The Stable, Bigeye, MAVRK Studio). - Guidance on how CPG and food/beverage brands should buy media and structure cross\u2011media plans in 2026 (Meta, TikTok, retail media, CTV, print, radio, OOH). - Advice on how to write a Food & Beverage PR RFP i",
+      "first_seen": "2026-08-25"
     },
     {
       "id": "80fb7a5b964603e7",
@@ -138,11 +150,11 @@
       "type": "perplexity",
       "title": "Illinois Department of Commerce and Economic Opportunity \u2014 Tourism Marketing and Creative Services",
       "issuer": "of Commerce and Economic Opportunity \u2014 Tourism Marketing and",
-      "posted": "2026-08-24",
+      "posted": "2026-08-25",
       "deadline": "",
       "url": "https://www.bidbuy.illinois.gov/bso/external/bidDetail.sda?docId=27-420DCEO-STRTC-B-53469&external=true&parentUrl=close",
       "source_domain": "https://www.bidbuy.illinois.gov/bso/external/bidDetail.sda?docId=27-420DCEO-STRTC-B-53469&external=true&parentUrl=close",
-      "description": "Illinois Department of Commerce and Economic Opportunity \u2014 Tourism Marketing and Creative Services - Issuing organization: State of Illinois, Department of Commerce and Economic Opportunity - What is being sought: Tourism marketing and creative services - Deadline: 08/13/2026 01:00 PM opening date shown in the record; the solicitation was active in August 2026 - Estimated value: Not provided in the captured record - Direct posting: https://www.bi",
+      "description": "Illinois Department of Commerce and Economic Opportunity \u2014 Tourism Marketing and Creative Services - Issuing organization: State of Illinois, Department of Commerce and Economic Opportunity - What is being sought: Tourism Marketing and Creative Services - Deadline: 08/13/2026 1:00 PM (shown in the solicitation details) - Estimated value: Not stated in the retrieved posting snippet - Posting link: Direct solicitation page in the Illinois procureme",
       "first_seen": "2026-08-24"
     },
     {
@@ -170,6 +182,30 @@
       "first_seen": "2026-08-24"
     },
     {
+      "id": "af09019301a36561",
+      "type": "perplexity",
+      "title": "1. Federal advertising/marketing in SAM.gov (open in May 2026)",
+      "issuer": "Site\u201d link as your \u201cdirect URL\u201d",
+      "posted": "2026-08-25",
+      "deadline": "",
+      "url": "https://sam.gov/alerts/contract-opportunities-data-bank-reports-error",
+      "source_domain": "https://sam.gov/alerts/contract-opportunities-data-bank-reports-error",
+      "description": "1. Federal advertising/marketing in SAM.gov (open in May 2026) Use the advanced search in the contract\u2011opportunities portal: - Filter by: - Notice type: \u201cPresolicitation\u201d and \u201cSolicitation\u201d - Date range: Posted between 2026\u201105\u201101 and 2026\u201105\u201131 - NAICS: 541810 (Advertising Agencies), 541613 (Marketing Consulting), 541810/541820 for PR/marketing - Place of performance country: United States - Export or view results, then for each matching notice c",
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "fbc29030e99d34eb",
+      "type": "perplexity",
+      "title": "cannot reliably confirm",
+      "issuer": "and performance location)",
+      "posted": "2026-08-25",
+      "deadline": "",
+      "url": "https://www.highergov.com/sl/contract-opportunity/tx-for-the-webb-county-fairgrounds-72513333/",
+      "source_domain": "https://www.highergov.com/sl/contract-opportunity/tx-for-the-webb-county-fairgrounds-72513333/",
+      "description": "There are multiple open, US-based advertising and marketing solicitations active in 2026, but I do not have live access to the underlying detail pages (e.g., SAM.gov, state procurement portals, or the RFP aggregators that my earlier search results came from). Because of that, I cannot reliably confirm that a given opportunity: - is specifically open in May 2026 (as opposed to August or later in the year), and - has a still\u2011valid deadline relative",
+      "first_seen": "2026-08-23"
+    },
+    {
       "id": "a9ab01c1a73c4b66",
       "type": "perplexity",
       "title": "Why I\u2019m not listing specific brands",
@@ -179,18 +215,6 @@
       "url": "https://coolnerdsmarketing.com/top-creative-agencies-us/",
       "source_domain": "https://coolnerdsmarketing.com/top-creative-agencies-us/",
       "description": "Why I\u2019m not listing specific brands To keep procurement research rigorous: - I won\u2019t infer that a brand is \u201cin review\u201d simply because it is mentioned in: - \u201cBest agency\u201d roundups, - Generic cross\u2011media guidance, or - PR/earned\u2011media how\u2011to content. - I won\u2019t extrapolate a 2026 review from older (pre\u20112026) stories that are not in the provided results. - I won\u2019t fabricate budgets or timelines that are not documented. If you want, you can share any",
-      "first_seen": "2026-08-23"
-    },
-    {
-      "id": "fbc29030e99d34eb",
-      "type": "perplexity",
-      "title": "Webb County, Texas \u2013 Fairgrounds Marketing and Advertising Services (Texas)",
-      "issuer": "** Webb County (County of Webb), Texas, USA",
-      "posted": "2026-08-23",
-      "deadline": "",
-      "url": "https://www.highergov.com/sl/contract-opportunity/tx-for-the-webb-county-fairgrounds-72513333/",
-      "source_domain": "https://www.highergov.com/sl/contract-opportunity/tx-for-the-webb-county-fairgrounds-72513333/",
-      "description": "Webb County, Texas \u2013 Fairgrounds Marketing and Advertising Services (Texas) - Issuing organization: Webb County (County of Webb), Texas, USA - What is being sought: Marketing and advertising services for the Webb County Fairgrounds, issued as RFP 2026-013 Marketing and Advertising Services. Scope is described as providing comprehensive marketing and advertising for the Fairgrounds. - Deadline: - RFP issued 8/11/2026; proposals due 9/1/2026. - Est",
       "first_seen": "2026-08-23"
     },
     {
@@ -554,18 +578,6 @@
       "first_seen": "2026-08-21"
     },
     {
-      "id": "b16e03e9933ecbbe",
-      "type": "perplexity",
-      "title": "South Carolina Education Lottery Commission \u2013 Digital Marketing & Advertising Services",
-      "issuer": "** **South Carolina Education Lottery Commission**, South Ca",
-      "posted": "2026-08-24",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/digital-marketing-and-advertising-services-6t7v",
-      "source_domain": "https://www.cleat.ai/government/contracts/digital-marketing-and-advertising-services-6t7v",
-      "description": "South Carolina Education Lottery Commission \u2013 Digital Marketing & Advertising Services - Issuing organization: South Carolina Education Lottery Commission, South Carolina, USA. - RFP title: \u201cDigital Marketing & Advertising Services\u201d. - What is being sought: - A qualified vendor to develop and execute comprehensive digital advertising campaigns promoting lottery games across multiple digital channels including social media, paid search, display, a",
-      "first_seen": "2026-08-21"
-    },
-    {
       "id": "768ad7a51d65491e",
       "type": "perplexity",
       "title": "Silicon Valley Clean Energy (SVCE) \u2013 Creative Agency for Integrated Marketing and Messaging (Pilot Rate Program)",
@@ -575,18 +587,6 @@
       "url": "https://www.svcleanenergy.org/solicitations/",
       "source_domain": "https://www.svcleanenergy.org/solicitations/",
       "description": "Silicon Valley Clean Energy (SVCE) \u2013 Creative Agency for Integrated Marketing and Messaging (Pilot Rate Program) - Issuing organization: Silicon Valley Clean Energy (community choice energy agency in California) - What is being sought: SVCE is seeking a full\u2011service creative agency to develop marketing and messaging strategy and to execute marketing and communications campaigns to support customer education and clean energy awareness for electrif",
-      "first_seen": "2026-08-21"
-    },
-    {
-      "id": "cf4acbc261e46ee2",
-      "type": "perplexity",
-      "title": "Notes on Casino/Gaming, Food/Beverage, Retail, Consumer Goods \u2013 US Brand Agency Searches",
-      "issuer": "Searches",
-      "posted": "2026-08-21",
-      "deadline": "",
-      "url": "https://www.webtonic.io/blog/best-graphic-design-agencies-las-vegas",
-      "source_domain": "https://www.webtonic.io/blog/best-graphic-design-agencies-las-vegas",
-      "description": "Notes on Casino/Gaming, Food/Beverage, Retail, Consumer Goods \u2013 US Brand Agency Searches Within the results available for this turn, I did not find specific, clearly documented 2026 RFPs from US private-sector brands in casino/gaming, food/beverage, retail, or CPG that met all of your constraints (US issuer, US scope, active in 2026, and explicitly an open agency search/RFP). One listing reviewed Las Vegas design and marketing agencies for casino",
       "first_seen": "2026-08-21"
     },
     {
@@ -650,16 +650,28 @@
       "first_seen": "2026-08-21"
     },
     {
-      "id": "62261fd9fe39c3ae",
+      "id": "cf4acbc261e46ee2",
       "type": "perplexity",
-      "title": "public-sector and local marketing RFPs",
-      "issuer": "reviews by major US brands in the sectors you listed",
-      "posted": "2026-08-24",
-      "deadline": "2026-09-25",
-      "url": "https://app.govly.com/public/opportunities/16966217",
-      "source_domain": "https://app.govly.com/public/opportunities/16966217",
-      "description": "There is insufficient information in the retrieved results about brand\u2011specific 2026 advertising/creative/media agency reviews by major US brands in the sectors you listed. The results are largely public-sector and local marketing RFPs, not named-brand agency reviews, and I cannot access additional data this turn. Because of that, I cannot reliably list specific major brands conducting reviews in 2026 with the level of detail you requested. Given",
-      "first_seen": "2026-08-20"
+      "title": "4. Sector-by-sector status based on the available evidence",
+      "issuer": "article shows active marketing/creative suppliers for **casi",
+      "posted": "2026-08-25",
+      "deadline": "",
+      "url": "https://www.webtonic.io/blog/best-graphic-design-agencies-las-vegas",
+      "source_domain": "https://www.webtonic.io/blog/best-graphic-design-agencies-las-vegas",
+      "description": "4. Sector-by-sector status based on the available evidence Within the constraints above: - Casino/gaming (US): The Las Vegas design\u2011agency article shows active marketing/creative suppliers for casino and hospitality collateral in Las Vegas, but it does not identify any specific casino brand running an agency review in 2026. - CPG / Food & Beverage: Multiple 2026 guides discuss how brands should run PR and media RFPs and list agencies specializing",
+      "first_seen": "2026-08-21"
+    },
+    {
+      "id": "b16e03e9933ecbbe",
+      "type": "perplexity",
+      "title": "2. State lottery advertising in May 2026",
+      "issuer": "services,\u201d \u201cintegrated marketing,\u201d \u201ccreative and media,\u201d \u201cdi",
+      "posted": "2026-08-25",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/digital-marketing-and-advertising-services-6t7v",
+      "source_domain": "https://www.cleat.ai/government/contracts/digital-marketing-and-advertising-services-6t7v",
+      "description": "2. State lottery advertising in May 2026 For each lottery whose FY contracts commonly turn over in summer: - Go to the official state procurement portal or lottery site (examples from my earlier results show South Carolina Education Lottery seeking digital advertising services later in 2026). - Search terms: - \u201cadvertising agency services,\u201d \u201cintegrated marketing,\u201d \u201ccreative and media,\u201d \u201cdigital advertising\u201d - Date posted: May 2026 - Confirm: - St",
+      "first_seen": "2026-08-21"
     },
     {
       "id": "daa0330944c0e07b",
@@ -791,6 +803,18 @@
       "url": "https://starbridge.ai/rfp/marketing-services-for-transit-services-request-for",
       "source_domain": "https://starbridge.ai/rfp/marketing-services-for-transit-services-request-for",
       "description": "Brevard County / Space Coast Area Transit \u2014 Marketing Services for Transit Services - Issuing organization: Brevard County, Florida - What is being sought: Full-service advertising and marketing services for transit, including communications and advertising sales - Deadline: August 21, 2026 - Estimated value: Not stated in the gathered sources - Direct URL: Not included in the sourced material I gathered",
+      "first_seen": "2026-08-20"
+    },
+    {
+      "id": "62261fd9fe39c3ae",
+      "type": "perplexity",
+      "title": "6. City and county communications/marketing RFPs (May 2026)",
+      "issuer": "See source",
+      "posted": "2026-08-25",
+      "deadline": "",
+      "url": "https://app.govly.com/public/opportunities/16966217",
+      "source_domain": "https://app.govly.com/public/opportunities/16966217",
+      "description": "6. City and county communications/marketing RFPs (May 2026) My earlier results include county\u2011level marketing and advertising services (e.g., Webb County Fairgrounds in Texas and other county marketing RFPs) with deadlines in August\u2013September 2026. To find May 2026 opportunities of the same type: - Target larger cities and counties: - Search their procurement portals for \u201cmarketing and communications services,\u201d \u201cadvertising services,\u201d \u201ccampaign,\u201d",
       "first_seen": "2026-08-20"
     },
     {
@@ -1346,27 +1370,27 @@
       "first_seen": "2026-08-16"
     },
     {
-      "id": "ef0f9420208f7c96",
+      "id": "b6ad05c04bd455ec",
       "type": "perplexity",
-      "title": "Sound Transit \u2014 Marketing and Advertising Services",
-      "issuer": "** Sound Transit, Washington",
-      "posted": "2026-08-24",
+      "title": "Promotion of Food and Beverage Items Service \u2014 Washington, DC",
+      "issuer": "** US-based government authority in **Washington, DC**",
+      "posted": "2026-08-25",
       "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/marketing-and-advertising-services-idqj",
-      "source_domain": "https://www.cleat.ai/government/contracts/marketing-and-advertising-services-idqj",
-      "description": "Sound Transit \u2014 Marketing and Advertising Services - Issuing organization: Sound Transit, Washington - What is being sought: Comprehensive marketing and advertising services, including market research, target-market identification, and related support - Deadline: 9/2/2026 1:00 PM PT - Estimated value: Not provided in the captured record - Direct posting: No direct government-hosted link was captured in the search results; the record points to a t",
+      "url": "https://www.governmentrfps.com/1157971-usa-washington-dc-promotion-of-food-and-beverage-items-service-rfp.html",
+      "source_domain": "https://www.governmentrfps.com/1157971-usa-washington-dc-promotion-of-food-and-beverage-items-service-rfp.html",
+      "description": "Promotion of Food and Beverage Items Service \u2014 Washington, DC - Issuer: US-based government authority in Washington, DC - What is being sought: A promotion campaign for food and beverage items, including an in-store promotional campaign to increase visibility and consumer demand for American food and beverage products sold in club locations. - Deadline: August 27, 2026. - Estimated value: Not stated in the source material gathered. - Source URL:",
       "first_seen": "2026-08-16"
     },
     {
       "id": "59b3302d6a24bf32",
       "type": "perplexity",
-      "title": "Rockbridge Area Tourism (Lexington, Buena Vista & Rockbridge, VA) \u2013 Tourism Marketing Agency of Record",
-      "issuer": "of Record",
-      "posted": "2026-08-24",
+      "title": "Lexington, Buena Vista, and Rockbridge Area Tourism \u2014 Agency of Record / Tourism Marketing",
+      "issuer": "of Record / Tourism Marketing",
+      "posted": "2026-08-25",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/rfp-2026-01-lexington-buena-vista-and-rockbridge-tourism-mktg-aor-eqjr",
       "source_domain": "https://www.cleat.ai/government/contracts/rfp-2026-01-lexington-buena-vista-and-rockbridge-tourism-mktg-aor-eqjr",
-      "description": "Rockbridge Area Tourism (Lexington, Buena Vista & Rockbridge, VA) \u2013 Tourism Marketing Agency of Record - Issuing organization: Rockbridge Area Tourism (serving Lexington, Buena Vista, and Rockbridge, Virginia, USA). - What is being sought: A marketing agency to act as agency of record for tourism marketing for the Rockbridge Area Tourism program. - Deadline: Summary notes \u201cRFP-126138 seeks a marketing agency for Rockbridge Area Tourism by Septemb",
+      "description": "Lexington, Buena Vista, and Rockbridge Area Tourism \u2014 Agency of Record / Tourism Marketing - Issuer: Central Shenandoah Planning District Commission on behalf of Lexington, Buena Vista, and Rockbridge Area Tourism, Virginia, US - What is being sought: An Agency of Record for comprehensive destination marketing and visitor economy services, including branding, advertising, digital marketing, and content development. - Deadline: September 2, 2026,",
       "first_seen": "2026-08-16"
     },
     {
@@ -1394,15 +1418,15 @@
       "first_seen": "2026-08-16"
     },
     {
-      "id": "b6ad05c04bd455ec",
+      "id": "ef0f9420208f7c96",
       "type": "perplexity",
-      "title": "City of Chesapeake, Virginia \u2014 Convention & Visitors Bureau Advertising",
-      "issuer": "** City of Chesapeake, Virginia",
+      "title": "5. Transit authority advertising/marketing (May 2026)",
+      "issuer": "procurement pages for:",
       "posted": "2026-08-25",
       "deadline": "",
-      "url": "https://www.governmentrfps.com/1157971-usa-washington-dc-promotion-of-food-and-beverage-items-service-rfp.html",
-      "source_domain": "https://www.governmentrfps.com/1157971-usa-washington-dc-promotion-of-food-and-beverage-items-service-rfp.html",
-      "description": "City of Chesapeake, Virginia \u2014 Convention & Visitors Bureau Advertising - Issuing organization: City of Chesapeake, Virginia - What is being sought: Convention & Visitors Bureau advertising services - Deadline: August 5, 2026 - Estimated value: Not stated in the available source - Source URL: https://publicbidsearch.com/bids/convention-and-visitors-bureau-advertising-agency-city-of-chesapeake-va-e44059 I also found a U.S.-based solicitation for p",
+      "url": "https://www.cleat.ai/government/contracts/marketing-and-advertising-services-idqj",
+      "source_domain": "https://www.cleat.ai/government/contracts/marketing-and-advertising-services-idqj",
+      "description": "5. Transit authority advertising/marketing (May 2026) One of the opportunities in my earlier search is Sound Transit (Seattle\u2011area) seeking comprehensive marketing and advertising services with a September 2, 2026 due date. To identify May\u20112026\u2011open analogs: - Visit transit agency procurement pages for: - Sound Transit, LA Metro, NY MTA, WMATA, CTA, etc. - Filter by: - Solicitation type: RFP - Commodity: marketing/advertising/communications - Pos",
       "first_seen": "2026-08-16"
     },
     {
@@ -1442,18 +1466,6 @@
       "first_seen": "2026-08-15"
     },
     {
-      "id": "8fda0ec22d7879a4",
-      "type": "perplexity",
-      "title": "Tourism / Sports / Economic Development RFPs That Do *Not* Qualify or Are Expired",
-      "issuer": "of Commerce & Economic Opportunity \u2013 Tourism marketing and c",
-      "posted": "2026-08-21",
-      "deadline": "",
-      "url": "https://discover.govdash.com/solicitations/019f8a2c-9ee4-75e3-bb63-904e37f1ea11--p27000076-rfp-27-01-hawaii-tourism-brand-mkt-for-north-america-mma",
-      "source_domain": "https://discover.govdash.com/solicitations/019f8a2c-9ee4-75e3-bb63-904e37f1ea11--p27000076-rfp-27-01-hawaii-tourism-brand-mkt-for-north-america-mma",
-      "description": "Tourism / Sports / Economic Development RFPs That Do Not Qualify or Are Expired To avoid false positives in your pipeline, here are related items that are not usable under your criteria: - Illinois Department of Commerce & Economic Opportunity \u2013 Tourism marketing and creative services: Emergency, final-cost procurement for tourism marketing and creative services with bid opening August 13, 2026, described as closed. Not eligible because it is no",
-      "first_seen": "2026-08-15"
-    },
-    {
       "id": "7253887342fa64fa",
       "type": "perplexity",
       "title": "Texas \u2014 Enrollment Marketing & Advertising Services",
@@ -1487,6 +1499,18 @@
       "url": "https://starbridge.ai/rfp/mvaa-creative-and-marketing-services-awareness-campaign",
       "source_domain": "https://starbridge.ai/rfp/mvaa-creative-and-marketing-services-awareness-campaign",
       "description": "Michigan \u2014 MVAA Creative and Marketing Services Awareness Campaign - Issuing organization: Michigan Department of Military and Veterans Affairs / Michigan Veterans Affairs Agency - What is being sought: A 24-month statewide creative and marketing services awareness campaign to increase awareness of services for veterans; includes marketing strategy, print/radio/digital materials, market research, and reporting - Deadline: August 10, 2026 - Estima",
+      "first_seen": "2026-08-15"
+    },
+    {
+      "id": "8fda0ec22d7879a4",
+      "type": "perplexity",
+      "title": "Hawai\u02bbi Tourism Authority \u2014 North America Major Market Area Brand Marketing",
+      "issuer": "** Hawai\u02bbi Tourism Authority, Hawaii, US",
+      "posted": "2026-08-25",
+      "deadline": "",
+      "url": "https://discover.govdash.com/solicitations/019f8a2c-9ee4-75e3-bb63-904e37f1ea11--p27000076-rfp-27-01-hawaii-tourism-brand-mkt-for-north-america-mma",
+      "source_domain": "https://discover.govdash.com/solicitations/019f8a2c-9ee4-75e3-bb63-904e37f1ea11--p27000076-rfp-27-01-hawaii-tourism-brand-mkt-for-north-america-mma",
+      "description": "Hawai\u02bbi Tourism Authority \u2014 North America Major Market Area Brand Marketing - Issuer: Hawai\u02bbi Tourism Authority, Hawaii, US - What is being sought: A contractor to provide comprehensive destination brand marketing services targeting the North America major market areas. - Deadline: August 21, 2026 \u2014 this appears closed/expired based on the notice, so I am not treating it as an active opportunity. - Estimated value: Not stated in the source materi",
       "first_seen": "2026-08-15"
     },
     {
@@ -1610,18 +1634,6 @@
       "first_seen": "2026-08-14"
     },
     {
-      "id": "c826aeb427706950",
-      "type": "perplexity",
-      "title": "Colorado \u2013 Tourism Marketing Services (Government Authority)",
-      "issuer": "** Government authority located in **Colorado, USA**",
-      "posted": "2026-08-24",
-      "deadline": "",
-      "url": "https://rfpplanet.com/mktg-2537/tourism-marketing-services",
-      "source_domain": "https://rfpplanet.com/mktg-2537/tourism-marketing-services",
-      "description": "Colorado \u2013 Tourism Marketing Services (Government Authority) - Issuing organization: Government authority located in Colorado, USA. - RFP title: \u201cTourism Marketing Services\u201d (ID MRB\u201156290 / MKTG\u20112537). - What is being sought: - Comprehensive tourism marketing services including: - Destination brand development, tourism website, four\u2011season content library, organic social media channels, and pilot marketing campaign. - Brand positioning and messag",
-      "first_seen": "2026-08-14"
-    },
-    {
       "id": "b021150fe8aefec2",
       "type": "perplexity",
       "title": "Colorado \u2013 Tourism Marketing & Advertising Services",
@@ -1643,6 +1655,18 @@
       "url": "https://app.govly.com/public/opportunities/16931591",
       "source_domain": "https://app.govly.com/public/opportunities/16931591",
       "description": "Capital District Transportation Authority (CDTA, NY) \u2013 Executive Branding Partner for Regional Bike Share - Issuing organization: Capital District Transportation Authority (CDTA), New York State Contract Reporter notice CDTA\u2011BD 38\u20116000, summarized on a procurement aggregation platform. - What is being sought: - An Executive Branding Partner for CDTA\u2019s Regional Bike Share Program - Services include advertising, graphic arts, marketing, and interio",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "id": "c826aeb427706950",
+      "type": "perplexity",
+      "title": "3. State tourism marketing RFPs (May 2026)",
+      "issuer": "- Exact RFP title (e",
+      "posted": "2026-08-25",
+      "deadline": "",
+      "url": "https://rfpplanet.com/mktg-2537/tourism-marketing-services",
+      "source_domain": "https://rfpplanet.com/mktg-2537/tourism-marketing-services",
+      "description": "3. State tourism marketing RFPs (May 2026) Tourism marketing RFPs similar to the tourism marketing services scope I saw for Colorado are often handled by state tourism offices or local destination marketing organizations. To find those specifically in May 2026: - Search each state\u2019s tourism or economic development RFP page (e.g., \u201cTourism marketing RFP May 2026 site:.gov\u201d restricted to that state). - Filter by: - Category: marketing, advertising,",
       "first_seen": "2026-08-14"
     },
     {
@@ -1888,13 +1912,13 @@
     {
       "id": "947f01f951d8be4b",
       "type": "perplexity",
-      "title": "City of Chesapeake, VA \u2013 Convention & Visitors Bureau Advertising Agency",
-      "issuer": "- **Issuing organization:** City of Chesapeake Convention &",
-      "posted": "2026-08-24",
+      "title": "Convention & Visitors Bureau Advertising \u2014 City of Chesapeake, Virginia",
+      "issuer": "** City of Chesapeake, Virginia, US",
+      "posted": "2026-08-25",
       "deadline": "",
       "url": "https://publicbidsearch.com/bids/convention-and-visitors-bureau-advertising-agency-city-of-chesapeake-va-e44059",
       "source_domain": "https://publicbidsearch.com/bids/convention-and-visitors-bureau-advertising-agency-city-of-chesapeake-va-e44059",
-      "description": "City of Chesapeake, VA \u2013 Convention & Visitors Bureau Advertising Agency - Issuing organization: City of Chesapeake Convention & Visitors Bureau, Virginia, USA. - What is being sought: An advertising agency to provide advertising services for the Convention & Visitors Bureau, supporting tourism marketing for Chesapeake. - Deadline: Listed deadline August 5, 2026; the listing notes it as the RFP deadline for Bid 26-226-4342. - Given today is Augus",
+      "description": "Convention & Visitors Bureau Advertising \u2014 City of Chesapeake, Virginia - Issuer: City of Chesapeake, Virginia, US - What is being sought: Convention & Visitors Bureau advertising services. - Deadline: August 5, 2026 \u2014 this appears expired, so I am not treating it as active. - Estimated value: Not stated in the source material gathered. - Source URL: https://everything-pr.com/how-to-write-a-food-and-beverage-pr-rfp-in-2026",
       "first_seen": "2026-08-10"
     },
     {
@@ -2975,30 +2999,6 @@
       "url": "https://bidbanana.thebidlab.com/articles/how-to-track-rfps-and-reuse-content-in-2026",
       "source_domain": "https://bidbanana.thebidlab.com/articles/how-to-track-rfps-and-reuse-content-in-2026",
       "description": "1. Define precise filters for your profile (ad/marketing only, US\u2011only, public sector)\u2013this is a standard first step in RFP tracking.",
-      "first_seen": "2026-07-24"
-    },
-    {
-      "id": "3230f822c3bf0939",
-      "type": "perplexity",
-      "title": "Arizona \u2013 Creative and Graphic Design Services (ANIM\u20119268)",
-      "issuer": "See source",
-      "posted": "2026-07-24",
-      "deadline": "",
-      "url": "https://www.callcenterrfp.com/1139582-usa-arizona-creative-and-graphic-design-services-rfp.html",
-      "source_domain": "https://www.callcenterrfp.com/1139582-usa-arizona-creative-and-graphic-design-services-rfp.html",
-      "description": "Arizona \u2013 Creative and Graphic Design Services (ANIM\u20119268) - Issuing organization: Government authority located in Arizona (USA), seeking creative services. - What is being sought: Creative and graphic design services, categorized under graphics and animation, marketing and branding, social media, internet marketing and SEO, and related digital content. - Deadline: - Posted: July 7, 2026. - Expiry / proposal deadline: July 17, 2026. - Estimated v",
-      "first_seen": "2026-07-24"
-    },
-    {
-      "id": "66eb4f4ca489d955",
-      "type": "perplexity",
-      "title": "2026 agency review activity",
-      "issuer": "review activity**, but only a small number have concrete, pu",
-      "posted": "2026-07-26",
-      "deadline": "",
-      "url": "https://www.linkedin.com/posts/ivanfernandes1_the-2026-wave-of-agency-reviews-is-telling-activity-7479850686675943426-ETxb",
-      "source_domain": "https://www.linkedin.com/posts/ivanfernandes1_the-2026-wave-of-agency-reviews-is-telling-activity-7479850686675943426-ETxb",
-      "description": "Several major brands are reported to be in 2026 agency review activity, but only a small number have concrete, publicly documented reviews with sector, scope, and timelines; much of the talk is broad (e.g., \u201cIBM, Adidas, Coca-Cola reviews\u201d) without specific, verifiable RFP-level detail. Below is what can be grounded in current information, with clear notes where details are industry commentary rather than confirmed briefs. Because your query is R",
       "first_seen": "2026-07-24"
     }
   ]
