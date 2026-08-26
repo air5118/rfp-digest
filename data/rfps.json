@@ -2,6 +2,30 @@
   "generated": "2026-08-26",
   "rfps": [
     {
+      "id": "2ebef5115179a119",
+      "type": "perplexity",
+      "title": "major US brands",
+      "issuer": "review or pitch data from the search results you provided; t",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.adsoftheworld.com/campaigns/a-life-covered",
+      "source_domain": "https://www.adsoftheworld.com/campaigns/a-life-covered",
+      "description": "I was not able to retrieve any detailed, brand\u2011specific 2026 agency review or pitch data from the search results you provided; the results are mostly \u201cbest agencies\u201d listicles, policy updates, and creative case studies rather than current review activity. Based on only those results, I cannot reliably identify specific major US brands that are currently (in 2026) running advertising/media/creative agency reviews with confirmed timelines and budge",
+      "first_seen": "2026-08-26"
+    },
+    {
+      "id": "3af4caeb7ce96018",
+      "type": "perplexity",
+      "title": "Tennessee Department of Tourist Development \u2013 Tennessee Vacation Guide (Development, Production & Advertising Sales)",
+      "issuer": "of Tourist Development \u2013 Tennessee Vacation Guide (Developme",
+      "posted": "",
+      "deadline": "2026-09-11",
+      "url": "https://www.lightrfp.com/marketplace/bid/TN_CPO-32601-26002/tennessee-vacation-guide-development-production-and-revenue-generating-advertisi",
+      "source_domain": "https://www.lightrfp.com/marketplace/bid/TN_CPO-32601-26002/tennessee-vacation-guide-development-production-and-revenue-generating-advertisi",
+      "description": "Tennessee Department of Tourist Development \u2013 Tennessee Vacation Guide (Development, Production & Advertising Sales) - Issuing organization: State of Tennessee, Department of Tourist Development. - RFP title: Tennessee Vacation Guide \u2013 Development, Production and Revenue Generating Advertising Sales. - What is being sought: A contractor to fully manage the annual Tennessee Vacation Guide as a self\u2011sustaining publication: development, production,",
+      "first_seen": "2026-08-26"
+    },
+    {
       "id": "218606f2ead10534",
       "type": "perplexity",
       "title": "Tennessee Department of General Services \u2014 Tennessee Vacation Guide Development, Production, and Advertising Sales",
@@ -40,13 +64,25 @@
     {
       "id": "adee38a988491b87",
       "type": "perplexity",
-      "title": "Southwest Virginia Regional Recreation Authority (Spearhead Trails) \u2013 Tourism Marketing Photography & Video",
+      "title": "Southwest Virginia Regional Recreation Authority (Spearhead Trails) \u2013 Professional Photography & Videography for Tourism Marketing",
       "issuer": "** **Southwest Virginia Regional Recreation Authority (Spear",
-      "posted": "2026-08-26",
+      "posted": "",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/rfp-72-professional-photography-and-videography-services-needed-nwyg",
       "source_domain": "https://www.cleat.ai/government/contracts/rfp-72-professional-photography-and-videography-services-needed-nwyg",
-      "description": "Southwest Virginia Regional Recreation Authority (Spearhead Trails) \u2013 Tourism Marketing Photography & Video - Issuing organization: Southwest Virginia Regional Recreation Authority (Spearhead Trails), Virginia, USA. - What is being sought: Professional photography and videography services to support a tourism marketing initiative funded by the Virginia Tourism Corporation Marketing Leverage Program. - Create a high-quality media library (photos a",
+      "description": "Southwest Virginia Regional Recreation Authority (Spearhead Trails) \u2013 Professional Photography & Videography for Tourism Marketing - Issuing organization: Southwest Virginia Regional Recreation Authority (Spearhead Trails), Virginia, USA. - What is being sought: - Professional photography and videography services to support a tourism marketing initiative funded by the Virginia Tourism Corporation Marketing Leverage Program. - Purpose is to genera",
+      "first_seen": "2026-08-26"
+    },
+    {
+      "id": "8fa860bf50e126cd",
+      "type": "perplexity",
+      "title": "New York (County-level Agency) \u2013 Advertising, Marketing, Media, and Public Relations Services (MKTG\u20112607)",
+      "issuer": "** A **US county government authority in New York State**, U",
+      "posted": "",
+      "deadline": "",
+      "url": "https://rfpplanet.com/mktg-2607/certain-advertising-marketing-media-and-pu",
+      "source_domain": "https://rfpplanet.com/mktg-2607/certain-advertising-marketing-media-and-pu",
+      "description": "New York (County-level Agency) \u2013 Advertising, Marketing, Media, and Public Relations Services (MKTG\u20112607) - Issuing organization: A US county government authority in New York State, USA (government authority; specific county name is omitted in the excerpt but the listing describes the work as promoting the county). - What is being sought: Broad advertising, marketing, media and public relations services to \u201cpromote [the] county as a good place to",
       "first_seen": "2026-08-26"
     },
     {
@@ -59,18 +95,6 @@
       "url": "https://starbridge.ai/rfp/notice-of-intent-to-sole-source-20",
       "source_domain": "https://starbridge.ai/rfp/notice-of-intent-to-sole-source-20",
       "description": "Hawai\u02bbi Tourism Authority \u2014 Destination Brand Marketing Services for North America - Issuing organization: Hawai\u02bbi Tourism Authority. - What is being sought: Comprehensive destination brand marketing services targeting North America major market areas, focused on leisure travel marketing. - Deadline: August 21, 2026. - Estimated value: Up to $49,000,000 according to the available source. - Source URL: https://discover.govdash.com/solicitations/01",
-      "first_seen": "2026-08-26"
-    },
-    {
-      "id": "8fa860bf50e126cd",
-      "type": "perplexity",
-      "title": "Certain Advertising, Marketing, Media and Public Relations Services \u2013 New York (County Economic Promotion)",
-      "issuer": "** A **county government in New York, USA**, via RFPPlanet l",
-      "posted": "2026-08-26",
-      "deadline": "",
-      "url": "https://rfpplanet.com/mktg-2607/certain-advertising-marketing-media-and-pu",
-      "source_domain": "https://rfpplanet.com/mktg-2607/certain-advertising-marketing-media-and-pu",
-      "description": "Certain Advertising, Marketing, Media and Public Relations Services \u2013 New York (County Economic Promotion) - Issuing organization: A county government in New York, USA, via RFPPlanet listing (government authority). - What is being sought: \u201cCertain advertising, marketing, media and public relations services\u201d to promote the county as a good place to keep and create jobs\u2014i.e., economic development marketing and PR support. - Deadline: - RFP posted:",
       "first_seen": "2026-08-26"
     },
     {
@@ -206,18 +230,6 @@
       "first_seen": "2026-08-24"
     },
     {
-      "id": "9864f491817e0936",
-      "type": "perplexity",
-      "title": "La Marque, Texas \u2013 Tourism Event Planning, Production, Marketing, and Management Services (FY27)",
-      "issuer": "** **City of La Marque**, Texas, USA",
-      "posted": "2026-08-24",
-      "deadline": "",
-      "url": "https://www.highergov.com/sl/contract-opportunity/tx-rfp-26-01-tourism-event-planning-71934944/",
-      "source_domain": "https://www.highergov.com/sl/contract-opportunity/tx-rfp-26-01-tourism-event-planning-71934944/",
-      "description": "La Marque, Texas \u2013 Tourism Event Planning, Production, Marketing, and Management Services (FY27) - Issuing organization: City of La Marque, Texas, USA. - RFP title: \u201cTourism Event Planning, Production, Marketing, and Management Services FY 27 \u2013 Request for Proposals.\u201d - What is being sought: Planning, production, marketing, and management services for tourism events. - Deadline: Closing date August 20, 2026. - Estimated value: Not specified in th",
-      "first_seen": "2026-08-24"
-    },
-    {
       "id": "5b7b5749e5af3489",
       "type": "perplexity",
       "title": "Illinois Department of Commerce and Economic Opportunity \u2014 Tourism Marketing and Creative Services",
@@ -239,6 +251,18 @@
       "url": "https://www.stcharlescitymo.gov/bids.aspx?bidID=709&PRINT=YES",
       "source_domain": "https://www.stcharlescitymo.gov/bids.aspx?bidID=709&PRINT=YES",
       "description": "City of Saint Charles, Missouri \u2014 Real Estate Marketing, Planning, and Redevelopment Consultant Services - Issuing organization: City of Saint Charles, Missouri - What is being sought: Consultant services for real estate marketing, planning, and redevelopment - Deadline: 9/3/2026 2:00 PM - Estimated value: Not provided in the captured record - Direct posting: https://www.stcharlescitymo.gov/bids.aspx?bidID=709&PRINT=YES",
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "9864f491817e0936",
+      "type": "perplexity",
+      "title": "City of La Marque (Texas) \u2013 Tourism Event Planning, Production, Marketing & Management Services (FY 27)",
+      "issuer": "** City of La Marque, Texas",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.highergov.com/sl/contract-opportunity/tx-rfp-26-01-tourism-event-planning-71934944/",
+      "source_domain": "https://www.highergov.com/sl/contract-opportunity/tx-rfp-26-01-tourism-event-planning-71934944/",
+      "description": "City of La Marque (Texas) \u2013 Tourism Event Planning, Production, Marketing & Management Services (FY 27) - Issuing organization: City of La Marque, Texas. - RFP title: RFP 26\u201101 \u2013 Tourism Event Planning, Production, Marketing, and Management Services FY 27. - What is being sought: A vendor to provide tourism event planning, production, marketing, and management services, including promotion of city tourism events. - Deadline: Closes August 20, 202",
       "first_seen": "2026-08-24"
     },
     {
@@ -362,18 +386,6 @@
       "first_seen": "2026-08-23"
     },
     {
-      "id": "1907ab93708aa66f",
-      "type": "perplexity",
-      "title": "Rockbridge County / Lexington\u2013Buena Vista & Rockbridge Tourism \u2013 Tourism Marketing Agency of Record (AOR)",
-      "issuer": "of Record (AOR)",
-      "posted": "2026-08-26",
-      "deadline": "2026-09-09",
-      "url": "https://discover.govdash.com/solicitations/01a01f8f-90b0-7097-b183-68e99b9e32f4--rfp-2026-01-lexington-buena-vista-and-rockbrid",
-      "source_domain": "https://discover.govdash.com/solicitations/01a01f8f-90b0-7097-b183-68e99b9e32f4--rfp-2026-01-lexington-buena-vista-and-rockbrid",
-      "description": "Rockbridge County / Lexington\u2013Buena Vista & Rockbridge Tourism \u2013 Tourism Marketing Agency of Record (AOR) - Issuing organization: Central Shenandoah Planning District Commission, acting on behalf of Lexington, Buena Vista & Rockbridge Tourism (Rockbridge County, Virginia, USA). - What is being sought: A qualified Agency of Record for tourism marketing, including: - Advertising and branding - Digital marketing - Content development - Media strateg",
-      "first_seen": "2026-08-23"
-    },
-    {
       "id": "9051dd8725407786",
       "type": "brand_lead",
       "title": "Intuit Puts Its $690 Million U.S. Media Account In Review 07/09/2026",
@@ -388,13 +400,13 @@
     {
       "id": "862797a3bb0f4662",
       "type": "perplexity",
-      "title": "Hillsborough Area Regional Transit Authority (HART) \u2013 Marketing/Advertising\u2011Related RFP (Florida)",
-      "issuer": "See source",
-      "posted": "2026-08-25",
+      "title": "Hillsborough Area Regional Transit Authority (HART) \u2013 Transit Advertising Franchise",
+      "issuer": "** Hillsborough Area Regional Transit Authority (HART), Flor",
+      "posted": "",
       "deadline": "",
       "url": "https://app.govly.com/public/opportunities/16987863",
       "source_domain": "https://app.govly.com/public/opportunities/16987863",
-      "description": "Hillsborough Area Regional Transit Authority (HART) \u2013 Marketing/Advertising\u2011Related RFP (Florida) The earlier extract only shows this as a DemandStar/Govly opportunity with a due date; the title/description is truncated. - Issuing organization: Hillsborough Area Regional Transit Authority (HART), Tampa, Florida, USA. - What is being sought: The specific scope is not fully visible in the snippet. However, the opportunity is categorized as an RFP o",
+      "description": "Hillsborough Area Regional Transit Authority (HART) \u2013 Transit Advertising Franchise - Issuing organization: Hillsborough Area Regional Transit Authority (HART), Florida, USA. - What is being sought: An experienced transit advertising firm to develop, operate, maintain, and grow HART\u2019s advertising franchise across its transit system (i.e., management and sale of ad inventory on buses and related assets). - Deadline: Responses due September 24, 202",
       "first_seen": "2026-08-23"
     },
     {
@@ -467,6 +479,18 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaUstVVhweEVzN0Y3dEdZZHBIdVZ3eUVCRGlzY1U3T2paUVlIbmFycG5jNWpvS09pOXN1S3MxTU8zaTFUWF9GaE5zNDA0RW5fS2tyU0thZ3hPSFVvY2NRS1RfQWxndndNREpaUDlvSEoxVXBJX0ZZV1N3UW95TU1CeW81dnhJTS1POUdfcjRoQnRvb1BsWkFZQUxn?oc=5",
       "source_domain": "https://adage.com",
       "description": "Coca-Cola media, data and tech agency review pits WPP against Publicis Ad Age",
+      "first_seen": "2026-08-23"
+    },
+    {
+      "id": "1907ab93708aa66f",
+      "type": "perplexity",
+      "title": "Central Shenandoah Planning District Commission \u2013 Lexington, Buena Vista & Rockbridge Tourism Marketing Agency of Record",
+      "issuer": "of Record",
+      "posted": "",
+      "deadline": "2026-09-09",
+      "url": "https://discover.govdash.com/solicitations/01a01f8f-90b0-7097-b183-68e99b9e32f4--rfp-2026-01-lexington-buena-vista-and-rockbrid",
+      "source_domain": "https://discover.govdash.com/solicitations/01a01f8f-90b0-7097-b183-68e99b9e32f4--rfp-2026-01-lexington-buena-vista-and-rockbrid",
+      "description": "Central Shenandoah Planning District Commission \u2013 Lexington, Buena Vista & Rockbridge Tourism Marketing Agency of Record - Issuing organization: Central Shenandoah Planning District Commission on behalf of Lexington, Buena Vista & Rockbridge Tourism, Virginia. - RFP title: RFP 2026\u201101 \u2013 Lexington, Buena Vista, and Rockbridge Tourism Marketing Agency of Record. - What is being sought: An agency of record to develop and execute an integrated touris",
       "first_seen": "2026-08-23"
     },
     {
@@ -566,18 +590,6 @@
       "first_seen": "2026-08-22"
     },
     {
-      "id": "7fc29924cac8f5ee",
-      "type": "perplexity",
-      "title": "Lexington, Buena Vista & Rockbridge Tourism \u2013 Agency of Record Marketing RFP",
-      "issuer": "of Record Marketing RFP",
-      "posted": "2026-08-23",
-      "deadline": "",
-      "url": "https://app.govly.com/public/opportunities/16951579",
-      "source_domain": "https://app.govly.com/public/opportunities/16951579",
-      "description": "Lexington, Buena Vista & Rockbridge Tourism \u2013 Agency of Record Marketing RFP Issuing organization: Lexington, Buena Vista & Rockbridge Tourism (Virginia tourism entities using Virginia\u2019s eProcurement Marketplace) What is being sought: The tourism organizations are seeking a qualified marketing firm to serve as the Agency of Record for tourism marketing for Lexington, Buena Vista, and Rockbridge, including strategic marketing, campaign development",
-      "first_seen": "2026-08-22"
-    },
-    {
       "id": "5bd2e4b34bc4ca35",
       "type": "perplexity",
       "title": "Illinois State Treasurer \u2013 Marketing Services RFP (Reference Only; likely prior\u2011year number)",
@@ -626,6 +638,18 @@
       "first_seen": "2026-08-22"
     },
     {
+      "id": "7fc29924cac8f5ee",
+      "type": "perplexity",
+      "title": "Central Shenandoah Planning District Commission \u2013 Lexington, Buena Vista & Rockbridge Tourism Agency of Record (Virginia)",
+      "issuer": "of Record (Virginia)",
+      "posted": "",
+      "deadline": "",
+      "url": "https://app.govly.com/public/opportunities/16951579",
+      "source_domain": "https://app.govly.com/public/opportunities/16951579",
+      "description": "Central Shenandoah Planning District Commission \u2013 Lexington, Buena Vista & Rockbridge Tourism Agency of Record (Virginia) - Issuing organization: Central Shenandoah Planning District Commission on behalf of Lexington, Buena Vista & Rockbridge Tourism, Virginia. - What is being sought: - A qualified marketing firm to serve as the Agency of Record for destination marketing for Lexington, Buena Vista, and Rockbridge County, Virginia. - Scope include",
+      "first_seen": "2026-08-22"
+    },
+    {
       "id": "5b56ad81e54f7a6e",
       "type": "perplexity",
       "title": "practical research workflow",
@@ -665,12 +689,12 @@
       "id": "b16e03e9933ecbbe",
       "type": "perplexity",
       "title": "South Carolina Education Lottery Commission \u2013 Digital Marketing & Advertising Services",
-      "issuer": "** **South Carolina Education Lottery Commission**, South Ca",
-      "posted": "2026-08-26",
+      "issuer": "** South Carolina Education Lottery Commission",
+      "posted": "",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/digital-marketing-and-advertising-services-6t7v",
       "source_domain": "https://www.cleat.ai/government/contracts/digital-marketing-and-advertising-services-6t7v",
-      "description": "South Carolina Education Lottery Commission \u2013 Digital Marketing & Advertising Services - Issuing organization: South Carolina Education Lottery Commission, South Carolina, USA. - What is being sought: Digital marketing and advertising services to promote lottery games, including: - Comprehensive digital advertising campaigns - Social media, paid search, display ads, and content platforms, aimed at lottery engagement. This is classified under NAIC",
+      "description": "South Carolina Education Lottery Commission \u2013 Digital Marketing & Advertising Services - Issuing organization: South Carolina Education Lottery Commission - What is being sought: A qualified vendor to develop and execute comprehensive digital advertising campaigns promoting lottery games across multiple digital channels, including social media, paid search, display, and content platforms. - Deadline: September 18, 2026 (submission deadline). - Es",
       "first_seen": "2026-08-21"
     },
     {
@@ -1348,13 +1372,13 @@
     {
       "id": "35d3c11becb7a507",
       "type": "perplexity",
-      "title": "Detroit Public Schools Community District \u2013 Comprehensive Videography Services for Communications & Marketing (Michigan)",
+      "title": "Detroit Public Schools Community District \u2013 Comprehensive Videography Services (Communications & Marketing Support)",
       "issuer": "** **Detroit Public Schools Community District (DPSCD)**, Mi",
-      "posted": "2026-08-23",
+      "posted": "",
       "deadline": "",
       "url": "https://app.govly.com/public/opportunities/16963208",
       "source_domain": "https://app.govly.com/public/opportunities/16963208",
-      "description": "Detroit Public Schools Community District \u2013 Comprehensive Videography Services for Communications & Marketing (Michigan) - Issuing organization: Detroit Public Schools Community District (DPSCD), Michigan, USA, via DemandStar (indexed by Govly). - What is being sought: Comprehensive videography services to support DPSCD\u2019s: - Communications and marketing - Recruitment - Community engagement objectives Though framed as \u201cvideography,\u201d the purpose an",
+      "description": "Detroit Public Schools Community District \u2013 Comprehensive Videography Services (Communications & Marketing Support) - Issuing organization: Detroit Public Schools Community District (DPSCD), Michigan, USA. - What is being sought: Comprehensive videography services to support the District\u2019s communications, marketing, recruitment, and community\u2011engagement goals. This is squarely within marketing/communications scope, as video content is to be used",
       "first_seen": "2026-08-17"
     },
     {
@@ -1588,13 +1612,13 @@
     {
       "id": "38ba8aba4708b4c1",
       "type": "perplexity",
-      "title": "DuPage County Workforce Development Division (workNet DuPage) \u2013 Communications and Marketing Services (Illinois)",
+      "title": "DuPage County Workforce Development (workNet DuPage) \u2013 Communications and Marketing Services",
       "issuer": "** **DuPage County Workforce Development Division (workNet D",
-      "posted": "2026-08-23",
+      "posted": "",
       "deadline": "",
       "url": "https://app.govly.com/public/opportunities/16933175",
       "source_domain": "https://app.govly.com/public/opportunities/16933175",
-      "description": "DuPage County Workforce Development Division (workNet DuPage) \u2013 Communications and Marketing Services (Illinois) - Issuing organization: DuPage County Workforce Development Division (workNet DuPage), DuPage County, Illinois, USA, via DemandStar (indexed by Govly). - What is being sought: Communications and marketing services to support workforce development activities, including outreach and promotional efforts for programs administered by workNe",
+      "description": "DuPage County Workforce Development (workNet DuPage) \u2013 Communications and Marketing Services - Issuing organization: DuPage County Workforce Development Division (workNet DuPage), DuPage County, Illinois, USA. - What is being sought: Communications and marketing services to support the Workforce Development Division\u2019s programs and outreach. Scope is described broadly as \u201cCommunications and Marketing Services,\u201d which would typically include strate",
       "first_seen": "2026-08-15"
     },
     {
@@ -1696,13 +1720,25 @@
     {
       "id": "4fb1c843cac5edca",
       "type": "perplexity",
-      "title": "Hawai\u02bbi Tourism Authority \u2013 Destination Brand Marketing (Oceania MMA)",
-      "issuer": "** Hawai\u02bbi Tourism Authority (via a bids clearinghouse listi",
-      "posted": "2026-08-14",
+      "title": "Hawaii Tourism Authority \u2013 Destination Brand Marketing (Oceania Market)",
+      "issuer": "** Hawaii Tourism Authority (HTA), U",
+      "posted": "",
       "deadline": "",
       "url": "http://www.bidsusa.net/Default.cfm?Page=400&BSID=4999891",
       "source_domain": "http://www.bidsusa.net/Default.cfm?Page=400&BSID=4999891",
-      "description": "Hawai\u02bbi Tourism Authority \u2013 Destination Brand Marketing (Oceania MMA) - Issuing organization: Hawai\u02bbi Tourism Authority (via a bids clearinghouse listing). - What is being sought: Destination brand marketing for the Oceania major market area (MMA), focused on tourism promotion, advertising, and brand-building activities for Hawai\u02bbi in Oceania. - Deadline (2026): The \u201cOpen RFPs\u201d listing shows RFP 27-09 Hawaii Tourism Destination Brand Marketing Oc",
+      "description": "Hawaii Tourism Authority \u2013 Destination Brand Marketing (Oceania Market) - Issuing organization: Hawaii Tourism Authority (HTA), U.S. (State of Hawaii). - RFP title: RFP 27\u201109 \u2013 Hawaii Tourism Destination Brand Marketing Oceania MMA. - What is being sought: A contractor to provide destination brand marketing for Hawaii in the Oceania market; this is still U.S. tourism promotion, though with an international market focus. - Deadline: August 17, 202",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "id": "c826aeb427706950",
+      "type": "perplexity",
+      "title": "Colorado \u2013 Tourism Marketing Services (Government Authority, Tourism Board)",
+      "issuer": "** Government authority **located in Colorado, USA** (touris",
+      "posted": "2026-08-05",
+      "deadline": "",
+      "url": "https://rfpplanet.com/mktg-2537/tourism-marketing-services",
+      "source_domain": "https://rfpplanet.com/mktg-2537/tourism-marketing-services",
+      "description": "Colorado \u2013 Tourism Marketing Services (Government Authority, Tourism Board) - Issuing organization: Government authority located in Colorado, USA (tourism-related public sector buyer). - What is being sought: - Tourism marketing services to build foundational marketing infrastructure for a destination. - Work includes establishing a distinct destination brand, launching a tourism website, developing a four\u2011season content library, standing up orga",
       "first_seen": "2026-08-14"
     },
     {
@@ -1727,18 +1763,6 @@
       "url": "https://app.govly.com/public/opportunities/16931591",
       "source_domain": "https://app.govly.com/public/opportunities/16931591",
       "description": "Capital District Transportation Authority (CDTA, NY) \u2013 Executive Branding Partner for Regional Bike Share - Issuing organization: Capital District Transportation Authority (CDTA), New York State Contract Reporter notice CDTA\u2011BD 38\u20116000, summarized on a procurement aggregation platform. - What is being sought: - An Executive Branding Partner for CDTA\u2019s Regional Bike Share Program - Services include advertising, graphic arts, marketing, and interio",
-      "first_seen": "2026-08-14"
-    },
-    {
-      "id": "c826aeb427706950",
-      "type": "perplexity",
-      "title": "3. State tourism marketing RFPs (May 2026)",
-      "issuer": "- Exact RFP title (e",
-      "posted": "2026-08-25",
-      "deadline": "",
-      "url": "https://rfpplanet.com/mktg-2537/tourism-marketing-services",
-      "source_domain": "https://rfpplanet.com/mktg-2537/tourism-marketing-services",
-      "description": "3. State tourism marketing RFPs (May 2026) Tourism marketing RFPs similar to the tourism marketing services scope I saw for Colorado are often handled by state tourism offices or local destination marketing organizations. To find those specifically in May 2026: - Search each state\u2019s tourism or economic development RFP page (e.g., \u201cTourism marketing RFP May 2026 site:.gov\u201d restricted to that state). - Filter by: - Category: marketing, advertising,",
       "first_seen": "2026-08-14"
     },
     {
@@ -2975,30 +2999,6 @@
       "url": "https://www.governmentrfps.com/social-media-internet-marketing-and-seo-rfp-government-contract.html",
       "source_domain": "https://www.governmentrfps.com/social-media-internet-marketing-and-seo-rfp-government-contract.html",
       "description": "Virginia \u2014 Advertising agency services - What\u2019s being sought: Advertising agency services. - Deadline: July 22, 2026. - Estimated value: Not shown in the search result excerpt. - Direct posting: Not provided in the search results; the source is a third-party aggregator listing.",
-      "first_seen": "2026-07-24"
-    },
-    {
-      "id": "6b527c0009bc9180",
-      "type": "perplexity",
-      "title": "There is not enough reliable, up\u2011to\u2011date public information in the current search results to identify specific major US ",
-      "issuer": "reviews by name, sector, scope, and budget",
-      "posted": "2026-07-30",
-      "deadline": "",
-      "url": "https://improvado.io/blog/best-marketing-agencies-new-york",
-      "source_domain": "https://improvado.io/blog/best-marketing-agencies-new-york",
-      "description": "There is not enough reliable, up\u2011to\u2011date public information in the current search results to identify specific major US brands that are currently (in 2026) running advertising, media, or creative agency reviews by name, sector, scope, and budget. None of the retrieved documents report live 2026 pitch activity, review timelines, or RFPs by brand.",
-      "first_seen": "2026-07-24"
-    },
-    {
-      "id": "aa2d41fdd570a6c8",
-      "type": "perplexity",
-      "title": "State Tourism \u2013 Colorado Tourism Office (State of Colorado)",
-      "issuer": "** Colorado Tourism Office, Colorado Office of Economic Deve",
-      "posted": "2026-07-26",
-      "deadline": "",
-      "url": "https://govbidreport.com/bids/",
-      "source_domain": "https://govbidreport.com/bids/",
-      "description": "State Tourism \u2013 Colorado Tourism Office (State of Colorado) Organization: Colorado Tourism Office, Colorado Office of Economic Development and International Trade RFP title: Integrated Tourism Marketing and Advertising Services What is being sought: A marketing firm to handle statewide tourism advertising, including campaign strategy, creative, media (traditional and digital), and performance analytics for promoting travel to Colorado. Deadline:",
       "first_seen": "2026-07-24"
     }
   ]
