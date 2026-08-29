@@ -1,16 +1,64 @@
 {
-  "generated": "2026-08-28",
+  "generated": "2026-08-29",
   "rfps": [
+    {
+      "id": "9073c034792ea106",
+      "type": "perplexity",
+      "title": "Washington, DC \u2013 Promotion of Food and Beverage Items Service (Government Authority)",
+      "issuer": "** Government authority located in **Washington, DC, USA** (",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.scanningrfp.com/1157971-usa-washington-dc-promotion-of-food-and-beverage-items-service-rfp.html",
+      "source_domain": "https://www.scanningrfp.com/1157971-usa-washington-dc-promotion-of-food-and-beverage-items-service-rfp.html",
+      "description": "Washington, DC \u2013 Promotion of Food and Beverage Items Service (Government Authority) - Issuing organization: Government authority located in Washington, DC, USA (identified as a \u201cUSA (Washington, DC) \u2013 Government Authority located in Washington, DC; USA based organization\u201d). - What is being sought: - Vendor to provide promotion of food and beverage items service. - Scope includes design and implementation of an in-store promotional campaign to in",
+      "first_seen": "2026-08-29"
+    },
+    {
+      "id": "08e5532196a1a172",
+      "type": "perplexity",
+      "title": "State of Connecticut DAS Procurement \u2014 Economic Development Branding and Marketing Services",
+      "issuer": "** State of Connecticut, DAS Procurement",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/economic-development-branding-and-marketing-services-war9",
+      "source_domain": "https://www.cleat.ai/government/contracts/economic-development-branding-and-marketing-services-war9",
+      "description": "State of Connecticut DAS Procurement \u2014 Economic Development Branding and Marketing Services - Issuing organization: State of Connecticut, DAS Procurement - What is being sought: Economic development branding and marketing services. - Deadline: October 6, 2026 at 3:00 PM. - Estimated value: Not stated in the result. - Posting / link:",
+      "first_seen": "2026-08-29"
+    },
+    {
+      "id": "7dc7b2d83f87b428",
+      "type": "perplexity",
+      "title": "Ohio Casino Control Commission \u2013 Gambling Blocking Services RFP (Regulatory / Responsible Gaming)",
+      "issuer": "search; it is a service RFP",
+      "posted": "",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/gambling-blocking-services-src0000040376-rfp",
+      "source_domain": "https://starbridge.ai/rfp/gambling-blocking-services-src0000040376-rfp",
+      "description": "Ohio Casino Control Commission \u2013 Gambling Blocking Services RFP (Regulatory / Responsible Gaming) > This opportunity is casino/gaming\u2013related, but it is not a traditional brand advertising agency search; it is a service RFP. Including it here for completeness in the casino/gaming vertical, with the caveat that it may not involve consumer-facing marketing. - Issuing organization: - Ohio Casino Control Commission, a US state regulatory body in Ohio",
+      "first_seen": "2026-08-29"
+    },
+    {
+      "id": "e247c5c09f806bbd",
+      "type": "brand_lead",
+      "title": "In Review, June 2026: Headline highlights from Boots, Sephora, Charlotte Tilbury and more...",
+      "issuer": "TheIndustry.beauty",
+      "posted": "2026-07-01",
+      "deadline": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb01aZ2FLZmpnM2wteWtISGhHNDIyMm0wVmxYb2FEQWF6bWVkUUJVdVo0eXdvSm1RcEF1MWk4b2MxYTE4T1AtMFludmJsbm9jeDNjMWFDS0pNRHNKbENpMm50ZDV1bVJMNFcyQ19Yd2hfRDlGcmRMdkE0TmFJRnlLWnAtSUdfdE5PdUhiUHRtVFdTQWpLaVFMRkZKNUl5dXE1QTBxUmJUdUN6ZDRlR1BFcTk4dw?oc=5",
+      "source_domain": "https://theindustry.beauty",
+      "description": "In Review, June 2026: Headline highlights from Boots, Sephora, Charlotte Tilbury and more... TheIndustry.beauty",
+      "first_seen": "2026-08-29"
+    },
     {
       "id": "2d53dbba16aaa9de",
       "type": "perplexity",
-      "title": "University of Minnesota \u2013 Northrop Arts Digital Marketing Services",
-      "issuer": "** **University of Minnesota**, Northrop Arts, Minnesota, US",
+      "title": "University of Minnesota \u2013 Digital Marketing Partner (Northrop)",
+      "issuer": "** University of Minnesota (Northrop), Minnesota, USA",
       "posted": "",
       "deadline": "",
       "url": "https://app.govly.com/public/opportunities/17001186",
       "source_domain": "https://app.govly.com/public/opportunities/17001186",
-      "description": "University of Minnesota \u2013 Northrop Arts Digital Marketing Services - Issuing organization: University of Minnesota, Northrop Arts, Minnesota, USA. - What is being sought: A digital marketing partner to provide digital marketing services for Northrop Arts programming: driving event ticket sales, fundraising, engagement for programming and space rental, and enhancing overall brand awareness. - Deadline: The snippets show the RFP as current as of Au",
+      "description": "University of Minnesota \u2013 Digital Marketing Partner (Northrop) - Issuing organization: University of Minnesota (Northrop), Minnesota, USA - What is being sought: - A digital marketing partner to provide services aimed at: - Driving event ticket sales - Supporting fundraising - Increasing engagement for Northrop\u2019s programming and space rental - Scope includes multi-channel digital marketing campaigns for a university performing arts venue. - Deadl",
       "first_seen": "2026-08-28"
     },
     {
@@ -232,13 +280,13 @@
     {
       "id": "587ff59c7bd4d788",
       "type": "perplexity",
-      "title": "State of Tennessee \u2013 Tennessee Vacation Guide Development, Production & Advertising Sales",
-      "issuer": "** **State of Tennessee**, Department of Tourist Development",
+      "title": "State of Tennessee \u2014 Development, Production and Revenue-Generating Advertising Sales for Tennessee Vacation Guide",
+      "issuer": "** Tennessee Department of General Services / State of Tenne",
       "posted": "",
       "deadline": "",
       "url": "https://app.govly.com/public/opportunities/16909124",
       "source_domain": "https://app.govly.com/public/opportunities/16909124",
-      "description": "State of Tennessee \u2013 Tennessee Vacation Guide Development, Production & Advertising Sales - Issuing organization: State of Tennessee, Department of Tourist Development, Tennessee, USA. - What is being sought: A contractor to develop, produce, manage, and sell advertising for the annual Tennessee Vacation Guide, which is a key tourism marketing publication. The guide is to be managed as a self\u2011sustaining marketing publication with revenue\u2011generati",
+      "description": "State of Tennessee \u2014 Development, Production and Revenue-Generating Advertising Sales for Tennessee Vacation Guide - Issuing organization: Tennessee Department of General Services / State of Tennessee - What is being sought: Development, production, and revenue-generating advertising sales for the Tennessee Vacation Guide. - Deadline: November 9, 2026. - Estimated value: Not stated in the result. - Posting / link:",
       "first_seen": "2026-08-26"
     },
     {
@@ -266,6 +314,18 @@
       "first_seen": "2026-08-26"
     },
     {
+      "id": "22a3a8734a8e3882",
+      "type": "perplexity",
+      "title": "South Carolina Department of Parks, Recreation & Tourism \u2013 Sole-Source Media Partnership (Charleston Area CVB)",
+      "issuer": "of Parks, Recreation & Tourism \u2013 Sole-Source Media Partnersh",
+      "posted": "",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/notice-of-intent-to-sole-source-20",
+      "source_domain": "https://starbridge.ai/rfp/notice-of-intent-to-sole-source-20",
+      "description": "South Carolina Department of Parks, Recreation & Tourism \u2013 Sole-Source Media Partnership (Charleston Area CVB) > Note: This is a notice of intent to sole source, not a competitive multi\u2011agency search. As a procurement researcher, you may still want it for visibility into tourism marketing spend and incumbency but it will not be a typical open agency competition. - Issuing organization: - South Carolina Department of Parks, Recreation and Tourism,",
+      "first_seen": "2026-08-26"
+    },
+    {
       "id": "8fa860bf50e126cd",
       "type": "perplexity",
       "title": "New York \u2013 \u201cCertain Advertising, Marketing, Media and Public Relations Services\u201d",
@@ -275,18 +335,6 @@
       "url": "https://rfpplanet.com/mktg-2607/certain-advertising-marketing-media-and-pu",
       "source_domain": "https://rfpplanet.com/mktg-2607/certain-advertising-marketing-media-and-pu",
       "description": "New York \u2013 \u201cCertain Advertising, Marketing, Media and Public Relations Services\u201d - Brand/Issuer: A U.S. agency in New York, USA (the description is of a government/agency RFP hosted on a US bid platform). - What they are reviewing/seeking: Broad advertising, marketing, media, and PR services, including: - Production and media services and materials for advertising (ads, commercials, web advertising, mobile, social media output, webcasts, blogs).",
-      "first_seen": "2026-08-26"
-    },
-    {
-      "id": "22a3a8734a8e3882",
-      "type": "perplexity",
-      "title": "Hawai\u02bbi Tourism Authority \u2014 Destination Brand Marketing Services for North America",
-      "issuer": "** **Hawai\u02bbi Tourism Authority**",
-      "posted": "2026-08-26",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/notice-of-intent-to-sole-source-20",
-      "source_domain": "https://starbridge.ai/rfp/notice-of-intent-to-sole-source-20",
-      "description": "Hawai\u02bbi Tourism Authority \u2014 Destination Brand Marketing Services for North America - Issuing organization: Hawai\u02bbi Tourism Authority. - What is being sought: Comprehensive destination brand marketing services targeting North America major market areas, focused on leisure travel marketing. - Deadline: August 21, 2026. - Estimated value: Up to $49,000,000 according to the available source. - Source URL: https://discover.govdash.com/solicitations/01",
       "first_seen": "2026-08-26"
     },
     {
@@ -340,13 +388,13 @@
     {
       "id": "e56c4a751abf8c01",
       "type": "perplexity",
-      "title": "Colorado Community College System \u2013 Integrated Strategic Marketing & Communications Services",
-      "issuer": "** **Colorado Community College System (CCCS)**, Colorado, U",
+      "title": "Colorado Community College System \u2014 Integrated Strategic Marketing & Communications Services",
+      "issuer": "** Colorado Community College System (Colorado)",
       "posted": "",
       "deadline": "",
       "url": "https://www.highergov.com/sl/contract-opportunity/co-cccs-rfp-27-004-integrated-strategic-mar-72788747/",
       "source_domain": "https://www.highergov.com/sl/contract-opportunity/co-cccs-rfp-27-004-integrated-strategic-mar-72788747/",
-      "description": "Colorado Community College System \u2013 Integrated Strategic Marketing & Communications Services - Issuing organization: Colorado Community College System (CCCS), Colorado, USA. - What is being sought: A vendor to provide Integrated Strategic Marketing and Communications Services supporting statewide brand awareness, student recruitment, strategic communications, and audience engagement across the CCCS. This is a broad marketing and communications ag",
+      "description": "Colorado Community College System \u2014 Integrated Strategic Marketing & Communications Services - Issuing organization: Colorado Community College System (Colorado) - What is being sought: Integrated strategic marketing and communications services supporting brand awareness, student recruitment, strategic communications, and audience engagement. - Deadline: September 21, 2026. - Estimated value: Not stated in the result. - Posting / link:",
       "first_seen": "2026-08-25"
     },
     {
@@ -520,13 +568,13 @@
     {
       "id": "326ee1ec01fa90e5",
       "type": "perplexity",
-      "title": "Texas A&M University \u2013 Enrollment Marketing & Advertising Services (Mays Business School)",
-      "issuer": "** Texas A&M University, Mays Business School",
-      "posted": "2026-08-25",
+      "title": "Texas A&M University \u2013 Enrollment Marketing, Branding, and Advertising Services (Mays Business School)",
+      "issuer": "** Texas A&M University \u2013 Mays Business School, Texas, USA[1",
+      "posted": "",
       "deadline": "",
       "url": "https://civiciq.com/public-rfp/texas-a-m-university-enrollment-marketing-advertising-services-rfp-tamu-rfp-26-5064-2026-fc4672",
       "source_domain": "https://civiciq.com/public-rfp/texas-a-m-university-enrollment-marketing-advertising-services-rfp-tamu-rfp-26-5064-2026-fc4672",
-      "description": "Texas A&M University \u2013 Enrollment Marketing & Advertising Services (Mays Business School) - Issuing organization: Texas A&M University, Mays Business School - What is being sought: - Marketing, branding, and advertising services supporting enrollment and graduate programs, including: - Brand development and refinement - Advertising strategy and media planning - Campaign creative and execution focused on enrollment - Deadline: - Proposals due Augu",
+      "description": "Texas A&M University \u2013 Enrollment Marketing, Branding, and Advertising Services (Mays Business School) - Issuing organization: Texas A&M University \u2013 Mays Business School, Texas, USA - What is being sought: - Marketing, branding, and advertising services in support of enrollment and graduate programs at Mays Business School. - The RFP is framed as RFP\u201126\u20115064, seeking a firm to support enrollment marketing, branding strategy, and advertising exec",
       "first_seen": "2026-08-23"
     },
     {
@@ -578,6 +626,18 @@
       "first_seen": "2026-08-23"
     },
     {
+      "id": "1907ab93708aa66f",
+      "type": "perplexity",
+      "title": "Lexington, Buena Vista & Rockbridge Tourism \u2013 Agency of Record for Regional Tourism Marketing (Virginia)",
+      "issuer": "of Record for Regional Tourism Marketing (Virginia)",
+      "posted": "",
+      "deadline": "",
+      "url": "https://discover.govdash.com/solicitations/01a01f8f-90b0-7097-b183-68e99b9e32f4--rfp-2026-01-lexington-buena-vista-and-rockbrid",
+      "source_domain": "https://discover.govdash.com/solicitations/01a01f8f-90b0-7097-b183-68e99b9e32f4--rfp-2026-01-lexington-buena-vista-and-rockbrid",
+      "description": "Lexington, Buena Vista & Rockbridge Tourism \u2013 Agency of Record for Regional Tourism Marketing (Virginia) - Issuing organization: Central Shenandoah Planning District Commission on behalf of Lexington, Buena Vista & Rockbridge Tourism, Virginia, USA - What is being sought: - A qualified firm to serve as Agency of Record for regional tourism marketing initiatives in the Lexington, Buena Vista and Rockbridge region. - The RFP (RFP 126138\u20113 / 2026\u201101",
+      "first_seen": "2026-08-23"
+    },
+    {
       "id": "9051dd8725407786",
       "type": "brand_lead",
       "title": "Intuit Puts Its $690 Million U.S. Media Account In Review 07/09/2026",
@@ -604,13 +664,13 @@
     {
       "id": "09d0cec0222a45ea",
       "type": "perplexity",
-      "title": "Hawai\u02bbi Tourism Authority \u2013 Global Meetings, Conventions, and Incentives Sales & Marketing (MCI)",
-      "issuer": "** **Business, Economic Development & Tourism** \u2013 State of H",
-      "posted": "2026-08-23",
+      "title": "Hawai\u02bbi Tourism Authority \u2013 Global Meetings, Conventions & Incentives Sales and Marketing (Hawaiian Islands)",
+      "issuer": "See source",
+      "posted": "",
       "deadline": "",
       "url": "https://publicbidsearch.com/bids/rfp-27-02-global-meetings-conventions-and-incentives-statewide-hi-7c9125",
       "source_domain": "https://publicbidsearch.com/bids/rfp-27-02-global-meetings-conventions-and-incentives-statewide-hi-7c9125",
-      "description": "Hawai\u02bbi Tourism Authority \u2013 Global Meetings, Conventions, and Incentives Sales & Marketing (MCI) - Issuing organization: Business, Economic Development & Tourism \u2013 State of Hawai\u02bbi / Hawai\u02bbi Tourism Authority. - What is being sought: A contractor to provide global sales and marketing services for meetings, conventions, and incentives (MCI) for the Hawaiian Islands. - Sector fit: Public sector tourism, conventions, and economic development (MCI ma",
+      "description": "Hawai\u02bbi Tourism Authority \u2013 Global Meetings, Conventions & Incentives Sales and Marketing (Hawaiian Islands) - Issuing organization: - Hawai\u02bbi Tourism Authority (HTA), a US state tourism agency in Hawaii, USA. - What is being sought: - Contractor to provide global sales and marketing services for meetings, conventions, and incentives (MCI) for the Hawaiian Islands. - The contract covers global sales and marketing activity to drive MCI business to",
       "first_seen": "2026-08-23"
     },
     {
@@ -674,18 +734,6 @@
       "first_seen": "2026-08-23"
     },
     {
-      "id": "1907ab93708aa66f",
-      "type": "perplexity",
-      "title": "Central Shenandoah Planning District Commission \u2013 Lexington, Buena Vista & Rockbridge Tourism Marketing Agency of Record",
-      "issuer": "of Record",
-      "posted": "",
-      "deadline": "2026-09-09",
-      "url": "https://discover.govdash.com/solicitations/01a01f8f-90b0-7097-b183-68e99b9e32f4--rfp-2026-01-lexington-buena-vista-and-rockbrid",
-      "source_domain": "https://discover.govdash.com/solicitations/01a01f8f-90b0-7097-b183-68e99b9e32f4--rfp-2026-01-lexington-buena-vista-and-rockbrid",
-      "description": "Central Shenandoah Planning District Commission \u2013 Lexington, Buena Vista & Rockbridge Tourism Marketing Agency of Record - Issuing organization: Central Shenandoah Planning District Commission on behalf of Lexington, Buena Vista & Rockbridge Tourism, Virginia. - RFP title: RFP 2026\u201101 \u2013 Lexington, Buena Vista, and Rockbridge Tourism Marketing Agency of Record. - What is being sought: An agency of record to develop and execute an integrated touris",
-      "first_seen": "2026-08-23"
-    },
-    {
       "id": "26348d5f32685857",
       "type": "brand_lead",
       "title": "Week in Review: Netflix Doubles Upfront Commitments, Disney Agrees Deal with The Overlap, and Roku Launches an All-AI FAST Channel",
@@ -695,18 +743,6 @@
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPblZ5YUNaLWRDZERzQlVxQndLZUZldFhTbmdTZWlJbTJucFlyV3VpdUtGMEZqLXpTdm1rSmJXZHExZm9henR6aUpwWUZCSjhFWkI1Y0lrMEc3SVNGYUNvdGlOYmJKc2NNcnFkQi1oWGl6TWU5cmN4SGxTTmc0aVdYaFExZVYzQjdEZXozMExiXzJLMnFrNVJsMHAzZHRseDhCcjVfdTZQUmFlMkVqbkdXLWU0VGdpVFBwelkxRW8wR18zcmNYU29uSkpfZVk5WFBsRDR1RlVscHFDbU1vRW80V1NFWVpxX3dYS1dhUEc3T0hZOU0?oc=5",
       "source_domain": "https://videoweek.com",
       "description": "Week in Review: Netflix Doubles Upfront Commitments, Disney Agrees Deal with The Overlap, and Roku Launches an All-AI FAST Channel VideoWeek",
-      "first_seen": "2026-08-22"
-    },
-    {
-      "id": "88d56d8db68f9f73",
-      "type": "perplexity",
-      "title": "W912LC-26-Q-0037 \u2014 Marketing and Advertising Services",
-      "issuer": "** U",
-      "posted": "2026-08-22",
-      "deadline": "",
-      "url": "https://sam.directory/opportunities/marketing-and-advertising-services-amendment-01-w912lc-26-q-0037",
-      "source_domain": "https://sam.directory/opportunities/marketing-and-advertising-services-amendment-01-w912lc-26-q-0037",
-      "description": "W912LC-26-Q-0037 \u2014 Marketing and Advertising Services - Issuing organization: U.S. Department of the Army - What is being sought: Marketing and advertising services - Deadline: August 21, 2026, 7:00 AM MST - Estimated value: Not provided - Direct URL: https://sam.directory/opportunities/marketing-and-advertising-services-amendment-01-w912lc-26-q-0037 A few important caveats: - The search results did not reliably return May 2026 postings specifica",
       "first_seen": "2026-08-22"
     },
     {
@@ -818,6 +854,18 @@
       "first_seen": "2026-08-22"
     },
     {
+      "id": "88d56d8db68f9f73",
+      "type": "perplexity",
+      "title": "Department of Defense \u2013 Marketing and Advertising Services (Colorado Army National Guard)",
+      "issuer": "of Defense \u2013 Marketing and Advertising Services (Colorado Ar",
+      "posted": "",
+      "deadline": "",
+      "url": "https://sam.directory/opportunities/marketing-and-advertising-services-amendment-01-w912lc-26-q-0037",
+      "source_domain": "https://sam.directory/opportunities/marketing-and-advertising-services-amendment-01-w912lc-26-q-0037",
+      "description": "Department of Defense \u2013 Marketing and Advertising Services (Colorado Army National Guard) - Issuing organization: U.S. Department of Defense, Department of the Army, Colorado (U.S.) - What is being sought: - Marketing and advertising services under solicitation W912LC\u201126\u2011Q\u20110037. - The synopsis describes a requirement for marketing and advertising in support of Army/Guard activities in Colorado (e.g., awareness and recruitment-focused services). -",
+      "first_seen": "2026-08-22"
+    },
+    {
       "id": "bcc8ff329cf41422",
       "type": "perplexity",
       "title": "Cross-check 2026 \u201cMediapalooza\u201d coverage and consultancy commentary",
@@ -866,18 +914,6 @@
       "first_seen": "2026-08-21"
     },
     {
-      "id": "b8e323da409ef45c",
-      "type": "perplexity",
-      "title": "USA (Arizona) \u2013 Advertising, Marketing, Creative, Media and Communications Service",
-      "issuer": "** Government authority located in **Arizona, USA**",
-      "posted": "2026-08-26",
-      "deadline": "",
-      "url": "https://www.highergov.com/sl/contract-opportunity/va-rfp-2026-01-lexington-buena-vista-an-72779279/",
-      "source_domain": "https://www.highergov.com/sl/contract-opportunity/va-rfp-2026-01-lexington-buena-vista-an-72779279/",
-      "description": "USA (Arizona) \u2013 Advertising, Marketing, Creative, Media and Communications Service - Issuing organization: Government authority located in Arizona, USA. - What is being sought: An Advertising Agency of Record to provide: - Brand strategy, positioning, messaging, and campaign planning - Creative concepting, copywriting, design, and production for print, digital, outdoor, broadcast, and event materials - Media strategy, planning, buying, optimizati",
-      "first_seen": "2026-08-21"
-    },
-    {
       "id": "b16e03e9933ecbbe",
       "type": "perplexity",
       "title": "South Carolina Education Lottery Commission \u2014 Digital Marketing & Advertising Services",
@@ -911,6 +947,18 @@
       "url": "https://evp.nc.gov/solicitations/details/?id=5cbaaa62-758b-f111-ab0f-001dd812e0a9",
       "source_domain": "https://evp.nc.gov/solicitations/details/?id=5cbaaa62-758b-f111-ab0f-001dd812e0a9",
       "description": "North Carolina (State Entity) \u2013 Graphic and Creative Design Services - Issuing organization: A North Carolina state government entity using the state\u2019s electronic Vendor Portal (eVP), linked under \u201cGraphic and Creative Design Services.\u201d - What is being sought: Graphic and Creative Design Services for professional print\u2011ready and digital materials, explicitly including magazines, brochures, fliers, billboards, social media ads, web banners, and va",
+      "first_seen": "2026-08-21"
+    },
+    {
+      "id": "b8e323da409ef45c",
+      "type": "perplexity",
+      "title": "Lexington, Buena Vista & Rockbridge Area Tourism \u2013 Tourism Marketing Agency of Record (Virginia)",
+      "issuer": "of Record (Virginia)",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.highergov.com/sl/contract-opportunity/va-rfp-2026-01-lexington-buena-vista-an-72779279/",
+      "source_domain": "https://www.highergov.com/sl/contract-opportunity/va-rfp-2026-01-lexington-buena-vista-an-72779279/",
+      "description": "Lexington, Buena Vista & Rockbridge Area Tourism \u2013 Tourism Marketing Agency of Record (Virginia) - Issuing organization: - Lexington, Buena Vista & Rockbridge Area Tourism, posted via the Central Shenandoah Planning District Commission. - Buyer listed as Rockbridge County, VA, US. - What is being sought: - A qualified Agency of Record (AOR) for integrated destination marketing. - The selected firm will provide: - Destination-marketing, advertisin",
       "first_seen": "2026-08-21"
     },
     {
@@ -976,13 +1024,13 @@
     {
       "id": "ac4f7ac216c7ba42",
       "type": "perplexity",
-      "title": "Town of Parker, Colorado \u2013 Media Buying and Marketing Agency Services (RFP 26\u2011015)",
-      "issuer": "Services (RFP 26\u2011015)",
-      "posted": "2026-08-22",
+      "title": "Town of Parker \u2014 Media Buying and Marketing Agency Services",
+      "issuer": "Services",
+      "posted": "",
       "deadline": "",
       "url": "https://www.highergov.com/sl/contract-opportunity/co-rfp-26015-media-buying-and-marketing-age-72487176/",
       "source_domain": "https://www.highergov.com/sl/contract-opportunity/co-rfp-26015-media-buying-and-marketing-age-72487176/",
-      "description": "Town of Parker, Colorado \u2013 Media Buying and Marketing Agency Services (RFP 26\u2011015) - Issuing organization: Town of Parker, Douglas County, Colorado (municipal government in the United States) - What is being sought: A qualified consultant to provide media buying and marketing agency services, including planning and purchasing media and broader marketing support for town initiatives (likely civic, tourism, or community\u2011focused communications). - D",
+      "description": "Town of Parker \u2014 Media Buying and Marketing Agency Services - Issuing organization: Town of Parker, Colorado - What is being sought: Media buying and marketing agency services. - Deadline: September 3, 2026. - Estimated value: Not stated in the result. - Posting / link:",
       "first_seen": "2026-08-20"
     },
     {
@@ -1036,13 +1084,13 @@
     {
       "id": "62261fd9fe39c3ae",
       "type": "perplexity",
-      "title": "Dane County Regional Airport \u2013 Marketing and Advertising Services (Wisconsin)",
-      "issuer": "** Dane County Regional Airport, County of Dane, WI",
+      "title": "Dane County Regional Airport \u2014 Marketing and Advertising Services",
+      "issuer": "** Dane County / Dane County Regional Airport (Wisconsin)",
       "posted": "",
       "deadline": "",
       "url": "https://app.govly.com/public/opportunities/16966217",
       "source_domain": "https://app.govly.com/public/opportunities/16966217",
-      "description": "Dane County Regional Airport \u2013 Marketing and Advertising Services (Wisconsin) - Issuing organization: Dane County Regional Airport, County of Dane, WI - What is being sought: - A qualified agency to provide comprehensive marketing and advertising services for Dane County Regional Airport, including overall marketing strategy and advertising execution to promote the airport. - Deadline: - September 25, 2026 (respond by date in the OpenGov/Dane Cou",
+      "description": "Dane County Regional Airport \u2014 Marketing and Advertising Services - Issuing organization: Dane County / Dane County Regional Airport (Wisconsin) - What is being sought: Comprehensive marketing and advertising services, including strategic planning, creative development, media planning and buying, social media, video/audio production, and market research. - Deadline: September 25, 2026. - Estimated value: Not stated in the result. - Posting / link",
       "first_seen": "2026-08-20"
     },
     {
@@ -1360,13 +1408,13 @@
     {
       "id": "9de1214770f1f5cf",
       "type": "perplexity",
-      "title": "Tennessee Department of Tourist Development \u2013 Tennessee Vacation Guide Advertising & Production",
-      "issuer": "of Tourist Development \u2013 Tennessee Vacation Guide Advertisin",
-      "posted": "2026-08-24",
+      "title": "State of Tennessee \u2013 Tennessee Vacation Guide Development, Production and Advertising Sales",
+      "issuer": "** State of Tennessee, Department of Tourist Development[",
+      "posted": "",
       "deadline": "",
       "url": "https://discover.govdash.com/solicitations/019fccdb-abdd-7650-ab72-e8ab377bd933--tennessee-vacation-guide-development-production-and-revenue-generating-advertisi",
       "source_domain": "https://discover.govdash.com/solicitations/019fccdb-abdd-7650-ab72-e8ab377bd933--tennessee-vacation-guide-development-production-and-revenue-generating-advertisi",
-      "description": "Tennessee Department of Tourist Development \u2013 Tennessee Vacation Guide Advertising & Production - Issuing organization: State of Tennessee, Department of Tourist Development / Department of General Services - What is being sought: - Development and production of the Tennessee Vacation Guide. - Revenue\u2011generating advertising sales associated with the guide (i.e., selling ad space and managing advertising placements). - Sector / type: - Public sect",
+      "description": "State of Tennessee \u2013 Tennessee Vacation Guide Development, Production and Advertising Sales - Issuing organization: State of Tennessee, Department of Tourist Development - What is being sought: A full-service contractor to manage the annual Tennessee Vacation Guide, including: - Development and production of the guide - Content contributions - Distribution - Revenue\u2011generating advertising sales to keep the publication self\u2011sustaining - Deadline:",
       "first_seen": "2026-08-18"
     },
     {
@@ -1625,12 +1673,12 @@
       "id": "9c842e500f9dd333",
       "type": "perplexity",
       "title": "University of Houston \u2013 Bauer Graduate Programs Digital Marketing FY26",
-      "issuer": "** **University of Houston**, C",
+      "issuer": "** University of Houston (C",
       "posted": "",
       "deadline": "",
       "url": "https://discover.govdash.com/solicitations/019fb856-8c16-72fd-acf6-0ee7b5a5bd51--rfp-730-uofh-3139-bauer-graduate-programs-digital-marketing-fy26",
       "source_domain": "https://discover.govdash.com/solicitations/019fb856-8c16-72fd-acf6-0ee7b5a5bd51--rfp-730-uofh-3139-bauer-graduate-programs-digital-marketing-fy26",
-      "description": "University of Houston \u2013 Bauer Graduate Programs Digital Marketing FY26 - Issuing organization: University of Houston, C.T. Bauer College of Business, Texas, USA. - What is being sought: A firm to provide a comprehensive digital marketing strategy and campaign execution for Bauer graduate business programs. Scope includes enhancing digital presence, lead generation, and conversion of prospective students for the college\u2019s graduate offerings. - Dea",
+      "description": "University of Houston \u2013 Bauer Graduate Programs Digital Marketing FY26 - Issuing organization: University of Houston (C.T. Bauer College of Business), Texas, USA - What is being sought: - A partner to deliver a comprehensive digital marketing strategy and campaign execution for graduate business programs at the Bauer College. - Services include digital strategy, campaign planning, media buying, and performance tracking specifically for FY26 recru",
       "first_seen": "2026-08-16"
     },
     {
@@ -1660,13 +1708,13 @@
     {
       "id": "ef0f9420208f7c96",
       "type": "perplexity",
-      "title": "Sound Transit \u2013 Marketing and Advertising Services (Washington State)",
-      "issuer": "** Sound Transit (regional public transit agency in Washingt",
+      "title": "Sound Transit \u2014 Marketing and Advertising Services",
+      "issuer": "** Sound Transit (Washington)",
       "posted": "",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/marketing-and-advertising-services-idqj",
       "source_domain": "https://www.cleat.ai/government/contracts/marketing-and-advertising-services-idqj",
-      "description": "Sound Transit \u2013 Marketing and Advertising Services (Washington State) - Brand/Issuer: Sound Transit (regional public transit agency in Washington State, USA). - What they are reviewing/seeking: A firm to provide marketing and advertising services, including: - Research and identification of target markets. - Development of integrated marketing and digital strategies. - Development and implementation of advertising campaigns across multiple channe",
+      "description": "Sound Transit \u2014 Marketing and Advertising Services - Issuing organization: Sound Transit (Washington) - What is being sought: Comprehensive marketing and advertising services, including market research, integrated marketing strategy, media buying, creative development, and print/digital/audio-visual production. - Deadline: September 2, 2026 at 1:00 PM PT. - Estimated value: Not stated in the result. - Posting / link:",
       "first_seen": "2026-08-16"
     },
     {
@@ -2952,54 +3000,6 @@
       "source_domain": "https://www.cleat.ai/government/contracts/enrollment-marketing-and-advertising-services-hwzd",
       "description": "Texas A&M University \u2014 Enrollment Marketing & Advertising Services - Issuing organization: Texas A&M University, Mays Business School - What is being sought: Marketing, branding, and advertising services to support graduate enrollment programs - Deadline: August 14, 2026 @ 5:00 p.m. CST - Estimated value: Not stated in the result - Status: Active/open - Direct posting: `cleat.ai/government/contracts/enrollment-marketing-and-advertising-services-h",
       "first_seen": "2026-07-27"
-    },
-    {
-      "id": "3b310f47feaf895e",
-      "type": "perplexity",
-      "title": "State & Local Radio / Marketing & Advertising Services (Public Sector \u2013 Various; 2026)",
-      "issuer": "not shown in the snippet)",
-      "posted": "2026-08-06",
-      "deadline": "",
-      "url": "https://www.websitedesignrfp.com/marketing-and-branding-rfp-government-contract.html",
-      "source_domain": "https://www.websitedesignrfp.com/marketing-and-branding-rfp-government-contract.html",
-      "description": "State & Local Radio / Marketing & Advertising Services (Public Sector \u2013 Various; 2026) This listing aggregates several US state/local advertising/marketing procurements for 2026. Details are limited without downloading, but they are active 2026 RFPs for marketing/advertising services. - Issuing organizations: - Georgia \u2013 radio advertising services (exact issuing agency not shown in the snippet). - Texas \u2013 marketing and advertising services (exact",
-      "first_seen": "2026-07-27"
-    },
-    {
-      "id": "4f5d3d141f3a2103",
-      "type": "perplexity",
-      "title": "Michigan \u2014 Marketing and Advertising Services",
-      "issuer": "** A **government authority located in Michigan**",
-      "posted": "2026-08-15",
-      "deadline": "",
-      "url": "https://rfpplanet.com/mktg-2474/marketing-and-advertising-services",
-      "source_domain": "https://rfpplanet.com/mktg-2474/marketing-and-advertising-services",
-      "description": "Michigan \u2014 Marketing and Advertising Services - Issuing organization: A government authority located in Michigan - What is being sought: Marketing and advertising services, including research, strategy, media planning, creative/content development, PR, analytics, and strategic support - Deadline: August 4, 2026 - Estimated value: $8M listed by one source - Direct link: https://www.rfpmart.com/1146972-usa-michigan-marketing-and-advertising-service",
-      "first_seen": "2026-07-27"
-    },
-    {
-      "id": "0c974ab5c5734e4c",
-      "type": "perplexity",
-      "title": "IBM, Adidas, and Coca-Cola",
-      "issuer": "directories or general commentary, and they do **not** subst",
-      "posted": "2026-07-27",
-      "deadline": "",
-      "url": "https://www.andersoncollaborative.com/best-growth-marketing-agencies-in-the-united-states-accelerating-brand-expansion-through-innovative-strategies/",
-      "source_domain": "https://www.andersoncollaborative.com/best-growth-marketing-agencies-in-the-united-states-accelerating-brand-expansion-through-innovative-strategies/",
-      "description": "I can\u2019t reliably answer this as stated from the provided search results alone. The results you supplied are mostly agency directories or general commentary, and they do not substantiate specific, active 2026 brand reviews, pitches, or searches across the sectors you listed. What the results do indicate is only a broad claim that 2026 has seen \u201cagency reviews\u201d involving brands such as IBM, Adidas, and Coca-Cola, but that post is a LinkedIn activit",
-      "first_seen": "2026-07-27"
-    },
-    {
-      "id": "d401289080d90865",
-      "type": "perplexity",
-      "title": "active, open May 2026 U.S. government advertising or marketing RFPs",
-      "issuer": "name",
-      "posted": "2026-07-28",
-      "deadline": "",
-      "url": "https://www.phila.gov/departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/",
-      "source_domain": "https://www.phila.gov/departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/",
-      "description": "I could not verify any active, open May 2026 U.S. government advertising or marketing RFPs from the provided search results alone. The results do show that open government opportunities are broadly tracked on federal and state/local bid aggregators, and that Philadelphia had at least one May 2026 city RFI on its procurement page, but none of the supplied sources provide a set of current, May-2026-open advertising/marketing solicitations with the",
-      "first_seen": "2026-07-26"
     }
   ]
 }
