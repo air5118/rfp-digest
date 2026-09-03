@@ -1,6 +1,66 @@
 {
-  "generated": "2026-09-02",
+  "generated": "2026-09-03",
   "rfps": [
+    {
+      "id": "e160b0a6e015d10a",
+      "type": "perplexity",
+      "title": "Westchester County \u2013 Bee-Line Bus & Paratransit Vehicle Advertising Services (New York)",
+      "issuer": "** Westchester County, New York",
+      "posted": "",
+      "deadline": "",
+      "url": "https://scoutgrants.ai/grant/3f554d12-266a-4fcb-a6bb-3e7df083665f/",
+      "source_domain": "https://scoutgrants.ai/grant/3f554d12-266a-4fcb-a6bb-3e7df083665f/",
+      "description": "Westchester County \u2013 Bee-Line Bus & Paratransit Vehicle Advertising Services (New York) - Issuing organization: Westchester County, New York - What is being sought: - A vendor to provide advertising services on the County\u2019s Bee-Line fixed-route buses and paratransit vehicles. - The selected vendor receives the exclusive right to solicit, sell, and place advertisements on these transit vehicles under the RFP terms. - Deadline: - Response deadline",
+      "first_seen": "2026-09-03"
+    },
+    {
+      "id": "70dedbdcefe1dd1b",
+      "type": "perplexity",
+      "title": "Transit Advertising and Management Agency",
+      "issuer": "**Issuing organization:** Capital Area Transportation Author",
+      "posted": "",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/capital-area-transportation-authority-transit-advertising",
+      "source_domain": "https://starbridge.ai/rfp/capital-area-transportation-authority-transit-advertising",
+      "description": "Transit Advertising and Management Agency Issuing organization: Capital Area Transportation Authority, Michigan What is being sought: Transit advertising sales and management services Deadline: October 13, 2026 Estimated value: Not stated in the available source Source URL: https://starbridge.ai/rfp/capital-area-transportation-authority-transit-advertising",
+      "first_seen": "2026-09-03"
+    },
+    {
+      "id": "d53869e9086fe642",
+      "type": "perplexity",
+      "title": "Public-sector destination marketing organization solicitation",
+      "issuer": "solicitation",
+      "posted": "",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/request-for-proposals-for-designated-marketing-organization",
+      "source_domain": "https://starbridge.ai/rfp/request-for-proposals-for-designated-marketing-organization",
+      "description": "Public-sector destination marketing organization solicitation Issuing organization: Not fully specified in the search results What is being sought: A request for proposals to establish a designated marketing organization Deadline: Not stated in the available source Estimated value: Not stated in the available source Source URL: https://www.cleat.ai/government/contracts/request-for-proposals-for-designated-marketing-organization I did not find eno",
+      "first_seen": "2026-09-03"
+    },
+    {
+      "id": "4a714872c089da72",
+      "type": "perplexity",
+      "title": "Fresh from Florida Grocery Retailer Marketing Program",
+      "issuer": "** Florida Department of Agriculture and Consumer Services[1",
+      "posted": "",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/revive-media-inc",
+      "source_domain": "https://starbridge.ai/rfp/revive-media-inc",
+      "description": "Fresh from Florida Grocery Retailer Marketing Program Issuing organization: Florida Department of Agriculture and Consumer Services What is being sought: Promotional advertising and brand-management services for the Fresh from Florida grocery retailer marketing program, including use of the logo across digital marketing assets on Amazon and Amazon Fresh Deadline: September 10, 2026 Estimated value: Not stated in the available source Source URL: h",
+      "first_seen": "2026-09-03"
+    },
+    {
+      "id": "8640e4705d73fb91",
+      "type": "perplexity",
+      "title": "Destination, Livability & Brand Marketing Services",
+      "issuer": "** Village of Orland Park, Illinois",
+      "posted": "",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/26-063-destination-livability-brand-marketing-services",
+      "source_domain": "https://starbridge.ai/rfp/26-063-destination-livability-brand-marketing-services",
+      "description": "Destination, Livability & Brand Marketing Services Issuing organization: Village of Orland Park, Illinois What is being sought: A qualified marketing firm or consultant to develop and launch a comprehensive strategy supporting economic revitalization, community identity, tourism, and resident attraction Deadline: October 13, 2026, 11:00 AM CDT Estimated value: Not stated in the available source Source URL: https://starbridge.ai/rfp/26-063-destina",
+      "first_seen": "2026-09-03"
+    },
     {
       "id": "9c5d8dc1457e9661",
       "type": "perplexity",
@@ -16,13 +76,13 @@
     {
       "id": "793853e745fa4d6b",
       "type": "perplexity",
-      "title": "Webb County Fairgrounds, Texas \u2013 Marketing & Advertising Services (RFP 2026-013)",
-      "issuer": "** **Webb County**, Texas (county government)",
+      "title": "Webb County, Texas \u2013 Fairgrounds Marketing and Advertising Services (RFP 2026-013)",
+      "issuer": "** Webb County, Texas, USA",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/request-for-proposals-rfp-rfp-2026-013-webb-county",
       "source_domain": "https://starbridge.ai/rfp/request-for-proposals-rfp-rfp-2026-013-webb-county",
-      "description": "Webb County Fairgrounds, Texas \u2013 Marketing & Advertising Services (RFP 2026-013) - Issuing organization: Webb County, Texas (county government). - What is being sought: Professional marketing and advertising services to promote the Webb County Fairgrounds. - Deadline: The Starbridge listing shows this as an RFP numbered 2026-013; the snippet confirms it is active in August 2026 but does not include a close date. - Estimated value: Not stated. - D",
+      "description": "Webb County, Texas \u2013 Fairgrounds Marketing and Advertising Services (RFP 2026-013) - Issuing organization: Webb County, Texas, USA - What is being sought: - Professional marketing and advertising services to promote the Webb County Fairgrounds. - Scope is explicitly to market and advertise the fairgrounds. - Deadline: - The snippet shows another RFP number (HVAC) as a template but does not state the specific deadline date for RFP 2026-013; the po",
       "first_seen": "2026-09-02"
     },
     {
@@ -86,6 +146,18 @@
       "first_seen": "2026-09-02"
     },
     {
+      "id": "0a934eaf84e35eba",
+      "type": "perplexity",
+      "title": "Integrated Strategic Marketing and Communications Services",
+      "issuer": "** Colorado Community College System",
+      "posted": "",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/cccs-27-004-integrated-strategic-marketing-and-communications",
+      "source_domain": "https://starbridge.ai/rfp/cccs-27-004-integrated-strategic-marketing-and-communications",
+      "description": "Integrated Strategic Marketing and Communications Services Issuing organization: Colorado Community College System What is being sought: Integrated strategic marketing and communications services to support statewide brand awareness, student recruitment, strategic communications, and audience engagement Deadline: September 21, 2026 Estimated value: Not stated in the available source Source URL: https://starbridge.ai/rfp/cccs-27-004-integrated-str",
+      "first_seen": "2026-09-02"
+    },
+    {
       "id": "0eda91e8b87283ea",
       "type": "perplexity",
       "title": "Hawaii Department of Business, Economic Development & Tourism \u2013 Hawaii Tourism Brand Marketing for North America (MMA)",
@@ -107,18 +179,6 @@
       "url": "https://govbidwire.com/state-bids",
       "source_domain": "https://govbidwire.com/state-bids",
       "description": "General aggregator guidance (for finding the direct links yourself) Because I cannot open these entries further right now, I cannot safely give you the exact procurement\u2011portal URLs. However, the prior search results do show where to start: - A US\u2011focused marketing RFP aggregator page lists current 2026 US marketing, branding, advertising, and digital campaign solicitations, including the IDs above. - A state\u2011bids aggregator indicates that state",
-      "first_seen": "2026-09-02"
-    },
-    {
-      "id": "0a934eaf84e35eba",
-      "type": "perplexity",
-      "title": "Colorado Community College System (CCCS) \u2013 Integrated Strategic Marketing & Communications (CCCS 27-004)",
-      "issuer": "** **Colorado Community College System (CCCS)**, State of Co",
-      "posted": "",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/cccs-27-004-integrated-strategic-marketing-and-communications",
-      "source_domain": "https://starbridge.ai/rfp/cccs-27-004-integrated-strategic-marketing-and-communications",
-      "description": "Colorado Community College System (CCCS) \u2013 Integrated Strategic Marketing & Communications (CCCS 27-004) - Issuing organization: Colorado Community College System (CCCS), State of Colorado. - What is being sought: An agency to provide Integrated Strategic Marketing and Communications Services to support: - Statewide brand awareness - Student recruitment - Strategic communications - Audience engagement. - Deadline: - Released: August 18, 2026. - C",
       "first_seen": "2026-09-02"
     },
     {
@@ -314,18 +374,6 @@
       "first_seen": "2026-08-31"
     },
     {
-      "id": "f1b02d2574cfcea7",
-      "type": "perplexity",
-      "title": "Minnesota Department of Natural Resources \u2013 Advertising, Public Relations and Marketing",
-      "issuer": "of Natural Resources \u2013 Advertising, Public Relations and Mar",
-      "posted": "",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/dnr-advertising-public-relations-and-marketing-request",
-      "source_domain": "https://starbridge.ai/rfp/dnr-advertising-public-relations-and-marketing-request",
-      "description": "Minnesota Department of Natural Resources \u2013 Advertising, Public Relations and Marketing - Issuing organization: Minnesota Department of Natural Resources (DNR), Minnesota State Agency, US. - What is being sought: A full-service professional agency with statewide advertising, public relations, and marketing capabilities to research, create, and implement campaigns related to marketing, education, recruitment and safety, and environmental awareness",
-      "first_seen": "2026-08-31"
-    },
-    {
       "id": "54edba73135ae56f",
       "type": "perplexity",
       "title": "Health and Hospital Corporation of Marion County \u2014 Enterprise Digital Brand Strategy, Web Experience Redesign",
@@ -335,6 +383,18 @@
       "url": "https://www.cleat.ai/government/contracts/creative-design-and-content-development-76xn",
       "source_domain": "https://www.cleat.ai/government/contracts/creative-design-and-content-development-76xn",
       "description": "Health and Hospital Corporation of Marion County \u2014 Enterprise Digital Brand Strategy, Web Experience Redesign - Issuing organization: Health and Hospital Corporation of Marion County, Indiana. - What is being sought: Digital brand strategy and web experience redesign services, including UX, branding, CMS, hosting, accessibility, security, and analytics recommendations. - Deadline: October 1, 2026. - Estimated value: Not stated in the source snipp",
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "f1b02d2574cfcea7",
+      "type": "perplexity",
+      "title": "DNR Advertising, Public Relations and Marketing",
+      "issuer": "** Minnesota Department of Natural Resources",
+      "posted": "",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/dnr-advertising-public-relations-and-marketing-request",
+      "source_domain": "https://starbridge.ai/rfp/dnr-advertising-public-relations-and-marketing-request",
+      "description": "DNR Advertising, Public Relations and Marketing Issuing organization: Minnesota Department of Natural Resources What is being sought: Full-service agencies to research, create, and implement marketing, education, recruitment, safety, and environmental awareness campaigns Deadline: September 11, 2026 Estimated value: Not stated in the available source Source URL: https://starbridge.ai/rfp/dnr-advertising-public-relations-and-marketing-request",
       "first_seen": "2026-08-31"
     },
     {
@@ -384,6 +444,18 @@
       "source_domain": "https://starbridge.ai/rfp/26-12-9220r-rfp-marketing-services",
       "description": "City of Carson \u2014 Multimedia Content Services RFP 26-027 - Issuing organization: City of Carson, California. - What is being sought: Multimedia production and creative services, including event coverage, recap and promotional videos, social media content, original television programming, interviews, and communications support. - Deadline: October 21, 2026, 10:00 AM PDT. - Estimated value: Not stated in the source snippet. - Direct posting link: ht",
       "first_seen": "2026-08-31"
+    },
+    {
+      "id": "cba0b7977c5b6b48",
+      "type": "perplexity",
+      "title": "no May 2026 opportunities in the search results",
+      "issuer": "City of Napa, California, US",
+      "posted": "2026-08-18",
+      "deadline": "",
+      "url": "https://www.governmentcontracts.us/government-contracts/opportunity-details/66856141768516992.htm",
+      "source_domain": "https://www.governmentcontracts.us/government-contracts/opportunity-details/66856141768516992.htm",
+      "description": "There are no May 2026 opportunities in the search results that meet all of your constraints (United States issuer, advertising/marketing scope, open during May 2026, and still active). All of the RFPs surfaced are dated August\u2013September 2026 or are otherwise outside May 2026 or already closed. Because I cannot run additional searches this turn, I cannot reliably reconstruct May 2026 opportunities that are not explicitly present in the results you",
+      "first_seen": "2026-08-30"
     },
     {
       "id": "8e1fce1e37da320f",
@@ -470,18 +542,6 @@
       "first_seen": "2026-08-30"
     },
     {
-      "id": "cba0b7977c5b6b48",
-      "type": "perplexity",
-      "title": "City of Napa, California \u2013 Napa Tourism Improvement District Destination Marketing Services",
-      "issuer": "** City of Napa, California \u2013 Napa Tourism Improvement Distr",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.governmentcontracts.us/government-contracts/opportunity-details/66856141768516992.htm",
-      "source_domain": "https://www.governmentcontracts.us/government-contracts/opportunity-details/66856141768516992.htm",
-      "description": "City of Napa, California \u2013 Napa Tourism Improvement District Destination Marketing Services - Issuing organization: City of Napa, California \u2013 Napa Tourism Improvement District (TID) - RFP title: \u201cNapa Tourism Improvement District (TID) Destination Marketing Services\u201d, Project ID 2025-RFP-087 - What is being sought: The City requests proposals from qualified firms to provide destination marketing services for the Napa Tourism Improvement District",
-      "first_seen": "2026-08-30"
-    },
-    {
       "id": "11aa747ee38e8e6d",
       "type": "perplexity",
       "title": "2026 U.S. agency reviews",
@@ -532,13 +592,13 @@
     {
       "id": "9ce13f75d10a364a",
       "type": "perplexity",
-      "title": "Ramsey County Regional Railroad Authority (MN) \u2013 Strategic Communications & Community Engagement for METRO Bronze Line BRT",
+      "title": "Ramsey County Regional Railroad Authority \u2013 METRO Bronze Line BRT Strategic Communications & Community Engagement",
       "issuer": "** Ramsey County and Ramsey County Regional Railroad Authori",
       "posted": "",
       "deadline": "",
       "url": "https://app.govly.com/public/opportunities/17004240",
       "source_domain": "https://app.govly.com/public/opportunities/17004240",
-      "description": "Ramsey County Regional Railroad Authority (MN) \u2013 Strategic Communications & Community Engagement for METRO Bronze Line BRT - Issuing organization: Ramsey County and Ramsey County Regional Railroad Authority, State of Minnesota, United States. - What is being sought: - Strategic communications, outreach, public participation, business relations, and community engagement services to support delivery of the METRO Bronze Line Bus Rapid Transit (BRT)",
+      "description": "Ramsey County Regional Railroad Authority \u2013 METRO Bronze Line BRT Strategic Communications & Community Engagement - Issuing organization: Ramsey County and Ramsey County Regional Railroad Authority, Minnesota - What is being sought: - Strategic communications, outreach, public participation, business relations, and community engagement services to support delivery of the METRO Bronze Line Bus Rapid Transit (BRT) Project. - Work includes community",
       "first_seen": "2026-08-29"
     },
     {
@@ -563,18 +623,6 @@
       "url": "https://starbridge.ai/rfp/gambling-blocking-services-src0000040376-rfp",
       "source_domain": "https://starbridge.ai/rfp/gambling-blocking-services-src0000040376-rfp",
       "description": "Ohio Casino Control Commission \u2013 Gambling Blocking Services RFP (Regulatory / Responsible Gaming) > This opportunity is casino/gaming\u2013related, but it is not a traditional brand advertising agency search; it is a service RFP. Including it here for completeness in the casino/gaming vertical, with the caveat that it may not involve consumer-facing marketing. - Issuing organization: - Ohio Casino Control Commission, a US state regulatory body in Ohio",
-      "first_seen": "2026-08-29"
-    },
-    {
-      "id": "d106944f29f49b35",
-      "type": "perplexity",
-      "title": "North Dakota \u2013 Rural Health Transformation Program Marketing & Advertising Campaign",
-      "issuer": "** State of North Dakota \u2013 solicitation listed via the North",
-      "posted": "",
-      "deadline": "",
-      "url": "https://app.govly.com/public/opportunities/16998946",
-      "source_domain": "https://app.govly.com/public/opportunities/16998946",
-      "description": "North Dakota \u2013 Rural Health Transformation Program Marketing & Advertising Campaign - Issuing organization: State of North Dakota \u2013 solicitation listed via the North Dakota Solicitation Portal, mirrored on Govly as SRC000403. - What is being sought: Comprehensive marketing and advertising campaign services for the Rural Health Transformation Program (RHTP). - Deadline: The Govly listing indicates an active solicitation posted August 12, 2026, and",
       "first_seen": "2026-08-29"
     },
     {
@@ -623,6 +671,18 @@
       "url": "https://www.polkfl.gov/bid-form/rfp-26-345/",
       "source_domain": "https://www.polkfl.gov/bid-form/rfp-26-345/",
       "description": "Advertising & Marketing Services for Visit Central Florida - Issuing organization: Polk County Government / Visit Central Florida, Florida - What is being sought: Advertising and marketing services for Visit Central Florida - Deadline: Not shown in the snippet provided; the listing was still in selection committee process as of August 12, 2026 - Estimated value: Not stated in the gathered material - Source:",
+      "first_seen": "2026-08-29"
+    },
+    {
+      "id": "d106944f29f49b35",
+      "type": "perplexity",
+      "title": "3. Why your specific request cannot be fulfilled from these results",
+      "issuer": "reviews, media pitches, creative or digital searches**",
+      "posted": "",
+      "deadline": "",
+      "url": "https://app.govly.com/public/opportunities/16998946",
+      "source_domain": "https://app.govly.com/public/opportunities/16998946",
+      "description": "3. Why your specific request cannot be fulfilled from these results Your query asks for: - Major U.S. brands (casino/gaming, CPG, food & beverage, retail, financial services, healthcare, automotive). - Currently conducting advertising agency reviews, media pitches, creative or digital searches. - In 2026, with detail on what is being reviewed, timeline, estimated budget, and source URL. The current search results: - Contain no clearly documented",
       "first_seen": "2026-08-29"
     },
     {
@@ -1202,6 +1262,18 @@
       "first_seen": "2026-08-23"
     },
     {
+      "id": "6de691e6f05ce45e",
+      "type": "perplexity",
+      "title": "Marketing and Advertising Services for Dane County Regional Airport",
+      "issuer": "** County of Dane, Wisconsin",
+      "posted": "",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/marketing-and-advertising-services-for-the-dane-county",
+      "source_domain": "https://starbridge.ai/rfp/marketing-and-advertising-services-for-the-dane-county",
+      "description": "Marketing and Advertising Services for Dane County Regional Airport Issuing organization: County of Dane, Wisconsin What is being sought: Marketing and advertising services for the Dane County Regional Airport Deadline: September 25, 2026 Estimated value: Not stated in the available source Source URL: https://starbridge.ai/rfp/marketing-and-advertising-services-for-the-dane-county",
+      "first_seen": "2026-08-23"
+    },
+    {
       "id": "1907ab93708aa66f",
       "type": "perplexity",
       "title": "Lexington, Buena Vista & Rockbridge Tourism \u2013 Agency of Record for Regional Tourism Marketing (Virginia)",
@@ -1228,13 +1300,13 @@
     {
       "id": "862797a3bb0f4662",
       "type": "perplexity",
-      "title": "Hillsborough Area Regional Transit Authority (HART) \u2013 Consolidated Transit Advertising Program",
+      "title": "Hillsborough Area Regional Transit Authority (HART) \u2013 Marketing / Communications-Related RFP (Florida)",
       "issuer": "** Hillsborough Area Regional Transit Authority (HART), Flor",
       "posted": "",
       "deadline": "",
       "url": "https://app.govly.com/public/opportunities/16987863",
       "source_domain": "https://app.govly.com/public/opportunities/16987863",
-      "description": "Hillsborough Area Regional Transit Authority (HART) \u2013 Consolidated Transit Advertising Program - Issuing organization: Hillsborough Area Regional Transit Authority (HART), Florida, USA - What is being sought: - A qualified transit advertising firm to develop, operate, maintain, and grow HART\u2019s advertising franchise across its transit system. - The scope covers a Consolidated Transit Advertising Program, including management of ad inventory and sa",
+      "description": "Hillsborough Area Regional Transit Authority (HART) \u2013 Marketing / Communications-Related RFP (Florida) - Issuing organization: Hillsborough Area Regional Transit Authority (HART), Florida - What is being sought: - The opportunity is described as a Request for Proposal (RFP) issued by HART; based on the procurement context and platforms referenced, it is part of HART\u2019s 2026 solicitations and is likely for marketing, communications, or related tran",
       "first_seen": "2026-08-23"
     },
     {
@@ -1286,18 +1358,6 @@
       "first_seen": "2026-08-23"
     },
     {
-      "id": "6de691e6f05ce45e",
-      "type": "perplexity",
-      "title": "County of Dane, WI \u2013 Marketing and Advertising Services for Dane County Regional Airport",
-      "issuer": "** **County of Dane**, Wisconsin, USA (Dane County Regional",
-      "posted": "2026-08-23",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/marketing-and-advertising-services-for-the-dane-county",
-      "source_domain": "https://starbridge.ai/rfp/marketing-and-advertising-services-for-the-dane-county",
-      "description": "County of Dane, WI \u2013 Marketing and Advertising Services for Dane County Regional Airport - Issuing organization: County of Dane, Wisconsin, USA (Dane County Regional Airport). - What is being sought: Marketing and advertising services for the Dane County Regional Airport, with the county intending to award a contract or issue a purchase order for these services. - Sector fit: Public sector; airport marketing which often supports regional economic",
-      "first_seen": "2026-08-23"
-    },
-    {
       "id": "c67466e494ecca5d",
       "type": "brand_lead",
       "title": "Coca-Cola media, data and tech agency review pits WPP against Publicis",
@@ -1313,12 +1373,12 @@
       "id": "26348d5f32685857",
       "type": "brand_lead",
       "title": "Week in Review: Netflix Doubles Upfront Commitments, Disney Agrees Deal with The Overlap, and Roku Launches an All-AI FAST Channel",
-      "issuer": "VideoWeek",
+      "issuer": "videoweek.com",
       "posted": "2026-08-15",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPblZ5YUNaLWRDZERzQlVxQndLZUZldFhTbmdTZWlJbTJucFlyV3VpdUtGMEZqLXpTdm1rSmJXZHExZm9henR6aUpwWUZCSjhFWkI1Y0lrMEc3SVNGYUNvdGlOYmJKc2NNcnFkQi1oWGl6TWU5cmN4SGxTTmc0aVdYaFExZVYzQjdEZXozMExiXzJLMnFrNVJsMHAzZHRseDhCcjVfdTZQUmFlMkVqbkdXLWU0VGdpVFBwelkxRW8wR18zcmNYU29uSkpfZVk5WFBsRDR1RlVscHFDbU1vRW80V1NFWVpxX3dYS1dhUEc3T0hZOU0?oc=5",
       "source_domain": "https://videoweek.com",
-      "description": "Week in Review: Netflix Doubles Upfront Commitments, Disney Agrees Deal with The Overlap, and Roku Launches an All-AI FAST Channel VideoWeek",
+      "description": "Week in Review: Netflix Doubles Upfront Commitments, Disney Agrees Deal with The Overlap, and Roku Launches an All-AI FAST Channel videoweek.com",
       "first_seen": "2026-08-22"
     },
     {
@@ -1528,13 +1588,13 @@
     {
       "id": "b8e323da409ef45c",
       "type": "perplexity",
-      "title": "Lexington, Buena Vista & Rockbridge Tourism \u2013 Marketing Agency of Record (Virginia)",
+      "title": "Lexington, Buena Vista, & Rockbridge Tourism \u2013 Destination Marketing Agency of Record (Virginia)",
       "issuer": "of Record (Virginia)",
       "posted": "",
-      "deadline": "2026-09-02",
+      "deadline": "",
       "url": "https://www.highergov.com/sl/contract-opportunity/va-rfp-2026-01-lexington-buena-vista-an-72779279/",
       "source_domain": "https://www.highergov.com/sl/contract-opportunity/va-rfp-2026-01-lexington-buena-vista-an-72779279/",
-      "description": "Lexington, Buena Vista & Rockbridge Tourism \u2013 Marketing Agency of Record (Virginia) - Issuing organization: Lexington, Buena Vista & Rockbridge Tourism, via Central Shenandoah Planning District Commission / Rockbridge County, VA. - What is being sought: A qualified Agency of Record to provide integrated destination marketing, including advertising, branding, digital, content, media, and strategic services to increase visitation, overnight stays,",
+      "description": "Lexington, Buena Vista, & Rockbridge Tourism \u2013 Destination Marketing Agency of Record (Virginia) - Issuing organization: Lexington, Buena Vista & Rockbridge Tourism / Central Shenandoah Planning District Commission, Virginia - What is being sought: - A qualified Agency of Record to manage destination marketing and the visitor economy for the Lexington\u2013Buena Vista\u2013Rockbridge tourism region. - The RFP is for a tourism marketing agency of record to",
       "first_seen": "2026-08-21"
     },
     {
@@ -1670,18 +1730,6 @@
       "first_seen": "2026-08-20"
     },
     {
-      "id": "62261fd9fe39c3ae",
-      "type": "perplexity",
-      "title": "Dane County Regional Airport, Wisconsin \u2013 Marketing & Advertising Services (2026-RFP-059-PR)",
-      "issuer": "** **County of Dane**, Airport Department, Purchasing Divisi",
-      "posted": "",
-      "deadline": "",
-      "url": "https://app.govly.com/public/opportunities/16966217",
-      "source_domain": "https://app.govly.com/public/opportunities/16966217",
-      "description": "Dane County Regional Airport, Wisconsin \u2013 Marketing & Advertising Services (2026-RFP-059-PR) - Issuing organization: County of Dane, Airport Department, Purchasing Division (Dane County Regional Airport, WI). - What is being sought: Comprehensive marketing and advertising services for the Dane County Regional Airport, including: - Strategic marketing planning - Creative development and graphic design - Media planning and buying - Social media man",
-      "first_seen": "2026-08-20"
-    },
-    {
       "id": "5b3327aa20175f65",
       "type": "perplexity",
       "title": "Colorado Department of Public Health and Environment \u2013 Strategic Communications / Media Buying Agency (Smoke Free Starts)",
@@ -1739,6 +1787,18 @@
       "url": "https://apexbrands.io/blog/best-paid-social-advertising-agencies-for-cpg-brands/",
       "source_domain": "https://apexbrands.io/blog/best-paid-social-advertising-agencies-for-cpg-brands/",
       "description": "I am not seeing any credible, tool-derived evidence of specific 2026 US brand advertising/agency reviews or pitches in the search results I just received; they are mostly \u201cbest agency\u201d round\u2011ups and generic guidance, not news of live reviews by named brands. Because I cannot run another search this turn and the current results don\u2019t name actual brands running reviews, I cannot reliably list real, active 2026 reviews with budgets and timelines. Gi",
+      "first_seen": "2026-08-20"
+    },
+    {
+      "id": "62261fd9fe39c3ae",
+      "type": "perplexity",
+      "title": "1. Public-sector marketing and advertising RFPs (not major consumer brands)",
+      "issuer": "reviews\u201d by major consumer brands:",
+      "posted": "",
+      "deadline": "",
+      "url": "https://app.govly.com/public/opportunities/16966217",
+      "source_domain": "https://app.govly.com/public/opportunities/16966217",
+      "description": "1. Public-sector marketing and advertising RFPs (not major consumer brands) The current results show multiple U.S. government and public institutions seeking marketing and advertising partners in 2026, but these are formal procurement RFPs, not \u201cagency reviews\u201d by major consumer brands: - Dane County Regional Airport (WI) \u2013 seeking comprehensive marketing and advertising services: strategic marketing planning, creative, media planning/buying, soc",
       "first_seen": "2026-08-20"
     },
     {
@@ -2032,13 +2092,13 @@
     {
       "id": "8f23dfffb915d8b8",
       "type": "perplexity",
-      "title": "New Jersey Transit \u2013 Outdoor Advertising Management Services (RFP No. 0000240)",
-      "issuer": "** **New Jersey Transit Corporation (NJ TRANSIT)**, New Jers",
+      "title": "New Jersey Transit \u2013 Outdoor Advertising Management Services (New Jersey)",
+      "issuer": "** New Jersey Transit Corporation (NJ TRANSIT), New Jersey[1",
       "posted": "",
-      "deadline": "2026-09-17",
+      "deadline": "",
       "url": "https://scoutgrants.ai/grant/a53cee03-4430-4ab2-b011-804048203076/",
       "source_domain": "https://scoutgrants.ai/grant/a53cee03-4430-4ab2-b011-804048203076/",
-      "description": "New Jersey Transit \u2013 Outdoor Advertising Management Services (RFP No. 0000240) - Issuing organization: New Jersey Transit Corporation (NJ TRANSIT), New Jersey, USA - What is being sought: - Outdoor Advertising Management Services across NJ TRANSIT\u2019s assets. - The RFP seeks qualified professional firms to manage outdoor advertising, typically including sales, placement, and maintenance of ad inventory on transit properties. - Deadline: - Response",
+      "description": "New Jersey Transit \u2013 Outdoor Advertising Management Services (New Jersey) - Issuing organization: New Jersey Transit Corporation (NJ TRANSIT), New Jersey - What is being sought: - Outdoor Advertising Management Services from qualified professional firms. - This is an RFP for management of NJ TRANSIT\u2019s outdoor advertising assets (likely including ad sales, placements, and related functions). - Deadline: - Response deadline September 17, 2026. - Es",
       "first_seen": "2026-08-18"
     },
     {
@@ -2188,13 +2248,13 @@
     {
       "id": "35d3c11becb7a507",
       "type": "perplexity",
-      "title": "Detroit Public Schools Community District (MI) \u2013 Videography Services Supporting Communications & Marketing",
-      "issuer": "** **Detroit Public Schools Community District (DPSCD)**, Mi",
-      "posted": "2026-08-13",
+      "title": "Detroit Public Schools Community District \u2013 Comprehensive Videography for Communications & Marketing",
+      "issuer": "** Detroit Public Schools Community District (DPSCD), Michig",
+      "posted": "",
       "deadline": "",
       "url": "https://app.govly.com/public/opportunities/16963208",
       "source_domain": "https://app.govly.com/public/opportunities/16963208",
-      "description": "Detroit Public Schools Community District (MI) \u2013 Videography Services Supporting Communications & Marketing - Issuing organization: Detroit Public Schools Community District (DPSCD), Michigan, United States. - What is being sought: - Comprehensive videography services to support the district\u2019s communications, marketing, recruitment, and community-engagement goals. - This is a creative services engagement (video production) tied directly to market",
+      "description": "Detroit Public Schools Community District \u2013 Comprehensive Videography for Communications & Marketing - Issuing organization: Detroit Public Schools Community District (DPSCD), Michigan - What is being sought: - Comprehensive videography services to support DPSCD\u2019s communications, marketing, recruitment, and community-engagement goals. - This is directly tied to the district\u2019s marketing and communications strategy (video production as a marketing/",
       "first_seen": "2026-08-17"
     },
     {
@@ -2294,30 +2354,6 @@
       "first_seen": "2026-08-16"
     },
     {
-      "id": "ef0f9420208f7c96",
-      "type": "perplexity",
-      "title": "Sound Transit (Seattle Metro, WA) \u2013 Marketing & Advertising Services (RFP RP 0104-26)",
-      "issuer": "** **Sound Transit** (Central Puget Sound Regional Transit A",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/marketing-and-advertising-services-idqj",
-      "source_domain": "https://www.cleat.ai/government/contracts/marketing-and-advertising-services-idqj",
-      "description": "Sound Transit (Seattle Metro, WA) \u2013 Marketing & Advertising Services (RFP RP 0104-26) - Issuing organization: Sound Transit (Central Puget Sound Regional Transit Authority, Washington State \u2013 US public transit agency). - What is being sought: Marketing and advertising services to: - Research and identify target markets - Provide marketing and advertising support for transit services. - Deadline: - RFP RP 0104-26 - Closing date: September 2, 2026,",
-      "first_seen": "2026-08-16"
-    },
-    {
-      "id": "59b3302d6a24bf32",
-      "type": "perplexity",
-      "title": "RFP 2026-01: Lexington, Buena Vista, and Rockbridge Tourism Marketing AOR",
-      "issuer": "** Central Shenandoah Planning District Commission, for **Ro",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/rfp-2026-01-lexington-buena-vista-and-rockbridge-tourism-mktg-aor-eqjr",
-      "source_domain": "https://www.cleat.ai/government/contracts/rfp-2026-01-lexington-buena-vista-and-rockbridge-tourism-mktg-aor-eqjr",
-      "description": "RFP 2026-01: Lexington, Buena Vista, and Rockbridge Tourism Marketing AOR - Issuing organization: Central Shenandoah Planning District Commission, for Rockbridge Area Tourism in Virginia - What is being sought: An Agency of Record to provide comprehensive destination marketing and visitor economy services, including strategic integrated marketing support for Lexington, Buena Vista, and the Rockbridge Area - Deadline: September 9, 2026 (the notice",
-      "first_seen": "2026-08-16"
-    },
-    {
       "id": "b6ad05c04bd455ec",
       "type": "perplexity",
       "title": "Promotion of Food and Beverage Items Service \u2014 Washington, DC",
@@ -2327,6 +2363,30 @@
       "url": "https://www.governmentrfps.com/1157971-usa-washington-dc-promotion-of-food-and-beverage-items-service-rfp.html",
       "source_domain": "https://www.governmentrfps.com/1157971-usa-washington-dc-promotion-of-food-and-beverage-items-service-rfp.html",
       "description": "Promotion of Food and Beverage Items Service \u2014 Washington, DC - Issuer: US-based government authority in Washington, DC - What is being sought: A promotion campaign for food and beverage items, including an in-store promotional campaign to increase visibility and consumer demand for American food and beverage products sold in club locations. - Deadline: August 27, 2026. - Estimated value: Not stated in the source material gathered. - Source URL:",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "ef0f9420208f7c96",
+      "type": "perplexity",
+      "title": "Marketing and Advertising Services for Sound Transit",
+      "issuer": "** Sound Transit, Washington state transit agency",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/marketing-and-advertising-services-idqj",
+      "source_domain": "https://www.cleat.ai/government/contracts/marketing-and-advertising-services-idqj",
+      "description": "Marketing and Advertising Services for Sound Transit Issuing organization: Sound Transit, Washington state transit agency What is being sought: Proposals from firms to provide marketing and advertising services to research and identify target markets Deadline: September 9, 2026, 1:00 PM PT Estimated value: Not stated in the available source Source URL: https://www.cleat.ai/government/contracts/marketing-and-advertising-services-idqj",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "59b3302d6a24bf32",
+      "type": "perplexity",
+      "title": "Lexington, Buena Vista, and Rockbridge Tourism \u2013 Agency of Record",
+      "issuer": "of Record",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/rfp-2026-01-lexington-buena-vista-and-rockbridge-tourism-mktg-aor-eqjr",
+      "source_domain": "https://www.cleat.ai/government/contracts/rfp-2026-01-lexington-buena-vista-and-rockbridge-tourism-mktg-aor-eqjr",
+      "description": "Lexington, Buena Vista, and Rockbridge Tourism \u2013 Agency of Record Issuing organization: Lexington, Buena Vista and Rockbridge Tourism, Virginia What is being sought: A qualified Agency of Record to manage destination marketing and the visitor economy Deadline: Not clearly stated in the search snippet for the main notice; the related listing indicates an open 2026 solicitation tied to this opportunity Estimated value: Not stated in the available s",
       "first_seen": "2026-08-16"
     },
     {
@@ -2440,13 +2500,13 @@
     {
       "id": "38ba8aba4708b4c1",
       "type": "perplexity",
-      "title": "DuPage County Workforce Development Division (IL) \u2013 Communications and Marketing Services",
-      "issuer": "** DuPage County Workforce Development Division (workNet DuP",
+      "title": "DuPage County \u2013 WIOA-Related Outreach/Communications RFP (Illinois)",
+      "issuer": "** DuPage County, Illinois",
       "posted": "",
       "deadline": "",
       "url": "https://app.govly.com/public/opportunities/16933175",
       "source_domain": "https://app.govly.com/public/opportunities/16933175",
-      "description": "DuPage County Workforce Development Division (IL) \u2013 Communications and Marketing Services - Issuing organization: DuPage County Workforce Development Division (workNet DuPage), Illinois, United States. - What is being sought: - Communications and Marketing Services for the Workforce Development Division (workNet DuPage). - Vendors are asked to provide marketing and communications support for workforce programs (details in RFP). - Deadline: - The",
+      "description": "DuPage County \u2013 WIOA-Related Outreach/Communications RFP (Illinois) - Issuing organization: DuPage County, Illinois - What is being sought: - Identified as Bid 26-077-WIOA. While the snippet focuses on the bid number and deadline, WIOA (Workforce Innovation and Opportunity Act) county solicitations commonly include outreach, marketing, and participant engagement communications; the posting is an active county RFP. - Deadline: - Response deadline",
       "first_seen": "2026-08-15"
     },
     {
@@ -2940,66 +3000,6 @@
       "source_domain": "https://www.nyscr.ny.gov/Ads/Search",
       "description": "New York \u2014 Contracting Opportunities portal result - Issuing organization: New York State Contract Reporter / NY.gov - What is being sought: The retrieved result shows an advertising/marketing category listing, but the snippet is too limited to confirm a specific active RFP title beyond \u201cWinter Tree Lighting Services For Hudson River Park\u201d - Deadline: Not stated in the retrieved snippet - Estimated value: Not stated in the retrieved record - Dire",
       "first_seen": "2026-08-05"
-    },
-    {
-      "id": "d88c7b5acafc46cd",
-      "type": "perplexity",
-      "title": "Michigan Department of Treasury \u2014 Michigan Education Trust / MiABLE marketing and advertising services",
-      "issuer": "of Treasury \u2014 Michigan Education Trust / MiABLE marketing an",
-      "posted": "2026-08-21",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
-      "source_domain": "https://starbridge.ai/rfp/notice-of-intent-to-award-for-rfp-260000001532",
-      "description": "Michigan Department of Treasury \u2014 Michigan Education Trust / MiABLE marketing and advertising services - Issuing organization: Michigan Department of Treasury - RFP title: Notice of Intent to Award for RFP 260000001532 - What is being sought: Marketing and advertising services for the Michigan Education Trust (MET) and Michigan Achieving a Better Life Experience (MiABLE) programs, including communications planning, market research, advertising ma",
-      "first_seen": "2026-08-05"
-    },
-    {
-      "id": "ce2be550f73ded6f",
-      "type": "perplexity",
-      "title": "Miami-Dade County, Florida \u2014 Marketing and Public Relations Services",
-      "issuer": "** Miami-Dade County Strategic Procurement office / Departme",
-      "posted": "2026-08-15",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/marketing-and-public-relations-services-3",
-      "source_domain": "https://starbridge.ai/rfp/marketing-and-public-relations-services-3",
-      "description": "Miami-Dade County, Florida \u2014 Marketing and Public Relations Services - Issuing organization: Miami-Dade County Strategic Procurement office / Department of Cultural Affairs - What is being sought: Marketing, advertising, media, and public relations services supporting Cultural Affairs facilities and programs, including strategic marketing, digital campaigns, creative production, media relations, publicity, community engagement, and crisis communi",
-      "first_seen": "2026-08-05"
-    },
-    {
-      "id": "101b7517f064f066",
-      "type": "perplexity",
-      "title": "active 2026 brand reviews or searches",
-      "issuer": "directory and ranking pages*, not evidence of **active 2026",
-      "posted": "2026-08-14",
-      "deadline": "",
-      "url": "https://joinbrands.com/blog/top-us-ad-agencies/",
-      "source_domain": "https://joinbrands.com/blog/top-us-ad-agencies/",
-      "description": "I can\u2019t reliably answer this from the provided search results because they are agency directory and ranking pages, not evidence of active 2026 brand reviews or searches. None of the results identify a major US brand currently running an advertising agency review, media pitch, or creative agency search, so I would risk inventing or misattributing opportunities if I tried to name brands here. What the results do show is only that various agency rou",
-      "first_seen": "2026-08-04"
-    },
-    {
-      "id": "b8735ade780f5e85",
-      "type": "perplexity",
-      "title": "active 2026 US state or local",
-      "issuer": "of Treasury marketing and advertising services solicitation",
-      "posted": "2026-08-07",
-      "deadline": "",
-      "url": "https://www.bidnetdirect.com/solicitations/open-bids",
-      "source_domain": "https://www.bidnetdirect.com/solicitations/open-bids",
-      "description": "I could not verify any active 2026 US state or local advertising, marketing, or creative-services RFPs from the provided search results that clearly meet your criteria and include direct posting links. The results are dominated by federal items, third-party aggregators, expired notices, or general search portals rather than confirmed active state/local procurements posted in 2026. What I could confirm from the results is that some portals do surf",
-      "first_seen": "2026-08-04"
-    },
-    {
-      "id": "de5b1f44b6b9470b",
-      "type": "perplexity",
-      "title": "Notes on Scope and Exclusions",
-      "issuer": "See source",
-      "posted": "2026-08-06",
-      "deadline": "",
-      "url": "https://www.govcb.com/government-bids/REQUEST-FOR-PROPOSALS-RFP-AND-23369054.htm",
-      "source_domain": "https://www.govcb.com/government-bids/REQUEST-FOR-PROPOSALS-RFP-AND-23369054.htm",
-      "description": "Notes on Scope and Exclusions - Many 2026 marketing/advertising RFPs found in general search (e.g., Alaska RFP 2026\u20111200\u20110165 Media, Communications, and Advertising Services due February 2, 2026) are now expired and are therefore excluded. - Several 2026 items in the results are either: - Federal\u2011only (e.g., DC Grand Prix 250 advertising, US\u2011FED solicitations), or - Generic listings without public portal detail (e.g., RFPMart/LinkedIn teasers) th",
-      "first_seen": "2026-08-04"
     }
   ]
 }
