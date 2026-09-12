@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11",
+  "generated": "2026-09-12",
   "rfps": [
     {
       "id": "5b9637db15cd16d6",
@@ -245,12 +245,12 @@
       "id": "55716e836e87fcd7",
       "type": "brand_lead",
       "title": "In Review, July 2026: Headline highlights from Sephora, L\u2019Or\u00e9al, P.Louise and more...",
-      "issuer": "theindustry.beauty",
+      "issuer": "TheIndustry.beauty",
       "posted": "2026-07-31",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2xEcXh5UUlUclJVUlhXRGhtTHJSVzdwQS03RjlKWW92U1FkR25ZR3ZNa2Q0U0tPazdFWjhnbWlaeXM2WTVzMUhEc0JXWVUtY1VyUEoyNFdQU29iRkJTRXVfa0tnbDNoRXpqUHZwcDFRU3dMcjFyUmFjRE1fNXo1QUlxam1WWF9QWmFJUXpuWDNQMkh3cXVsOURUakRYWm1sOS1WWG4wcks?oc=5",
       "source_domain": "https://theindustry.beauty",
-      "description": "In Review, July 2026: Headline highlights from Sephora, L\u2019Or\u00e9al, P.Louise and more... theindustry.beauty",
+      "description": "In Review, July 2026: Headline highlights from Sephora, L\u2019Or\u00e9al, P.Louise and more... TheIndustry.beauty",
       "first_seen": "2026-09-09"
     },
     {
@@ -293,12 +293,12 @@
       "id": "2684442b89636022",
       "type": "brand_lead",
       "title": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released",
-      "issuer": "Help Net Security",
+      "issuer": "helpnetsecurity.com",
       "posted": "2026-08-02",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdktnNGVJbXl5N21kTGZpWXhlTHRWRlBGXzhheGYydjFvQklXckxTcHNHRlJyblg3bVRweGNGdmhPaG1NSnNPVnl0ZGhlb1JFQUg2ckdSNVRUS29Jb1BfN2lndlJxZHNLdU5XTVF6d0w5R2F4aTJQY1VyYUhidVdMYWpoeU94YTlQTjFvcWVOYlZkaE9xSGJBWTAwVFg3dWR6eG5EOUJpaUtUclJtQW0wWjR1M1RRSWtXMmN5SE5qeWV6Vl9XTlNaZ3JnbjE4bDE2TW0wTg?oc=5",
       "source_domain": "https://www.helpnetsecurity.com",
-      "description": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released Help Net Security",
+      "description": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released helpnetsecurity.com",
       "first_seen": "2026-09-08"
     },
     {
@@ -857,12 +857,12 @@
       "id": "2b2f33e3dfd1fd92",
       "type": "brand_lead",
       "title": "15 agency reviews to know about: 3M, Duke's Mayo, PepsiCo",
-      "issuer": "adage.com",
+      "issuer": "Ad Age",
       "posted": "2026-09-01",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGV0VkV6c3FnMmRsNlI1bHNfcGxwbmkwTjdqNU55ajVTSGU0Ylk4QnVaSEo2a1daVkh1clJBNDJhU2dsRTE4Zjk4c1BzekNkM2s5VW53WE9pdENFbDF5dERsNzNTVE9mWW85ZE9ub2VnQlNwd2dIcFFhcF9mdWRQOExXVW85NUlPTnhVcUNvU1NLUXVTZGJlVWtkeDB0TGdORGVvRmNR?oc=5",
       "source_domain": "https://adage.com",
-      "description": "15 agency reviews to know about: 3M, Duke's Mayo, PepsiCo adage.com",
+      "description": "15 agency reviews to know about: 3M, Duke's Mayo, PepsiCo Ad Age",
       "first_seen": "2026-09-03"
     },
     {
@@ -1445,12 +1445,12 @@
       "id": "e247c5c09f806bbd",
       "type": "brand_lead",
       "title": "In Review, June 2026: Headline highlights from Boots, Sephora, Charlotte Tilbury and more...",
-      "issuer": "theindustry.beauty",
+      "issuer": "TheIndustry.beauty",
       "posted": "2026-07-01",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb01aZ2FLZmpnM2wteWtISGhHNDIyMm0wVmxYb2FEQWF6bWVkUUJVdVo0eXdvSm1RcEF1MWk4b2MxYTE4T1AtMFludmJsbm9jeDNjMWFDS0pNRHNKbENpMm50ZDV1bVJMNFcyQ19Yd2hfRDlGcmRMdkE0TmFJRnlLWnAtSUdfdE5PdUhiUHRtVFdTQWpLaVFMRkZKNUl5dXE1QTBxUmJUdUN6ZDRlR1BFcTk4dw?oc=5",
       "source_domain": "https://theindustry.beauty",
-      "description": "In Review, June 2026: Headline highlights from Boots, Sephora, Charlotte Tilbury and more... theindustry.beauty",
+      "description": "In Review, June 2026: Headline highlights from Boots, Sephora, Charlotte Tilbury and more... TheIndustry.beauty",
       "first_seen": "2026-08-29"
     },
     {
@@ -1691,18 +1691,6 @@
       "url": "https://www.adsoftheworld.com/campaigns/a-life-covered",
       "source_domain": "https://www.adsoftheworld.com/campaigns/a-life-covered",
       "description": "I was not able to retrieve any detailed, brand\u2011specific 2026 agency review or pitch data from the search results you provided; the results are mostly \u201cbest agencies\u201d listicles, policy updates, and creative case studies rather than current review activity. Based on only those results, I cannot reliably identify specific major US brands that are currently (in 2026) running advertising/media/creative agency reviews with confirmed timelines and budge",
-      "first_seen": "2026-08-26"
-    },
-    {
-      "id": "3af4caeb7ce96018",
-      "type": "perplexity",
-      "title": "Tennessee Department of Tourist Development \u2013 Tennessee Vacation Guide (Development, Production & Advertising Sales)",
-      "issuer": "of Tourist Development \u2013 Tennessee Vacation Guide (Developme",
-      "posted": "",
-      "deadline": "2026-09-11",
-      "url": "https://www.lightrfp.com/marketplace/bid/TN_CPO-32601-26002/tennessee-vacation-guide-development-production-and-revenue-generating-advertisi",
-      "source_domain": "https://www.lightrfp.com/marketplace/bid/TN_CPO-32601-26002/tennessee-vacation-guide-development-production-and-revenue-generating-advertisi",
-      "description": "Tennessee Department of Tourist Development \u2013 Tennessee Vacation Guide (Development, Production & Advertising Sales) - Issuing organization: State of Tennessee, Department of Tourist Development. - RFP title: Tennessee Vacation Guide \u2013 Development, Production and Revenue Generating Advertising Sales. - What is being sought: A contractor to fully manage the annual Tennessee Vacation Guide as a self\u2011sustaining publication: development, production,",
       "first_seen": "2026-08-26"
     },
     {
