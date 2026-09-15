@@ -1,6 +1,18 @@
 {
-  "generated": "2026-09-14",
+  "generated": "2026-09-15",
   "rfps": [
+    {
+      "id": "fc251cd851934ebc98247267ea21bbfa",
+      "type": "gov_federal",
+      "title": "R5 Trailers Readvertisement and New",
+      "issuer": "",
+      "posted": "2026-09-15",
+      "deadline": "2026-09-17",
+      "url": "https://sam.gov/workspace/contract/opp/fc251cd851934ebc98247267ea21bbfa/view",
+      "source_domain": "",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fc251cd851934ebc98247267ea21bbfa",
+      "first_seen": "2026-09-15"
+    },
     {
       "id": "5b9637db15cd16d6",
       "type": "brand_lead",
@@ -245,12 +257,12 @@
       "id": "55716e836e87fcd7",
       "type": "brand_lead",
       "title": "In Review, July 2026: Headline highlights from Sephora, L\u2019Or\u00e9al, P.Louise and more...",
-      "issuer": "TheIndustry.beauty",
+      "issuer": "theindustry.beauty",
       "posted": "2026-07-31",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2xEcXh5UUlUclJVUlhXRGhtTHJSVzdwQS03RjlKWW92U1FkR25ZR3ZNa2Q0U0tPazdFWjhnbWlaeXM2WTVzMUhEc0JXWVUtY1VyUEoyNFdQU29iRkJTRXVfa0tnbDNoRXpqUHZwcDFRU3dMcjFyUmFjRE1fNXo1QUlxam1WWF9QWmFJUXpuWDNQMkh3cXVsOURUakRYWm1sOS1WWG4wcks?oc=5",
       "source_domain": "https://theindustry.beauty",
-      "description": "In Review, July 2026: Headline highlights from Sephora, L\u2019Or\u00e9al, P.Louise and more... TheIndustry.beauty",
+      "description": "In Review, July 2026: Headline highlights from Sephora, L\u2019Or\u00e9al, P.Louise and more... theindustry.beauty",
       "first_seen": "2026-09-09"
     },
     {
@@ -1445,12 +1457,12 @@
       "id": "e247c5c09f806bbd",
       "type": "brand_lead",
       "title": "In Review, June 2026: Headline highlights from Boots, Sephora, Charlotte Tilbury and more...",
-      "issuer": "TheIndustry.beauty",
+      "issuer": "theindustry.beauty",
       "posted": "2026-07-01",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb01aZ2FLZmpnM2wteWtISGhHNDIyMm0wVmxYb2FEQWF6bWVkUUJVdVo0eXdvSm1RcEF1MWk4b2MxYTE4T1AtMFludmJsbm9jeDNjMWFDS0pNRHNKbENpMm50ZDV1bVJMNFcyQ19Yd2hfRDlGcmRMdkE0TmFJRnlLWnAtSUdfdE5PdUhiUHRtVFdTQWpLaVFMRkZKNUl5dXE1QTBxUmJUdUN6ZDRlR1BFcTk4dw?oc=5",
       "source_domain": "https://theindustry.beauty",
-      "description": "In Review, June 2026: Headline highlights from Boots, Sephora, Charlotte Tilbury and more... TheIndustry.beauty",
+      "description": "In Review, June 2026: Headline highlights from Boots, Sephora, Charlotte Tilbury and more... theindustry.beauty",
       "first_seen": "2026-08-29"
     },
     {
@@ -2069,12 +2081,12 @@
       "id": "9051dd8725407786",
       "type": "brand_lead",
       "title": "Intuit Puts Its $690 Million U.S. Media Account In Review 07/09/2026",
-      "issuer": "MediaPost",
+      "issuer": "mediapost.com",
       "posted": "2026-07-09",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRXpUY0lZQzFtRkQwVm52V20wemk5WmpNVjRMdGMxQzltV1R4WUhkaDJwcEl1ZUxEelZiNHlzWEZ4SWwxNUNqekIxOVhkTkwwb1d1emQ2TWxteUpQdGZZT3VmLUpSczNPQWNPNXlkdDYtZGxueXdrOTdaWVpTRlo2MzFiWDJIVWR3c0pHXzdyMlYxdmNtaHl6S0ZBZy1vOWdaX1loQ3lBTUdpX3d0SVFWLUxhUk1wb25zdDljcnlR?oc=5",
       "source_domain": "https://www.mediapost.com",
-      "description": "Intuit Puts Its $690 Million U.S. Media Account In Review 07/09/2026 MediaPost",
+      "description": "Intuit Puts Its $690 Million U.S. Media Account In Review 07/09/2026 mediapost.com",
       "first_seen": "2026-08-23"
     },
     {
