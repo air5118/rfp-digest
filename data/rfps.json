@@ -1,18 +1,6 @@
 {
-  "generated": "2026-09-17",
+  "generated": "2026-09-18",
   "rfps": [
-    {
-      "id": "fc251cd851934ebc98247267ea21bbfa",
-      "type": "gov_federal",
-      "title": "R5 Trailers Readvertisement and New",
-      "issuer": "",
-      "posted": "2026-09-15",
-      "deadline": "2026-09-17",
-      "url": "https://sam.gov/workspace/contract/opp/fc251cd851934ebc98247267ea21bbfa/view",
-      "source_domain": "",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fc251cd851934ebc98247267ea21bbfa",
-      "first_seen": "2026-09-15"
-    },
     {
       "id": "5b9637db15cd16d6",
       "type": "brand_lead",
@@ -1067,18 +1055,6 @@
       "url": "https://starbridge.ai/rfp/sales-and-marketing-rfp",
       "source_domain": "https://starbridge.ai/rfp/sales-and-marketing-rfp",
       "description": "Sound Transit \u2014 sales and marketing services - Issuing organization: Sound Transit - What is being sought: Marketing and advertising services to research target markets, develop integrated and digital marketing strategies, run advertising campaigns, produce creative materials, and evaluate program effectiveness. - Deadline: Not shown in the snippet. - Estimated value: Not stated in the result. - Source:",
-      "first_seen": "2026-09-01"
-    },
-    {
-      "id": "b02c212b153de748",
-      "type": "perplexity",
-      "title": "Outdoor Advertising Management Services \u2013 NJ TRANSIT",
-      "issuer": "See source",
-      "posted": "",
-      "deadline": "2026-09-17",
-      "url": "https://starbridge.ai/rfp/outdoor-advertising-management-services-rfp",
-      "source_domain": "https://starbridge.ai/rfp/outdoor-advertising-management-services-rfp",
-      "description": "Outdoor Advertising Management Services \u2013 NJ TRANSIT Issuing organization: NJ TRANSIT (New Jersey Transit Corporation), a New Jersey public transportation authority. What is being sought: A qualified professional firm to provide outdoor advertising management services on NJ TRANSIT properties throughout its service area, primarily in New Jersey. Scope includes: - Developing advertising strategies - Managing billboard and outdoor inventory - Ensur",
       "first_seen": "2026-09-01"
     },
     {
@@ -2165,12 +2141,12 @@
       "id": "26348d5f32685857",
       "type": "brand_lead",
       "title": "Week in Review: Netflix Doubles Upfront Commitments, Disney Agrees Deal with The Overlap, and Roku Launches an All-AI FAST Channel",
-      "issuer": "VideoWeek",
+      "issuer": "videoweek.com",
       "posted": "2026-08-15",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPblZ5YUNaLWRDZERzQlVxQndLZUZldFhTbmdTZWlJbTJucFlyV3VpdUtGMEZqLXpTdm1rSmJXZHExZm9henR6aUpwWUZCSjhFWkI1Y0lrMEc3SVNGYUNvdGlOYmJKc2NNcnFkQi1oWGl6TWU5cmN4SGxTTmc0aVdYaFExZVYzQjdEZXozMExiXzJLMnFrNVJsMHAzZHRseDhCcjVfdTZQUmFlMkVqbkdXLWU0VGdpVFBwelkxRW8wR18zcmNYU29uSkpfZVk5WFBsRDR1RlVscHFDbU1vRW80V1NFWVpxX3dYS1dhUEc3T0hZOU0?oc=5",
       "source_domain": "https://videoweek.com",
-      "description": "Week in Review: Netflix Doubles Upfront Commitments, Disney Agrees Deal with The Overlap, and Roku Launches an All-AI FAST Channel VideoWeek",
+      "description": "Week in Review: Netflix Doubles Upfront Commitments, Disney Agrees Deal with The Overlap, and Roku Launches an All-AI FAST Channel videoweek.com",
       "first_seen": "2026-08-22"
     },
     {
