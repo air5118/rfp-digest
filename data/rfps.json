@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23",
+  "generated": "2026-09-24",
   "rfps": [
     {
       "id": "6d8d9fcba2a770e3",
@@ -23,18 +23,6 @@
       "url": "https://purchasing.procurement.uconn.edu/home-2/bid-opportunities-2020/",
       "source_domain": "https://purchasing.procurement.uconn.edu/home-2/bid-opportunities-2020/",
       "description": "I could not verify any qualifying active US advertising or marketing RFPs open in May 2026 from the search results available. The only potentially relevant result was the University of Connecticut bid-opportunities page, which lists RFPs closing on May 19, 2026, but the visible descriptions are not advertising or marketing solicitations\u2014they concern online proctoring and other services. The other results were either unrelated, outside the request",
-      "first_seen": "2026-09-23"
-    },
-    {
-      "id": "9d88f51acc5aa115",
-      "type": "perplexity",
-      "title": "Town of Enfield, Connecticut \u2014 Economic Development Branding & Marketing Services",
-      "issuer": "** Town of Enfield, Connecticut",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.alamedaca.gov/BUSINESS/Bid-on-City-Contracts/Request-for-Proposal-Communications-Support",
-      "source_domain": "https://www.alamedaca.gov/BUSINESS/Bid-on-City-Contracts/Request-for-Proposal-Communications-Support",
-      "description": "Town of Enfield, Connecticut \u2014 Economic Development Branding & Marketing Services - Issuing organization: Town of Enfield, Connecticut - What is being sought: Economic-development branding and marketing services. - Deadline: October 6, 2026, at 11:00 a.m. Eastern time. - Estimated value: Not stated in the posting. - Status: Open as of September 23, 2026. - RFP posting: [Town of Enfield bid posting](https://www.enfield-ct.gov/bids.aspx?bidID=375)",
       "first_seen": "2026-09-23"
     },
     {
@@ -118,7 +106,7 @@
       "deadline": "",
       "url": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
       "source_domain": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
-      "description": "Town of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services - Issuing organization: Town of Jackson, Wyoming - What is being sought: A firm to provide municipal brand identity and social-media consulting services. - Deadline: October 9, 2026, at 5:00 p.m. Mountain time. Questions were due September 23, 2026. - Estimated value: Not stated in the posting. - Status: Open as of September 23, 2026. - RFP posting: [Town of Ja",
+      "description": "Town of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services - Issuing organization: Town of Jackson, Wyoming - What is being sought: Municipal brand identity and social media consulting services under RFP No. 27-02. - Deadline: October 9, 2026, at 5:00 p.m. Mountain time. - Estimated value: Not stated in the posting. - Status: Open. - Direct RFP posting: [Town of Jackson bid posting](https://www.jacksonwy.gov/bids.aspx?",
       "first_seen": "2026-09-22"
     },
     {
@@ -280,13 +268,13 @@
     {
       "id": "4a426de960f415e9",
       "type": "perplexity",
-      "title": "Kentucky Tourism Comprehensive Marketing and Advertising Services RFP",
-      "issuer": "** Kentucky Cabinet for Tourism / Commonwealth of Kentucky",
+      "title": "Kentucky Tourism Comprehensive Marketing and Advertising Services",
+      "issuer": "** Kentucky Tourism, part of the Kentucky Cabinet and its ag",
       "posted": "",
       "deadline": "",
       "url": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
       "source_domain": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
-      "description": "Kentucky Tourism Comprehensive Marketing and Advertising Services RFP - Issuing organization: Kentucky Cabinet for Tourism / Commonwealth of Kentucky, United States. - What is being sought: Comprehensive marketing and advertising services to promote Kentucky tourism, including events, venues, meetings and conventions, cultural activities, historic sites, recreation, entertainment, scenic attractions, and other visitor-generating economic activity",
+      "description": "Kentucky Tourism Comprehensive Marketing and Advertising Services - Issuing organization: Kentucky Tourism, part of the Kentucky Cabinet and its agencies. - What is being sought: Comprehensive marketing and advertising services to promote Kentucky tourism, including events, venues, meetings, conventions, trade shows, cultural activities, historic sites, recreation, entertainment, and related visitor-economy activities. - Deadline: October 2, 2026",
       "first_seen": "2026-09-21"
     },
     {
@@ -626,18 +614,6 @@
       "first_seen": "2026-09-19"
     },
     {
-      "id": "22c684abec1f6148",
-      "type": "perplexity",
-      "title": "Tourism Marketing and Creative Services RFP",
-      "issuer": "** Economic Development in California, United States",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
-      "source_domain": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
-      "description": "Tourism Marketing and Creative Services RFP - Issuing organization: Economic Development in California, United States. - What is being sought: Tourism marketing and creative services under solicitation 2026-RFP-055. - Deadline: October 22, 2026. - Estimated value: Not stated in the available notice. - Direct source: [HigherGov opportunity page](https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/)",
-      "first_seen": "2026-09-19"
-    },
-    {
       "id": "bc168f2e9585af72",
       "type": "perplexity",
       "title": "Texas \u2014 Media Buy Services",
@@ -827,6 +803,18 @@
       "url": "https://www.scanningrfp.com/1171151-usa-california-marketing-website-and-social-media-services-rfp.html",
       "source_domain": "https://www.scanningrfp.com/1171151-usa-california-marketing-website-and-social-media-services-rfp.html",
       "description": "California \u2013 Marketing, Website and Social Media Services (MRB-57168) - Issuing organization: Government authority located in California, USA; the listing specifies \u201cUSA (California) \u2013 Marketing, Website and Social Media Services.\u201d - What is being sought: Marketing, website and social media services, including: - Ongoing marketing strategy and branding support. - Website-related marketing and content services. - Social media strategy, content cre",
+      "first_seen": "2026-09-19"
+    },
+    {
+      "id": "22c684abec1f6148",
+      "type": "perplexity",
+      "title": "California Tourism Marketing and Creative Services",
+      "issuer": "** California Economic Development",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
+      "source_domain": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
+      "description": "California Tourism Marketing and Creative Services - Issuing organization: California Economic Development. - What is being sought: Tourism marketing and creative services under solicitation 2026-RFP-055. - Deadline: October 22, 2026. - Estimated value: Not stated in the available source information. - Source:",
       "first_seen": "2026-09-19"
     },
     {
@@ -1286,6 +1274,18 @@
       "first_seen": "2026-09-07"
     },
     {
+      "id": "52a01e1e33f5d534",
+      "type": "perplexity",
+      "title": "Town of Enfield, Connecticut \u2014 Economic Development Branding & Marketing Services",
+      "issuer": "** Town of Enfield, Connecticut",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.enfield-ct.gov/bids.aspx?bidID=375",
+      "source_domain": "https://www.enfield-ct.gov/bids.aspx?bidID=375",
+      "description": "Town of Enfield, Connecticut \u2014 Economic Development Branding & Marketing Services - Issuing organization: Town of Enfield, Connecticut. - What is being sought: Economic-development branding and marketing services. - Deadline: October 6, 2026, at 11:00 a.m. - Estimated value: Not stated in the available source information. - Source:",
+      "first_seen": "2026-09-07"
+    },
+    {
       "id": "8df8f3c0b63789a9",
       "type": "perplexity",
       "title": "OHSU \u2014 Creative Services Request for Proposal",
@@ -1307,18 +1307,6 @@
       "url": "https://www.illinoistreasurer.gov/home/office-of-the-treasurer/doing-business-with-the-treasurer/procurement/procurement-opportunities/",
       "source_domain": "https://www.illinoistreasurer.gov/home/office-of-the-treasurer/doing-business-with-the-treasurer/procurement/procurement-opportunities/",
       "description": "Illinois State Treasurer \u2013 Marketing Services (RFP 370-800-24-025) Issuing organization: Office of the Illinois State Treasurer What is being sought: The Treasurer\u2019s Office has an \u201cRFP Marketing Services 370-800-24-025\u201d seeking a marketing services provider. While the portal listing is brief, the title indicates a scope of professional marketing services to support Treasurer programs (details are in the full RFP document linked from the procureme",
-      "first_seen": "2026-09-07"
-    },
-    {
-      "id": "52a01e1e33f5d534",
-      "type": "perplexity",
-      "title": "Economic Development Branding and Marketing Services",
-      "issuer": "** **Town of Enfield, Connecticut**, United States",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.enfield-ct.gov/bids.aspx?bidID=375",
-      "source_domain": "https://www.enfield-ct.gov/bids.aspx?bidID=375",
-      "description": "Economic Development Branding and Marketing Services - Issuing organization: Town of Enfield, Connecticut, United States. - What is being sought: Economic-development branding and marketing services. - Deadline: The notice states proposals were due September 22, 2026. - Estimated value: Not stated. - Status caveat: Because the current date is September 23, 2026, this opportunity is no longer active and is included only as a near-match for context",
       "first_seen": "2026-09-07"
     },
     {
@@ -1970,6 +1958,18 @@
       "first_seen": "2026-09-01"
     },
     {
+      "id": "094edcdb006604fa",
+      "type": "perplexity",
+      "title": "active U.S. advertising or marketing RFPs with May 2026 deadlines",
+      "issuer": "See source",
+      "posted": "2026-09-17",
+      "deadline": "2026-10-02",
+      "url": "https://www.cleat.ai/government/contracts/marketing-services-qwpo",
+      "source_domain": "https://www.cleat.ai/government/contracts/marketing-services-qwpo",
+      "description": "I could not verify any active U.S. advertising or marketing RFPs with May 2026 deadlines from the available search results. The results primarily show opportunities posted or closing in September\u2013October 2026, which do not meet your requested May deadline. The available results should therefore not be included: - California Highway Patrol \u2014 Marketing and Advertising Services, Public Awareness Educational Campaign \u2014 deadline October 2, 2026. - Cit",
+      "first_seen": "2026-08-31"
+    },
+    {
       "id": "64cbc18f1aceae8b",
       "type": "perplexity",
       "title": "active 2026 U.S. state/local government",
@@ -2075,18 +2075,6 @@
       "url": "http://www.findrfp.com/service/search.aspx?s",
       "source_domain": "http://www.findrfp.com/service/search.aspx?s",
       "description": "Colorado Community College System \u2014 Integrated Strategic Marketing and Communications Services - Issuing organization: Colorado Community College System, Colorado. - What is being sought: Integrated strategic marketing and communications services to support brand awareness, student recruitment, strategic communications, and audience engagement. - Deadline: September 21, 2026. - Estimated value: Not stated in the source snippet. - Direct posting l",
-      "first_seen": "2026-08-31"
-    },
-    {
-      "id": "094edcdb006604fa",
-      "type": "perplexity",
-      "title": "City of Parker \u2014 Media Buying and Marketing Agency Services",
-      "issuer": "Services",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/marketing-services-qwpo",
-      "source_domain": "https://www.cleat.ai/government/contracts/marketing-services-qwpo",
-      "description": "City of Parker \u2014 Media Buying and Marketing Agency Services - Issuing organization: Town of Parker, Colorado. - What is being sought: Media buying and marketing agency services. - Deadline: September 3, 2026. - Estimated value: Not stated in the source snippet. - Direct posting link: https://www.highergov.com/sl/contract-opportunity/co-rfp-26015-media-buying-and-marketing-age-72487176/",
       "first_seen": "2026-08-31"
     },
     {
