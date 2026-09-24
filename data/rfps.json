@@ -2,6 +2,30 @@
   "generated": "2026-09-24",
   "rfps": [
     {
+      "id": "664f5d582bc2507d",
+      "type": "perplexity",
+      "title": "Media Planning and Buying \u2014 California Economic Development/Tourism Project",
+      "issuer": "** A California economic-development agency supporting City",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/media-planning-and-buying-fkx1",
+      "source_domain": "https://www.cleat.ai/government/contracts/media-planning-and-buying-fkx1",
+      "description": "Media Planning and Buying \u2014 California Economic Development/Tourism Project - Issuing organization: A California economic-development agency supporting City of Palm Desert tourism projects, United States. - What is being sought: Media planning and buying services under NAICS 541810 for tourism-related work. - Deadline: October 23, 2026. - Estimated value: Not stated. - Direct source: [Opportunity listing](https://www.cleat.ai/government/contracts",
+      "first_seen": "2026-09-24"
+    },
+    {
+      "id": "9d88f51acc5aa115",
+      "type": "perplexity",
+      "title": "City of Boston, Massachusetts \u2014 Boston Public Health Commission Communications Qualified Vendor Pool",
+      "issuer": "** Boston Public Health Commission, City of Boston, Massachu",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.alamedaca.gov/BUSINESS/Bid-on-City-Contracts/Request-for-Proposal-Communications-Support",
+      "source_domain": "https://www.alamedaca.gov/BUSINESS/Bid-on-City-Contracts/Request-for-Proposal-Communications-Support",
+      "description": "City of Boston, Massachusetts \u2014 Boston Public Health Commission Communications Qualified Vendor Pool - Issuing organization: Boston Public Health Commission, City of Boston, Massachusetts - What is being sought: Qualified vendors for communications, research/evaluation, strategy and planning, and grant-writing services. The communications and strategy tracks are relevant to marketing and public-information work. - Deadline: Not shown in the avail",
+      "first_seen": "2026-09-24"
+    },
+    {
       "id": "6d8d9fcba2a770e3",
       "type": "perplexity",
       "title": "active US government advertising or marketing RFPs open in May 2026",
@@ -98,18 +122,6 @@
       "first_seen": "2026-09-22"
     },
     {
-      "id": "b407795c0772ebac",
-      "type": "perplexity",
-      "title": "Town of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services",
-      "issuer": "** Town of Jackson, Wyoming",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
-      "source_domain": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
-      "description": "Town of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services - Issuing organization: Town of Jackson, Wyoming - What is being sought: Municipal brand identity and social media consulting services under RFP No. 27-02. - Deadline: October 9, 2026, at 5:00 p.m. Mountain time. - Estimated value: Not stated in the posting. - Status: Open. - Direct RFP posting: [Town of Jackson bid posting](https://www.jacksonwy.gov/bids.aspx?",
-      "first_seen": "2026-09-22"
-    },
-    {
       "id": "4f278bee416e18ca",
       "type": "perplexity",
       "title": "The Coca-Cola Company \u2014 Global media, data, and technology review",
@@ -119,18 +131,6 @@
       "url": "https://www.adweek.com/agencies/coca-colas-top-marketer-reveals-what-hes-looking-for-in-his-next-agency/",
       "source_domain": "https://www.adweek.com/agencies/coca-colas-top-marketer-reveals-what-hes-looking-for-in-his-next-agency/",
       "description": "The Coca-Cola Company \u2014 Global media, data, and technology review - Issuing organization: The Coca-Cola Company, a US-based beverage company. - What is being reviewed: Its approximately $4 billion global media, data, and technology account; the North American portion is also being handled as a separate pitch. This is primarily a media and marketing-technology review rather than a creative-agency search. - Timeline: The account was reported as bei",
-      "first_seen": "2026-09-22"
-    },
-    {
-      "id": "e658de61810dca16",
-      "type": "perplexity",
-      "title": "New York State Department of Economic Development \u2014 Consumer Marketing and Digital Advertising",
-      "issuer": "of Economic Development \u2014 Consumer Marketing and Digital Adv",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/consumer-marketing-and-digital-advertising-8v52",
-      "source_domain": "https://www.cleat.ai/government/contracts/consumer-marketing-and-digital-advertising-8v52",
-      "description": "New York State Department of Economic Development \u2014 Consumer Marketing and Digital Advertising - Issuing organization: New York State Department of Economic Development. - What is being sought: Consumer marketing and digital advertising services supporting paid digital and print advertising campaigns. - Deadline: October 23, 2026. - Estimated value: Not stated. - Solicitation information: The listing references solicitation 26-6179 and NAICS code",
       "first_seen": "2026-09-22"
     },
     {
@@ -158,6 +158,18 @@
       "first_seen": "2026-09-22"
     },
     {
+      "id": "e658de61810dca16",
+      "type": "perplexity",
+      "title": "Consumer Marketing and Digital Advertising \u2014 New York State Department of Economic Development",
+      "issuer": "of Economic Development",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/consumer-marketing-and-digital-advertising-8v52",
+      "source_domain": "https://www.cleat.ai/government/contracts/consumer-marketing-and-digital-advertising-8v52",
+      "description": "Consumer Marketing and Digital Advertising \u2014 New York State Department of Economic Development - Issuing organization: New York State Department of Economic Development, United States. - What is being sought: Consumer marketing and digital advertising services associated with tourism marketing activities. - Deadline: October 23, 2026. - Estimated value: Not stated. - Direct source: [Opportunity listing](https://www.cleat.ai/government/contracts/c",
+      "first_seen": "2026-09-22"
+    },
+    {
       "id": "806986cb1a68cab6",
       "type": "perplexity",
       "title": "Comprehensive Marketing and Advertising Services \u2014 Kentucky Tourism Cabinet",
@@ -167,6 +179,18 @@
       "url": "https://apify.com/talcoe/us-government-bids-rfps",
       "source_domain": "https://apify.com/talcoe/us-government-bids-rfps",
       "description": "Comprehensive Marketing and Advertising Services \u2014 Kentucky Tourism Cabinet - Issuing organization: Commonwealth of Kentucky, Cabinet and its agencies - What is being sought: Comprehensive marketing and advertising services to promote Kentucky tourism, including events, venues, meetings, conventions, cultural activities, historical sites, recreation, entertainment, scenic attractions, and related visitor-generating activities. - Deadline: October",
+      "first_seen": "2026-09-22"
+    },
+    {
+      "id": "b407795c0772ebac",
+      "type": "perplexity",
+      "title": "City of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services",
+      "issuer": "** Town of Jackson, Wyoming",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
+      "source_domain": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
+      "description": "City of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services - Issuing organization: Town of Jackson, Wyoming - What is being sought: A consultant or firm to provide municipal brand identity and social-media consulting services. - Deadline: October 9, 2026, at 5:00 p.m. MDT. The bid-opening date is listed as September 9, 2026. - Estimated value: Not stated in the posting. - Status: Open. - Direct RFP posting: [Jackson bi",
       "first_seen": "2026-09-22"
     },
     {
@@ -266,18 +290,6 @@
       "first_seen": "2026-09-21"
     },
     {
-      "id": "4a426de960f415e9",
-      "type": "perplexity",
-      "title": "Kentucky Tourism Comprehensive Marketing and Advertising Services",
-      "issuer": "** Kentucky Tourism, part of the Kentucky Cabinet and its ag",
-      "posted": "",
-      "deadline": "",
-      "url": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
-      "source_domain": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
-      "description": "Kentucky Tourism Comprehensive Marketing and Advertising Services - Issuing organization: Kentucky Tourism, part of the Kentucky Cabinet and its agencies. - What is being sought: Comprehensive marketing and advertising services to promote Kentucky tourism, including events, venues, meetings, conventions, trade shows, cultural activities, historic sites, recreation, entertainment, and related visitor-economy activities. - Deadline: October 2, 2026",
-      "first_seen": "2026-09-21"
-    },
-    {
       "id": "ea945f673c03ae9d",
       "type": "perplexity",
       "title": "Florida/Other U.S. Government \u2013 Communication and Outreach Services",
@@ -287,6 +299,18 @@
       "url": "https://rfpplanet.com/mktg-2614/communication-and-outreach-services",
       "source_domain": "https://rfpplanet.com/mktg-2614/communication-and-outreach-services",
       "description": "Florida/Other U.S. Government \u2013 Communication and Outreach Services - Issuing organization: A government authority located in Florida, USA (exact agency name not visible in snippet) under ID MKTG\u20112614. - What is being sought: Communication and outreach services categorized under marketing and government contracts, likely including public communications and outreach related to government programs. - Deadline: Closing date September 14, 2026. - Est",
+      "first_seen": "2026-09-21"
+    },
+    {
+      "id": "4a426de960f415e9",
+      "type": "perplexity",
+      "title": "Comprehensive Marketing and Advertising Services \u2014 Kentucky Tourism",
+      "issuer": "** Kentucky state government, United States",
+      "posted": "",
+      "deadline": "",
+      "url": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
+      "source_domain": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
+      "description": "Comprehensive Marketing and Advertising Services \u2014 Kentucky Tourism - Issuing organization: Kentucky state government, United States. - What is being sought: Comprehensive marketing and advertising services for the Cabinet and its agencies, including promotion of tourism, events, venues, meetings, conventions, trade shows, cultural activities, historical sites, recreation, entertainment, scenic destinations, and related economic activity. - Deadl",
       "first_seen": "2026-09-21"
     },
     {
@@ -614,6 +638,18 @@
       "first_seen": "2026-09-19"
     },
     {
+      "id": "22c684abec1f6148",
+      "type": "perplexity",
+      "title": "Tourism Marketing and Creative Services \u2014 Palm Desert Economic Development, California",
+      "issuer": "** Palm Desert Economic Development, California, United Stat",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
+      "source_domain": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
+      "description": "Tourism Marketing and Creative Services \u2014 Palm Desert Economic Development, California - Issuing organization: Palm Desert Economic Development, California, United States. - What is being sought: A full-service firm to provide integrated tourism marketing and creative services, including work planned for July 1, 2027\u2013June 30, 2030, with possible one-year renewals. - Deadline: October 22, 2026, according to the opportunity listing. A related listi",
+      "first_seen": "2026-09-19"
+    },
+    {
       "id": "bc168f2e9585af72",
       "type": "perplexity",
       "title": "Texas \u2014 Media Buy Services",
@@ -803,18 +839,6 @@
       "url": "https://www.scanningrfp.com/1171151-usa-california-marketing-website-and-social-media-services-rfp.html",
       "source_domain": "https://www.scanningrfp.com/1171151-usa-california-marketing-website-and-social-media-services-rfp.html",
       "description": "California \u2013 Marketing, Website and Social Media Services (MRB-57168) - Issuing organization: Government authority located in California, USA; the listing specifies \u201cUSA (California) \u2013 Marketing, Website and Social Media Services.\u201d - What is being sought: Marketing, website and social media services, including: - Ongoing marketing strategy and branding support. - Website-related marketing and content services. - Social media strategy, content cre",
-      "first_seen": "2026-09-19"
-    },
-    {
-      "id": "22c684abec1f6148",
-      "type": "perplexity",
-      "title": "California Tourism Marketing and Creative Services",
-      "issuer": "** California Economic Development",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
-      "source_domain": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
-      "description": "California Tourism Marketing and Creative Services - Issuing organization: California Economic Development. - What is being sought: Tourism marketing and creative services under solicitation 2026-RFP-055. - Deadline: October 22, 2026. - Estimated value: Not stated in the available source information. - Source:",
       "first_seen": "2026-09-19"
     },
     {
@@ -1282,7 +1306,7 @@
       "deadline": "",
       "url": "https://www.enfield-ct.gov/bids.aspx?bidID=375",
       "source_domain": "https://www.enfield-ct.gov/bids.aspx?bidID=375",
-      "description": "Town of Enfield, Connecticut \u2014 Economic Development Branding & Marketing Services - Issuing organization: Town of Enfield, Connecticut. - What is being sought: Economic-development branding and marketing services. - Deadline: October 6, 2026, at 11:00 a.m. - Estimated value: Not stated in the available source information. - Source:",
+      "description": "Town of Enfield, Connecticut \u2014 Economic Development Branding & Marketing Services - Issuing organization: Town of Enfield, Connecticut - What is being sought: Branding and marketing services supporting the town\u2019s economic-development efforts. - Deadline: The search result identifies an August 25, 2026 solicitation and indicates proposals were due at 11:00 a.m.; the exact submission date is not visible in the available posting excerpt. Because the",
       "first_seen": "2026-09-07"
     },
     {
@@ -2975,18 +2999,6 @@
       "url": "https://publicbidsearch.com/bids/rfp-27-01-hawaii-tourism-brand-mkt-for-north-america-mma-statewide-hi-6c3651",
       "source_domain": "https://publicbidsearch.com/bids/rfp-27-01-hawaii-tourism-brand-mkt-for-north-america-mma-statewide-hi-6c3651",
       "description": "Florida Department of Agriculture and Consumer Services \u2014 Digital Marketing & Advertising Services / Sports Marketing Sponsorship - Issuing organization: Florida Department of Agriculture and Consumer Services. - What is being sought: A single-source agreement with Learfield Sports, LLC for sports marketing sponsorship promoting the \u201cFresh From Florida\u201d brand through collegiate sports partnerships. - Deadline: Not clearly stated in the available",
-      "first_seen": "2026-08-23"
-    },
-    {
-      "id": "c67466e494ecca5d",
-      "type": "brand_lead",
-      "title": "Coca-Cola media, data and tech agency review pits WPP against Publicis",
-      "issuer": "Ad Age",
-      "posted": "2026-06-03",
-      "deadline": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaUstVVhweEVzN0Y3dEdZZHBIdVZ3eUVCRGlzY1U3T2paUVlIbmFycG5jNWpvS09pOXN1S3MxTU8zaTFUWF9GaE5zNDA0RW5fS2tyU0thZ3hPSFVvY2NRS1RfQWxndndNREpaUDlvSEoxVXBJX0ZZV1N3UW95TU1CeW81dnhJTS1POUdfcjRoQnRvb1BsWkFZQUxn?oc=5",
-      "source_domain": "https://adage.com",
-      "description": "Coca-Cola media, data and tech agency review pits WPP against Publicis Ad Age",
       "first_seen": "2026-08-23"
     }
   ]
