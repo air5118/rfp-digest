@@ -1,6 +1,30 @@
 {
-  "generated": "2026-09-25",
+  "generated": "2026-09-26",
   "rfps": [
+    {
+      "id": "c3b05e36422d5af7",
+      "type": "brand_lead",
+      "title": "Week in Review: Nielsen Buys DoubleVerify for $2.15 Billion, Disney Agrees IP Deal with TikTok, and CTV Stars in Mixed Ad Tech Earnings",
+      "issuer": "VideoWeek",
+      "posted": "2026-08-07",
+      "deadline": "",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPblN1dlhSRjBQTDdjdXIyUmwxN0pSYnJVTzlMUDdtOEtKNXplR25lOXVvSjdDSU41UVBCem0tX3lsS2FzX2tqWnZEV1NBUThBWWMxNDhEaEJpaWZUVnFGVGY4cW9PZmkxVkIwLUhhNDhmSGhhWjROUG5QYm51U0EtYXlzNEV3R0RuYVpFcW1tUnZPbmxYalBIVndCOUNpVzFrWjNnUlctU3VBMkN2MGgyWmpUT2NjTTVtX1I2QWpqTUlFVkdQOFFLRnZoYTZ5bzltdURDLVY3N1RKSDF0eFU3RWNyN2FvVFpZVUVFUk9uV2tkYnFZS3BGNQ?oc=5",
+      "source_domain": "https://videoweek.com",
+      "description": "Week in Review: Nielsen Buys DoubleVerify for $2.15 Billion, Disney Agrees IP Deal with TikTok, and CTV Stars in Mixed Ad Tech Earnings VideoWeek",
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "a4535f05a98930f6",
+      "type": "perplexity",
+      "title": "City of Boston \u2014 Street Furniture Program",
+      "issuer": "** City of Boston, Massachusetts, acting through the Propert",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.boston.gov/bid-listings/ev00017655-0",
+      "source_domain": "https://www.boston.gov/bid-listings/ev00017655-0",
+      "description": "City of Boston \u2014 Street Furniture Program - Issuing organization: City of Boston, Massachusetts, acting through the Property Management Department - What is being sought: A business partner to upgrade and expand bus shelters, wayfinding kiosks, and other street-furniture elements in Boston\u2019s public rights-of-way. The opportunity may include advertising-related components associated with the street-furniture program. - Deadline: November 4, 2026,",
+      "first_seen": "2026-09-26"
+    },
     {
       "id": "5046415ee1bb16d6",
       "type": "perplexity",
@@ -106,7 +130,7 @@
       "deadline": "",
       "url": "https://starbridge.ai/rfp/marketing-communication-services-request-for-proposal",
       "source_domain": "https://starbridge.ai/rfp/marketing-communication-services-request-for-proposal",
-      "description": "Hawaii Department of Business, Economic Development and Tourism \u2014 Marketing and Communication Services - Issuing organization: Hawaii Department of Business, Economic Development and Tourism. - What is being sought: Marketing and communications assistance to promote the department, its programs, and its events. - Deadline: September 30, 2026. - Estimated value: Not stated. - Direct source: [Marketing & Communication Services RFP listing](https://",
+      "description": "Hawaii Department of Business, Economic Development and Tourism \u2014 Marketing and Communication Services - Issuing organization: Hawaii Department of Business, Economic Development and Tourism - What is being sought: Marketing and communications assistance to promote the department\u2019s agency, programs, and events. - Deadline: September 30, 2026. - Estimated value: Not stated in the available information. - Direct source: [Starbridge opportunity page",
       "first_seen": "2026-09-23"
     },
     {
@@ -146,6 +170,18 @@
       "first_seen": "2026-09-22"
     },
     {
+      "id": "b407795c0772ebac",
+      "type": "perplexity",
+      "title": "Town of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services",
+      "issuer": "** Town of Jackson, Wyoming",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
+      "source_domain": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
+      "description": "Town of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services - Issuing organization: Town of Jackson, Wyoming - What is being sought: A consultant or firm to provide municipal brand identity and social media consulting services. - Deadline: October 9, 2026, at 5:00 p.m. Mountain Time - Estimated value: Not stated in the posting. - Status: Open - Direct RFP posting: [Town of Jackson bid posting](https://www.jacksonwy.gov/",
+      "first_seen": "2026-09-22"
+    },
+    {
       "id": "4f278bee416e18ca",
       "type": "perplexity",
       "title": "The Coca-Cola Company \u2014 Global media, data, and technology review",
@@ -170,30 +206,6 @@
       "first_seen": "2026-09-22"
     },
     {
-      "id": "b407795c0772ebac",
-      "type": "perplexity",
-      "title": "Municipal Brand Identity and Social Media Consulting \u2014 City of Jackson, Wyoming",
-      "issuer": "** **City of Jackson, Wyoming**, a US municipal government",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
-      "source_domain": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
-      "description": "Municipal Brand Identity and Social Media Consulting \u2014 City of Jackson, Wyoming - Issuing organization: City of Jackson, Wyoming, a US municipal government. - What is being sought: Municipal brand identity and social-media consulting services. - Review type: Branding, social media, and marketing consulting; not a commercial-brand agency review. - Deadline: Proposals due October 9, 2026, at 5:00 p.m. Mountain Time; questions were due September 23,",
-      "first_seen": "2026-09-22"
-    },
-    {
-      "id": "4d18802db4abcd4e",
-      "type": "perplexity",
-      "title": "Marketing, Venue Development, Event Recruitment, and Brand Coordination Services",
-      "issuer": "** A US public-sector entity identified in the solicitation",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/marketing-venue-development-event-recruitment-and-brand-coordination-services-ii-dtwc",
-      "source_domain": "https://www.cleat.ai/government/contracts/marketing-venue-development-event-recruitment-and-brand-coordination-services-ii-dtwc",
-      "description": "Marketing, Venue Development, Event Recruitment, and Brand Coordination Services - Issuing organization: A US public-sector entity identified in the solicitation as DTWC; the available search result does not provide the full issuer name. - What is being sought: Marketing, venue-development, event-recruitment, and brand-coordination services. - Deadline: October 8, 2026, at 10:00 a.m. Central Time. - Estimated value: Not stated in the available no",
-      "first_seen": "2026-09-22"
-    },
-    {
       "id": "57e9117fc18fd91b",
       "type": "perplexity",
       "title": "Important exclusions",
@@ -203,6 +215,18 @@
       "url": "https://www.acquisition.gov/far/subpart-5.2?searchTerms=5.203",
       "source_domain": "https://www.acquisition.gov/far/subpart-5.2?searchTerms=5.203",
       "description": "Important exclusions The search identified other potentially relevant 2026 postings, but they were not included because they appeared expired as of September 22, 2026. These include the City of Gloucester, Massachusetts destination marketing opportunity, which had a September 15 proposal opening, and the City of Alameda, California communications-support RFP, which had a September 11 proposal deadline.",
+      "first_seen": "2026-09-22"
+    },
+    {
+      "id": "4d18802db4abcd4e",
+      "type": "perplexity",
+      "title": "Ector County, Texas \u2014 Coliseum Marketing, Venue Development, Event Recruitment, and Brand Coordination",
+      "issuer": "** Ector County, Texas",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/marketing-venue-development-event-recruitment-and-brand-coordination-services-ii-dtwc",
+      "source_domain": "https://www.cleat.ai/government/contracts/marketing-venue-development-event-recruitment-and-brand-coordination-services-ii-dtwc",
+      "description": "Ector County, Texas \u2014 Coliseum Marketing, Venue Development, Event Recruitment, and Brand Coordination - Issuing organization: Ector County, Texas - What is being sought: A strategic partner for comprehensive marketing, venue development, event recruitment, and brand coordination services for the Ector County Coliseum & Exhibition Center. - Deadline: October 8, 2026, at 10:00 a.m. Central Time. - Estimated value: Not stated in the available infor",
       "first_seen": "2026-09-22"
     },
     {
@@ -305,12 +329,12 @@
       "id": "4a426de960f415e9",
       "type": "perplexity",
       "title": "Kentucky Tourism \u2014 Comprehensive Marketing and Advertising Services",
-      "issuer": "** Commonwealth of Kentucky, through the relevant state cabi",
+      "issuer": "** Commonwealth of Kentucky Cabinet and its agencies",
       "posted": "",
       "deadline": "",
       "url": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
       "source_domain": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
-      "description": "Kentucky Tourism \u2014 Comprehensive Marketing and Advertising Services - Issuing organization: Commonwealth of Kentucky, through the relevant state cabinet/agencies. - What is being sought: Comprehensive marketing and advertising services to promote Kentucky tourism, events, venues, meetings, conventions, trade shows, cultural activities, historic sites, recreation, entertainment, scenic areas, and related economic activity. - Deadline: October 2, 2",
+      "description": "Kentucky Tourism \u2014 Comprehensive Marketing and Advertising Services - Issuing organization: Commonwealth of Kentucky Cabinet and its agencies - What is being sought: Comprehensive marketing and advertising services to promote Kentucky tourism, including events, venues, meetings, conventions, trade shows, cultural activities, historical sites, recreation, entertainment, and other visitor-economy activities. - Deadline: October 2, 2026. - Estimated",
       "first_seen": "2026-09-21"
     },
     {
@@ -388,13 +412,13 @@
     {
       "id": "817e9f64f62aeecb",
       "type": "perplexity",
-      "title": "Brand and Advertising Agency of Record Services \u2014 New York issuer",
-      "issuer": "of Record Services \u2014 New York issuer",
-      "posted": "",
+      "title": "Brand and Advertising Agency of Record Services \u2014 New York",
+      "issuer": "of Record Services \u2014 New York",
+      "posted": "2026-09-17",
       "deadline": "",
       "url": "https://rfpplanet.com/mktg-2679/brand-and-advertising-agency-of-record-ser",
       "source_domain": "https://rfpplanet.com/mktg-2679/brand-and-advertising-agency-of-record-ser",
-      "description": "Brand and Advertising Agency of Record Services \u2014 New York issuer - Issuing organization: The specific organization is not identified in the available listing; it is a New York-based public-sector issuer. - What is being sought: Brand and advertising agency-of-record services, potentially including brand strategy, creative, advertising, and related marketing support. - Review type: Brand and advertising agency-of-record review. - Deadline: Propos",
+      "description": "Brand and Advertising Agency of Record Services \u2014 New York - Issuing organization: Not identified in the available listing; the opportunity is associated with New York. - What is being sought: Brand and advertising agency-of-record services, likely covering advertising and related brand communications. - Review type: Creative/advertising agency-of-record search. - Timeline: Posted September 17, 2026; questions due September 30, 2026; proposals du",
       "first_seen": "2026-09-21"
     },
     {
@@ -455,18 +479,6 @@
       "url": "https://rfpplanet.com/mktg-2658/tourism-marketing-and-promotions-grant-ser",
       "source_domain": "https://rfpplanet.com/mktg-2658/tourism-marketing-and-promotions-grant-ser",
       "description": "Tourism Marketing and Promotions Grant Services - Issuing organization: Hawaii tourism/public agency issuer - What is being sought: Tourism marketing and promotions grant services - Deadline: October 9, 2026 - Estimated value: Not stated - Source URL: https://rfpplanet.com/mktg-2658/tourism-marketing-and-promotions-grant-ser",
-      "first_seen": "2026-09-20"
-    },
-    {
-      "id": "1c64e789e2fbf8cd",
-      "type": "perplexity",
-      "title": "Strategic Marketing, Communications, Creative and Media Services \u2014 Alabama municipality",
-      "issuer": "** City government in Alabama",
-      "posted": "2026-09-15",
-      "deadline": "",
-      "url": "https://rfpplanet.com/mktg-2660/strategic-marketing-communications-creativ",
-      "source_domain": "https://rfpplanet.com/mktg-2660/strategic-marketing-communications-creativ",
-      "description": "Strategic Marketing, Communications, Creative and Media Services \u2014 Alabama municipality - Issuing organization: City government in Alabama - What is being sought: A full-service marketing and communications agency to provide strategic, creative, advertising, media, and campaign-support services. - Deadline: October 5, 2026 - Estimated value: Not stated in the available source. - Source: The posting shows RFP posted Sep 15, 2026 with a proposal du",
       "first_seen": "2026-09-20"
     },
     {
@@ -587,6 +599,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VU3ZUSU8tbjdJMUNIMWt5NzNnNk1sS3F0Z1hGNzJhSDh2QnlaQi1VV0d3Vnh0WGFaX2tSU1MzNWJRWjRJbUVYUDhKNVFNUGRDYmZxT1pZOGkxU2lsXzFySGVVUHM3TDVtdXhsRkFDTGhjNXIwdjQ0Qg?oc=5",
       "source_domain": "https://lbbonline.com",
       "description": "Barrows Named Commerce Marketing Agency of Record for Conagra Brands in the US lbbonline.com",
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "1c64e789e2fbf8cd",
+      "type": "perplexity",
+      "title": "Alabama \u2014 Strategic Marketing, Communications, Creative, and Media Services",
+      "issuer": "** Alabama public-sector issuer; the available listing does",
+      "posted": "",
+      "deadline": "",
+      "url": "https://rfpplanet.com/mktg-2660/strategic-marketing-communications-creativ",
+      "source_domain": "https://rfpplanet.com/mktg-2660/strategic-marketing-communications-creativ",
+      "description": "Alabama \u2014 Strategic Marketing, Communications, Creative, and Media Services - Issuing organization: Alabama public-sector issuer; the available listing does not identify the specific agency in the search extract. - What is being sought: Strategic marketing, communications, creative, and media services. - Deadline: October 5, 2026. - Estimated value: Not stated in the available information. - Direct source: [RFPPlanet opportunity page](https://rfp",
       "first_seen": "2026-09-20"
     },
     {
@@ -722,18 +746,6 @@
       "first_seen": "2026-09-19"
     },
     {
-      "id": "14f1a97a54192460",
-      "type": "perplexity",
-      "title": "Snohomish County, Washington \u2014 Destination Marketing Organization Services",
-      "issuer": "Services",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/destination-marketing-organization-dmo-services-yzkc",
-      "source_domain": "https://www.cleat.ai/government/contracts/destination-marketing-organization-dmo-services-yzkc",
-      "description": "Snohomish County, Washington \u2014 Destination Marketing Organization Services - Issuing organization: Snohomish County, Washington. - What is being sought: Destination Marketing Organization services under solicitation RFP-26-0754BC. - Deadline: Not stated in the available search results. - Estimated value: Not stated; the listing indicates the opportunity is bid in US dollars. - Direct source: [Snohomish County DMO opportunity](https://www.cleat.ai",
-      "first_seen": "2026-09-19"
-    },
-    {
       "id": "2a9fa10237d406b0",
       "type": "perplexity",
       "title": "Oregon Department of the State Fire Marshal \u2013 Strategic Marketing Support and Services (Wildfire Preparedness Campaign)",
@@ -845,12 +857,12 @@
       "id": "22c684abec1f6148",
       "type": "perplexity",
       "title": "City of Palm Desert, California \u2014 Tourism Marketing and Creative Services",
-      "issuer": "** City of Palm Desert, California, through its Economic Dev",
-      "posted": "2026-09-14",
+      "issuer": "** City of Palm Desert, California",
+      "posted": "",
       "deadline": "",
       "url": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
       "source_domain": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
-      "description": "City of Palm Desert, California \u2014 Tourism Marketing and Creative Services - Issuing organization: City of Palm Desert, California, through its Economic Development department. - What is being sought: A qualified full-service firm to provide integrated tourism marketing and creative services, including brand and creative development, media planning and buying, public relations, social media, tourism email communications, website marketing, researc",
+      "description": "City of Palm Desert, California \u2014 Tourism Marketing and Creative Services - Issuing organization: City of Palm Desert, California - What is being sought: A full-service firm for integrated tourism marketing and creative services, including brand management, media planning and buying, public relations, social media, email marketing, website marketing, research, analytics, and performance measurement. - Deadline: October 22, 2026, according to the",
       "first_seen": "2026-09-19"
     },
     {
@@ -929,12 +941,12 @@
       "id": "5b9637db15cd16d6",
       "type": "brand_lead",
       "title": "WPP is set to win Coca-Cola\u2019s global agency review",
-      "issuer": "adage.com",
+      "issuer": "Ad Age",
       "posted": "2026-09-11",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXhxS2RxZmd2S21fS2tldmkybXRzSm1HV0syR1NuZWhUR2VCbEdLa1JxT1hsY1V5XzdnY1U4UUgxelZwSl9WOFZ6dTNfcTJKWHhGbGFaT0I3cFRQc2JSdElCVEVrMndXdFV3ZWdZcDRqOU1JdmxMeUsxOUNJMXBYbGhfdnNaTmdmb3NuV0h3N0RNVVB3OFhuV24xeFA4ZENFcmVta3l3RjF0amdf?oc=5",
       "source_domain": "https://adage.com",
-      "description": "WPP is set to win Coca-Cola\u2019s global agency review adage.com",
+      "description": "WPP is set to win Coca-Cola\u2019s global agency review Ad Age",
       "first_seen": "2026-09-11"
     },
     {
@@ -1085,12 +1097,12 @@
       "id": "3d28ff84d9261bd9",
       "type": "brand_lead",
       "title": "8 agency reviews to know about: Uber, Mattel, Popeyes, Intuit, Subway",
-      "issuer": "adage.com",
+      "issuer": "Ad Age",
       "posted": "2026-08-03",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQVp1d1Jma0hZZmdQTDZOSThkY3JpaXBQZnJmX2dENGdIYlp2YXluaDJkSEJvaHQzZTVWdURNQjNkT1VNSGFzajJ5NDkxUFVXcVRTQW5MUW0wcm9VVHczbXV2dEJmVVlXMHJCVjh6Z0FTYzh1WXFJYmFIN0lsTkNaZUcwbERTWjJ0b2UydExsaFZCVlpheFpn?oc=5",
       "source_domain": "https://adage.com",
-      "description": "8 agency reviews to know about: Uber, Mattel, Popeyes, Intuit, Subway adage.com",
+      "description": "8 agency reviews to know about: Uber, Mattel, Popeyes, Intuit, Subway Ad Age",
       "first_seen": "2026-09-10"
     },
     {
@@ -1217,12 +1229,12 @@
       "id": "2684442b89636022",
       "type": "brand_lead",
       "title": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released",
-      "issuer": "Help Net Security",
+      "issuer": "helpnetsecurity.com",
       "posted": "2026-08-02",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdktnNGVJbXl5N21kTGZpWXhlTHRWRlBGXzhheGYydjFvQklXckxTcHNHRlJyblg3bVRweGNGdmhPaG1NSnNPVnl0ZGhlb1JFQUg2ckdSNVRUS29Jb1BfN2lndlJxZHNLdU5XTVF6d0w5R2F4aTJQY1VyYUhidVdMYWpoeU94YTlQTjFvcWVOYlZkaE9xSGJBWTAwVFg3dWR6eG5EOUJpaUtUclJtQW0wWjR1M1RRSWtXMmN5SE5qeWV6Vl9XTlNaZ3JnbjE4bDE2TW0wTg?oc=5",
       "source_domain": "https://www.helpnetsecurity.com",
-      "description": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released Help Net Security",
+      "description": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released helpnetsecurity.com",
       "first_seen": "2026-09-08"
     },
     {
@@ -1840,13 +1852,13 @@
     {
       "id": "2df3164e3a36582a",
       "type": "perplexity",
-      "title": "Snohomish County, WA \u2013 Destination Marketing Organization Services (RFP\u201126\u20110754BC)",
-      "issuer": "Services (RFP\u201126\u20110754BC)",
+      "title": "Snohomish County, Washington \u2014 Destination Marketing Organization Services",
+      "issuer": "Services",
       "posted": "",
       "deadline": "",
       "url": "https://app.govly.com/public/opportunities/17031457",
       "source_domain": "https://app.govly.com/public/opportunities/17031457",
-      "description": "Snohomish County, WA \u2013 Destination Marketing Organization Services (RFP\u201126\u20110754BC) - Issuing organization: Snohomish County, Washington - RFP title: \u201cRFP\u201126\u20110754BC \u2013 Destination Marketing Organization (DMO) Services\u201d - What is being sought: DMO services to enhance tourism and promote Snohomish County as a travel destination; the selected organization will manage destination marketing efforts for the county. - Deadline: The snippet identifies the",
+      "description": "Snohomish County, Washington \u2014 Destination Marketing Organization Services - Issuing organization: Snohomish County, Washington - What is being sought: Destination marketing organization services to promote Snohomish County as a travel destination, including tourism promotion, branding, and related destination-marketing activities. - Deadline: Not shown in the available search information. - Estimated value: Not stated in the available informatio",
       "first_seen": "2026-09-02"
     },
     {
@@ -2813,12 +2825,12 @@
       "id": "14816965a25251d3",
       "type": "brand_lead",
       "title": "11 agency reviews to know about: Coca-Cola, Levi's, Copilot, IBM, Intuit",
-      "issuer": "adage.com",
+      "issuer": "Ad Age",
       "posted": "2026-07-06",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMEw3ak56QTdqUEZVV1o5YWVlc09MTFVGYm1OOGtfZ2kxeGRUeTU5a3VCckdZcndjdjhESU8zS0M1YVpiUWxVT2xnMmdKNWJ0T29UUjgwaEJYSnFPa202N21ndFlSMlpxQ3FEVVY1clM2MGdqemQ5c01rSXVMNmU2M0xxYzdBZkVGT0doLWh0M0JlbElMMUlyaDE3ZDczbEdRUm53?oc=5",
       "source_domain": "https://adage.com",
-      "description": "11 agency reviews to know about: Coca-Cola, Levi's, Copilot, IBM, Intuit adage.com",
+      "description": "11 agency reviews to know about: Coca-Cola, Levi's, Copilot, IBM, Intuit Ad Age",
       "first_seen": "2026-08-24"
     },
     {
@@ -2987,18 +2999,6 @@
       "url": "https://publicbidsearch.com/bids/rfp-27-02-global-meetings-conventions-and-incentives-statewide-hi-7c9125",
       "source_domain": "https://publicbidsearch.com/bids/rfp-27-02-global-meetings-conventions-and-incentives-statewide-hi-7c9125",
       "description": "Hawai\u02bbi Tourism Authority \u2013 Global Meetings, Conventions & Incentives Sales and Marketing (Hawaiian Islands) - Issuing organization: - Hawai\u02bbi Tourism Authority (HTA), a US state tourism agency in Hawaii, USA. - What is being sought: - Contractor to provide global sales and marketing services for meetings, conventions, and incentives (MCI) for the Hawaiian Islands. - The contract covers global sales and marketing activity to drive MCI business to",
-      "first_seen": "2026-08-23"
-    },
-    {
-      "id": "f383d56265cf4aae",
-      "type": "perplexity",
-      "title": "Hawaii Government Authority \u2013 Marketing and Communication Services (Hawaii)",
-      "issuer": "** **Government authority in Hawaii, USA**, identified in th",
-      "posted": "2026-08-23",
-      "deadline": "",
-      "url": "https://rfpplanet.com/mktg-2544/marketing-and-communication-services",
-      "source_domain": "https://rfpplanet.com/mktg-2544/marketing-and-communication-services",
-      "description": "Hawaii Government Authority \u2013 Marketing and Communication Services (Hawaii) - Issuing organization: Government authority in Hawaii, USA, identified in the summary as \u201cUSA (Hawaii)\u201d with Authority: Government and \u201cOnly for USA Organization.\u201d - What is being sought: End\u2011to\u2011end marketing and communications services for a public program launch and ongoing outreach, including: - Branding and creative development - Multilingual translation and accessib",
       "first_seen": "2026-08-23"
     }
   ]
