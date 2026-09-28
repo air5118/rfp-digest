@@ -2,6 +2,30 @@
   "generated": "2026-09-28",
   "rfps": [
     {
+      "id": "2878a0db70bf2d47",
+      "type": "perplexity",
+      "title": "University of South Dakota",
+      "issuer": "** University of South Dakota, Vermillion, South Dakota",
+      "posted": "",
+      "deadline": "",
+      "url": "https://bidscopeai.com/opportunities/d63a5e28-b6e5-4206-8f54-8b45322aa2fc",
+      "source_domain": "https://bidscopeai.com/opportunities/d63a5e28-b6e5-4206-8f54-8b45322aa2fc",
+      "description": "University of South Dakota - Issuing organization: University of South Dakota, Vermillion, South Dakota. - What is being sought: A strategic marketing, communications, and public-relations agency partner to support enrollment, reputation, and engagement objectives. - Review type: Marketing, communications, PR, and potentially creative/digital services. - Deadline: October 16, 2026, at 12:00 p.m.; an award decision and contract negotiation were an",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "2b01f71874bc9893",
+      "type": "perplexity",
+      "title": "US advertising or marketing RFPs open in May 2026",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://sam.gov/opp/2987bbf8999d4fab8d76f918103ace55/view",
+      "source_domain": "https://sam.gov/opp/2987bbf8999d4fab8d76f918103ace55/view",
+      "description": "I could not verify any qualifying opportunities from the available search results. The results did not provide active US advertising or marketing RFPs open in May 2026 with sufficient evidence for the issuer, solicitation title, May deadline, value, and direct application URL. The available results were not usable because: - The University of South Dakota marketing, communications, and public-relations RFP is due October 16, 2026, not May. - The",
+      "first_seen": "2026-09-28"
+    },
+    {
       "id": "43130bfe72a9e8a6",
       "type": "perplexity",
       "title": "Texas Venue and Event-Recruitment Organization \u2014 Marketing, Venue Development, Event Recruitment, and Brand Coordination Services",
@@ -14,15 +38,27 @@
       "first_seen": "2026-09-28"
     },
     {
-      "id": "2b01f71874bc9893",
+      "id": "56bfb57487893afc",
       "type": "perplexity",
-      "title": "No verified opportunities found",
-      "issuer": "See source",
+      "title": "North Carolina Department of Health and Human Services",
+      "issuer": "of Health and Human Services",
       "posted": "",
       "deadline": "",
-      "url": "https://sam.gov/opp/2987bbf8999d4fab8d76f918103ace55/view",
-      "source_domain": "https://sam.gov/opp/2987bbf8999d4fab8d76f918103ace55/view",
-      "description": "No verified opportunities found - The available federal result was a Cherokee National Forest road-repair construction solicitation, not an advertising or marketing contract; its documents were expected to be issued around May 6, 2026. - The search results included several U.S. marketing and communications opportunities, but their response deadlines were in September or October 2026, including Ector County, Texas; Minneapolis, Minnesota; Monongal",
+      "url": "https://starbridge.ai/rfp/30-270021-ooc-creative-services-and-media-buying",
+      "source_domain": "https://starbridge.ai/rfp/30-270021-ooc-creative-services-and-media-buying",
+      "description": "North Carolina Department of Health and Human Services - Issuing organization: North Carolina Department of Health and Human Services. - What is being sought: Creative services and media buying, including marketing, communications, advertising, media planning, and media-buying support for public-health and social-service programs. - Review type: Creative and media. - Deadline: October 30, 2026, at 6:00 p.m.; written questions were due October 2.",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "b1ae39942eba5874",
+      "type": "perplexity",
+      "title": "Metropolitan Nashville Airport Authority",
+      "issuer": "** Metropolitan Nashville Airport Authority",
+      "posted": "",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/advertising-marketing-management-project-no-26-028",
+      "source_domain": "https://starbridge.ai/rfp/advertising-marketing-management-project-no-26-028",
+      "description": "Metropolitan Nashville Airport Authority - Issuing organization: Metropolitan Nashville Airport Authority. - What is being sought: Full-service advertising and marketing support for Nashville International Airport and John C. Tune Airport, including brand awareness, creative campaign development, integrated campaigns, and media planning and buying. - Review type: Advertising, creative, media, and marketing. - Deadline: The available result states",
       "first_seen": "2026-09-28"
     },
     {
@@ -208,13 +244,13 @@
     {
       "id": "664f5d582bc2507d",
       "type": "perplexity",
-      "title": "Media Planning and Buying \u2014 California Economic Development/Tourism Project",
-      "issuer": "** A California economic-development agency supporting City",
+      "title": "City of Palm Desert, California \u2014 Media Planning and Buying",
+      "issuer": "** City of Palm Desert Economic Development Department, Cali",
       "posted": "",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/media-planning-and-buying-fkx1",
       "source_domain": "https://www.cleat.ai/government/contracts/media-planning-and-buying-fkx1",
-      "description": "Media Planning and Buying \u2014 California Economic Development/Tourism Project - Issuing organization: A California economic-development agency supporting City of Palm Desert tourism projects, United States. - What is being sought: Media planning and buying services under NAICS 541810 for tourism-related work. - Deadline: October 23, 2026. - Estimated value: Not stated. - Direct source: [Opportunity listing](https://www.cleat.ai/government/contracts",
+      "description": "City of Palm Desert, California \u2014 Media Planning and Buying - Issuing organization: City of Palm Desert Economic Development Department, California, United States. - What is being sought: Media planning and advertising-space procurement supporting the city\u2019s tourism marketing projects. The listing identifies this as a scope carved out of solicitation 2026-RFP-055. - Deadline: October 22, 2026, at 5:00 p.m. Pacific Time; the listing reports Octobe",
       "first_seen": "2026-09-24"
     },
     {
@@ -377,12 +413,12 @@
       "id": "b407795c0772ebac",
       "type": "perplexity",
       "title": "City of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services",
-      "issuer": "** Town of Jackson, Wyoming",
+      "issuer": "** City of Jackson, Wyoming",
       "posted": "",
       "deadline": "",
       "url": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
       "source_domain": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
-      "description": "City of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services - Issuing organization: Town of Jackson, Wyoming - What is being sought: A consultant or firm to provide municipal brand-identity and social-media consulting services. - Deadline: October 9, 2026, at 5:00 p.m. Mountain Time. - Estimated value: Not stated in the posting. - Status: Open. - Direct RFP posting: [Town of Jackson bid posting](https://www.jacksonwy.go",
+      "description": "City of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services - Issuing organization: City of Jackson, Wyoming - What is being sought: A firm or consultant to provide municipal brand identity and social media consulting services. - Deadline: October 9, 2026, at 5:00 p.m. Mountain Time - Estimated value: Not stated in the posting. - Status: Open. - Direct RFP posting: [City of Jackson bid posting](https://www.jacksonwy.gov",
       "first_seen": "2026-09-22"
     },
     {
@@ -446,6 +482,18 @@
       "first_seen": "2026-09-21"
     },
     {
+      "id": "95a3864551a591e3",
+      "type": "perplexity",
+      "title": "Other active US opportunities identified",
+      "issuer": "reviews, and the available results do not provide reliable e",
+      "posted": "",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/strategic-marketing-communications-creative-and-media",
+      "source_domain": "https://starbridge.ai/rfp/strategic-marketing-communications-creative-and-media",
+      "description": "Other active US opportunities identified The search also surfaced active 2026 solicitations from US public-sector issuers, including a Washington, DC global creative-services RFP due October 1, an Oregon strategic-marketing-services RFP due October 9, and a City of Montgomery strategic marketing, communications, creative, and media-services RFP due October 5. However, these are government or public-sector procurements, not major US consumer-brand",
+      "first_seen": "2026-09-21"
+    },
+    {
       "id": "49110e10c060fea6",
       "type": "perplexity",
       "title": "North Carolina DHHS creative services and media buying RFP",
@@ -482,18 +530,6 @@
       "first_seen": "2026-09-21"
     },
     {
-      "id": "4a426de960f415e9",
-      "type": "perplexity",
-      "title": "Kentucky Cabinet \u2014 Comprehensive Marketing and Advertising Services",
-      "issuer": "** Kentucky Cabinet and its agencies, a US state-government",
-      "posted": "2026-09-17",
-      "deadline": "",
-      "url": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
-      "source_domain": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
-      "description": "Kentucky Cabinet \u2014 Comprehensive Marketing and Advertising Services - Issuing organization: Kentucky Cabinet and its agencies, a US state-government issuer. - What is being sought: Comprehensive marketing and advertising services to promote tourism throughout Kentucky, including events, venues, meetings and conventions, trade shows, cultural and historical sites, recreation, entertainment, scenic areas, and other visitor-oriented economic activit",
-      "first_seen": "2026-09-21"
-    },
-    {
       "id": "ea945f673c03ae9d",
       "type": "perplexity",
       "title": "Florida/Other U.S. Government \u2013 Communication and Outreach Services",
@@ -506,6 +542,18 @@
       "first_seen": "2026-09-21"
     },
     {
+      "id": "4a426de960f415e9",
+      "type": "perplexity",
+      "title": "Commonwealth of Kentucky \u2014 Comprehensive Marketing and Advertising Services",
+      "issuer": "** Kentucky state government, United States",
+      "posted": "",
+      "deadline": "",
+      "url": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
+      "source_domain": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
+      "description": "Commonwealth of Kentucky \u2014 Comprehensive Marketing and Advertising Services - Issuing organization: Kentucky state government, United States. - What is being sought: Comprehensive marketing and advertising services for promoting Kentucky tourism, events, venues, meetings, conventions, trade shows, cultural activities, historical sites, recreation, entertainment, scenic attractions, and other visitor-related economic activity. - Deadline: October",
+      "first_seen": "2026-09-21"
+    },
+    {
       "id": "75ccbe962c534256",
       "type": "perplexity",
       "title": "City of Palm Desert tourism marketing and creative services RFP",
@@ -515,18 +563,6 @@
       "url": "https://www.cleat.ai/government/contracts/tourism-marketing-and-creative-services-0xem",
       "source_domain": "https://www.cleat.ai/government/contracts/tourism-marketing-and-creative-services-0xem",
       "description": "City of Palm Desert tourism marketing and creative services RFP - Issuing organization: City of Palm Desert - What is being sought: Full-service firm for tourism marketing and creative services - Deadline: October 22, 2026 - Estimated value: Not stated in the result - Posting: [https://www.cleat.ai/government/contracts/tourism-marketing-and-creative-services-0xem](https://www.cleat.ai/government/contracts/tourism-marketing-and-creative-services-0",
-      "first_seen": "2026-09-21"
-    },
-    {
-      "id": "95a3864551a591e3",
-      "type": "perplexity",
-      "title": "City of Montgomery, Alabama \u2013 Strategic Marketing, Communications, Creative and Media Services",
-      "issuer": "** City of Montgomery, Alabama",
-      "posted": "",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/strategic-marketing-communications-creative-and-media",
-      "source_domain": "https://starbridge.ai/rfp/strategic-marketing-communications-creative-and-media",
-      "description": "City of Montgomery, Alabama \u2013 Strategic Marketing, Communications, Creative and Media Services - Issuing organization: City of Montgomery, Alabama - What is being sought: A full\u2011service marketing and communications agency to provide strategic communications, campaign development, brand strategy, creative production, media planning and buying, audience targeting, public\u2011information support, analytics, and project management for city priorities, pr",
       "first_seen": "2026-09-21"
     },
     {
@@ -988,13 +1024,13 @@
     {
       "id": "22c684abec1f6148",
       "type": "perplexity",
-      "title": "City of Palm Desert, California \u2014 Tourism Marketing and Creative Services",
-      "issuer": "** City of Palm Desert, California, an Economic Development",
-      "posted": "2026-09-14",
+      "title": "City of Palm Desert, California",
+      "issuer": "** City of Palm Desert, California",
+      "posted": "",
       "deadline": "",
       "url": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
       "source_domain": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
-      "description": "City of Palm Desert, California \u2014 Tourism Marketing and Creative Services - Issuing organization: City of Palm Desert, California, an Economic Development agency. - What is being sought: An integrated tourism marketing and creative-services contractor under a professional-services agreement covering July 1, 2027\u2013June 30, 2030, with possible two one-year renewals. Services include tourism marketing, creative development, media planning/buying, and",
+      "description": "City of Palm Desert, California - Issuing organization: City of Palm Desert, California. - What is being sought: Integrated tourism marketing and creative services, including brand management, media planning and buying, public relations, and social-media management. - Review type: Creative, media, PR, social media, and brand management. - Deadline: October 22, 2026; the proposed agreement would run from July 1, 2027, through June 30, 2030, with t",
       "first_seen": "2026-09-19"
     },
     {
@@ -2964,42 +3000,6 @@
       "source_domain": "https://www.highergov.com/sl/contract-opportunity/tx-rfp-26-01-tourism-event-planning-71934944/",
       "description": "City of La Marque (Texas) \u2013 Tourism Event Planning, Production, Marketing & Management Services (FY 27) - Issuing organization: City of La Marque, Texas. - RFP title: RFP 26\u201101 \u2013 Tourism Event Planning, Production, Marketing, and Management Services FY 27. - What is being sought: A vendor to provide tourism event planning, production, marketing, and management services, including promotion of city tourism events. - Deadline: Closes August 20, 202",
       "first_seen": "2026-08-24"
-    },
-    {
-      "id": "14816965a25251d3",
-      "type": "brand_lead",
-      "title": "11 agency reviews to know about: Coca-Cola, Levi's, Copilot, IBM, Intuit",
-      "issuer": "Ad Age",
-      "posted": "2026-07-06",
-      "deadline": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMEw3ak56QTdqUEZVV1o5YWVlc09MTFVGYm1OOGtfZ2kxeGRUeTU5a3VCckdZcndjdjhESU8zS0M1YVpiUWxVT2xnMmdKNWJ0T29UUjgwaEJYSnFPa202N21ndFlSMlpxQ3FEVVY1clM2MGdqemQ5c01rSXVMNmU2M0xxYzdBZkVGT0doLWh0M0JlbElMMUlyaDE3ZDczbEdRUm53?oc=5",
-      "source_domain": "https://adage.com",
-      "description": "11 agency reviews to know about: Coca-Cola, Levi's, Copilot, IBM, Intuit Ad Age",
-      "first_seen": "2026-08-24"
-    },
-    {
-      "id": "af09019301a36561",
-      "type": "perplexity",
-      "title": "1. Federal advertising/marketing in SAM.gov (open in May 2026)",
-      "issuer": "Site\u201d link as your \u201cdirect URL\u201d",
-      "posted": "2026-08-25",
-      "deadline": "",
-      "url": "https://sam.gov/alerts/contract-opportunities-data-bank-reports-error",
-      "source_domain": "https://sam.gov/alerts/contract-opportunities-data-bank-reports-error",
-      "description": "1. Federal advertising/marketing in SAM.gov (open in May 2026) Use the advanced search in the contract\u2011opportunities portal: - Filter by: - Notice type: \u201cPresolicitation\u201d and \u201cSolicitation\u201d - Date range: Posted between 2026\u201105\u201101 and 2026\u201105\u201131 - NAICS: 541810 (Advertising Agencies), 541613 (Marketing Consulting), 541810/541820 for PR/marketing - Place of performance country: United States - Export or view results, then for each matching notice c",
-      "first_seen": "2026-08-24"
-    },
-    {
-      "id": "a9ab01c1a73c4b66",
-      "type": "perplexity",
-      "title": "Why I\u2019m not listing specific brands",
-      "issuer": "See source",
-      "posted": "2026-08-23",
-      "deadline": "",
-      "url": "https://coolnerdsmarketing.com/top-creative-agencies-us/",
-      "source_domain": "https://coolnerdsmarketing.com/top-creative-agencies-us/",
-      "description": "Why I\u2019m not listing specific brands To keep procurement research rigorous: - I won\u2019t infer that a brand is \u201cin review\u201d simply because it is mentioned in: - \u201cBest agency\u201d roundups, - Generic cross\u2011media guidance, or - PR/earned\u2011media how\u2011to content. - I won\u2019t extrapolate a 2026 review from older (pre\u20112026) stories that are not in the provided results. - I won\u2019t fabricate budgets or timelines that are not documented. If you want, you can share any",
-      "first_seen": "2026-08-23"
     }
   ]
 }
