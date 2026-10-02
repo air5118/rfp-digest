@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-01",
+  "generated": "2026-10-02",
   "rfps": [
+    {
+      "id": "0c604f8fa2da77bf",
+      "type": "perplexity",
+      "title": "City of Montgomery, Alabama \u2014 Strategic Marketing, Communications, Creative, and Media Services",
+      "issuer": "** City of Montgomery, Alabama",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/strategic-marketing-communications-creative-and-media-services-tcdn",
+      "source_domain": "https://www.cleat.ai/government/contracts/strategic-marketing-communications-creative-and-media-services-tcdn",
+      "description": "City of Montgomery, Alabama \u2014 Strategic Marketing, Communications, Creative, and Media Services - Issuing organization: City of Montgomery, Alabama. - What is being sought: A full-service communications and marketing partner for strategic planning, brand strategy, creative production, and media services under solicitation 2026-RFP-069. - Deadline: October 5, 2026, at 7:00 p.m. - Estimated value: Not stated. The listing notes that proposals exceed",
+      "first_seen": "2026-10-02"
+    },
+    {
+      "id": "e10c30300b78da8e",
+      "type": "perplexity",
+      "title": "Accredited Debt Relief",
+      "issuer": "review/pitch",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.adweek.com/agencies/accredited-debt-relief-appoints-tca-first-ever-media-aor-household-debt-record-high/?itm_source=homepage&itm_medium=the-latest-left&itm_campaign=1",
+      "source_domain": "https://www.adweek.com/agencies/accredited-debt-relief-appoints-tca-first-ever-media-aor-household-debt-record-high/?itm_source=homepage&itm_medium=the-latest-left&itm_campaign=1",
+      "description": "Accredited Debt Relief - Issuing organization/brand: Accredited Debt Relief, a US debt-relief company. - Review type: Media agency review/pitch. - What was reviewed: A media agency of record, with emphasis on cross-channel campaigns and a customer-first approach. - Timeline: The competitive search had concluded by September 15, 2026, when Accredited Debt Relief announced the appointment of TCA as its first media AOR. - Estimated budget: Not discl",
+      "first_seen": "2026-10-02"
+    },
     {
       "id": "26348d5f32685857",
       "type": "brand_lead",
@@ -122,18 +146,6 @@
       "first_seen": "2026-09-30"
     },
     {
-      "id": "c22cb1f98e834d56",
-      "type": "perplexity",
-      "title": "active US advertising or marketing RFP open in May 2026",
-      "issuer": "Services for Air Education and Training \u2026\u201d**, but it was dat",
-      "posted": "",
-      "deadline": "",
-      "url": "https://sam.gov/opp/5cc112753c8b439ebb5c4848d7d35a09/view",
-      "source_domain": "https://sam.gov/opp/5cc112753c8b439ebb5c4848d7d35a09/view",
-      "description": "I could not verify any qualifying opportunities from the available search results. The results did not identify an active US advertising or marketing RFP open in May 2026. The only potentially relevant result was a SAM.gov listing titled \u201cAdvertising Agency Services for Air Education and Training \u2026\u201d, but it was dated September 2026 and therefore does not meet the requirement for an opportunity open in May 2026. Because the available results did n",
-      "first_seen": "2026-09-29"
-    },
-    {
       "id": "01e27dbd00f5a0a6",
       "type": "perplexity",
       "title": "Waterfront Commercial Marketing and Promotional Services",
@@ -154,7 +166,7 @@
       "deadline": "",
       "url": "https://oregonbuys.gov/bso/external/bidDetail.sda?docId=S-580501-00017981&external=true&parentUrl=close",
       "source_domain": "https://oregonbuys.gov/bso/external/bidDetail.sda?docId=S-580501-00017981&external=true&parentUrl=close",
-      "description": "University of Oregon \u2014 Digital Marketing Consulting Services - Issuing organization: University of Oregon, Office of the Provost - What is being sought: Digital marketing consulting services supporting Student Experience Surveys. - Deadline: October 1, 2026, at 5:00 p.m. The deadline is today based on the stated current date; confirm that submissions remain open before responding. - Estimated value: Not stated in the posting. - Direct link: [Oreg",
+      "description": "University of Oregon \u2014 Digital Marketing Consulting Services - Issuing organization: University of Oregon, Office of the Provost - What is being sought: Digital marketing consulting services supporting Student Experience Surveys. - Deadline: October 1, 2026, at 5:00 p.m. Pacific Time. - Estimated value: Not stated in the solicitation summary. - Status: The search result lists the solicitation, but the stated deadline has passed as of October 2, 2",
       "first_seen": "2026-09-29"
     },
     {
@@ -242,6 +254,18 @@
       "first_seen": "2026-09-29"
     },
     {
+      "id": "c22cb1f98e834d56",
+      "type": "perplexity",
+      "title": "Advertising Agency Services for Air Education and Training Command",
+      "issuer": "Services for Air Education and Training Command",
+      "posted": "",
+      "deadline": "",
+      "url": "https://sam.gov/opp/5cc112753c8b439ebb5c4848d7d35a09/view",
+      "source_domain": "https://sam.gov/opp/5cc112753c8b439ebb5c4848d7d35a09/view",
+      "description": "Advertising Agency Services for Air Education and Training Command - Issuing organization: U.S. Air Force, Air Education and Training Command - RFP title: Advertising Agency Services for Air Education and Training Command - Deadline: Not available in the search result - Estimated value: Not available - Status/date issue: The opportunity page was published in September 2026 and therefore does not establish that it was open in May 2026. - Direct UR",
+      "first_seen": "2026-09-29"
+    },
+    {
       "id": "2878a0db70bf2d47",
       "type": "perplexity",
       "title": "University of South Dakota",
@@ -316,13 +340,13 @@
     {
       "id": "693844f0435703de",
       "type": "perplexity",
-      "title": "Boston Public Health Commission \u2014 Communications, Research, Strategy, and Grant-Writing Vendor Pool",
-      "issuer": "** Boston Public Health Commission, Massachusetts",
+      "title": "City of Boston, Massachusetts \u2014 Street Furniture Program",
+      "issuer": "** City of Boston, Massachusetts",
       "posted": "",
       "deadline": "",
       "url": "https://www.boston.gov/news/city-boston-releases-rfp-new-street-furniture-program",
       "source_domain": "https://www.boston.gov/news/city-boston-releases-rfp-new-street-furniture-program",
-      "description": "Boston Public Health Commission \u2014 Communications, Research, Strategy, and Grant-Writing Vendor Pool - Issuing organization: Boston Public Health Commission, Massachusetts - What is being sought: Qualified vendors for communications, research/evaluation, strategy and planning, and grant-writing services. The communications track is relevant to public-sector marketing and communications work. - Deadline: Not stated in the available search result; t",
+      "description": "City of Boston, Massachusetts \u2014 Street Furniture Program - Issuing organization: City of Boston, Massachusetts - What is being sought: A business partner to upgrade and expand bus shelters, wayfinding kiosks, and other street-furniture elements. The program is intended to be self-sustaining through advertising revenue. - Deadline: November 4, 2026. - Estimated value: Not stated in the available notice. - Status: Open; the city released the RFP on",
       "first_seen": "2026-09-28"
     },
     {
@@ -641,12 +665,12 @@
       "id": "b407795c0772ebac",
       "type": "perplexity",
       "title": "City of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services",
-      "issuer": "** City of Jackson, Wyoming, a US municipal government",
+      "issuer": "** City of Jackson, Wyoming",
       "posted": "",
       "deadline": "",
       "url": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
       "source_domain": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
-      "description": "City of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services - Issuing organization: City of Jackson, Wyoming, a US municipal government. - What is being sought: A consultant or firm to provide municipal brand-identity strategy and social-media consulting, including research, creative development, community outreach, campaign management, and ongoing social-media support. - Deadline: October 9, 2026, at 5:00 p.m. Mountain",
+      "description": "City of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services - Issuing organization: City of Jackson, Wyoming - What is being sought: A consultant or firm to provide municipal brand-identity strategy and social-media consulting, including research, creative development, community outreach, and campaign management. - Deadline: October 9, 2026, at 5:00 p.m. Mountain Time. - Estimated value: Not stated in the posting. - Sta",
       "first_seen": "2026-09-22"
     },
     {
@@ -760,13 +784,13 @@
     {
       "id": "4a426de960f415e9",
       "type": "perplexity",
-      "title": "City of [Not Fully Identified in Search Result], Texas \u2014 Marketing, Venue Development, Event Recruitment, and Brand Coordination",
-      "issuer": "** A Texas public-sector issuer; the available result identi",
+      "title": "Commonwealth of Kentucky \u2014 Comprehensive Marketing and Advertising Services",
+      "issuer": "** Commonwealth of Kentucky government",
       "posted": "",
       "deadline": "",
       "url": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
       "source_domain": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
-      "description": "City of [Not Fully Identified in Search Result], Texas \u2014 Marketing, Venue Development, Event Recruitment, and Brand Coordination - Issuing organization: A Texas public-sector issuer; the available result identifies the opportunity as a Texas solicitation but does not clearly identify the issuing organization in the search excerpt. - What is being sought: Marketing, venue development, event recruitment, and brand-coordination services. - Deadline:",
+      "description": "Commonwealth of Kentucky \u2014 Comprehensive Marketing and Advertising Services - Issuing organization: Commonwealth of Kentucky government. - What is being sought: Comprehensive marketing and advertising services to promote Kentucky tourism, including events, venues, meetings, conventions, trade shows, cultural and historical attractions, recreation, entertainment, scenic destinations, and other visitor-generating economic activity. - Deadline: Octo",
       "first_seen": "2026-09-21"
     },
     {
@@ -1241,12 +1265,12 @@
       "id": "22c684abec1f6148",
       "type": "perplexity",
       "title": "City of Palm Desert, California \u2014 Tourism Marketing and Creative Services",
-      "issuer": "** City of Palm Desert, California",
+      "issuer": "** City of Palm Desert, California, through its Economic Dev",
       "posted": "",
       "deadline": "",
       "url": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
       "source_domain": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
-      "description": "City of Palm Desert, California \u2014 Tourism Marketing and Creative Services - Issuing organization: City of Palm Desert, California - What is being sought: An agency to provide integrated tourism marketing and creative services under a professional-services agreement. The anticipated term is July 1, 2027\u2013June 30, 2030, with two possible one-year renewals. - Deadline: October 22, 2026, according to the opportunity listing; another listing shows Octo",
+      "description": "City of Palm Desert, California \u2014 Tourism Marketing and Creative Services - Issuing organization: City of Palm Desert, California, through its Economic Development department. - What is being sought: A qualified firm to provide integrated tourism marketing and creative services, including brand strategy, media planning and buying, public relations, social media, email and website marketing, research, analytics, and performance measurement. - Dead",
       "first_seen": "2026-09-19"
     },
     {
@@ -1637,12 +1661,12 @@
       "id": "2684442b89636022",
       "type": "brand_lead",
       "title": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released",
-      "issuer": "helpnetsecurity.com",
+      "issuer": "Help Net Security",
       "posted": "2026-08-02",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdktnNGVJbXl5N21kTGZpWXhlTHRWRlBGXzhheGYydjFvQklXckxTcHNHRlJyblg3bVRweGNGdmhPaG1NSnNPVnl0ZGhlb1JFQUg2ckdSNVRUS29Jb1BfN2lndlJxZHNLdU5XTVF6d0w5R2F4aTJQY1VyYUhidVdMYWpoeU94YTlQTjFvcWVOYlZkaE9xSGJBWTAwVFg3dWR6eG5EOUJpaUtUclJtQW0wWjR1M1RRSWtXMmN5SE5qeWV6Vl9XTlNaZ3JnbjE4bDE2TW0wTg?oc=5",
       "source_domain": "https://www.helpnetsecurity.com",
-      "description": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released helpnetsecurity.com",
+      "description": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released Help Net Security",
       "first_seen": "2026-09-08"
     },
     {
@@ -1684,13 +1708,13 @@
     {
       "id": "7936f697c65ccc53",
       "type": "perplexity",
-      "title": "Lexington, Buena Vista and Rockbridge Tourism \u2014 Tourism Agency of Record",
+      "title": "Lexington, Buena Vista & Rockbridge Tourism, Virginia \u2014 Tourism Agency of Record",
       "issuer": "of Record",
-      "posted": "",
+      "posted": "2026-09-09",
       "deadline": "",
       "url": "https://www.highergov.com/sl/contract-opportunity/va-rfp-2026-01-lexington-buena-vista-an-73504609/",
       "source_domain": "https://www.highergov.com/sl/contract-opportunity/va-rfp-2026-01-lexington-buena-vista-an-73504609/",
-      "description": "Lexington, Buena Vista and Rockbridge Tourism \u2014 Tourism Agency of Record - Issuing organizations: Lexington, Buena Vista, and Rockbridge tourism organizations, Virginia - What is being sought: An agency of record with experience in destination marketing and the visitor economy. - Review type: Integrated tourism marketing, branding, creative, media, and digital marketing - Deadline: The available result identifies the solicitation as issued in Sep",
+      "description": "Lexington, Buena Vista & Rockbridge Tourism, Virginia \u2014 Tourism Agency of Record - Issuing organization: Lexington, Buena Vista & Rockbridge Tourism, Virginia. - What is being sought: An agency of record for tourism and destination marketing, with demonstrated experience serving destination marketing organizations or tourism-related businesses. - Deadline: Not shown in the available search extract. The opportunity was published September 9, 2026,",
       "first_seen": "2026-09-08"
     },
     {
@@ -2975,30 +2999,6 @@
       "url": "https://adtechtoday.com/omnicom-wins-novo-nordisks-u-s-media-business-ending-wpp-partnership/",
       "source_domain": "https://adtechtoday.com/omnicom-wins-novo-nordisks-u-s-media-business-ending-wpp-partnership/",
       "description": "Novo Nordisk \u2013 U.S. Media Business (Healthcare, Pharmaceutical) This is the one clearly identified U.S. account change in the results, but it reflects a completed review rather than a currently open pitch. Brand name: Novo Nordisk (U.S. business) Sector: Healthcare / pharmaceutical (diabetes, obesity treatments) What they reviewed: U.S. media agency assignment \u2013 media planning and buying for the U.S. market Outcome / timing: - In August 2026, Omn",
-      "first_seen": "2026-08-27"
-    },
-    {
-      "id": "3a90ee8c2f1341a2",
-      "type": "perplexity",
-      "title": "Detroit Public Schools Community District \u2013 School Photography and Yearbook Services (Marketing/Brand-Aligned Media)",
-      "issuer": "** **Detroit Public Schools Community District (DPSCD)**, Mi",
-      "posted": "",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/school-photography-and-yearbook-services-5",
-      "source_domain": "https://starbridge.ai/rfp/school-photography-and-yearbook-services-5",
-      "description": "Detroit Public Schools Community District \u2013 School Photography and Yearbook Services (Marketing/Brand-Aligned Media) - Issuing organization: Detroit Public Schools Community District (DPSCD), Michigan, USA. - What is being sought: School photography and yearbook services, including student portraits, class/group photos, event photography, and full-service yearbook design, printing, and distribution for ~106 PreK\u201312 schools. While operationally fo",
-      "first_seen": "2026-08-27"
-    },
-    {
-      "id": "b1d289584d557938",
-      "type": "perplexity",
-      "title": "Connecticut Army National Guard \u2014 Multimedia Advertising",
-      "issuer": "** Department of the Army, through the **W7MZ USPFO Activity",
-      "posted": "",
-      "deadline": "",
-      "url": "https://discover.govdash.com/solicitations/019f8062-7305-704a-8024-3f42637623a8--multimedia-advertising",
-      "source_domain": "https://discover.govdash.com/solicitations/019f8062-7305-704a-8024-3f42637623a8--multimedia-advertising",
-      "description": "Connecticut Army National Guard \u2014 Multimedia Advertising - Issuing organization: Department of the Army, through the W7MZ USPFO Activity Connecticut Army National Guard - RFP title: W91ZRS26QA006 \u2014 Multimedia Advertising - What is being sought: A vendor to provide multimedia advertising services for the Connecticut Army National Guard. - Deadline: August 17, 2026 - Estimated value: Not stated in the available result. - Direct URL: https://discove",
       "first_seen": "2026-08-27"
     }
   ]
