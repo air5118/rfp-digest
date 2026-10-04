@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-03",
+  "generated": "2026-10-04",
   "rfps": [
+    {
+      "id": "d13b2a0b1654788d",
+      "type": "perplexity",
+      "title": "US-based organization",
+      "issuer": "a **US-based organization**",
+      "posted": "",
+      "deadline": "",
+      "url": "https://sam.gov/content/home.In",
+      "source_domain": "https://sam.gov/content/home.In",
+      "description": "I could not verify any qualifying opportunities from the available search results. The results did not provide sufficient details to confirm that an opportunity was: - Issued by a US-based organization - Specifically for advertising or marketing - Open during May 2026 - Not expired as of October 4, 2026 - Accompanied by a verifiable deadline, estimated value, and direct application URL The available SAM.gov results were generic contract-opportuni",
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "8592b6d99d02dd89",
+      "type": "perplexity",
+      "title": "City of Palm Desert, California \u2014 Tourism Marketing and Creative Services",
+      "issuer": "** City of Palm Desert, California; the opportunity is assoc",
+      "posted": "",
+      "deadline": "",
+      "url": "https://usesettle.com/rfp-hunter/beef-marketing-campaign-services-2340354",
+      "source_domain": "https://usesettle.com/rfp-hunter/beef-marketing-campaign-services-2340354",
+      "description": "City of Palm Desert, California \u2014 Tourism Marketing and Creative Services - Issuing organization: City of Palm Desert, California; the opportunity is associated with the city\u2019s economic-development and tourism functions. - What is being sought: A professional-services firm to provide tourism marketing and creative services, including brand and creative management, media planning and buying, public relations, social media, tourism email communicat",
+      "first_seen": "2026-10-04"
+    },
     {
       "id": "1ddb6a3d4d25bee0",
       "type": "perplexity",
@@ -28,13 +52,13 @@
     {
       "id": "0c604f8fa2da77bf",
       "type": "perplexity",
-      "title": "City of Montgomery, Alabama \u2014 Strategic Marketing, Communications, Creative, and Media Services",
+      "title": "City of Montgomery, Alabama \u2014 Strategic marketing and communications services",
       "issuer": "** City of Montgomery, Alabama",
       "posted": "",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/strategic-marketing-communications-creative-and-media-services-tcdn",
       "source_domain": "https://www.cleat.ai/government/contracts/strategic-marketing-communications-creative-and-media-services-tcdn",
-      "description": "City of Montgomery, Alabama \u2014 Strategic Marketing, Communications, Creative, and Media Services - Issuing organization: City of Montgomery, Alabama. - What is being sought: A full-service communications and marketing partner for strategic planning, brand strategy, creative production, and media services under solicitation 2026-RFP-069. - Deadline: October 5, 2026, at 7:00 p.m. - Estimated value: Not stated. The listing notes that proposals exceed",
+      "description": "City of Montgomery, Alabama \u2014 Strategic marketing and communications services - Issuing organization: City of Montgomery, Alabama - What is being sought: A full-service partner for strategic communications, campaign development, brand strategy, creative production, media planning and buying, audience targeting, analytics, and related services. - Review type: Creative, media, digital/marketing, and communications - Deadline: October 5, 2026 - Esti",
       "first_seen": "2026-10-02"
     },
     {
@@ -76,13 +100,13 @@
     {
       "id": "ee7d3db8a6d135da",
       "type": "perplexity",
-      "title": "Minnesota State Lottery",
-      "issuer": "** Minnesota State Lottery, a US state lottery",
+      "title": "Minnesota State Lottery \u2014 Advertising agency services",
+      "issuer": "services",
       "posted": "",
       "deadline": "",
       "url": "https://publicbidsearch.com/categories/marketing-bids",
       "source_domain": "https://publicbidsearch.com/categories/marketing-bids",
-      "description": "Minnesota State Lottery - Issuing organization: Minnesota State Lottery, a US state lottery. - What is being sought: Advertising agency services. - Review type: Advertising/agency-services review; the available listing does not specify whether the scope includes creative, media, PR, or digital. - Deadline: November 20, 2026. - Estimated value: Not stated in the available result. - Status: Listed as open in a 2026 nationwide marketing and media so",
+      "description": "Minnesota State Lottery \u2014 Advertising agency services - Issuing organization: Minnesota State Lottery - What is being sought: Advertising agency services; the available result does not provide enough detail to identify whether the scope includes creative, media, PR, or digital services. - Review type: Advertising agency services - Deadline: November 20, 2026 - Estimated value: Not reported. - Qualification: US-based and apparently active, but a g",
       "first_seen": "2026-10-01"
     },
     {
@@ -100,13 +124,13 @@
     {
       "id": "76fced905fba50a6",
       "type": "perplexity",
-      "title": "University of Miami",
-      "issuer": "** University of Miami, Florida",
-      "posted": "2026-10-01",
+      "title": "University of South Dakota \u2014 Marketing, communications, and public relations",
+      "issuer": "** University of South Dakota",
+      "posted": "",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/marketing-communications-and-public-relations-xzt4",
       "source_domain": "https://www.cleat.ai/government/contracts/marketing-communications-and-public-relations-xzt4",
-      "description": "University of Miami - Issuing organization: University of Miami, Florida. - What is being sought: Advertising services. - Review type: Advertising; the available result does not provide enough detail to determine the precise creative, media, PR, or digital components. - Deadline: October 21, 2026. - Estimated value: Not stated. - Status: Posted October 1, 2026, with a listed due date of October 21, 2026.",
+      "description": "University of South Dakota \u2014 Marketing, communications, and public relations - Issuing organization: University of South Dakota - What is being sought: Strategic communications planning, media relations, media buying, brand positioning, audience research, campaign development, and performance measurement. - Review type: Media, PR, creative/marketing, and communications - Deadline: October 16, 2026 - Estimated value: Not reported. - Qualification:",
       "first_seen": "2026-09-30"
     },
     {
@@ -401,12 +425,12 @@
       "id": "f51fab582ecf2d16",
       "type": "brand_lead",
       "title": "Intuit Puts Its $690 Million U.S. Media Account In Review 07/09/2026",
-      "issuer": "MediaPost",
+      "issuer": "mediapost.com",
       "posted": "2026-07-08",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVJTWFRMSElwUHJJLVdxWWlCbXRJOXZDVnRKX0ZrbWk5bW1fLXlxWjRyVWEyclA3RzUybUE4eHdOTS1zTUVzcDZ2VkFYazA4RlRYRWlfeVZUQll6QlUwMzFidlhXUnlnQ2M2SVRyQW5vcElta2xnd21oVGo2Sm1MNFJlSWpJeVlKcEFhMkhKOWcycDNHSVhGeERMV1FFMEh2ZVBHZG1OY05Odw?oc=5",
       "source_domain": "https://www.mediapost.com",
-      "description": "Intuit Puts Its $690 Million U.S. Media Account In Review 07/09/2026 MediaPost",
+      "description": "Intuit Puts Its $690 Million U.S. Media Account In Review 07/09/2026 mediapost.com",
       "first_seen": "2026-09-27"
     },
     {
@@ -518,6 +542,18 @@
       "first_seen": "2026-09-25"
     },
     {
+      "id": "9d88f51acc5aa115",
+      "type": "perplexity",
+      "title": "New Street Furniture Program \u2014 City of Boston, Massachusetts",
+      "issuer": "** City of Boston, Massachusetts",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.alamedaca.gov/BUSINESS/Bid-on-City-Contracts/Request-for-Proposal-Communications-Support",
+      "source_domain": "https://www.alamedaca.gov/BUSINESS/Bid-on-City-Contracts/Request-for-Proposal-Communications-Support",
+      "description": "New Street Furniture Program \u2014 City of Boston, Massachusetts - Issuing organization: City of Boston, Massachusetts - What is being sought: A business partner to upgrade and expand bus shelters, wayfinding kiosks, and other street-furniture elements in the city\u2019s public rights-of-way. The program is intended to be self-sustaining through advertising revenue. - Deadline: November 4, 2026 - Estimated value: Not stated. The solicitation indicates tha",
+      "first_seen": "2026-09-24"
+    },
+    {
       "id": "664f5d582bc2507d",
       "type": "perplexity",
       "title": "City of Palm Desert, California \u2014 Media Planning and Buying",
@@ -527,18 +563,6 @@
       "url": "https://www.cleat.ai/government/contracts/media-planning-and-buying-fkx1",
       "source_domain": "https://www.cleat.ai/government/contracts/media-planning-and-buying-fkx1",
       "description": "City of Palm Desert, California \u2014 Media Planning and Buying - Issuing organization: City of Palm Desert Economic Development Department, California, United States. - What is being sought: Media planning and advertising-space procurement supporting the city\u2019s tourism marketing projects. The listing identifies this as a scope carved out of solicitation 2026-RFP-055. - Deadline: October 22, 2026, at 5:00 p.m. Pacific Time; the listing reports Octobe",
-      "first_seen": "2026-09-24"
-    },
-    {
-      "id": "9d88f51acc5aa115",
-      "type": "perplexity",
-      "title": "City of Boston \u2014 Boston Public Health Commission Communications Consultant Qualified Vendor Pool",
-      "issuer": "** Boston Public Health Commission, City of Boston, Massachu",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.alamedaca.gov/BUSINESS/Bid-on-City-Contracts/Request-for-Proposal-Communications-Support",
-      "source_domain": "https://www.alamedaca.gov/BUSINESS/Bid-on-City-Contracts/Request-for-Proposal-Communications-Support",
-      "description": "City of Boston \u2014 Boston Public Health Commission Communications Consultant Qualified Vendor Pool - Issuing organization: Boston Public Health Commission, City of Boston, Massachusetts - What is being sought: A qualified consultant pool covering communications, research/evaluation and assessment, strategy and planning, and grant writing. The communications component may include advertising- and marketing-related support. - Deadline: September 30,",
       "first_seen": "2026-09-24"
     },
     {
@@ -638,6 +662,18 @@
       "first_seen": "2026-09-22"
     },
     {
+      "id": "b407795c0772ebac",
+      "type": "perplexity",
+      "title": "Municipal Brand Identity & Social Media Consulting Services \u2014 Town of Jackson, Wyoming",
+      "issuer": "** Town of Jackson, Wyoming",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
+      "source_domain": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
+      "description": "Municipal Brand Identity & Social Media Consulting Services \u2014 Town of Jackson, Wyoming - Issuing organization: Town of Jackson, Wyoming - What is being sought: A consultant to provide municipal brand-identity strategy and social-media consulting, including research, creative development, community outreach, campaign management, and ongoing social-media support. - Deadline: October 9, 2026, at 5:00 p.m. Mountain Time - Estimated value: Not stated",
+      "first_seen": "2026-09-22"
+    },
+    {
       "id": "57e9117fc18fd91b",
       "type": "perplexity",
       "title": "Important exclusions",
@@ -683,18 +719,6 @@
       "url": "https://apify.com/talcoe/us-government-bids-rfps",
       "source_domain": "https://apify.com/talcoe/us-government-bids-rfps",
       "description": "Comprehensive Marketing and Advertising Services \u2014 Kentucky Tourism Cabinet - Issuing organization: Commonwealth of Kentucky, Cabinet and its agencies - What is being sought: Comprehensive marketing and advertising services to promote Kentucky tourism, including events, venues, meetings, conventions, cultural activities, historical sites, recreation, entertainment, scenic attractions, and related visitor-generating activities. - Deadline: October",
-      "first_seen": "2026-09-22"
-    },
-    {
-      "id": "b407795c0772ebac",
-      "type": "perplexity",
-      "title": "City of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services",
-      "issuer": "** City of Jackson, Wyoming",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
-      "source_domain": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
-      "description": "City of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services - Issuing organization: City of Jackson, Wyoming - What is being sought: A consultant or firm to provide municipal brand-identity strategy, social-media consulting, community outreach, campaign management, and related creative services. - Deadline: October 9, 2026, at 5:00 p.m. Mountain Time. - Estimated value: Not stated in the posting. - Status: Open. - Direc",
       "first_seen": "2026-09-22"
     },
     {
@@ -2976,30 +3000,6 @@
       "source_domain": "https://www.adsoftheworld.com/campaigns/room-to-be-too-much",
       "description": "1. Kia America \u2013 campaign launch, not a review - Brand: Kia America - Sector: Automotive - What\u2019s happening: A campaign titled \u201cRoom To Be Too Much\u201d was published in the US in July 2026, created by Inspire Agency. - Why it doesn\u2019t qualify: This is a live campaign case study, not documentation of Kia running a creative or media agency review or a pitch. The source confirms an existing agency relationship and work, not a search for a new partner. -",
       "first_seen": "2026-08-28"
-    },
-    {
-      "id": "5c6a5cec036dbb48",
-      "type": "perplexity",
-      "title": "Town of Keystone, Colorado \u2013 Year 1 Tourism Marketing Services",
-      "issuer": "** Town of Keystone, Keystone, Colorado, USA \u2013 municipal gov",
-      "posted": "",
-      "deadline": "",
-      "url": "https://civiciq.com/public-rfp/town-of-keystone-year-1-tourism-marketing-services-rfp-tok-mark-2026-001",
-      "source_domain": "https://civiciq.com/public-rfp/town-of-keystone-year-1-tourism-marketing-services-rfp-tok-mark-2026-001",
-      "description": "Town of Keystone, Colorado \u2013 Year 1 Tourism Marketing Services (Two overlapping references to the same Keystone tourism marketing procurement) - Issuing organization: Town of Keystone, Keystone, Colorado, USA \u2013 municipal government - RFP title: - \u201cTOK\u2011MARK\u20112026\u2011001: Year 1 Tourism Marketing Services\u201d - Also referenced as \u201cTown of Keystone Year 1 Tourism Marketing Services RFP 2026\u201d. - What is being sought: Keystone is soliciting proposals for fou",
-      "first_seen": "2026-08-27"
-    },
-    {
-      "id": "89dbc35b8d3c6e71",
-      "type": "perplexity",
-      "title": "Novo Nordisk \u2013 U.S. Media Business (Healthcare, Pharmaceutical)",
-      "issuer": "assignment** \u2013 media planning and buying for the U",
-      "posted": "",
-      "deadline": "",
-      "url": "https://adtechtoday.com/omnicom-wins-novo-nordisks-u-s-media-business-ending-wpp-partnership/",
-      "source_domain": "https://adtechtoday.com/omnicom-wins-novo-nordisks-u-s-media-business-ending-wpp-partnership/",
-      "description": "Novo Nordisk \u2013 U.S. Media Business (Healthcare, Pharmaceutical) This is the one clearly identified U.S. account change in the results, but it reflects a completed review rather than a currently open pitch. Brand name: Novo Nordisk (U.S. business) Sector: Healthcare / pharmaceutical (diabetes, obesity treatments) What they reviewed: U.S. media agency assignment \u2013 media planning and buying for the U.S. market Outcome / timing: - In August 2026, Omn",
-      "first_seen": "2026-08-27"
     }
   ]
 }
