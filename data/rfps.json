@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-05",
+  "generated": "2026-10-06",
   "rfps": [
+    {
+      "id": "04f9e82ade8bfa20",
+      "type": "perplexity",
+      "title": "active, open 2026 US advertising-agency reviews, media pitches, or creative searches",
+      "issuer": "reviews, media pitches, or creative searches** from the avai",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.medianexis.com/tag/agencies/",
+      "source_domain": "https://www.medianexis.com/tag/agencies/",
+      "description": "I could not verify any qualifying active, open 2026 US advertising-agency reviews, media pitches, or creative searches from the available search results. The results were primarily agency rankings, marketing guides, and general industry articles\u2014not active procurement notices or reliable reports identifying a US brand currently conducting a review. One result mentioned Dave & Buster\u2019s appointing Gut as creative agency of record and Mediaplus as m",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "f9f3d8e098111789",
+      "type": "perplexity",
+      "title": "City of Durham, North Carolina \u2014 On-Call Design Services",
+      "issuer": "** City of Durham, North Carolina",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.durhamnc.gov/bids.aspx?bidID=2421&PRINT=YES",
+      "source_domain": "https://www.durhamnc.gov/bids.aspx?bidID=2421&PRINT=YES",
+      "description": "City of Durham, North Carolina \u2014 On-Call Design Services - Issuing organization: City of Durham, North Carolina - What is being sought: On-call design services under solicitation SW-112D / Bid No. 27-1113. The posting identifies the work as professional design services; the available listing does not provide enough detail to confirm whether the scope includes advertising, marketing, graphic design, or related creative communications work. - Statu",
+      "first_seen": "2026-10-06"
+    },
     {
       "id": "332dcdb518fd2d7d",
       "type": "perplexity",
@@ -208,13 +232,13 @@
     {
       "id": "76fced905fba50a6",
       "type": "perplexity",
-      "title": "South Dakota State Government / University of South Dakota \u2014 Marketing, Communications and Public Relations",
-      "issuer": "** University of South Dakota, South Dakota",
+      "title": "Professional Advertising, Marketing, and Public Relations Services for Economic Development \u2014 Santa Rosa County, Florida",
+      "issuer": "** Santa Rosa County Board of County Commissioners, Florida",
       "posted": "",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/marketing-communications-and-public-relations-xzt4",
       "source_domain": "https://www.cleat.ai/government/contracts/marketing-communications-and-public-relations-xzt4",
-      "description": "South Dakota State Government / University of South Dakota \u2014 Marketing, Communications and Public Relations - Issuing organization: University of South Dakota, South Dakota - What is being sought: Marketing, communications, and public-relations services under RFP Event ID 26RFP-USD09082026. - Deadline: October 16, 2026, at 10:00 p.m. UTC. - Estimated value: Not stated in the available posting. - Direct posting: [CLEAT solicitation posting](https:",
+      "description": "Professional Advertising, Marketing, and Public Relations Services for Economic Development \u2014 Santa Rosa County, Florida - Issuing organization: Santa Rosa County Board of County Commissioners, Florida - What is being sought: Professional advertising, marketing, and public-relations services supporting the county\u2019s Economic Development Office. - Deadline: October 12, 2026, according to the search result. Questions were due October 2, 2026. - Esti",
       "first_seen": "2026-09-30"
     },
     {
@@ -722,18 +746,6 @@
       "first_seen": "2026-09-23"
     },
     {
-      "id": "b407795c0772ebac",
-      "type": "perplexity",
-      "title": "Town of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services",
-      "issuer": "** Town of Jackson, Wyoming",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
-      "source_domain": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
-      "description": "Town of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services - Issuing organization: Town of Jackson, Wyoming. - What is being sought: A consultant or firm to provide municipal brand-identity strategy and social-media consulting, including research, creative development, community outreach, and campaign management. - Deadline: October 9, 2026, at 5:00 p.m. MST. - Estimated value: Not stated in the posting. - Direct RFP p",
-      "first_seen": "2026-09-22"
-    },
-    {
       "id": "4f278bee416e18ca",
       "type": "perplexity",
       "title": "The Coca-Cola Company \u2014 Global media, data, and technology review",
@@ -743,18 +755,6 @@
       "url": "https://www.adweek.com/agencies/coca-colas-top-marketer-reveals-what-hes-looking-for-in-his-next-agency/",
       "source_domain": "https://www.adweek.com/agencies/coca-colas-top-marketer-reveals-what-hes-looking-for-in-his-next-agency/",
       "description": "The Coca-Cola Company \u2014 Global media, data, and technology review - Issuing organization: The Coca-Cola Company, a US-based beverage company. - What is being reviewed: Its approximately $4 billion global media, data, and technology account; the North American portion is also being handled as a separate pitch. This is primarily a media and marketing-technology review rather than a creative-agency search. - Timeline: The account was reported as bei",
-      "first_seen": "2026-09-22"
-    },
-    {
-      "id": "e658de61810dca16",
-      "type": "perplexity",
-      "title": "State of Alaska \u2014 Advertising and Marketing Services",
-      "issuer": "** State of Alaska",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/consumer-marketing-and-digital-advertising-8v52",
-      "source_domain": "https://www.cleat.ai/government/contracts/consumer-marketing-and-digital-advertising-8v52",
-      "description": "State of Alaska \u2014 Advertising and Marketing Services - Issuing organization: State of Alaska. - What is being sought: Advertising and marketing services under RFP 26-35-214988. The available result does not provide enough detail to characterize the complete scope. - Deadline: October 27, 2026. - Estimated value: Not stated in the available listing. - Source: (https://htsyndication.com/us-fed-news/article/state-of-alaska-notice:-rfp-26-35-214988-a",
       "first_seen": "2026-09-22"
     },
     {
@@ -782,6 +782,18 @@
       "first_seen": "2026-09-22"
     },
     {
+      "id": "b407795c0772ebac",
+      "type": "perplexity",
+      "title": "Excluded results",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
+      "source_domain": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
+      "description": "Excluded results - City of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services: The listing is US-based and marked open, but its stated proposal deadline is October 9, 2026, which is later than the current date supplied in the request; it may therefore still be active depending on the portal\u2019s live status. The opportunity seeks municipal branding and social-media consulting, but the search result did not provide an esti",
+      "first_seen": "2026-09-22"
+    },
+    {
       "id": "4d18802db4abcd4e",
       "type": "perplexity",
       "title": "Ector County, Texas \u2014 Marketing, Venue Development, Event Recruitment and Brand Coordination",
@@ -791,6 +803,18 @@
       "url": "https://www.cleat.ai/government/contracts/marketing-venue-development-event-recruitment-and-brand-coordination-services-ii-dtwc",
       "source_domain": "https://www.cleat.ai/government/contracts/marketing-venue-development-event-recruitment-and-brand-coordination-services-ii-dtwc",
       "description": "Ector County, Texas \u2014 Marketing, Venue Development, Event Recruitment and Brand Coordination - Issuing organization: Ector County, Texas - What is being sought: A strategic partner for comprehensive marketing, venue development, event recruitment, and brand-coordination services for the Ector County Coliseum & Exhibition Center. - Deadline: October 8, 2026, at 10:00 a.m. Central Time. - Estimated value: Not stated. - Status: Open. - Direct source",
+      "first_seen": "2026-09-22"
+    },
+    {
+      "id": "e658de61810dca16",
+      "type": "perplexity",
+      "title": "Consumer Marketing and Digital Advertising \u2014 New York State Department of Economic Development",
+      "issuer": "of Economic Development",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/consumer-marketing-and-digital-advertising-8v52",
+      "source_domain": "https://www.cleat.ai/government/contracts/consumer-marketing-and-digital-advertising-8v52",
+      "description": "Consumer Marketing and Digital Advertising \u2014 New York State Department of Economic Development - Issuing organization: New York State Department of Economic Development, New York - What is being sought: Paid digital and print advertising campaigns, together with public-relations efforts and earned-media generation, supporting New York tourism promotion. - Deadline: October 23, 2026. - Estimated value: Not stated in the available listing. - Source",
       "first_seen": "2026-09-22"
     },
     {
@@ -1226,6 +1250,18 @@
       "first_seen": "2026-09-19"
     },
     {
+      "id": "22c684abec1f6148",
+      "type": "perplexity",
+      "title": "Tourism Marketing and Creative Services \u2014 City of Palm Desert, California",
+      "issuer": "** City of Palm Desert, California",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
+      "source_domain": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
+      "description": "Tourism Marketing and Creative Services \u2014 City of Palm Desert, California - Issuing organization: City of Palm Desert, California - What is being sought: A qualified firm to provide comprehensive tourism marketing services, including brand and creative leadership, media planning and buying, public relations, social media, email, website marketing, research, and performance measurement. - Deadline: October 22, 2026, according to the procurement li",
+      "first_seen": "2026-09-19"
+    },
+    {
       "id": "bc168f2e9585af72",
       "type": "perplexity",
       "title": "Texas \u2014 Media Buy Services",
@@ -1382,18 +1418,6 @@
       "first_seen": "2026-09-19"
     },
     {
-      "id": "22c684abec1f6148",
-      "type": "perplexity",
-      "title": "City of Palm Desert, California \u2014 Tourism Marketing and Creative Services",
-      "issuer": "** City of Palm Desert, California",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
-      "source_domain": "https://www.highergov.com/sl/contract-opportunity/ca-tourism-marketing-and-creative-services-73996377/",
-      "description": "City of Palm Desert, California \u2014 Tourism Marketing and Creative Services - Issuing organization: City of Palm Desert, California - What is being sought: Tourism marketing and creative services, with the intent to establish a professional-services agreement for tourism marketing. - Deadline: October 22, 2026. - Estimated value: Not stated in the available posting. - Direct posting: [Govly solicitation posting](https://app.govly.com/public/opportu",
-      "first_seen": "2026-09-19"
-    },
-    {
       "id": "f81bc486f23873bf",
       "type": "perplexity",
       "title": "City of Montgomery, Alabama \u2014 Strategic Marketing, Communications, Creative and Media Services",
@@ -1493,12 +1517,12 @@
       "id": "5b9637db15cd16d6",
       "type": "brand_lead",
       "title": "WPP is set to win Coca-Cola\u2019s global agency review",
-      "issuer": "adage.com",
+      "issuer": "Ad Age",
       "posted": "2026-09-11",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXhxS2RxZmd2S21fS2tldmkybXRzSm1HV0syR1NuZWhUR2VCbEdLa1JxT1hsY1V5XzdnY1U4UUgxelZwSl9WOFZ6dTNfcTJKWHhGbGFaT0I3cFRQc2JSdElCVEVrMndXdFV3ZWdZcDRqOU1JdmxMeUsxOUNJMXBYbGhfdnNaTmdmb3NuV0h3N0RNVVB3OFhuV24xeFA4ZENFcmVta3l3RjF0amdf?oc=5",
       "source_domain": "https://adage.com",
-      "description": "WPP is set to win Coca-Cola\u2019s global agency review adage.com",
+      "description": "WPP is set to win Coca-Cola\u2019s global agency review Ad Age",
       "first_seen": "2026-09-11"
     },
     {
@@ -1649,12 +1673,12 @@
       "id": "3d28ff84d9261bd9",
       "type": "brand_lead",
       "title": "8 agency reviews to know about: Uber, Mattel, Popeyes, Intuit, Subway",
-      "issuer": "adage.com",
+      "issuer": "Ad Age",
       "posted": "2026-08-03",
       "deadline": "",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQVp1d1Jma0hZZmdQTDZOSThkY3JpaXBQZnJmX2dENGdIYlp2YXluaDJkSEJvaHQzZTVWdURNQjNkT1VNSGFzajJ5NDkxUFVXcVRTQW5MUW0wcm9VVHczbXV2dEJmVVlXMHJCVjh6Z0FTYzh1WXFJYmFIN0lsTkNaZUcwbERTWjJ0b2UydExsaFZCVlpheFpn?oc=5",
       "source_domain": "https://adage.com",
-      "description": "8 agency reviews to know about: Uber, Mattel, Popeyes, Intuit, Subway adage.com",
+      "description": "8 agency reviews to know about: Uber, Mattel, Popeyes, Intuit, Subway Ad Age",
       "first_seen": "2026-09-10"
     },
     {
@@ -2975,30 +2999,6 @@
       "url": "https://www.enfield-ct.gov/DocumentCenter/View/26822",
       "source_domain": "https://www.enfield-ct.gov/DocumentCenter/View/26822",
       "description": "Town of Enfield (Connecticut) \u2013 Economic Development Branding & Marketing Program - Issuing organization: Town of Enfield, Connecticut, Office of Economic & Community Development. - What is being sought: The Town is issuing an RFP to solicit proposals from qualified marketing and branding firms to develop and implement a comprehensive economic development branding and marketing program for the \u201cMidtown Enfield Tax Increment Financing District\u201d an",
-      "first_seen": "2026-08-28"
-    },
-    {
-      "id": "1b6179b62e41cc37",
-      "type": "perplexity",
-      "title": "Sam Houston State University \u2013 Printing and Mailing (Marketing Collateral-Related)",
-      "issuer": "** **Sam Houston State University (SHSU)**, Texas, USA",
-      "posted": "",
-      "deadline": "",
-      "url": "https://discover.govdash.com/solicitations/019fadfe-9535-742d-8e43-9497e5a3a75c--sam-houston-state-university-printing-and-mailing-of-multiple-materials",
-      "source_domain": "https://discover.govdash.com/solicitations/019fadfe-9535-742d-8e43-9497e5a3a75c--sam-houston-state-university-printing-and-mailing-of-multiple-materials",
-      "description": "Sam Houston State University \u2013 Printing and Mailing (Marketing Collateral-Related) - Issuing organization: Sam Houston State University (SHSU), Texas, USA. - What is being sought: A vendor for comprehensive printing and mailing services for multiple university materials. While framed as printing/mailing, this is closely tied to marketing and communications collateral for the university. - Deadline: The retrieved summary notes the posting on Augus",
-      "first_seen": "2026-08-28"
-    },
-    {
-      "id": "615a4110c8d90c9d",
-      "type": "perplexity",
-      "title": "Saint Paul College / Minnesota State \u2013 Advertising & Media Buying Services (Minnesota)",
-      "issuer": "** Saint Paul College (part of Minnesota State system)",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.highergov.com/sl/contract-opportunity/mn-advertising-and-media-buying-services-73105246/",
-      "source_domain": "https://www.highergov.com/sl/contract-opportunity/mn-advertising-and-media-buying-services-73105246/",
-      "description": "Saint Paul College / Minnesota State \u2013 Advertising & Media Buying Services (Minnesota) - Issuing organization: Saint Paul College (part of Minnesota State system) - What is being sought: Advertising and media buying services to plan, buy, and manage a paid media campaign supporting student enrollment and awareness of two\u2011year education. - Deadline: Issued August 24, 2026, with proposals due September 14, 2026. - Estimated value: Not given in the",
       "first_seen": "2026-08-28"
     }
   ]
