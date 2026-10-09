@@ -2,6 +2,18 @@
   "generated": "2026-10-09",
   "rfps": [
     {
+      "id": "0c604f8fa2da77bf",
+      "type": "perplexity",
+      "title": "active U.S. advertising or marketing RFPs open in May 2026",
+      "issuer": "solicitation listed a November 20, 2026 deadline, so it was",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/strategic-marketing-communications-creative-and-media-services-tcdn",
+      "source_domain": "https://www.cleat.ai/government/contracts/strategic-marketing-communications-creative-and-media-services-tcdn",
+      "description": "I could not verify any active U.S. advertising or marketing RFPs open in May 2026 from the available search results. The results returned opportunities issued in September\u2013October 2026, which do not meet your requirement for opportunities open in May 2026. For example: - The City of Montgomery, Alabama, issued a strategic marketing and communications RFP in September 2026, with a deadline of October 5, 2026; it was already closed. - The City of R",
+      "first_seen": "2026-10-09"
+    },
+    {
       "id": "88aeaae5f885d754",
       "type": "brand_lead",
       "title": "Week in Review: UK Broadcasters Discuss Channel 4/UKTV Merger, NBCU Brings Agents to the Upfronts, and Ad Spend Soars Despite Consumer Caution",
@@ -22,7 +34,7 @@
       "deadline": "",
       "url": "https://rfpplanet.com/mktg-2726/advertising-agency-services",
       "source_domain": "https://rfpplanet.com/mktg-2726/advertising-agency-services",
-      "description": "Minnesota State Lottery \u2014 Advertising Agency Services - Issuing organization: Minnesota State Lottery, Minnesota, United States. - What is being sought: Advertising agency services to market and sell lottery products, including campaigns emphasizing gaming entertainment and support for environmental and community programs. - Deadline: November 20, 2026. - Estimated value: Not stated in the available source. - Source: [RFPPlanet solicitation listi",
+      "description": "Minnesota State Lottery \u2014 Advertising Agency Services - Issuing organization: Minnesota State Lottery, Minnesota - What is being sought: Advertising agency services to market and sell lottery products, including promoting gaming entertainment while emphasizing benefits to environmental and community programs. - Industry/public-sector category: Gaming - Deadline: November 20, 2026 - Estimated value: Not stated in the available source. - Direct sou",
       "first_seen": "2026-10-09"
     },
     {
@@ -119,18 +131,6 @@
       "url": "https://starbridge.ai/rfp/rfp-2026-0112-marketing-communications-and-web-development",
       "source_domain": "https://starbridge.ai/rfp/rfp-2026-0112-marketing-communications-and-web-development",
       "description": "I could not verify any active US advertising or marketing RFPs that were open in May 2026 from the search results available. The results returned opportunities posted in September\u2013October 2026, which fall outside the requested May 2026 window and therefore are excluded. The available results included: - City of Minneapolis \u2014 Communications and Marketing Services/TAP Posted September 18, 2026; proposals due October 13, 2026. Not eligible because i",
-      "first_seen": "2026-10-07"
-    },
-    {
-      "id": "047538f2730d9988",
-      "type": "perplexity",
-      "title": "University of Oregon \u2014 Digital Marketing Consulting Services",
-      "issuer": "** University of Oregon, Office of the Provost",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.pima.gov/request-for-proposal",
-      "source_domain": "https://www.pima.gov/request-for-proposal",
-      "description": "University of Oregon \u2014 Digital Marketing Consulting Services - Issuing organization: University of Oregon, Office of the Provost - What is being sought: Digital marketing consulting services supporting Student Experience Surveys. - Deadline: October 1, 2026, at 5:00 p.m. Pacific Time. This opportunity appears to have closed before the current date and is therefore not included as an active opportunity. - Estimated value: Not stated. - Direct post",
       "first_seen": "2026-10-07"
     },
     {
@@ -290,18 +290,6 @@
       "first_seen": "2026-10-05"
     },
     {
-      "id": "c976df6a3db8e5b3",
-      "type": "perplexity",
-      "title": "Palm Desert, California \u2014 Tourism Marketing and Creative Services",
-      "issuer": "** City of Palm Desert, California",
-      "posted": "",
-      "deadline": "",
-      "url": "https://app.govly.com/public/opportunities/17098958",
-      "source_domain": "https://app.govly.com/public/opportunities/17098958",
-      "description": "Palm Desert, California \u2014 Tourism Marketing and Creative Services - Issuing organization: City of Palm Desert, California - What is being sought: A qualified marketing firm to provide comprehensive tourism marketing and creative services, including an integrated tourism-marketing program to increase destination awareness, attract visitors, connect travelers with local businesses and experiences, and support visitor-related economic activity. - De",
-      "first_seen": "2026-10-05"
-    },
-    {
       "id": "97d16b30b1bbf765",
       "type": "perplexity",
       "title": "Monongalia County Urban Mass Transit Authority, West Virginia \u2014 Marketing Support Services",
@@ -347,6 +335,18 @@
       "url": "https://www.mediapost.com/publications/article/418302/dave-busters-appoints-new-media-creative-agenc.html",
       "source_domain": "https://www.mediapost.com/publications/article/418302/dave-busters-appoints-new-media-creative-agenc.html",
       "description": "Dave & Buster\u2019s - Issuing organization/brand: Dave & Buster\u2019s, a US-based restaurant and entertainment chain. - Review type: Creative and media agency review. The company selected Gut as its creative agency of record and Mediaplus as its media agency of record after a formal review. Gut\u2019s remit includes brand strategy, creative development, social media, and influencer work; Mediaplus is responsible for national and local-market media strategy. -",
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "c976df6a3db8e5b3",
+      "type": "perplexity",
+      "title": "City of Palm Desert, California \u2014 Integrated Tourism Marketing Services",
+      "issuer": "** City of Palm Desert Economic Development Department, Cali",
+      "posted": "",
+      "deadline": "",
+      "url": "https://app.govly.com/public/opportunities/17098958",
+      "source_domain": "https://app.govly.com/public/opportunities/17098958",
+      "description": "City of Palm Desert, California \u2014 Integrated Tourism Marketing Services - Issuing organization: City of Palm Desert Economic Development Department, California - What is being sought: A full-service marketing partner to promote Palm Desert as a tourism destination, including integrated tourism marketing services. - Industry/public-sector category: Tourism board/economic development agency - Deadline: October 23, 2026 - Estimated value: Not stated",
       "first_seen": "2026-10-05"
     },
     {
@@ -533,12 +533,12 @@
       "id": "827bd769e597f493",
       "type": "perplexity",
       "title": "University of Oregon \u2014 Digital Marketing Consulting Services",
-      "issuer": "** University of Oregon, Oregon",
+      "issuer": "** University of Oregon, Office of the Provost",
       "posted": "",
       "deadline": "",
       "url": "https://oregonbuys.gov/bso/external/bidDetail.sda?docId=S-580501-00017981&external=true&parentUrl=close",
       "source_domain": "https://oregonbuys.gov/bso/external/bidDetail.sda?docId=S-580501-00017981&external=true&parentUrl=close",
-      "description": "University of Oregon \u2014 Digital Marketing Consulting Services - Issuing organization: University of Oregon, Oregon - What is being sought: Digital marketing consulting services supporting Student Experience Surveys. - Deadline: October 1, 2026, at 5:00 p.m. Pacific Time. - Estimated value: Not stated. - Status note: This opportunity\u2019s listed deadline has passed as of October 7, 2026, so it is not an active opportunity and should not be pursued. -",
+      "description": "University of Oregon \u2014 Digital Marketing Consulting Services - Issuing organization: University of Oregon, Office of the Provost - What is being sought: Digital marketing consulting services supporting Student Experience Surveys. - Deadline: The listing identifies a bid-opening date of October 1, 2026, at 5:00 p.m. Pacific Time. Because the current date is October 9, 2026, this opportunity should be treated as potentially closed unless the univer",
       "first_seen": "2026-09-29"
     },
     {
@@ -580,13 +580,13 @@
     {
       "id": "4b2bcfd2c58590bf",
       "type": "perplexity",
-      "title": "Louisiana Public Agency \u2014 Advertisement and Marketing Services",
+      "title": "Louisiana State Agency \u2014 Advertisement and Marketing Services",
       "issuer": "\u2014 Advertisement and Marketing Services",
       "posted": "",
       "deadline": "",
       "url": "https://rfpplanet.com/mktg-2710/advertisement-and-marketing-services",
       "source_domain": "https://rfpplanet.com/mktg-2710/advertisement-and-marketing-services",
-      "description": "Louisiana Public Agency \u2014 Advertisement and Marketing Services - Issuing organization: A Louisiana public-sector issuer, United States. The available listing does not identify the agency name in the search result. - What is being sought: Advertisement and marketing services. - Deadline: October 27, 2026. - Estimated value: Not stated. - Source: [RFPPlanet \u2014 Advertisement and Marketing Services](https://rfpplanet.com/mktg-2710/advertisement-and-ma",
+      "description": "Louisiana State Agency \u2014 Advertisement and Marketing Services - Issuing organization: Louisiana government agency; the available result does not identify the specific agency. - What is being sought: Advertisement and marketing services. - Industry/public-sector category: Public-sector marketing; the available result does not establish that the issuer is a tourism board, convention bureau, economic development agency, or sports commission. - Deadl",
       "first_seen": "2026-09-29"
     },
     {
@@ -880,13 +880,13 @@
     {
       "id": "664f5d582bc2507d",
       "type": "perplexity",
-      "title": "California Public-Sector Issuer \u2014 Media Planning and Buying",
-      "issuer": "\u2014 Media Planning and Buying",
+      "title": "City of Palm Desert, California \u2014 Media Planning and Buying",
+      "issuer": "** City of Palm Desert Economic Development Department, Cali",
       "posted": "",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/media-planning-and-buying-fkx1",
       "source_domain": "https://www.cleat.ai/government/contracts/media-planning-and-buying-fkx1",
-      "description": "California Public-Sector Issuer \u2014 Media Planning and Buying - Issuing organization: California public-sector issuer, United States; the available result does not identify the agency. - What is being sought: Media planning and buying services. - Deadline: October 23, 2026. - Estimated value: Not stated. - Source: [CLEATUS \u2014 Media Planning and Buying](https://www.cleat.ai/government/contracts/media-planning-and-buying-fkx1)",
+      "description": "City of Palm Desert, California \u2014 Media Planning and Buying - Issuing organization: City of Palm Desert Economic Development Department, California - What is being sought: Strategic media planning and procurement of advertising space for tourism marketing projects. - Industry/public-sector category: Tourism/economic development - Deadline: October 23, 2026 according to the available listing. - Estimated value: Not stated in the available source.",
       "first_seen": "2026-09-24"
     },
     {
@@ -962,6 +962,18 @@
       "first_seen": "2026-09-23"
     },
     {
+      "id": "b407795c0772ebac",
+      "type": "perplexity",
+      "title": "Town of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services",
+      "issuer": "** Town of Jackson, Wyoming",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
+      "source_domain": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
+      "description": "Town of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services - Issuing organization: Town of Jackson, Wyoming - What is being sought: A consultant to provide municipal brand-identity strategy and social-media consulting, including research, creative development, community outreach, campaign management, and ongoing social-media support. - Deadline: October 9, 2026, at 5:00 p.m. Mountain Time - Estimated value: Not stated",
+      "first_seen": "2026-09-22"
+    },
+    {
       "id": "4f278bee416e18ca",
       "type": "perplexity",
       "title": "The Coca-Cola Company \u2014 Global media, data, and technology review",
@@ -1031,18 +1043,6 @@
       "url": "https://www.cleat.ai/government/contracts/consumer-marketing-and-digital-advertising-8v52",
       "source_domain": "https://www.cleat.ai/government/contracts/consumer-marketing-and-digital-advertising-8v52",
       "description": "City of Palm Desert Economic Development \u2014 Media Planning and Buying - Issuing organization: City of Palm Desert Economic Development, California, United States. - What is being sought: Strategic media planning, audience targeting, advertising-space procurement, budget allocation, rate negotiation, placement schedules, and proof-of-performance reporting for tourism projects. - Deadline: October 23, 2026. - Estimated value: Approximately $550,000",
-      "first_seen": "2026-09-22"
-    },
-    {
-      "id": "b407795c0772ebac",
-      "type": "perplexity",
-      "title": "City of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services",
-      "issuer": "** Town of Jackson, Wyoming",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
-      "source_domain": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
-      "description": "City of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services - Issuing organization: Town of Jackson, Wyoming - What is being sought: A consultant to provide municipal brand strategy, identity development, community outreach, campaign management, and social-media consulting services. - Deadline: October 9, 2026, at 5:00 p.m. Mountain Time - Estimated value: Not stated in the posting. - Direct RFP posting: [Town of Jackso",
       "first_seen": "2026-09-22"
     },
     {
@@ -1118,18 +1118,6 @@
       "first_seen": "2026-09-21"
     },
     {
-      "id": "4a426de960f415e9",
-      "type": "perplexity",
-      "title": "Monroe County Tourist Development Council \u2014 Campaign Production, Rollout, and Management",
-      "issuer": "** Monroe County Tourist Development Council, Florida, Unite",
-      "posted": "",
-      "deadline": "",
-      "url": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
-      "source_domain": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
-      "description": "Monroe County Tourist Development Council \u2014 Campaign Production, Rollout, and Management - Issuing organization: Monroe County Tourist Development Council, Florida, United States. - What is being sought: An agency to provide campaign production, rollout, and management services for the county\u2019s tourism marketing efforts. - Deadline: October 20, 2026. - Estimated value: Not stated in the available source. - Source: [HigherGov opportunity listing](",
-      "first_seen": "2026-09-21"
-    },
-    {
       "id": "3b3c6b08544a2d43",
       "type": "perplexity",
       "title": "Missouri Division of Purchasing \u2014 Statewide Advertising Services",
@@ -1139,6 +1127,18 @@
       "url": "https://app.govly.com/public/opportunities/17111525",
       "source_domain": "https://app.govly.com/public/opportunities/17111525",
       "description": "Missouri Division of Purchasing \u2014 Statewide Advertising Services - Issuing organization: Missouri Division of Purchasing, U.S. - What is being sought: Statewide advertising services under an RFP for MissouriBUYS. - Deadline: October 7, 2026 at 2:00 PM Central Time. - Estimated value: Not stated in the source result. - Source URL: The source result is the Govly posting for the MissouriBUYS solicitation.",
+      "first_seen": "2026-09-21"
+    },
+    {
+      "id": "4a426de960f415e9",
+      "type": "perplexity",
+      "title": "Kentucky Commonwealth \u2014 Comprehensive Marketing and Advertising Services",
+      "issuer": "** Commonwealth of Kentucky",
+      "posted": "",
+      "deadline": "",
+      "url": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
+      "source_domain": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
+      "description": "Kentucky Commonwealth \u2014 Comprehensive Marketing and Advertising Services - Issuing organization: Commonwealth of Kentucky - What is being sought: Comprehensive marketing and advertising services to promote Kentucky tourism, events, venues, meetings, conventions, trade shows, cultural and historical attractions, recreation, entertainment, scenic areas, and other visitor-generating economic activity. - Industry/public-sector category: Tourism/econo",
       "first_seen": "2026-09-21"
     },
     {
