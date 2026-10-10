@@ -1,6 +1,66 @@
 {
-  "generated": "2026-10-09",
+  "generated": "2026-10-10",
   "rfps": [
+    {
+      "id": "4882c5490b9e8946",
+      "type": "perplexity",
+      "title": "active US advertising or marketing RFPs open in May 2026",
+      "issuer": "names, deadlines, values, or application URLs",
+      "posted": "",
+      "deadline": "",
+      "url": "https://sam.gov/opp/f8013b7e0816497e8ee797f2c4cdf8ef/view",
+      "source_domain": "https://sam.gov/opp/f8013b7e0816497e8ee797f2c4cdf8ef/view",
+      "description": "I could not verify any qualifying active US advertising or marketing RFPs open in May 2026 from the available search results. The only clearly dated May 2026 federal result was NASA\u2019s \u201cArtemis III Alternate Comm System (RFI)\u201d, which sought spacecraft communications capabilities\u2014not advertising or marketing services\u2014and was listed as inactive by June 4, 2026. The other results concerned October 2026 opportunities, employment postings, unrelated pr",
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "0640c28742289d55",
+      "type": "perplexity",
+      "title": "Strategic Marketing Support and Services \u2014 Oregon Department of State Fire Marshal",
+      "issuer": "of State Fire Marshal",
+      "posted": "",
+      "deadline": "",
+      "url": "https://oregonbuys.gov/bso/external/bidDetail.sda?docId=S-26000-00017490&external=true&parentUrl=close",
+      "source_domain": "https://oregonbuys.gov/bso/external/bidDetail.sda?docId=S-26000-00017490&external=true&parentUrl=close",
+      "description": "Strategic Marketing Support and Services \u2014 Oregon Department of State Fire Marshal - Issuing organization: Oregon Department of State Fire Marshal, Administration/Public Affairs. - What is being sought: Strategic marketing support and services, including marketing consulting, communications marketing, web-page design/management, communications and media services, and advertising/public-relations services. - Deadline: October 9, 2026, at 3:00 p.m.",
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "d686085cd85885fb",
+      "type": "brand_lead",
+      "title": "OpenAI seeks Agency Partner to turn ChatGPT ad trials into recurring media spends",
+      "issuer": "StoryBoard 18",
+      "posted": "2026-10-10",
+      "deadline": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd1g5eFNGOHBxOVRfd2JMajMwdk1vdThxdDJRZmt5OEdvVGFiR2dCX1k0cXBCUHA1cVlMQkhkdGtvZG1MQTdfdjZXSkIxTjg2b0hJeXlLQnphTHpfc050VjJQczlNd25NdkprcXNoMXd0d1AtVEMxcEdmY0Z1UGlzSzFvNDUxRk04OFozV2xfLTA0WFQtNnF1eXZWWnhhaXJPS2YwWlh2V09haXFZS2RISVpGQTdhWG92dXpNanFJZHFKeUhmZmtzdDZQSmR6by1BZklybtIB1AFBVV95cUxOd1g5eFNGOHBxOVRfd2JMajMwdk1vdThxdDJRZmt5OEdvVGFiR2dCX1k0cXBCUHA1cVlMQkhkdGtvZG1MQTdfdjZXSkIxTjg2b0hJeXlLQnphTHpfc050VjJQczlNd25NdkprcXNoMXd0d1AtVEMxcEdmY0Z1UGlzSzFvNDUxRk04OFozV2xfLTA0WFQtNnF1eXZWWnhhaXJPS2YwWlh2V09haXFZS2RISVpGQTdhWG92dXpNanFJZHFKeUhmZmtzdDZQSmR6by1BZklybg?oc=5",
+      "source_domain": "https://www.storyboard18.com",
+      "description": "OpenAI seeks Agency Partner to turn ChatGPT ad trials into recurring media spends StoryBoard 18",
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "37b68a52cab6ff7d",
+      "type": "perplexity",
+      "title": "Louisiana Public-Sector Advertising and Marketing Services",
+      "issuer": "** A Louisiana public-sector issuer; the available listing i",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.webdevelopmentrfp.com/1177831-usa-louisiana-advertisement-and-marketing-services-rfp.html",
+      "source_domain": "https://www.webdevelopmentrfp.com/1177831-usa-louisiana-advertisement-and-marketing-services-rfp.html",
+      "description": "Louisiana Public-Sector Advertising and Marketing Services - Issuing organization: A Louisiana public-sector issuer; the available listing identifies the opportunity as a U.S. Louisiana procurement. - What is being sought: Advertisement and Marketing Services, solicitation MRB-57558. - Deadline: October 27, 2026. - Estimated value: Not stated in the available notice. - Source: The procurement listing identifies the issuer\u2019s location as Louisiana,",
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "aef80d30c2e87e9f",
+      "type": "perplexity",
+      "title": "Alaska Department of Administration \u2014 Advertising and Marketing Services",
+      "issuer": "of Administration \u2014 Advertising and Marketing Services",
+      "posted": "",
+      "deadline": "",
+      "url": "https://aws.state.ak.us/OnlinePublicNotices/Notices/View.aspx?id=225327",
+      "source_domain": "https://aws.state.ak.us/OnlinePublicNotices/Notices/View.aspx?id=225327",
+      "description": "Alaska Department of Administration \u2014 Advertising and Marketing Services - Issuing organization: State of Alaska, a U.S. state agency. - What is being sought: Advertising and marketing services under solicitation RFP 26-35-214988. - Deadline: October 27, 2026. - Estimated value: Not stated in the available notice. - Source: Alaska Online Public Notices, which lists the posting date as September 29, 2026, and closing date as October 27, 2026. Dire",
+      "first_seen": "2026-10-10"
+    },
     {
       "id": "0c604f8fa2da77bf",
       "type": "perplexity",
@@ -148,13 +208,13 @@
     {
       "id": "105be302e6cb721f",
       "type": "perplexity",
-      "title": "Kentucky Tourism, Arts and Heritage Cabinet",
-      "issuer": "See source",
+      "title": "Excluded opportunities",
+      "issuer": "of Economic Development opportunities:** Not included becaus",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/comprehensive-marketing-and-advertising-services-4",
       "source_domain": "https://starbridge.ai/rfp/comprehensive-marketing-and-advertising-services-4",
-      "description": "Kentucky Tourism, Arts and Heritage Cabinet - Issuing organization/brand: Kentucky\u2019s Finance and Administration Cabinet, on behalf of the Tourism, Arts and Heritage Cabinet. - Review type: An open comprehensive marketing and advertising services procurement, including campaign strategy, creative production, media planning and placement, television, radio, digital, out-of-home, paid social, video, and multimedia production. - Deadline: October 9,",
+      "description": "Excluded opportunities - Kentucky Tourism, Arts and Heritage Cabinet \u2014 Comprehensive Marketing and Advertising Services: Excluded because the available listing marks it closed after its October 9, 2026 deadline. - Kentucky Tourism, Arts and Heritage Cabinet \u2014 MKTG-2683: Excluded because the October 2, 2026 proposal deadline had passed. - City of Montgomery, Alabama \u2014 Strategic Marketing, Communications, Creative and Media Services: Excluded becau",
       "first_seen": "2026-10-07"
     },
     {
@@ -2939,66 +2999,6 @@
       "url": "https://www.tn.gov/generalservices/procurement/central-procurement-office--cpo-/supplier-information/request-for-proposals--rfp--opportunities1.html",
       "source_domain": "https://www.tn.gov/generalservices/procurement/central-procurement-office--cpo-/supplier-information/request-for-proposals--rfp--opportunities1.html",
       "description": "Tennessee Department of Tourist Development \u2013 Tennessee Vacation Guide Advertising & Production - Issuing organization: State of Tennessee \u2013 Central Procurement Office, for the Department of Tourist Development (Tennessee Vacation Guide) - What is being sought: RFP 32601\u201126002 covers \u201cTennessee Vacation Guide \u2013 Development, Production and Revenue Generating Advertising Sales.\u201d The State is seeking a contractor to: - Develop and produce the offici",
-      "first_seen": "2026-08-30"
-    },
-    {
-      "id": "e5ef21a39cbfc9b4",
-      "type": "perplexity",
-      "title": "State of Hawaii Department of Labor and Industrial Relations \u2014 Marketing and Communication Services 2026-2027",
-      "issuer": "of Labor and Industrial Relations \u2014 Marketing and Communicat",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.lightrfp.com/marketplace/bid/HI_HIEPRO-P27000189/marketing-and-communication-services-2026-2027",
-      "source_domain": "https://www.lightrfp.com/marketplace/bid/HI_HIEPRO-P27000189/marketing-and-communication-services-2026-2027",
-      "description": "State of Hawaii Department of Labor and Industrial Relations \u2014 Marketing and Communication Services 2026-2027 - Issuing organization: State of Hawaii Department of Labor and Industrial Relations, on behalf of the Hawaii Retirement Savings Program - What is being sought: End-to-end marketing and communications services for statewide rollout, including branding, creative development, multilingual translation/accessibility, media planning and placem",
-      "first_seen": "2026-08-30"
-    },
-    {
-      "id": "54e490b7eae9550c",
-      "type": "perplexity",
-      "title": "South Carolina \u2013 Transit Advertising Sales Agent Service",
-      "issuer": "** Government authority in **South Carolina, USA** (transit",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.callcenterrfp.com/1162162-usa-south-carolina-transit-advertising-sales-agent-service-rfp.html",
-      "source_domain": "https://www.callcenterrfp.com/1162162-usa-south-carolina-transit-advertising-sales-agent-service-rfp.html",
-      "description": "South Carolina \u2013 Transit Advertising Sales Agent Service - Issuing organization: Government authority in South Carolina, USA (transit agency not named in the snippet but clearly US\u2011based) - What is being sought: - A transit advertising sales agent service to: - Sell, produce, install, and maintain display sign advertising space inside buses (racks) and at other prescribed locations (frames etc.). - Category: Marketing and Branding; intended for o",
-      "first_seen": "2026-08-30"
-    },
-    {
-      "id": "e84057d75ee2063c",
-      "type": "perplexity",
-      "title": "Miami\u2011Dade County \u2013 Marketing & Public Relations Services for Cultural Facilities and Programs (Florida)",
-      "issuer": "(US, county government \u2013 cultural/tourism marketing):**",
-      "posted": "",
-      "deadline": "",
-      "url": "https://civiciq.com/public-rfp/miami-dade-county-marketing-and-public-relations-services-rfp-2026",
-      "source_domain": "https://civiciq.com/public-rfp/miami-dade-county-marketing-and-public-relations-services-rfp-2026",
-      "description": "Miami\u2011Dade County \u2013 Marketing & Public Relations Services for Cultural Facilities and Programs (Florida) (Expired but 2026; useful as a reference for county\u2011level cultural/tourism marketing) - Issuing organization (US, county government \u2013 cultural/tourism marketing): Miami\u2011Dade County, Florida, USA. - What is being sought: As\u2011needed marketing, advertising, media, and public relations services for the county\u2019s cultural facilities and programs. Sco",
-      "first_seen": "2026-08-30"
-    },
-    {
-      "id": "2d1154f437188907",
-      "type": "perplexity",
-      "title": "Lexington, Buena Vista & Rockbridge Tourism (VA) \u2013 Destination Marketing Agency of Record (RFP 2026\u201101)",
-      "issuer": "of Record (RFP 2026\u201101)",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/marketing-campaign-development-and-execution-5lis",
-      "source_domain": "https://www.cleat.ai/government/contracts/marketing-campaign-development-and-execution-5lis",
-      "description": "Lexington, Buena Vista & Rockbridge Tourism (VA) \u2013 Destination Marketing Agency of Record (RFP 2026\u201101) Issuing organization: Lexington, Buena Vista & Rockbridge Tourism (local tourism authority in Virginia, USA). What is being sought: A qualified Agency of Record to provide integrated destination marketing and strategic direction to drive visitation, overnight stays, and economic impact. Scope includes comprehensive marketing and advertising ser",
-      "first_seen": "2026-08-30"
-    },
-    {
-      "id": "762720f10091c031",
-      "type": "perplexity",
-      "title": "Integrated Sponsorship, Branding, Marketing, and Corporate Partnership Services",
-      "issuer": "** City of Carson City, California, US",
-      "posted": "",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/integrated-sponsorship-branding-marketing-and-corporate",
-      "source_domain": "https://starbridge.ai/rfp/integrated-sponsorship-branding-marketing-and-corporate",
-      "description": "Integrated Sponsorship, Branding, Marketing, and Corporate Partnership Services - Issuing organization: City of Carson City, California, US - What is being sought: Sponsorship sales, branding, marketing, and corporate partnership services - Deadline: September 17, 2026 - Estimated value: Not stated in the gathered material - Source:",
       "first_seen": "2026-08-30"
     }
   ]
