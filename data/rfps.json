@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-12",
+  "generated": "2026-10-13",
   "rfps": [
+    {
+      "id": "782be64799afe4f6",
+      "type": "perplexity",
+      "title": "active 2026 US state or local advertising, marketing, or creative-services RFP",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://linden-nj.gov/notices/notice-to-bidders-9/",
+      "source_domain": "https://linden-nj.gov/notices/notice-to-bidders-9/",
+      "description": "No qualifying opportunities can be confirmed from the available results. The search results did not identify an active 2026 US state or local advertising, marketing, or creative-services RFP with sufficient details. The results included: - City of Linden, New Jersey notice to bidders, but the procurement category was not identified as advertising or marketing. - Fort Sill Apache Tribe RFP, but the available result did not establish that it concer",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "ced3f85ec93baf64",
+      "type": "perplexity",
+      "title": "May 2026",
+      "issuer": "a clearly United States\u2013based organization",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.highergov.com/sl/contract-opportunity/ca-rfp-26c035003-marketing-and-advertisi-74197765/",
+      "source_domain": "https://www.highergov.com/sl/contract-opportunity/ca-rfp-26c035003-marketing-and-advertisi-74197765/",
+      "description": "No qualifying opportunities can be reliably confirmed from the available results. The search results do not identify any solicitation that was both: - Issued by a clearly United States\u2013based organization - For advertising or marketing work performed in the United States - Open with a deadline in May 2026 - Still active rather than expired - Supported by a direct official application or solicitation page The available results are dated September\u2013O",
+      "first_seen": "2026-10-13"
+    },
     {
       "id": "6809121554454610",
       "type": "perplexity",
@@ -112,13 +136,13 @@
     {
       "id": "37b68a52cab6ff7d",
       "type": "perplexity",
-      "title": "Louisiana Public-Sector Advertising and Marketing Services",
-      "issuer": "** A Louisiana public-sector issuer; the available listing i",
+      "title": "Louisiana Government Agency \u2014 Advertisement and Marketing Services",
+      "issuer": "\u2014 Advertisement and Marketing Services",
       "posted": "",
       "deadline": "",
       "url": "https://www.webdevelopmentrfp.com/1177831-usa-louisiana-advertisement-and-marketing-services-rfp.html",
       "source_domain": "https://www.webdevelopmentrfp.com/1177831-usa-louisiana-advertisement-and-marketing-services-rfp.html",
-      "description": "Louisiana Public-Sector Advertising and Marketing Services - Issuing organization: A Louisiana public-sector issuer; the available listing identifies the opportunity as a U.S. Louisiana procurement. - What is being sought: Advertisement and Marketing Services, solicitation MRB-57558. - Deadline: October 27, 2026. - Estimated value: Not stated in the available notice. - Source: The procurement listing identifies the issuer\u2019s location as Louisiana,",
+      "description": "Louisiana Government Agency \u2014 Advertisement and Marketing Services - Issuing organization: Louisiana government agency; the available listing identifies solicitation MRB-57558. - What is being sought: Advertisement and marketing services. - Deadline: October 27, 2026; questions were due October 12, 2026, and a pre-proposal conference was scheduled for October 9, 2026. - Estimated value: Not stated in the available listing. - Status note: The sour",
       "first_seen": "2026-10-10"
     },
     {
@@ -568,13 +592,13 @@
     {
       "id": "ee7d3db8a6d135da",
       "type": "perplexity",
-      "title": "Alaska Railroad Corporation",
-      "issuer": "** Alaska Railroad Corporation",
+      "title": "City of Overland Park \u2014 Convention and Tourism Promotion and Destination Marketing Services",
+      "issuer": "** City of Overland Park, Kansas",
       "posted": "",
       "deadline": "",
       "url": "https://publicbidsearch.com/categories/marketing-bids",
       "source_domain": "https://publicbidsearch.com/categories/marketing-bids",
-      "description": "Alaska Railroad Corporation - Issuer: Alaska Railroad Corporation - What is being reviewed: Advertising and marketing services - Review type: Advertising and marketing - Deadline: October 27, 2026 - Estimated value: Not stated in the available listing - Status: Open - Source: The available results do not substantiate any currently open 2026 reviews by major US commercial brands in the requested sectors. Several other results were excluded because",
+      "description": "City of Overland Park \u2014 Convention and Tourism Promotion and Destination Marketing Services - Issuing organization: City of Overland Park, Kansas. - What is being sought: Convention and tourism promotion and destination marketing services. - Deadline: November 13, 2026. - Estimated value: Not stated in the available listing. - Status note: This appears to fit the requested U.S. public-sector tourism category, but the available result is an aggreg",
       "first_seen": "2026-10-01"
     },
     {
@@ -1262,6 +1286,18 @@
       "first_seen": "2026-09-21"
     },
     {
+      "id": "4a426de960f415e9",
+      "type": "perplexity",
+      "title": "Kentucky Cabinet \u2014 Comprehensive Marketing and Advertising Services",
+      "issuer": "** Kentucky state government Cabinet and its agencies",
+      "posted": "",
+      "deadline": "",
+      "url": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
+      "source_domain": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
+      "description": "Kentucky Cabinet \u2014 Comprehensive Marketing and Advertising Services - Issuing organization: Kentucky state government Cabinet and its agencies. - What is being sought: Comprehensive tourism marketing and advertising, including digital and print advertising, television and radio commercials, paid social media, multimedia production, media placement, and promotion of tourism-related events, venues, conventions, cultural activities, recreation, and",
+      "first_seen": "2026-09-21"
+    },
+    {
       "id": "ea945f673c03ae9d",
       "type": "perplexity",
       "title": "Florida/Other U.S. Government \u2013 Communication and Outreach Services",
@@ -1307,18 +1343,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsS0E0dlp2X0VqXzVHMGNTZjVOYW1Bc2xrMkJKMFl6TVgzdVJPbi11N0ZqWjlGUjZSTnZGQllZMmRHTmdfVnZfV1ZqeUlVTG5iUUJTeQ?oc=5",
       "source_domain": "https://citizenportal.ai",
       "description": "Business owner proposes central marketing RFP and paid liaison for Webster Groves districts citizenportal.ai",
-      "first_seen": "2026-09-21"
-    },
-    {
-      "id": "4a426de960f415e9",
-      "type": "perplexity",
-      "title": "Alaska \u2014 Advertising and Marketing Services",
-      "issuer": "** State of Alaska",
-      "posted": "",
-      "deadline": "",
-      "url": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
-      "source_domain": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
-      "description": "Alaska \u2014 Advertising and Marketing Services - Issuing organization: State of Alaska - What is being sought: Advertising and marketing services under RFP 26-35-214988. The available notice does not provide enough detail to determine whether the work is specifically tourism, economic development, or another state program. - Deadline: October 27, 2026 - Estimated value: Not stated - Source: Alaska Online Public Notices, \u201cRFP 26-35-214988 Advertising",
       "first_seen": "2026-09-21"
     },
     {
@@ -2975,30 +2999,6 @@
       "url": "https://starbridge.ai/rfp/26-12-9220r-rfp-marketing-services",
       "source_domain": "https://starbridge.ai/rfp/26-12-9220r-rfp-marketing-services",
       "description": "Pittsburgh Public School District \u2014 District Public Engagement, Marketing and Media Partnerships - Issuing organization: Pittsburgh Public School District - What is being sought: Proposals from firms with expertise in audience engagement, advertising, marketing, content development, creative services, production, and media placement for an integrated public engagement and marketing campaign. - Deadline: September 28, 2026 at 4:00 PM - Estimated v",
-      "first_seen": "2026-08-31"
-    },
-    {
-      "id": "f1b02d2574cfcea7",
-      "type": "perplexity",
-      "title": "Minnesota \u2013 Department of Natural Resources Advertising, PR, and Marketing",
-      "issuer": "of Natural Resources Advertising, PR, and Marketing",
-      "posted": "2026-08-20",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/dnr-advertising-public-relations-and-marketing-request",
-      "source_domain": "https://starbridge.ai/rfp/dnr-advertising-public-relations-and-marketing-request",
-      "description": "Minnesota \u2013 Department of Natural Resources Advertising, PR, and Marketing - Issuing organization: Minnesota Department of Natural Resources (DNR), StateAgency \u00b7 MN, US. - What is being sought: Full-service statewide advertising, public relations, and marketing support to: - Research, create, and implement marketing, education, recruitment, and safety campaigns - Support water safety and recreational safety programs and environmental awareness ca",
-      "first_seen": "2026-08-31"
-    },
-    {
-      "id": "54edba73135ae56f",
-      "type": "perplexity",
-      "title": "Health and Hospital Corporation of Marion County \u2014 Enterprise Digital Brand Strategy, Web Experience Redesign",
-      "issuer": "** Health and Hospital Corporation of Marion County, Indiana",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/creative-design-and-content-development-76xn",
-      "source_domain": "https://www.cleat.ai/government/contracts/creative-design-and-content-development-76xn",
-      "description": "Health and Hospital Corporation of Marion County \u2014 Enterprise Digital Brand Strategy, Web Experience Redesign - Issuing organization: Health and Hospital Corporation of Marion County, Indiana. - What is being sought: Digital brand strategy and web experience redesign services, including UX, branding, CMS, hosting, accessibility, security, and analytics recommendations. - Deadline: October 1, 2026. - Estimated value: Not stated in the source snipp",
       "first_seen": "2026-08-31"
     }
   ]
