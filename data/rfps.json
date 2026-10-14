@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-13",
+  "generated": "2026-10-14",
   "rfps": [
+    {
+      "id": "378e57219f10db7b",
+      "type": "perplexity",
+      "title": "active 2026 U.S. state or local government advertising, marketing, or creative-services RFP",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/46486",
+      "source_domain": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/46486",
+      "description": "No qualifying opportunities can be reliably included from the available results. The search results did not identify an active 2026 U.S. state or local government advertising, marketing, or creative-services RFP: - Mississippi listing: construction services, not marketing or advertising. - Polk County, Florida: architectural and engineering services; the posting also indicates an award recommendation, so it is not an active open marketing opportu",
+      "first_seen": "2026-10-14"
+    },
+    {
+      "id": "b6f6de1308ea865b",
+      "type": "perplexity",
+      "title": "September\u2013November 2026 deadlines",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.governmentcontracts.us/government-contracts/opportunity-details/92915760005513285.htm?searchText=management",
+      "source_domain": "https://www.governmentcontracts.us/government-contracts/opportunity-details/92915760005513285.htm?searchText=management",
+      "description": "No qualifying opportunities can be verified from the available results. The search results primarily show opportunities with September\u2013November 2026 deadlines, not opportunities open in May 2026. The only May 2026 result is for Tennessee facilities-management services, which is not an advertising or marketing procurement. Other results are either outside the requested May window, expired, or lack sufficient evidence of a May 2026 deadline. Accord",
+      "first_seen": "2026-10-14"
+    },
     {
       "id": "782be64799afe4f6",
       "type": "perplexity",
@@ -628,13 +652,13 @@
     {
       "id": "ee7d3db8a6d135da",
       "type": "perplexity",
-      "title": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion and Destination Marketing Services",
+      "title": "City of Overland Park \u2014 Convention and Tourism Promotion and Destination Marketing Services",
       "issuer": "** City of Overland Park, Kansas",
       "posted": "",
       "deadline": "",
       "url": "https://publicbidsearch.com/categories/marketing-bids",
       "source_domain": "https://publicbidsearch.com/categories/marketing-bids",
-      "description": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion and Destination Marketing Services - Issuing organization: City of Overland Park, Kansas. - What is being sought: Convention and tourism promotion and destination marketing services. - Deadline: November 13, 2026. - Estimated value: Not reported in the available results. - Source URL: The available result identifies the opportunity but does not provide a direct solicitation URL. No",
+      "description": "City of Overland Park \u2014 Convention and Tourism Promotion and Destination Marketing Services - Issuing organization: City of Overland Park, Kansas. - What is being sought: Convention and tourism promotion and destination marketing services. - Deadline: November 13, 2026. - Estimated value: Not stated in the available source. - Source: [Public Bid Search listing](https://publicbidsearch.com/categories/marketing-bids) Status note: The search result",
       "first_seen": "2026-10-01"
     },
     {
@@ -940,13 +964,13 @@
     {
       "id": "5d8a0f392605cd96",
       "type": "perplexity",
-      "title": "Dave & Buster\u2019s",
-      "issuer": "review covered integrated **creative, brand strategy, social",
+      "title": "Dave & Buster\u2019s \u2014 completed agency review",
+      "issuer": "review",
       "posted": "",
       "deadline": "",
       "url": "https://finance.yahoo.com/media-advertising/articles/dave-busters-taps-gut-mediaplus-130000476.html",
       "source_domain": "https://finance.yahoo.com/media-advertising/articles/dave-busters-taps-gut-mediaplus-130000476.html",
-      "description": "Dave & Buster\u2019s - Issuing organization/brand: Dave & Buster\u2019s, a US-based entertainment and dining company. - What is being reviewed: The 2026 agency review covered integrated creative, brand strategy, social, influencer, and media services. GUT was selected for brand strategy and creative, while Mediaplus was selected for media strategy, planning, and buying. - Timeline: The review began in spring 2026 and concluded by September 2026; appointmen",
+      "description": "Dave & Buster\u2019s \u2014 completed agency review - Issuing organization: Dave & Buster\u2019s, a US-based dining and entertainment company. - Review type: Integrated agency search covering creative, brand strategy, social, influencer marketing, media strategy, media planning, and media buying. - Timeline: The review began in spring 2026 and concluded in September 2026; GUT and Mediaplus were scheduled to begin work October 1, 2026. - Selected agencies: GUT w",
       "first_seen": "2026-09-27"
     },
     {
@@ -1313,12 +1337,12 @@
       "id": "4a426de960f415e9",
       "type": "perplexity",
       "title": "Kentucky Tourism, Arts and Heritage Cabinet \u2014 Comprehensive Marketing and Advertising Services",
-      "issuer": "** Kentucky Finance and Administration Cabinet, on behalf of",
+      "issuer": "** Kentucky Tourism, Arts and Heritage Cabinet, through the",
       "posted": "",
       "deadline": "",
       "url": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
       "source_domain": "https://rfpplanet.com/mktg-2683/comprehensive-marketing-and-advertising-se",
-      "description": "Kentucky Tourism, Arts and Heritage Cabinet \u2014 Comprehensive Marketing and Advertising Services - Issuing organization: Kentucky Finance and Administration Cabinet, on behalf of the Tourism, Arts and Heritage Cabinet. - What is being sought: A vendor to provide comprehensive tourism marketing and advertising, including strategic planning, research, creative development, digital and print advertising, television, radio, video, out-of-home, paid soc",
+      "description": "Kentucky Tourism, Arts and Heritage Cabinet \u2014 Comprehensive Marketing and Advertising Services - Issuing organization: Kentucky Tourism, Arts and Heritage Cabinet, through the Commonwealth of Kentucky. - What is being sought: A comprehensive marketing and advertising services provider for tourism, events, venues, cultural activities, recreation, entertainment, and other visitor-oriented economic activity. Services include campaign strategy, creat",
       "first_seen": "2026-09-21"
     },
     {
@@ -2975,30 +2999,6 @@
       "url": "https://app.govly.com/public/opportunities/16972268",
       "source_domain": "https://app.govly.com/public/opportunities/16972268",
       "description": "I found several active 2026 U.S. state/local government advertising, marketing, creative, and communications solicitations that appear to fit your criteria. I excluded non-U.S. items and closed opportunities, and I only included postings that are clearly U.S.-based and open as of today.",
-      "first_seen": "2026-08-31"
-    },
-    {
-      "id": "6c5ee7a658f841a6",
-      "type": "perplexity",
-      "title": "US brands",
-      "issuer": "reviews, media pitches, or creative searches** that meet you",
-      "posted": "",
-      "deadline": "",
-      "url": "https://adcurrent.ai/lists/advertising-agencies-near-me",
-      "source_domain": "https://adcurrent.ai/lists/advertising-agencies-near-me",
-      "description": "I do not have any credible, tool-verified evidence from the gathered results that specific major US brands are publicly and currently (in 2026) running named advertising agency reviews, media pitches, or creative searches that meet your criteria, so I cannot list brands, timelines, and budgets with the rigor you requested based on this data alone. The search results I received are largely generic directories, rankings, and how\u2011to content, not bra",
-      "first_seen": "2026-08-31"
-    },
-    {
-      "id": "a9221704c97ff013",
-      "type": "perplexity",
-      "title": "State of Connecticut \u2013 Economic Development Branding & Marketing Services",
-      "issuer": "** State of Connecticut, **Department of Administrative Serv",
-      "posted": "",
-      "deadline": "",
-      "url": "https://app.govly.com/public/opportunities/17008650",
-      "source_domain": "https://app.govly.com/public/opportunities/17008650",
-      "description": "State of Connecticut \u2013 Economic Development Branding & Marketing Services - Issuing organization: State of Connecticut, Department of Administrative Services (DAS) Procurement. - What is being sought: Economic development branding and marketing services, including comprehensive marketing and branding, publicity, and marketing advisory services for the State\u2019s economic development efforts. - Deadline: Respond by October 6, 2026. - Estimated value:",
       "first_seen": "2026-08-31"
     }
   ]
