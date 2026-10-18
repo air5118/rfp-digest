@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-17",
+  "generated": "2026-10-18",
   "rfps": [
+    {
+      "id": "d13a8d6acb7ddaa4",
+      "type": "perplexity",
+      "title": "Minnesota State Lottery \u2014 Advertising Agency Services",
+      "issuer": "Services",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/r005664-hispanic-marketing-and-advertising-agency-rfp-e9qk",
+      "source_domain": "https://www.cleat.ai/government/contracts/r005664-hispanic-marketing-and-advertising-agency-rfp-e9qk",
+      "description": "Minnesota State Lottery \u2014 Advertising Agency Services - Issuing organization: Minnesota State Lottery, a US state agency. - What is being sought: Advertising and marketing services, including account management, creative services, media planning, and media buying. - Deadline: November 20, 2026. - Estimated value: Not stated in the available listing. - Source: [Direct source](https://starbridge.ai/rfp/minnesota-lottery-request-for-proposals) No ot",
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "e73d0b4e409a585e",
+      "type": "perplexity",
+      "title": "City of Linden, New Jersey \u2014 Notice to Bidders",
+      "issuer": "** City of Linden, New Jersey",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.acquisition.gov/far/15.203?searchTerms=15.203",
+      "source_domain": "https://www.acquisition.gov/far/15.203?searchTerms=15.203",
+      "description": "City of Linden, New Jersey \u2014 Notice to Bidders - Issuing organization: City of Linden, New Jersey - What is being sought: The available notice identifies an open sealed-offer procurement submitted through the city\u2019s eProcurement portal, but the search result does not specify that the procurement is for advertising, marketing, or creative services. - Deadline: October 2, 2026, at 10:00 a.m. - Estimated value: Not stated. - Direct posting: [City of",
+      "first_seen": "2026-10-18"
+    },
     {
       "id": "ef3e60fe1aecee85",
       "type": "perplexity",
@@ -86,6 +110,18 @@
       "first_seen": "2026-10-16"
     },
     {
+      "id": "1a5e5afdba708785",
+      "type": "perplexity",
+      "title": "Humann / SuperBeets \u2014 completed review, not currently open",
+      "issuer": "search",
+      "posted": "",
+      "deadline": "2026-11-20",
+      "url": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
+      "source_domain": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
+      "description": "Humann / SuperBeets \u2014 completed review, not currently open - Brand: Humann, maker of SuperBeets - Review type: Creative agency search - Result: WorkInProgress was selected as the first creative agency of record. - Timeline: Four-week process; reported October 13, 2026. - Estimated budget: Not reported; finalist agencies received $15,000 stipends. - Status: Exclude because the search is complete. The available results do show active 2026 US public",
+      "first_seen": "2026-10-16"
+    },
+    {
       "id": "d5a96ab0cab5ee68",
       "type": "brand_lead",
       "title": "Hawke Media Named Agency of Record for Jacuzzi Group to Drive Next Phase of Growth for its Wellness Brands",
@@ -131,18 +167,6 @@
       "url": "https://starbridge.ai/rfp/comprehensive-marketing-and-advertising-services-4",
       "source_domain": "https://starbridge.ai/rfp/comprehensive-marketing-and-advertising-services-4",
       "description": "Excluded: Kentucky Tourism, Arts and Heritage Cabinet - Issuing organization: Kentucky Finance and Administration Cabinet, on behalf of the Tourism, Arts and Heritage Cabinet - What was sought: Comprehensive tourism marketing and advertising services, including creative, media planning and placement, digital, television, radio, video, out-of-home, paid social, research, and multimedia production. - Deadline: October 9, 2026 - Status: Excluded bec",
-      "first_seen": "2026-10-16"
-    },
-    {
-      "id": "1a5e5afdba708785",
-      "type": "perplexity",
-      "title": "California Franchise Tax Board \u2014 CalEITC Advertising Campaign",
-      "issuer": "** California Franchise Tax Board, a US state agency",
-      "posted": "",
-      "deadline": "",
-      "url": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
-      "source_domain": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
-      "description": "California Franchise Tax Board \u2014 CalEITC Advertising Campaign - Issuing organization: California Franchise Tax Board, a US state agency. - What is being sought: Creative design and digital advertising services for the California Earned Income Tax Credit campaign, including campaign materials, media makegoods, and disclosure of generative-AI use. - Review type: Creative and digital advertising. - Deadline: November 17, 2026. - Estimated value: Not",
       "first_seen": "2026-10-16"
     },
     {
@@ -832,13 +856,13 @@
     {
       "id": "92c2ed9116535954",
       "type": "perplexity",
-      "title": "Dave & Buster\u2019s",
-      "issuer": "relationships**",
+      "title": "Dave & Buster\u2019s \u2014 completed review, not currently open",
+      "issuer": "See source",
       "posted": "",
       "deadline": "",
       "url": "https://www.marketingdive.com/news/dave-busters-shakes-up-agencies-amid-bid-to-rebuild-brand-relevance/831369/",
       "source_domain": "https://www.marketingdive.com/news/dave-busters-shakes-up-agencies-amid-bid-to-rebuild-brand-relevance/831369/",
-      "description": "Dave & Buster\u2019s - Issuing organization/brand: Dave & Buster\u2019s, a US dining and entertainment chain. - What is being reviewed: The company completed a review of its creative and media agency relationships. Gut was selected as creative agency of record, while Mediaplus became media agency of record. The assignments include brand strategy, creative development, social media, influencers, media planning, and media buying. - Timeline: The review began",
+      "description": "Dave & Buster\u2019s \u2014 completed review, not currently open - Brand: Dave & Buster\u2019s - Review type: Creative and media agency-of-record review - Result: Gut was appointed creative AOR and Mediaplus media AOR; both began work October 1, 2026. - Timeline: Review began in spring 2026 and concluded before September 28, 2026. - Estimated budget: Not reported. - Status: Exclude from active-opportunity list because the review is complete.",
       "first_seen": "2026-10-01"
     },
     {
@@ -2940,66 +2964,6 @@
       "source_domain": "https://adage.com",
       "description": "15 agency reviews to know about: 3M, Duke's Mayo, PepsiCo Ad Age",
       "first_seen": "2026-09-03"
-    },
-    {
-      "id": "9c5d8dc1457e9661",
-      "type": "perplexity",
-      "title": "Why there are no compliant private\u2011sector casino/food/retail/CPG agency RFPs in this set",
-      "issuer": "RFPs in this set",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.mordorintelligence.com/industry-reports/casino-gambling-market",
-      "source_domain": "https://www.mordorintelligence.com/industry-reports/casino-gambling-market",
-      "description": "Why there are no compliant private\u2011sector casino/food/retail/CPG agency RFPs in this set From the search results you provided: - The pages on casino gambling market size and casino game app development companies are market reports or vendor lists, not RFPs. - The gambling advertising \u201chow\u2011to\u201d guide is an adtech article, not a tender. - The beverage and hospitality content related to RFP platforms (IMI Agency, IBWSS) discusses how buyers use RFPs",
-      "first_seen": "2026-09-02"
-    },
-    {
-      "id": "793853e745fa4d6b",
-      "type": "perplexity",
-      "title": "Webb County Fairgrounds \u2013 Marketing and Advertising Services (Texas)",
-      "issuer": "** Webb County, Texas (county government \u2013 US)",
-      "posted": "",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/request-for-proposals-rfp-rfp-2026-013-webb-county",
-      "source_domain": "https://starbridge.ai/rfp/request-for-proposals-rfp-rfp-2026-013-webb-county",
-      "description": "Webb County Fairgrounds \u2013 Marketing and Advertising Services (Texas) - Issuing organization: Webb County, Texas (county government \u2013 US) - What is being sought: Webb County seeks a qualified marketing/advertising firm to provide professional marketing and advertising services for promotion of the Webb County Fairgrounds, including event promotion and broader fairgrounds marketing. - Deadline (if known): The 2026-013 RFP posting is described as ac",
-      "first_seen": "2026-09-02"
-    },
-    {
-      "id": "6406ba68920fbef1",
-      "type": "perplexity",
-      "title": "Town of Keystone, SD \u2013 Year 1 Tourism Marketing Services (TOK\u2011MARK\u20112026\u2011001)",
-      "issuer": "See source",
-      "posted": "",
-      "deadline": "",
-      "url": "https://civiciq.com/public-rfp/town-of-keystone-year-1-tourism-marketing-services-rfp-2026-73e6f0",
-      "source_domain": "https://civiciq.com/public-rfp/town-of-keystone-year-1-tourism-marketing-services-rfp-2026-73e6f0",
-      "description": "Town of Keystone, SD \u2013 Year 1 Tourism Marketing Services (TOK\u2011MARK\u20112026\u2011001) > Note: One listing shows a due date that has passed (August 24, 2026), while another indicates \u201c5 days until submission deadline \u2014 September 1, 2026.\u201d Given the conflicting secondary data, you would need to verify directly with the Town to confirm whether it is still open for submissions as of your working date. - Issuing organization: Town of Keystone, South Dakota, US",
-      "first_seen": "2026-09-02"
-    },
-    {
-      "id": "c7a1f0b782c11129",
-      "type": "perplexity",
-      "title": "Southwest Regional Recreation Authority (Virginia) \u2013 Tourism Photography and Videography (Marketing Content)",
-      "issuer": "** Southwest Regional Recreation Authority (SRRA) d/b/a Spea",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.highergov.com/sl/contract-opportunity/va-rfp-72-professional-photography-and-vid-73161434/",
-      "source_domain": "https://www.highergov.com/sl/contract-opportunity/va-rfp-72-professional-photography-and-vid-73161434/",
-      "description": "Southwest Regional Recreation Authority (Virginia) \u2013 Tourism Photography and Videography (Marketing Content) - Issuing organization: Southwest Regional Recreation Authority (SRRA) d/b/a Spearhead Trails, Virginia, USA - RFP title: \u201cRFP 72 Professional Photography and Videography Services \u2013 Tourism\u2011Focused Assets for Spearhead Trails\u201d - What is being sought: SRRA is seeking professional photographers/videographers to create a high\u2011quality library",
-      "first_seen": "2026-09-02"
-    },
-    {
-      "id": "2df3164e3a36582a",
-      "type": "perplexity",
-      "title": "Snohomish County, Washington \u2014 Destination Marketing Organization Services",
-      "issuer": "Services",
-      "posted": "",
-      "deadline": "",
-      "url": "https://app.govly.com/public/opportunities/17031457",
-      "source_domain": "https://app.govly.com/public/opportunities/17031457",
-      "description": "Snohomish County, Washington \u2014 Destination Marketing Organization Services - Issuing organization: Snohomish County, Washington - What is being sought: Destination marketing organization services to promote Snohomish County as a travel destination, including tourism promotion, branding, and related destination-marketing activities. - Deadline: Not shown in the available search information. - Estimated value: Not stated in the available informatio",
-      "first_seen": "2026-09-02"
     }
   ]
 }
