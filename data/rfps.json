@@ -2,6 +2,18 @@
   "generated": "2026-10-19",
   "rfps": [
     {
+      "id": "009cc1cb3b0edda5",
+      "type": "perplexity",
+      "title": "active and open in May 2026",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://sam.gov/opp/ce2201baa4e96dc8fb34b68984691974/view",
+      "source_domain": "https://sam.gov/opp/ce2201baa4e96dc8fb34b68984691974/view",
+      "description": "No verifiable opportunities can be listed from the available results. The search results do not identify any advertising or marketing RFP that was active and open in May 2026. The available SAM.gov results show opportunities with deadlines in October 2026, not May 2026. The only result specifically referencing May 2026 is a third-party page listing closed solicitations, which cannot satisfy the requirement for active opportunities. Consequently,",
+      "first_seen": "2026-10-19"
+    },
+    {
       "id": "832ba2f1f4ff1dd9",
       "type": "perplexity",
       "title": "Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services",
@@ -52,13 +64,13 @@
     {
       "id": "012ec7ef7c6f448a",
       "type": "perplexity",
-      "title": "North Carolina Public Agency \u2014 Marketing, Advertising and Public Relations Services",
+      "title": "North Carolina Department \u2014 Marketing, Advertising and Public Relations Services",
       "issuer": "\u2014 Marketing, Advertising and Public Relations Services",
       "posted": "",
       "deadline": "",
       "url": "https://rfpplanet.com/mktg-2749/marketing-advertising-and-public-relations",
       "source_domain": "https://rfpplanet.com/mktg-2749/marketing-advertising-and-public-relations",
-      "description": "North Carolina Public Agency \u2014 Marketing, Advertising and Public Relations Services - Issuing organization: Public agency in North Carolina, United States; the available listing does not identify the agency by name. - What is being sought: Marketing, advertising, and public relations services under solicitation MKTG-2749. - Deadline: October 27, 2026. - Estimated value: Not stated in the available results. - Source:",
+      "description": "North Carolina Department \u2014 Marketing, Advertising and Public Relations Services - Issuing organization: A North Carolina state government department, United States. - What is being sought: Full-service marketing, communications, and advertising support, including creative concepts and materials for print, video, internet, direct mail, transit, outdoor, display, television, radio, social media, and other outreach programs. - Deadline: October 27,",
       "first_seen": "2026-10-18"
     },
     {
@@ -100,25 +112,25 @@
     {
       "id": "a5ca33b5d61ed1cc",
       "type": "perplexity",
-      "title": "City of O\u2019Fallon, Missouri \u2014 Convention & Visitors Bureau Marketing Audit",
-      "issuer": "** City of O\u2019Fallon, Missouri, United States",
+      "title": "City of O\u2019Fallon Convention & Visitors Bureau \u2014 Marketing Audit",
+      "issuer": "** City of O\u2019Fallon, Missouri, through the O\u2019Fallon Conventi",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/city-of-o-fallon-o-fallon-convention-visitors-bureau",
       "source_domain": "https://starbridge.ai/rfp/city-of-o-fallon-o-fallon-convention-visitors-bureau",
-      "description": "City of O\u2019Fallon, Missouri \u2014 Convention & Visitors Bureau Marketing Audit - Issuing organization: City of O\u2019Fallon, Missouri, United States. - What is being sought: A marketing audit for the O\u2019Fallon Convention & Visitors Bureau. - Deadline: October 22, 2026. - Estimated value: Not stated in the available results. - Source:",
+      "description": "City of O\u2019Fallon Convention & Visitors Bureau \u2014 Marketing Audit - Issuing organization: City of O\u2019Fallon, Missouri, through the O\u2019Fallon Convention & Visitors Bureau, United States. - What is being sought: Convention and visitors bureau marketing audit services. - Deadline: October 22, 2026. - Estimated value: Not stated in the available listing. - Source: (https://starbridge.ai/rfp/city-of-o-fallon-o-fallon-convention-visitors-bureau)",
       "first_seen": "2026-10-18"
     },
     {
       "id": "8b4075b2fb83f468",
       "type": "perplexity",
-      "title": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion and Destination Marketing Services",
+      "title": "City of Overland Park \u2014 Convention and Tourism Promotion and Destination Marketing",
       "issuer": "** City of Overland Park, Kansas, United States",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
       "source_domain": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
-      "description": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion and Destination Marketing Services - Issuing organization: City of Overland Park, Kansas, United States. - What is being sought: Convention and tourism promotion and destination marketing services. - Deadline: November 13, 2026. - Estimated value: Not stated in the available results. - Source:",
+      "description": "City of Overland Park \u2014 Convention and Tourism Promotion and Destination Marketing - Issuing organization: City of Overland Park, Kansas, United States. - What is being sought: Convention and tourism promotion and destination marketing services, including tourism marketing, creative services, advertising, and visitor information center operations. - Deadline: November 13, 2026. - Estimated value: Not stated in the available listing. - Source: (ht",
       "first_seen": "2026-10-18"
     },
     {
@@ -182,18 +194,6 @@
       "first_seen": "2026-10-17"
     },
     {
-      "id": "4572978f343e6ab3",
-      "type": "perplexity",
-      "title": "Minnesota Lottery \u2014 active public-sector advertising RFP",
-      "issuer": "** Minnesota Lottery, US state agency",
-      "posted": "",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/advertising-and-marketing-services-request-for-proposals",
-      "source_domain": "https://starbridge.ai/rfp/advertising-and-marketing-services-request-for-proposals",
-      "description": "Minnesota Lottery \u2014 active public-sector advertising RFP - Issuer: Minnesota Lottery, US state agency. - What is sought: Advertising and marketing agency services, including account management, creative development, and media planning and buying. - Timeline/deadline: Proposal deadline reported as November 20, 2026. - Estimated budget: Not disclosed. - Status: Reported open. - Source URL: https://starbridge.ai/rfp/advertising-and-marketing-service",
-      "first_seen": "2026-10-17"
-    },
-    {
       "id": "13cd3f123da89182",
       "type": "perplexity",
       "title": "Commonwealth of Kentucky \u2014 Comprehensive Marketing and Advertising Services",
@@ -215,6 +215,18 @@
       "url": "https://www.cleat.ai/government/contracts/marketing-and-promotional-services-9rva",
       "source_domain": "https://www.cleat.ai/government/contracts/marketing-and-promotional-services-9rva",
       "description": "California State Lottery \u2014 Hispanic Marketing and Advertising Agency - Issuing organization: California State Lottery. - What is being sought: A Hispanic marketing and advertising agency to reach California\u2019s Hispanic consumer market, raise brand awareness, improve brand perceptions, and increase product sales supporting California public schools. - Deadline: Not stated in the available source. - Estimated value: Not disclosed. - Source: (https:/",
+      "first_seen": "2026-10-17"
+    },
+    {
+      "id": "4572978f343e6ab3",
+      "type": "perplexity",
+      "title": "Alaska Railroad Corporation \u2014 Advertising and Marketing Services",
+      "issuer": "** Alaska Railroad Corporation, United States",
+      "posted": "",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/advertising-and-marketing-services-request-for-proposals",
+      "source_domain": "https://starbridge.ai/rfp/advertising-and-marketing-services-request-for-proposals",
+      "description": "Alaska Railroad Corporation \u2014 Advertising and Marketing Services - Issuing organization: Alaska Railroad Corporation, United States. - What is being sought: Full-service advertising and marketing services. - Deadline: Not stated in the available listing. - Estimated value: Not stated in the available listing. - Source: (https://starbridge.ai/rfp/advertising-and-marketing-services-request-for-proposals)",
       "first_seen": "2026-10-17"
     },
     {
@@ -628,13 +640,13 @@
     {
       "id": "bb6525be91c27add",
       "type": "perplexity",
-      "title": "Minnesota Public Agency \u2014 Advertising Agency Services for Gaming",
-      "issuer": "\u2014 Advertising Agency Services for Gaming",
+      "title": "Minnesota Lottery \u2014 Advertising Agency Services",
+      "issuer": "Services",
       "posted": "",
       "deadline": "",
       "url": "https://rfpplanet.com/mktg-2726/advertising-agency-services",
       "source_domain": "https://rfpplanet.com/mktg-2726/advertising-agency-services",
-      "description": "Minnesota Public Agency \u2014 Advertising Agency Services for Gaming - Issuing organization: Public agency in Minnesota, United States; the available listing does not identify the agency by name. - What is being sought: Advertising agency services to market and sell gaming-related products, with proceeds supporting environmental and community programs. - Deadline: November 20, 2026. - Estimated value: Not stated in the available results. - Source:",
+      "description": "Minnesota Lottery \u2014 Advertising Agency Services - Issuing organization: Minnesota State Lottery, Minnesota, United States. - What is being sought: An advertising agency to market and sell lottery products, including creative development, media planning and buying, public relations, sponsorship evaluation, sales promotions, research, social media, and marketing partnerships. - Deadline: November 20, 2026. - Estimated value: Not stated in the avail",
       "first_seen": "2026-10-09"
     },
     {
