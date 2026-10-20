@@ -1,6 +1,42 @@
 {
-  "generated": "2026-10-19",
+  "generated": "2026-10-20",
   "rfps": [
+    {
+      "id": "b7e6cdbf81865128",
+      "type": "perplexity",
+      "title": "active US advertising or marketing RFPs open in May 2026",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://bidbanana.thebidlab.com/closed-bids/missouri-marketing-advertising-bids-rfp",
+      "source_domain": "https://bidbanana.thebidlab.com/closed-bids/missouri-marketing-advertising-bids-rfp",
+      "description": "No qualifying active US advertising or marketing RFPs open in May 2026 can be verified from the available results. The results identified only expired, closed, future-dated, or insufficiently documented opportunities: - Los Angeles County \u2014 RFQ-IS-26260729, Long Beach Authority Bus King Ads: US issuer, but closed May 14, 2026; therefore excluded. - City of Columbia, Missouri \u2014 Go COMO Transit Advertising Services: Listed as closed in September/Oc",
+      "first_seen": "2026-10-20"
+    },
+    {
+      "id": "568f779277c2f619",
+      "type": "perplexity",
+      "title": "active 2026 opportunities",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://oregonbuys.gov/bso/external/bidDetail.sda?docId=S-580100-00018205&external=true",
+      "source_domain": "https://oregonbuys.gov/bso/external/bidDetail.sda?docId=S-580100-00018205&external=true",
+      "description": "No qualifying opportunities can be verified from the available search results. The results include one Oregon solicitation, but the available listing does not identify it as an advertising, marketing, or creative-services opportunity. The other clearly identified opportunities concern a U.S. Navy ball valve solicitation, a Chicago Transit Authority docket-management system, and unrelated notices\u2014not advertising or marketing services. Because the",
+      "first_seen": "2026-10-20"
+    },
+    {
+      "id": "fe04a0d694db45a4a4611cbd9f5a09f1",
+      "type": "gov_federal",
+      "title": "Social Media Management Support Services",
+      "issuer": "",
+      "posted": "2026-10-20",
+      "deadline": "2026-11-19",
+      "url": "https://sam.gov/workspace/contract/opp/fe04a0d694db45a4a4611cbd9f5a09f1/view",
+      "source_domain": "",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fe04a0d694db45a4a4611cbd9f5a09f1",
+      "first_seen": "2026-10-20"
+    },
     {
       "id": "009cc1cb3b0edda5",
       "type": "perplexity",
@@ -16,13 +52,13 @@
     {
       "id": "832ba2f1f4ff1dd9",
       "type": "perplexity",
-      "title": "Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services",
-      "issuer": "** Louisa County, Virginia, United States",
-      "posted": "",
+      "title": "Louisa County \u2014 Tourism advertising and marketing services",
+      "issuer": "** Louisa County, Virginia, US",
+      "posted": "2026-10-13",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/rfp-129899-tourism-advertising-and-marketing-services",
       "source_domain": "https://starbridge.ai/rfp/rfp-129899-tourism-advertising-and-marketing-services",
-      "description": "Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services - Issuing organization: Louisa County, Virginia, United States. - What is being sought: Advertising and/or full-service marketing services for the county, with one or more contracts established through competitive negotiation. - Deadline: November 4, 2026. - Estimated value: Not stated in the available results. - Source:",
+      "description": "Louisa County \u2014 Tourism advertising and marketing services - Brand/issuer: Louisa County, Virginia, US. - Review type: Advertising and/or full-service marketing services under a competitively negotiated contract. - Timeline: Released October 13, 2026; proposals due November 4, 2026. - Estimated budget: Not disclosed in the available notice. - Source URL: https://starbridge.ai/rfp/rfp-129899-tourism-advertising-and-marketing-services",
       "first_seen": "2026-10-19"
     },
     {
@@ -52,13 +88,13 @@
     {
       "id": "d7336abde4400a95",
       "type": "perplexity",
-      "title": "Palm Desert \u2014 Tourism Marketing and Creative Services",
-      "issuer": "** Palm Desert, California, US",
+      "title": "Palm Desert \u2014 Tourism marketing and creative services",
+      "issuer": "** City of Palm Desert, California, US",
       "posted": "",
       "deadline": "",
       "url": "https://deeprfp.com/opportunities/us-marketing-rfps/",
       "source_domain": "https://deeprfp.com/opportunities/us-marketing-rfps/",
-      "description": "Palm Desert \u2014 Tourism Marketing and Creative Services - Issuing organization: Palm Desert, California, US. - What is being sought: An integrated destination-marketing agency covering strategy, creative, media, public relations, social media, email, website marketing, and measurement. - Deadline: October 22, 2026, at 5:00 p.m. Pacific Time. - Estimated value: Not stated in the available source. - Source:",
+      "description": "Palm Desert \u2014 Tourism marketing and creative services - Brand/issuer: City of Palm Desert, California, US. - Review type: Integrated destination-marketing agency, including tourism advertising and creative services. - Timeline: The opportunity was marked open when checked October 16, 2026; responses were due October 22, 2026, at 5:00 p.m. Pacific Time. - Estimated budget: Not disclosed in the available notice. - Source URL: https://deeprfp.com/op",
       "first_seen": "2026-10-18"
     },
     {
@@ -172,13 +208,13 @@
     {
       "id": "d13a8d6acb7ddaa4",
       "type": "perplexity",
-      "title": "California State Lottery \u2014 Hispanic marketing and advertising",
-      "issuer": "** California State Lottery, United States",
-      "posted": "",
+      "title": "California State Lottery Commission \u2014 Hispanic marketing and advertising agency",
+      "issuer": "- **Brand/issuer:** California State Lottery Commission, Cal",
+      "posted": "2026-10-12",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/r005664-hispanic-marketing-and-advertising-agency-rfp-e9qk",
       "source_domain": "https://www.cleat.ai/government/contracts/r005664-hispanic-marketing-and-advertising-agency-rfp-e9qk",
-      "description": "California State Lottery \u2014 Hispanic marketing and advertising - Issuing organization: California State Lottery, United States. - What is being sought: A qualified Hispanic marketing and advertising agency to reach California\u2019s Hispanic consumer market, increase awareness and brand perceptions, and support product sales. - Review type: Multicultural advertising and marketing. - Deadline: Not provided in the available result. - Estimated value: Not",
+      "description": "California State Lottery Commission \u2014 Hispanic marketing and advertising agency - Brand/issuer: California State Lottery Commission, California, US. - Review type: Hispanic-market advertising and marketing agency; the selected agency would support awareness, brand perception, and sales among California\u2019s Hispanic consumers, replacing the current Hispanic agency partner. - Timeline: Issued October 12, 2026; proposals due November 23, 2026, at 3:00",
       "first_seen": "2026-10-18"
     },
     {
@@ -377,12 +413,12 @@
       "id": "0dbedfa8fcb7f944",
       "type": "perplexity",
       "title": "Utah Valley Convention Center \u2014 Marketing and Promotional Services",
-      "issuer": "** Utah Valley Convention Center, Utah, United States",
+      "issuer": "** Utah Valley Convention Center, Utah County, Utah",
       "posted": "",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/marketing-and-promotional-services-0kf7",
       "source_domain": "https://www.cleat.ai/government/contracts/marketing-and-promotional-services-0kf7",
-      "description": "Utah Valley Convention Center \u2014 Marketing and Promotional Services - Issuing organization: Utah Valley Convention Center, Utah, United States. - What is being sought: Marketing subcontractor services intended to increase event bookings and provide detailed marketing reports. - Deadline: November 9, 2026. - Estimated value: Not stated in the available results. - Source:",
+      "description": "Utah Valley Convention Center \u2014 Marketing and Promotional Services - Issuing organization: Utah Valley Convention Center, Utah County, Utah. - What is being sought: Marketing and promotional services to attract national and regional events, coordinate with hospitality partners, and increase regional spending and hotel room nights. - Deadline: Not identified in the available listing. - Estimated value: Not identified. - Status: The listing referen",
       "first_seen": "2026-10-14"
     },
     {
@@ -1274,6 +1310,18 @@
       "first_seen": "2026-09-27"
     },
     {
+      "id": "5d8a0f392605cd96",
+      "type": "perplexity",
+      "title": "Opportunities excluded because they were no longer active",
+      "issuer": "of record and Mediaplus as media agency of record; it is not",
+      "posted": "",
+      "deadline": "",
+      "url": "https://finance.yahoo.com/media-advertising/articles/dave-busters-taps-gut-mediaplus-130000476.html",
+      "source_domain": "https://finance.yahoo.com/media-advertising/articles/dave-busters-taps-gut-mediaplus-130000476.html",
+      "description": "Opportunities excluded because they were no longer active - Dave & Buster\u2019s: The company completed its 2026 review and appointed GUT as creative agency of record and Mediaplus as media agency of record; it is not an open opportunity. - Humann / SuperBeets: Humann completed its creative review and selected WorkInProgress; it is not an open opportunity. No qualifying active 2026 opportunities were identified in the available results for major US au",
+      "first_seen": "2026-09-27"
+    },
+    {
       "id": "f51fab582ecf2d16",
       "type": "brand_lead",
       "title": "Intuit Puts Its $690 Million U.S. Media Account In Review 07/09/2026",
@@ -1283,18 +1331,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVJTWFRMSElwUHJJLVdxWWlCbXRJOXZDVnRKX0ZrbWk5bW1fLXlxWjRyVWEyclA3RzUybUE4eHdOTS1zTUVzcDZ2VkFYazA4RlRYRWlfeVZUQll6QlUwMzFidlhXUnlnQ2M2SVRyQW5vcElta2xnd21oVGo2Sm1MNFJlSWpJeVlKcEFhMkhKOWcycDNHSVhGeERMV1FFMEh2ZVBHZG1OY05Odw?oc=5",
       "source_domain": "https://www.mediapost.com",
       "description": "Intuit Puts Its $690 Million U.S. Media Account In Review 07/09/2026 MediaPost",
-      "first_seen": "2026-09-27"
-    },
-    {
-      "id": "5d8a0f392605cd96",
-      "type": "perplexity",
-      "title": "Dave & Buster\u2019s \u2014 Creative and Media Agency Review",
-      "issuer": "Review",
-      "posted": "",
-      "deadline": "",
-      "url": "https://finance.yahoo.com/media-advertising/articles/dave-busters-taps-gut-mediaplus-130000476.html",
-      "source_domain": "https://finance.yahoo.com/media-advertising/articles/dave-busters-taps-gut-mediaplus-130000476.html",
-      "description": "Dave & Buster\u2019s \u2014 Creative and Media Agency Review - Issuer/brand: Dave & Buster\u2019s, a US-based dining and entertainment chain. - Review scope: Creative agency of record and media agency of record, including brand strategy, creative development, social, influencer marketing, media strategy, planning, and buying. - Timeline: The review began in spring 2026. However, the search concluded with appointments of GUT for creative and Mediaplus for media,",
       "first_seen": "2026-09-27"
     },
     {
@@ -2892,18 +2928,6 @@
       "source_domain": "https://rfpplanet.com/mktg-2633/advertising-marketing-digital-services",
       "description": "Advertising, Marketing, Digital Services \u2014 Wisconsin government listing - Issuing organization: Government entity in Wisconsin - What is being sought: Advertising, marketing, and digital services, including billboard, newspaper, radio, social media, SEO, OTT/connected TV, targeted video pre-roll, audience extension/display ads, and app/browser placements - Deadline: September 15, 2026 - Estimated value: Not stated in the available result - Postin",
       "first_seen": "2026-09-05"
-    },
-    {
-      "id": "ada7bfc0a3924c2f",
-      "type": "perplexity",
-      "title": "Southwest Wisconsin Technical College \u2014 Advertising, Marketing, Digital Services",
-      "issuer": "** Southwest Wisconsin Technical College, WI",
-      "posted": "",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/2627-12-advertising-marketing-digital-services",
-      "source_domain": "https://starbridge.ai/rfp/2627-12-advertising-marketing-digital-services",
-      "description": "Southwest Wisconsin Technical College \u2014 Advertising, Marketing, Digital Services - Issuing organization: Southwest Wisconsin Technical College, WI - What is being sought: Advertising, marketing, and digital services, including billboards, newspaper, radio, social media, SEO, OTT/CTV, pre-roll, and display placements. - Deadline: September 15, 2026 - Estimated value: Not stated in the posting I found. - Status: Open - Direct link: Opportunity post",
-      "first_seen": "2026-09-04"
     }
   ]
 }
