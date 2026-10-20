@@ -2,6 +2,18 @@
   "generated": "2026-10-20",
   "rfps": [
     {
+      "id": "568f779277c2f619",
+      "type": "perplexity",
+      "title": "advertising, marketing, or creative-services opportunities",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://oregonbuys.gov/bso/external/bidDetail.sda?docId=S-580100-00018205&external=true",
+      "source_domain": "https://oregonbuys.gov/bso/external/bidDetail.sda?docId=S-580100-00018205&external=true",
+      "description": "No qualifying opportunities can be verified from the available results. The search results do not provide enough information to confirm that the listed solicitations are advertising, marketing, or creative-services opportunities with active 2026 deadlines. The Oregon result identifies only a solicitation number and date, without a searchable description of the requested services. The City of Linden notice concerns general professional-service con",
+      "first_seen": "2026-10-20"
+    },
+    {
       "id": "b7e6cdbf81865128",
       "type": "perplexity",
       "title": "active US advertising or marketing RFPs open in May 2026",
@@ -14,18 +26,6 @@
       "first_seen": "2026-10-20"
     },
     {
-      "id": "568f779277c2f619",
-      "type": "perplexity",
-      "title": "active 2026 opportunities",
-      "issuer": "See source",
-      "posted": "",
-      "deadline": "",
-      "url": "https://oregonbuys.gov/bso/external/bidDetail.sda?docId=S-580100-00018205&external=true",
-      "source_domain": "https://oregonbuys.gov/bso/external/bidDetail.sda?docId=S-580100-00018205&external=true",
-      "description": "No qualifying opportunities can be verified from the available search results. The results include one Oregon solicitation, but the available listing does not identify it as an advertising, marketing, or creative-services opportunity. The other clearly identified opportunities concern a U.S. Navy ball valve solicitation, a Chicago Transit Authority docket-management system, and unrelated notices\u2014not advertising or marketing services. Because the",
-      "first_seen": "2026-10-20"
-    },
-    {
       "id": "fe04a0d694db45a4a4611cbd9f5a09f1",
       "type": "gov_federal",
       "title": "Social Media Management Support Services",
@@ -35,6 +35,30 @@
       "url": "https://sam.gov/workspace/contract/opp/fe04a0d694db45a4a4611cbd9f5a09f1/view",
       "source_domain": "",
       "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fe04a0d694db45a4a4611cbd9f5a09f1",
+      "first_seen": "2026-10-20"
+    },
+    {
+      "id": "f96eb46b61c987e2",
+      "type": "perplexity",
+      "title": "San Diego Unified Port District \u2014 As-Needed Creative Agency Services",
+      "issuer": "Services",
+      "posted": "",
+      "deadline": "",
+      "url": "https://craxy.ai/find-rfps/cmv7x5ka700qrzj09y6zrvkku",
+      "source_domain": "https://craxy.ai/find-rfps/cmv7x5ka700qrzj09y6zrvkku",
+      "description": "San Diego Unified Port District \u2014 As-Needed Creative Agency Services - Issuing organization: San Diego Unified Port District, California - What is being sought: Creative agency support for campaign strategy, concepts, branding, design, copywriting, and implementation across five sub-brands. - Review type: Creative and integrated marketing services - Deadline: November 18, 2026; questions due October 26, 2026. - Estimated value: Not stated in the",
+      "first_seen": "2026-10-20"
+    },
+    {
+      "id": "51a3360626b93d19",
+      "type": "perplexity",
+      "title": "May 2026",
+      "issuer": "RFP, issued October 12, 2026, with a November 23, 2026 deadl",
+      "posted": "2026-10-12",
+      "deadline": "",
+      "url": "https://bidbanana.thebidlab.com/closed-bids/marketing-advertising-bids-rfp",
+      "source_domain": "https://bidbanana.thebidlab.com/closed-bids/marketing-advertising-bids-rfp",
+      "description": "No qualifying opportunities can be verified from the available results. The search results do not provide an active, open May 2026 opportunity with enough reliable information to meet all of the requested requirements. The results primarily show opportunities from October\u2013November 2026 or listings explicitly marked closed, including: - South Carolina advertising-production and lottery opportunities that closed May 8, 2026. - California State Lott",
       "first_seen": "2026-10-20"
     },
     {
@@ -52,13 +76,13 @@
     {
       "id": "832ba2f1f4ff1dd9",
       "type": "perplexity",
-      "title": "Louisa County \u2014 Tourism advertising and marketing services",
-      "issuer": "** Louisa County, Virginia, US",
-      "posted": "2026-10-13",
+      "title": "Louisa County \u2014 Tourism Advertising and Marketing Services",
+      "issuer": "** Louisa County, Virginia",
+      "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/rfp-129899-tourism-advertising-and-marketing-services",
       "source_domain": "https://starbridge.ai/rfp/rfp-129899-tourism-advertising-and-marketing-services",
-      "description": "Louisa County \u2014 Tourism advertising and marketing services - Brand/issuer: Louisa County, Virginia, US. - Review type: Advertising and/or full-service marketing services under a competitively negotiated contract. - Timeline: Released October 13, 2026; proposals due November 4, 2026. - Estimated budget: Not disclosed in the available notice. - Source URL: https://starbridge.ai/rfp/rfp-129899-tourism-advertising-and-marketing-services",
+      "description": "Louisa County \u2014 Tourism Advertising and Marketing Services - Issuing organization: Louisa County, Virginia - What is being sought: Advertising and full-service marketing services under one or more contracts. - Review type: Advertising and integrated marketing - Deadline: November 4, 2026. - Estimated value: Not stated. - Source URL: https://starbridge.ai/rfp/rfp-129899-tourism-advertising-and-marketing-services These are public-sector procurement",
       "first_seen": "2026-10-19"
     },
     {
@@ -88,25 +112,25 @@
     {
       "id": "d7336abde4400a95",
       "type": "perplexity",
-      "title": "Palm Desert \u2014 Tourism marketing and creative services",
-      "issuer": "** City of Palm Desert, California, US",
+      "title": "Palm Desert \u2014 Tourism Marketing and Creative Services",
+      "issuer": "** City of Palm Desert, California",
       "posted": "",
       "deadline": "",
       "url": "https://deeprfp.com/opportunities/us-marketing-rfps/",
       "source_domain": "https://deeprfp.com/opportunities/us-marketing-rfps/",
-      "description": "Palm Desert \u2014 Tourism marketing and creative services - Brand/issuer: City of Palm Desert, California, US. - Review type: Integrated destination-marketing agency, including tourism advertising and creative services. - Timeline: The opportunity was marked open when checked October 16, 2026; responses were due October 22, 2026, at 5:00 p.m. Pacific Time. - Estimated budget: Not disclosed in the available notice. - Source URL: https://deeprfp.com/op",
+      "description": "Palm Desert \u2014 Tourism Marketing and Creative Services - Issuing organization: City of Palm Desert, California - What is being sought: Integrated destination marketing, including strategy, creative, media, public relations, social media, email, website marketing, and measurement. - Review type: Creative, media, PR, digital, and integrated marketing - Deadline: October 22, 2026, at 5 p.m. Pacific. - Estimated value: Not stated in the available noti",
       "first_seen": "2026-10-18"
     },
     {
       "id": "012ec7ef7c6f448a",
       "type": "perplexity",
-      "title": "North Carolina Department \u2014 Marketing, Advertising and Public Relations Services",
-      "issuer": "\u2014 Marketing, Advertising and Public Relations Services",
+      "title": "North Carolina Department \u2014 Marketing, Advertising, and Public Relations Services",
+      "issuer": "\u2014 Marketing, Advertising, and Public Relations Services",
       "posted": "",
       "deadline": "",
       "url": "https://rfpplanet.com/mktg-2749/marketing-advertising-and-public-relations",
       "source_domain": "https://rfpplanet.com/mktg-2749/marketing-advertising-and-public-relations",
-      "description": "North Carolina Department \u2014 Marketing, Advertising and Public Relations Services - Issuing organization: A North Carolina state government department, United States. - What is being sought: Full-service marketing, communications, and advertising support, including creative concepts and materials for print, video, internet, direct mail, transit, outdoor, display, television, radio, social media, and other outreach programs. - Deadline: October 27,",
+      "description": "North Carolina Department \u2014 Marketing, Advertising, and Public Relations Services - Issuing organization: A North Carolina government agency - What is being sought: Full-service marketing, communications, and advertising support, including creative concepts, video, internet, direct mail, transit, outdoor, display, television, radio, and social media materials. - Review type: Creative, media, advertising, digital, and PR - Deadline: October 27, 20",
       "first_seen": "2026-10-18"
     },
     {
@@ -148,25 +172,13 @@
     {
       "id": "a5ca33b5d61ed1cc",
       "type": "perplexity",
-      "title": "City of O\u2019Fallon Convention & Visitors Bureau \u2014 Marketing Audit",
-      "issuer": "** City of O\u2019Fallon, Missouri, through the O\u2019Fallon Conventi",
+      "title": "City of O\u2019Fallon \u2014 O\u2019Fallon Convention & Visitors Bureau Marketing Audit",
+      "issuer": "** City of O\u2019Fallon, Missouri",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/city-of-o-fallon-o-fallon-convention-visitors-bureau",
       "source_domain": "https://starbridge.ai/rfp/city-of-o-fallon-o-fallon-convention-visitors-bureau",
-      "description": "City of O\u2019Fallon Convention & Visitors Bureau \u2014 Marketing Audit - Issuing organization: City of O\u2019Fallon, Missouri, through the O\u2019Fallon Convention & Visitors Bureau, United States. - What is being sought: Convention and visitors bureau marketing audit services. - Deadline: October 22, 2026. - Estimated value: Not stated in the available listing. - Source: (https://starbridge.ai/rfp/city-of-o-fallon-o-fallon-convention-visitors-bureau)",
-      "first_seen": "2026-10-18"
-    },
-    {
-      "id": "8b4075b2fb83f468",
-      "type": "perplexity",
-      "title": "City of Overland Park \u2014 Convention and Tourism Promotion and Destination Marketing",
-      "issuer": "** City of Overland Park, Kansas, United States",
-      "posted": "",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
-      "source_domain": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
-      "description": "City of Overland Park \u2014 Convention and Tourism Promotion and Destination Marketing - Issuing organization: City of Overland Park, Kansas, United States. - What is being sought: Convention and tourism promotion and destination marketing services, including tourism marketing, creative services, advertising, and visitor information center operations. - Deadline: November 13, 2026. - Estimated value: Not stated in the available listing. - Source: (ht",
+      "description": "City of O\u2019Fallon \u2014 O\u2019Fallon Convention & Visitors Bureau Marketing Audit - Issuing organization: City of O\u2019Fallon, Missouri - What is being sought: Marketing audit services for the O\u2019Fallon Convention & Visitors Bureau - Deadline: October 22, 2026 - Estimated value: Not stated in the available notice - Source: (https://starbridge.ai/rfp/city-of-o-fallon-o-fallon-convention-visitors-bureau)",
       "first_seen": "2026-10-18"
     },
     {
@@ -257,12 +269,12 @@
       "id": "4572978f343e6ab3",
       "type": "perplexity",
       "title": "Alaska Railroad Corporation \u2014 Advertising and Marketing Services",
-      "issuer": "** Alaska Railroad Corporation, United States",
+      "issuer": "** Alaska Railroad Corporation",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/advertising-and-marketing-services-request-for-proposals",
       "source_domain": "https://starbridge.ai/rfp/advertising-and-marketing-services-request-for-proposals",
-      "description": "Alaska Railroad Corporation \u2014 Advertising and Marketing Services - Issuing organization: Alaska Railroad Corporation, United States. - What is being sought: Full-service advertising and marketing services. - Deadline: Not stated in the available listing. - Estimated value: Not stated in the available listing. - Source: (https://starbridge.ai/rfp/advertising-and-marketing-services-request-for-proposals)",
+      "description": "Alaska Railroad Corporation \u2014 Advertising and Marketing Services - Issuing organization: Alaska Railroad Corporation - What is being sought: Full-service advertising and marketing services - Deadline: Not stated in the available notice - Estimated value: Not stated in the available notice - Solicitation number: 26-35-214988 - Source: (https://starbridge.ai/rfp/advertising-and-marketing-services-request-for-proposals)",
       "first_seen": "2026-10-17"
     },
     {
@@ -394,7 +406,7 @@
       "deadline": "",
       "url": "https://rfpgo.ai/leads/tourism-marketing-and-creative-services-luafqq",
       "source_domain": "https://rfpgo.ai/leads/tourism-marketing-and-creative-services-luafqq",
-      "description": "City of Palm Desert \u2014 Tourism Marketing and Creative Services - Issuing organization: City of Palm Desert, California. - What is being sought: Tourism marketing and creative services. - Deadline: October 22, 2026, at 5:00 p.m. Pacific Time. - Estimated value: Not stated in the available source. - Source: The opportunity listing gives the Palm Desert deadline and identifies the solicitation as tourism marketing and creative services. Direct source",
+      "description": "City of Palm Desert \u2014 Tourism Marketing and Creative Services - Issuing organization: City of Palm Desert, California - What is being sought: An integrated destination marketing partner covering destination strategy, creative and brand management, media planning and buying, public relations, social media, email, website marketing, economic-development marketing support, and analytics - Deadline: October 22, 2026, at 5:00 p.m. PDT - Estimated valu",
       "first_seen": "2026-10-15"
     },
     {
