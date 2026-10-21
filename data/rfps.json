@@ -1,6 +1,78 @@
 {
-  "generated": "2026-10-20",
+  "generated": "2026-10-21",
   "rfps": [
+    {
+      "id": "42d5be757a416fda",
+      "type": "perplexity",
+      "title": "active U.S. advertising or marketing RFPs open in May 2026",
+      "issuer": "and deadline details",
+      "posted": "",
+      "deadline": "",
+      "url": "https://bidbanana.thebidlab.com/closed-bids/california-marketing-advertising-bids-rfp",
+      "source_domain": "https://bidbanana.thebidlab.com/closed-bids/california-marketing-advertising-bids-rfp",
+      "description": "No qualifying active U.S. advertising or marketing RFPs open in May 2026 can be verified from the available results. The only clearly May 2026 U.S. advertising-related result is already marked closed: Los Angeles County\u2019s \u201c433055 MM Long Beach Authority Bus King Ads,\u201d which closed May 14, 2026. Other results are either closed, outside May 2026, not clearly advertising/marketing solicitations, or lack sufficient issuer and deadline details. Becaus",
+      "first_seen": "2026-10-21"
+    },
+    {
+      "id": "100cb975fdf26b66",
+      "type": "perplexity",
+      "title": "San Diego Unified Port District \u2014 Creative Agency Services",
+      "issuer": "Services",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/advertising-creative-services-t7ty",
+      "source_domain": "https://www.cleat.ai/government/contracts/advertising-creative-services-t7ty",
+      "description": "San Diego Unified Port District \u2014 Creative Agency Services - Issuing organization: San Diego Unified Port District, California - What is being reviewed: As-needed creative agency services - Scope: Strategic planning, campaign concepts, branding, design, copywriting, and campaign implementation for the Port\u2019s five sub-brands - Deadline: November 18, 2026 - Estimated value: Not stated in the available results - Source URL: https://craxy.ai/find-rfp",
+      "first_seen": "2026-10-21"
+    },
+    {
+      "id": "1e7eda088d8fe9a2",
+      "type": "perplexity",
+      "title": "Idaho Issuer \u2014 Creative Services",
+      "issuer": "\u2014 Creative Services",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/advertising-and-media-placement-services-g5mg",
+      "source_domain": "https://www.cleat.ai/government/contracts/advertising-and-media-placement-services-g5mg",
+      "description": "Idaho Issuer \u2014 Creative Services - Issuing organization: Idaho-based public-sector issuer; the available listing does not clearly identify the agency name - What is being reviewed: Creative and marketing services - Scope: Media buying, traditional and nontraditional media creative, social and print assets, SEO, brand review, and strategy collaboration - Deadline: October 20, 2026 - Estimated value: Not stated in the available results - Source URL",
+      "first_seen": "2026-10-21"
+    },
+    {
+      "id": "8b4075b2fb83f468",
+      "type": "perplexity",
+      "title": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion",
+      "issuer": "** City of Overland Park, Kansas",
+      "posted": "",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
+      "source_domain": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
+      "description": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion - Issuing organization: City of Overland Park, Kansas - What is being sought: Convention and tourism promotion and destination marketing services. - Deadline: November 13, 2026 - Estimated value: Not stated - Source: (https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination)",
+      "first_seen": "2026-10-21"
+    },
+    {
+      "id": "b3a831754183ec1a",
+      "type": "perplexity",
+      "title": "City of Boston, Massachusetts \u2014 \u201cSomeone You Know & Love\u201d Campaign Program Evaluation",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.boston.gov/bid-listings/16629901",
+      "source_domain": "https://www.boston.gov/bid-listings/16629901",
+      "description": "City of Boston, Massachusetts \u2014 \u201cSomeone You Know & Love\u201d Campaign Program Evaluation - What is being sought: An evaluation partner for Boston\u2019s multimedia HIV stigma-reduction campaign, including its documentary films, videos, website, social media, educational materials, and community events. - Deadline: The posting shows a closing date of October 16, 2026, at 5:00 p.m.; it is marked Closed, so it is not an active opportunity. - Estimated value",
+      "first_seen": "2026-10-21"
+    },
+    {
+      "id": "2b2f33e3dfd1fd92",
+      "type": "brand_lead",
+      "title": "15 agency reviews to know about: 3M, Duke's Mayo, PepsiCo",
+      "issuer": "Ad Age",
+      "posted": "2026-09-01",
+      "deadline": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGV0VkV6c3FnMmRsNlI1bHNfcGxwbmkwTjdqNU55ajVTSGU0Ylk4QnVaSEo2a1daVkh1clJBNDJhU2dsRTE4Zjk4c1BzekNkM2s5VW53WE9pdENFbDF5dERsNzNTVE9mWW85ZE9ub2VnQlNwd2dIcFFhcF9mdWRQOExXVW85NUlPTnhVcUNvU1NLUXVTZGJlVWtkeDB0TGdORGVvRmNR?oc=5",
+      "source_domain": "https://adage.com",
+      "description": "15 agency reviews to know about: 3M, Duke's Mayo, PepsiCo Ad Age",
+      "first_seen": "2026-10-21"
+    },
     {
       "id": "568f779277c2f619",
       "type": "perplexity",
@@ -38,18 +110,6 @@
       "first_seen": "2026-10-20"
     },
     {
-      "id": "f96eb46b61c987e2",
-      "type": "perplexity",
-      "title": "San Diego Unified Port District \u2014 As-Needed Creative Agency Services",
-      "issuer": "Services",
-      "posted": "",
-      "deadline": "",
-      "url": "https://craxy.ai/find-rfps/cmv7x5ka700qrzj09y6zrvkku",
-      "source_domain": "https://craxy.ai/find-rfps/cmv7x5ka700qrzj09y6zrvkku",
-      "description": "San Diego Unified Port District \u2014 As-Needed Creative Agency Services - Issuing organization: San Diego Unified Port District, California - What is being sought: Creative agency support for campaign strategy, concepts, branding, design, copywriting, and implementation across five sub-brands. - Review type: Creative and integrated marketing services - Deadline: November 18, 2026; questions due October 26, 2026. - Estimated value: Not stated in the",
-      "first_seen": "2026-10-20"
-    },
-    {
       "id": "51a3360626b93d19",
       "type": "perplexity",
       "title": "May 2026",
@@ -59,6 +119,18 @@
       "url": "https://bidbanana.thebidlab.com/closed-bids/marketing-advertising-bids-rfp",
       "source_domain": "https://bidbanana.thebidlab.com/closed-bids/marketing-advertising-bids-rfp",
       "description": "No qualifying opportunities can be verified from the available results. The search results do not provide an active, open May 2026 opportunity with enough reliable information to meet all of the requested requirements. The results primarily show opportunities from October\u2013November 2026 or listings explicitly marked closed, including: - South Carolina advertising-production and lottery opportunities that closed May 8, 2026. - California State Lott",
+      "first_seen": "2026-10-20"
+    },
+    {
+      "id": "f96eb46b61c987e2",
+      "type": "perplexity",
+      "title": "Bay Area Air Quality Management District \u2014 Advertising and Media Placement",
+      "issuer": "** Bay Area Air Quality Management District, California",
+      "posted": "",
+      "deadline": "",
+      "url": "https://craxy.ai/find-rfps/cmv7x5ka700qrzj09y6zrvkku",
+      "source_domain": "https://craxy.ai/find-rfps/cmv7x5ka700qrzj09y6zrvkku",
+      "description": "Bay Area Air Quality Management District \u2014 Advertising and Media Placement - Issuing organization: Bay Area Air Quality Management District, California - What is being reviewed: Advertising, communications, social media, digital promotion, media placement, and survey research - Scope: Campaign support for the \u201cSpare the Air\u201d program, including ad placement and performance reporting - Deadline: November 3, 2026 - Estimated value: Not stated in the",
       "first_seen": "2026-10-20"
     },
     {
@@ -112,25 +184,37 @@
     {
       "id": "d7336abde4400a95",
       "type": "perplexity",
-      "title": "Palm Desert \u2014 Tourism Marketing and Creative Services",
-      "issuer": "** City of Palm Desert, California",
+      "title": "US Patent and Trademark Office \u2014 Social Media and Digital Media Buying",
+      "issuer": "** US Patent and Trademark Office, Department of Commerce",
       "posted": "",
       "deadline": "",
       "url": "https://deeprfp.com/opportunities/us-marketing-rfps/",
       "source_domain": "https://deeprfp.com/opportunities/us-marketing-rfps/",
-      "description": "Palm Desert \u2014 Tourism Marketing and Creative Services - Issuing organization: City of Palm Desert, California - What is being sought: Integrated destination marketing, including strategy, creative, media, public relations, social media, email, website marketing, and measurement. - Review type: Creative, media, PR, digital, and integrated marketing - Deadline: October 22, 2026, at 5 p.m. Pacific. - Estimated value: Not stated in the available noti",
+      "description": "US Patent and Trademark Office \u2014 Social Media and Digital Media Buying - Issuing organization: US Patent and Trademark Office, Department of Commerce - What is being reviewed: Social media campaign execution and digital media buying - Scope: Public-awareness campaign strategy, content scheduling, paid digital placements, and engagement tracking - Deadline: November 6, 2026 - Estimated value: Not stated in the available results - Source URL: https",
       "first_seen": "2026-10-18"
     },
     {
       "id": "012ec7ef7c6f448a",
       "type": "perplexity",
-      "title": "North Carolina Department \u2014 Marketing, Advertising, and Public Relations Services",
-      "issuer": "\u2014 Marketing, Advertising, and Public Relations Services",
+      "title": "North Carolina Government Agency \u2014 Marketing, Advertising and Public Relations",
+      "issuer": "\u2014 Marketing, Advertising and Public Relations",
       "posted": "",
       "deadline": "",
       "url": "https://rfpplanet.com/mktg-2749/marketing-advertising-and-public-relations",
       "source_domain": "https://rfpplanet.com/mktg-2749/marketing-advertising-and-public-relations",
-      "description": "North Carolina Department \u2014 Marketing, Advertising, and Public Relations Services - Issuing organization: A North Carolina government agency - What is being sought: Full-service marketing, communications, and advertising support, including creative concepts, video, internet, direct mail, transit, outdoor, display, television, radio, and social media materials. - Review type: Creative, media, advertising, digital, and PR - Deadline: October 27, 20",
+      "description": "North Carolina Government Agency \u2014 Marketing, Advertising and Public Relations - Issuing organization: A government agency in North Carolina; the available listing does not identify the agency by name. - What is being sought: Full-service marketing, communications, and advertising support for marketing, outreach, and education programs. - Deadline: October 27, 2026 - Estimated value: Not stated - Source: (https://rfpplanet.com/mktg-2749/marketing",
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "b13c0ffdeb548490",
+      "type": "perplexity",
+      "title": "Minnesota State Lottery \u2014 Full-Service Advertising Agency",
+      "issuer": "- **Issuing organization:** Minnesota State Lottery",
+      "posted": "",
+      "deadline": "",
+      "url": "https://civiciq.com/public-rfp/city-of-montgomery-strategic-marketing-communications-creative-and-media-services-rfp-2026",
+      "source_domain": "https://civiciq.com/public-rfp/city-of-montgomery-strategic-marketing-communications-creative-and-media-services-rfp-2026",
+      "description": "Minnesota State Lottery \u2014 Full-Service Advertising Agency - Issuing organization: Minnesota State Lottery - What is being reviewed: Full-service advertising services - Scope: Advertising and branding intended to expand the lottery\u2019s player base, including reaching new players - Deadline: November 20, 2026 - Estimated value: Not stated in the available results - Source URL: https://starbridge.ai/rfp/rfp-advertising-agency-services-dated-9-29-26",
       "first_seen": "2026-10-18"
     },
     {
@@ -172,25 +256,13 @@
     {
       "id": "a5ca33b5d61ed1cc",
       "type": "perplexity",
-      "title": "City of O\u2019Fallon \u2014 O\u2019Fallon Convention & Visitors Bureau Marketing Audit",
+      "title": "City of O\u2019Fallon, Missouri \u2014 O\u2019Fallon Convention & Visitors Bureau",
       "issuer": "** City of O\u2019Fallon, Missouri",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/city-of-o-fallon-o-fallon-convention-visitors-bureau",
       "source_domain": "https://starbridge.ai/rfp/city-of-o-fallon-o-fallon-convention-visitors-bureau",
-      "description": "City of O\u2019Fallon \u2014 O\u2019Fallon Convention & Visitors Bureau Marketing Audit - Issuing organization: City of O\u2019Fallon, Missouri - What is being sought: Marketing audit services for the O\u2019Fallon Convention & Visitors Bureau - Deadline: October 22, 2026 - Estimated value: Not stated in the available notice - Source: (https://starbridge.ai/rfp/city-of-o-fallon-o-fallon-convention-visitors-bureau)",
-      "first_seen": "2026-10-18"
-    },
-    {
-      "id": "b13c0ffdeb548490",
-      "type": "perplexity",
-      "title": "City of Montgomery, Alabama \u2014 Strategic marketing, communications, creative, and media",
-      "issuer": "** City of Montgomery, Alabama, United States",
-      "posted": "",
-      "deadline": "",
-      "url": "https://civiciq.com/public-rfp/city-of-montgomery-strategic-marketing-communications-creative-and-media-services-rfp-2026",
-      "source_domain": "https://civiciq.com/public-rfp/city-of-montgomery-strategic-marketing-communications-creative-and-media-services-rfp-2026",
-      "description": "City of Montgomery, Alabama \u2014 Strategic marketing, communications, creative, and media - Issuing organization: City of Montgomery, Alabama, United States. - What is being sought: A full-service partner for strategic communications, campaign development, brand strategy, creative production, media planning and buying, audience targeting, public-information support, analytics, and project management. - Review type: Integrated marketing, creative, me",
+      "description": "City of O\u2019Fallon, Missouri \u2014 O\u2019Fallon Convention & Visitors Bureau - Issuing organization: City of O\u2019Fallon, Missouri - What is being sought: A marketing audit for the O\u2019Fallon Convention & Visitors Bureau. - Deadline: October 22, 2026 - Estimated value: Not stated - Source: (https://starbridge.ai/rfp/city-of-o-fallon-o-fallon-convention-visitors-bureau)",
       "first_seen": "2026-10-18"
     },
     {
@@ -274,7 +346,7 @@
       "deadline": "",
       "url": "https://starbridge.ai/rfp/advertising-and-marketing-services-request-for-proposals",
       "source_domain": "https://starbridge.ai/rfp/advertising-and-marketing-services-request-for-proposals",
-      "description": "Alaska Railroad Corporation \u2014 Advertising and Marketing Services - Issuing organization: Alaska Railroad Corporation - What is being sought: Full-service advertising and marketing services - Deadline: Not stated in the available notice - Estimated value: Not stated in the available notice - Solicitation number: 26-35-214988 - Source: (https://starbridge.ai/rfp/advertising-and-marketing-services-request-for-proposals)",
+      "description": "Alaska Railroad Corporation \u2014 Advertising and Marketing Services - Issuing organization: Alaska Railroad Corporation - What is being sought: Full-service advertising and marketing services. - Deadline: Not shown in the available result - Estimated value: Not stated - Source: (https://starbridge.ai/rfp/advertising-and-marketing-services-request-for-proposals)",
       "first_seen": "2026-10-17"
     },
     {
@@ -311,18 +383,6 @@
       "url": "https://sam.gov/opp/e655fbb2b14841939ee543b96e392d82/view",
       "source_domain": "https://sam.gov/opp/e655fbb2b14841939ee543b96e392d82/view",
       "description": "J4 2026 Event Production Services - Issuing organization: Not identifiable from the available result - What is being sought: Event production services; the available snippet does not establish that this is an advertising, marketing, or creative-services procurement - Deadline: Not shown in the available result - Estimated value: Not shown - Status: Active federal contract opportunity, but it does not meet the requested state/local-government and",
-      "first_seen": "2026-10-16"
-    },
-    {
-      "id": "1a5e5afdba708785",
-      "type": "perplexity",
-      "title": "Humann / SuperBeets \u2014 completed review, not currently open",
-      "issuer": "search",
-      "posted": "",
-      "deadline": "2026-11-20",
-      "url": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
-      "source_domain": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
-      "description": "Humann / SuperBeets \u2014 completed review, not currently open - Brand: Humann, maker of SuperBeets - Review type: Creative agency search - Result: WorkInProgress was selected as the first creative agency of record. - Timeline: Four-week process; reported October 13, 2026. - Estimated budget: Not reported; finalist agencies received $15,000 stipends. - Status: Exclude because the search is complete. The available results do show active 2026 US public",
       "first_seen": "2026-10-16"
     },
     {
@@ -371,6 +431,18 @@
       "url": "https://starbridge.ai/rfp/comprehensive-marketing-and-advertising-services-4",
       "source_domain": "https://starbridge.ai/rfp/comprehensive-marketing-and-advertising-services-4",
       "description": "Excluded: Kentucky Tourism, Arts and Heritage Cabinet - Issuing organization: Kentucky Finance and Administration Cabinet, on behalf of the Tourism, Arts and Heritage Cabinet - What was sought: Comprehensive tourism marketing and advertising services, including creative, media planning and placement, digital, television, radio, video, out-of-home, paid social, research, and multimedia production. - Deadline: October 9, 2026 - Status: Excluded bec",
+      "first_seen": "2026-10-16"
+    },
+    {
+      "id": "1a5e5afdba708785",
+      "type": "perplexity",
+      "title": "California Lottery \u2014 Hispanic Marketing and Advertising Agency",
+      "issuer": "- **Issuing organization:** California Lottery, State of Cal",
+      "posted": "",
+      "deadline": "",
+      "url": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
+      "source_domain": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
+      "description": "California Lottery \u2014 Hispanic Marketing and Advertising Agency - Issuing organization: California Lottery, State of California - What is being reviewed: Hispanic marketing and advertising agency services - Scope: Hispanic-market strategy, advertising, and related marketing services - Deadline: November 23, 2026, at 3:00 p.m. Pacific time - Estimated value: Approximately $40 million in maximum expenditure authority over an initial five-year term,",
       "first_seen": "2026-10-16"
     },
     {
@@ -688,13 +760,13 @@
     {
       "id": "bb6525be91c27add",
       "type": "perplexity",
-      "title": "Minnesota Lottery \u2014 Advertising Agency Services",
-      "issuer": "Services",
+      "title": "Minnesota Government Agency \u2014 Advertising Agency Services",
+      "issuer": "\u2014 Advertising Agency Services",
       "posted": "",
       "deadline": "",
       "url": "https://rfpplanet.com/mktg-2726/advertising-agency-services",
       "source_domain": "https://rfpplanet.com/mktg-2726/advertising-agency-services",
-      "description": "Minnesota Lottery \u2014 Advertising Agency Services - Issuing organization: Minnesota State Lottery, Minnesota, United States. - What is being sought: An advertising agency to market and sell lottery products, including creative development, media planning and buying, public relations, sponsorship evaluation, sales promotions, research, social media, and marketing partnerships. - Deadline: November 20, 2026. - Estimated value: Not stated in the avail",
+      "description": "Minnesota Government Agency \u2014 Advertising Agency Services - Issuing organization: A government agency in Minnesota; the available listing does not identify the agency by name. - What is being sought: Advertising agency services to market gaming-related products and experiences, with messaging emphasizing support for environmental and community programs. - Deadline: November 20, 2026 - Estimated value: Not stated - Contract term: Two years - Sourc",
       "first_seen": "2026-10-09"
     },
     {
@@ -754,7 +826,7 @@
       "deadline": "",
       "url": "https://rfpplanet.com/mktg-2722/advertising-and-marketing-services",
       "source_domain": "https://rfpplanet.com/mktg-2722/advertising-and-marketing-services",
-      "description": "Alaska Government Agency \u2014 Advertising and Marketing Services - Issuing organization: A government agency in Alaska, US; the available listing does not identify the agency by name. - What is being sought: Full-service advertising and marketing support, including campaign research, planning, creative development, print, broadcast, digital and social media, analytics, brochures, signage, onboard materials, and promotional items. - Deadline: October",
+      "description": "Alaska Government Agency \u2014 Advertising and Marketing Services - Issuing organization: A government agency in Alaska; the available listing does not identify the agency by name. - What is being sought: Full-service advertising and marketing support, including campaign research, planning, creative development, traditional and digital media, social media, analytics, tracking, collateral, and promotional materials. - Deadline: October 27, 2026 - Esti",
       "first_seen": "2026-10-08"
     },
     {
@@ -2844,102 +2916,6 @@
       "source_domain": "https://rfpplanet.com/mktg-2576/strategic-communications-and-media-buying",
       "description": "Colorado government authority \u2014 Strategic Communications and Media Buying Agency Services - Issuer: Government authority in Colorado, USA - What is being sought: Strategic communications and media buying agency services, including research, media planning/buying/monitoring, campaign toolkit development, and evaluation. - Timeline: Posted August 14, 2026; questions due August 21, 2026; proposals due August 28, 2026. - Estimated value: Not stated i",
       "first_seen": "2026-09-06"
-    },
-    {
-      "id": "19e56bebf280f798",
-      "type": "perplexity",
-      "title": "University of Texas at Austin \u2014 Digital Campaign Execution & Email Marketing",
-      "issuer": "** University of Texas at Austin",
-      "posted": "2026-08-24",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/digital-campaign-execution-and-email-marketing-718y",
-      "source_domain": "https://www.cleat.ai/government/contracts/digital-campaign-execution-and-email-marketing-718y",
-      "description": "University of Texas at Austin \u2014 Digital Campaign Execution & Email Marketing - Issuing organization: University of Texas at Austin - What is being sought: Digital fundraising campaign execution, email marketing, online donation pages, and social media promotion - Deadline: September 24, 2026 - Estimated value: Not stated in the material gathered - Direct URL: Not available from the gathered source excerpt - Source: The listing says the solicitati",
-      "first_seen": "2026-09-05"
-    },
-    {
-      "id": "f0e7dd1217de6314",
-      "type": "perplexity",
-      "title": "Southwest Wisconsin Technical College \u2013 Student Athlete Marketing Services RFP",
-      "issuer": "** **Southwest Wisconsin Technical College**, Wisconsin, Uni",
-      "posted": "",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/student-athlete-marketing-services-rfp",
-      "source_domain": "https://starbridge.ai/rfp/student-athlete-marketing-services-rfp",
-      "description": "Southwest Wisconsin Technical College \u2013 Student Athlete Marketing Services RFP - Issuing organization: Southwest Wisconsin Technical College, Wisconsin, United States - What is being sought: The college is seeking a full\u2011service advertising, marketing, and digital services partner to provide student\u2011athlete marketing services across nine service categories supporting broad advertising, marketing, and digital needs. - Deadline: - Solicitation open",
-      "first_seen": "2026-09-05"
-    },
-    {
-      "id": "56f37940638b27ea",
-      "type": "perplexity",
-      "title": "Southwest Regional Recreation Authority (Spearhead Trails), VA \u2013 Tourism Photography & Videography for Marketing",
-      "issuer": "** Southwest Regional Recreation Authority (SRRA), operating",
-      "posted": "2026-08-17",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/rfp-72-professional-photography-and-videography-services",
-      "source_domain": "https://starbridge.ai/rfp/rfp-72-professional-photography-and-videography-services",
-      "description": "Southwest Regional Recreation Authority (Spearhead Trails), VA \u2013 Tourism Photography & Videography for Marketing - Issuing organization: Southwest Regional Recreation Authority (SRRA), operating as Spearhead Trails, Southwest Virginia, USA - What is being sought: SRRA seeks professional photography and videography services to develop a high\u2011quality library of tourism\u2011focused photo and video assets showcasing six Spearhead Trails projects in South",
-      "first_seen": "2026-09-05"
-    },
-    {
-      "id": "8555b8b1a7ec75d2",
-      "type": "perplexity",
-      "title": "Limits of the 2026 search results for other sectors",
-      "issuer": "rankings are **not brand-side reviews or active pitches**; t",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.adweek.com/fastest-growing-agencies/2026/",
-      "source_domain": "https://www.adweek.com/fastest-growing-agencies/2026/",
-      "description": "Limits of the 2026 search results for other sectors You asked about 2026 reviews in casino/gaming, CPG, food & beverage, retail, financial services, healthcare, and automotive. Across the 2026 results that were retrieved: - Items like \u201cBest branding agencies in USA for 2026,\u201d \u201cFastest growing agencies,\u201d and various 2026 agency rankings are not brand-side reviews or active pitches; they are editorial lists of agencies. - Digital marketing agency p",
-      "first_seen": "2026-09-05"
-    },
-    {
-      "id": "d239034334e9aaf6",
-      "type": "perplexity",
-      "title": "Houston\u2013Galveston Area Council (Texas) \u2013 Media Buying and Advertising Placement (RFP\u2011TRN26\u201113)",
-      "issuer": "** Houston\u2013Galveston Area Council (H-GAC), Texas",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/media-buying-and-advertising-placement-ts7z",
-      "source_domain": "https://www.cleat.ai/government/contracts/media-buying-and-advertising-placement-ts7z",
-      "description": "Houston\u2013Galveston Area Council (Texas) \u2013 Media Buying and Advertising Placement (RFP\u2011TRN26\u201113) - Issuing organization: Houston\u2013Galveston Area Council (H-GAC), Texas - What is being sought: - A subcontractor for media buying and advertising placement under transportation-related solicitation RFP\u2011TRN26\u201113. - NAICS code 541850 (Outdoor Advertising), but description indicates broader media buying and placement services. - Deadline: - Responses due Se",
-      "first_seen": "2026-09-05"
-    },
-    {
-      "id": "2135e2531fdc605b",
-      "type": "perplexity",
-      "title": "Hillsborough Area Regional Transit Authority (HART), FL \u2013 Consolidated Transit Advertising Program",
-      "issuer": "** Hillsborough Area Regional Transit Authority (HART), a sp",
-      "posted": "",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/consolidated-transit-advertising-program",
-      "source_domain": "https://starbridge.ai/rfp/consolidated-transit-advertising-program",
-      "description": "Hillsborough Area Regional Transit Authority (HART), FL \u2013 Consolidated Transit Advertising Program - Issuing organization: Hillsborough Area Regional Transit Authority (HART), a special district in Florida, US. - What is being sought: A Consolidated Transit Advertising Program, which involves selling and managing advertising across the transit system (transit advertising services). - Deadline: September 24, 2026 (noted as \u201cSep 24, 2026 (3 days le",
-      "first_seen": "2026-09-05"
-    },
-    {
-      "id": "d9e520aaee5c1305",
-      "type": "perplexity",
-      "title": "Dane County Regional Airport \u2014 Marketing and Advertising Services",
-      "issuer": "** Dane County / Dane County Regional Airport",
-      "posted": "",
-      "deadline": "",
-      "url": "https://bidscopeai.com/opportunities/2372fddf-f7bb-4033-8abf-d78095de7861",
-      "source_domain": "https://bidscopeai.com/opportunities/2372fddf-f7bb-4033-8abf-d78095de7861",
-      "description": "Dane County Regional Airport \u2014 Marketing and Advertising Services - Issuing organization: Dane County / Dane County Regional Airport - What is being sought: An agency of record / primary marketing partner for on-call marketing and advertising services, including creative development, media buying, social media, market research, and video/audio production. - Deadline: September 25, 2026 at 2:00 PM - Estimated value: Not stated in the available res",
-      "first_seen": "2026-09-05"
-    },
-    {
-      "id": "28be265d09eb83b6",
-      "type": "perplexity",
-      "title": "Advertising, Marketing, Digital Services \u2014 Wisconsin government listing",
-      "issuer": "** Government entity in Wisconsin",
-      "posted": "",
-      "deadline": "",
-      "url": "https://rfpplanet.com/mktg-2633/advertising-marketing-digital-services",
-      "source_domain": "https://rfpplanet.com/mktg-2633/advertising-marketing-digital-services",
-      "description": "Advertising, Marketing, Digital Services \u2014 Wisconsin government listing - Issuing organization: Government entity in Wisconsin - What is being sought: Advertising, marketing, and digital services, including billboard, newspaper, radio, social media, SEO, OTT/connected TV, targeted video pre-roll, audience extension/display ads, and app/browser placements - Deadline: September 15, 2026 - Estimated value: Not stated in the available result - Postin",
-      "first_seen": "2026-09-05"
     }
   ]
 }
