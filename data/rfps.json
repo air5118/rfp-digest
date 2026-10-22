@@ -74,6 +74,18 @@
       "first_seen": "2026-10-21"
     },
     {
+      "id": "b3a831754183ec1a",
+      "type": "perplexity",
+      "title": "Closed",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.boston.gov/bid-listings/16629901",
+      "source_domain": "https://www.boston.gov/bid-listings/16629901",
+      "description": "No qualifying opportunities can be confirmed from the available results. The search results contain several US government postings, but the potentially relevant items are either closed, not clearly advertising/marketing solicitations, or lack enough detail to verify an active 2026 opportunity: - Boston\u2019s \u201cSomeone You Know & Love Campaign Program Evaluation\u201d is explicitly marked Closed, so it is excluded. - Worcester\u2019s public-health communications",
+      "first_seen": "2026-10-21"
+    },
+    {
       "id": "8b4075b2fb83f468",
       "type": "perplexity",
       "title": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion",
@@ -83,18 +95,6 @@
       "url": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
       "source_domain": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
       "description": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion - Issuing organization: City of Overland Park, Kansas - What is being sought: Convention and tourism promotion and destination marketing services. - Deadline: November 13, 2026 - Estimated value: Not stated - Source: (https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination)",
-      "first_seen": "2026-10-21"
-    },
-    {
-      "id": "b3a831754183ec1a",
-      "type": "perplexity",
-      "title": "City of Boston, Massachusetts \u2014 \u201cSomeone You Know & Love\u201d Campaign Program Evaluation",
-      "issuer": "See source",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.boston.gov/bid-listings/16629901",
-      "source_domain": "https://www.boston.gov/bid-listings/16629901",
-      "description": "City of Boston, Massachusetts \u2014 \u201cSomeone You Know & Love\u201d Campaign Program Evaluation - What is being sought: An evaluation partner for Boston\u2019s multimedia HIV stigma-reduction campaign, including its documentary films, videos, website, social media, educational materials, and community events. - Deadline: The posting shows a closing date of October 16, 2026, at 5:00 p.m.; it is marked Closed, so it is not an active opportunity. - Estimated value",
       "first_seen": "2026-10-21"
     },
     {
@@ -172,13 +172,13 @@
     {
       "id": "832ba2f1f4ff1dd9",
       "type": "perplexity",
-      "title": "Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services",
-      "issuer": "** Louisa County, Virginia, United States",
+      "title": "City of Overland Park Convention and Tourism Promotion Services",
+      "issuer": "** City of Overland Park, Kansas",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/rfp-129899-tourism-advertising-and-marketing-services",
       "source_domain": "https://starbridge.ai/rfp/rfp-129899-tourism-advertising-and-marketing-services",
-      "description": "Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services - Issuing organization: Louisa County, Virginia, United States. - What is being sought: One or more qualified firms to provide advertising and/or full-service marketing services under competitively negotiated contracts. - Deadline: November 4, 2026. - Estimated value: Not stated in the available listing. - Source: Starbridge procurement listing. Direct source: https://starbridge",
+      "description": "City of Overland Park Convention and Tourism Promotion Services - Issuing organization: City of Overland Park, Kansas. - What is being sought: Convention and tourism promotion and destination-marketing services. - Deadline: November 13, 2026. - Estimated value: Not stated in the available notice. - Status: Open RFP. - Source: [Overland Park RFP listing](https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination)",
       "first_seen": "2026-10-19"
     },
     {
@@ -206,18 +206,6 @@
       "first_seen": "2026-10-19"
     },
     {
-      "id": "d7336abde4400a95",
-      "type": "perplexity",
-      "title": "Palm Desert, California \u2014 Tourism Marketing and Creative Services",
-      "issuer": "** City of Palm Desert, California",
-      "posted": "",
-      "deadline": "",
-      "url": "https://deeprfp.com/opportunities/us-marketing-rfps/",
-      "source_domain": "https://deeprfp.com/opportunities/us-marketing-rfps/",
-      "description": "Palm Desert, California \u2014 Tourism Marketing and Creative Services - Issuing organization: City of Palm Desert, California. - What is being sought: An integrated destination-marketing agency to provide tourism strategy, creative, media, public relations, social media, email, website marketing, and measurement. - Deadline: October 22, 2026, at 5:00 p.m. Pacific Time. - Estimated value: Not stated in the available source. - Source: DeepRFP opportuni",
-      "first_seen": "2026-10-18"
-    },
-    {
       "id": "012ec7ef7c6f448a",
       "type": "perplexity",
       "title": "North Carolina State Agency \u2014 Marketing, Advertising and Public Relations Services",
@@ -239,6 +227,18 @@
       "url": "https://starbridge.ai/rfp/minnesota-lottery-request-for-proposals",
       "source_domain": "https://starbridge.ai/rfp/minnesota-lottery-request-for-proposals",
       "description": "Minnesota Lottery \u2014 Advertising and Marketing Services - Issuing organization: Minnesota State Lottery, Minnesota, US. - What is being sought: An advertising agency to provide account management, creative services, and media planning/buying. - Deadline: November 20, 2026. - Estimated value: Not stated in the available source. - Source:",
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "d7336abde4400a95",
+      "type": "perplexity",
+      "title": "Louisa County Tourism Advertising and Marketing Services",
+      "issuer": "** Louisa County, Virginia",
+      "posted": "",
+      "deadline": "",
+      "url": "https://deeprfp.com/opportunities/us-marketing-rfps/",
+      "source_domain": "https://deeprfp.com/opportunities/us-marketing-rfps/",
+      "description": "Louisa County Tourism Advertising and Marketing Services - Issuing organization: Louisa County, Virginia. - What is being sought: Advertising and full-service marketing services, including print, digital, broadcast, direct mail, out-of-home advertising, creative services, analytics, and reporting. - Deadline: November 4, 2026, at 3:30 p.m. local time. - Estimated value: Not stated in the available notice. - Status: Active/open solicitation OT-27-",
       "first_seen": "2026-10-18"
     },
     {
@@ -401,12 +401,12 @@
       "id": "1a5e5afdba708785",
       "type": "perplexity",
       "title": "Humann / SuperBeets",
-      "issuer": "See source",
+      "issuer": "search",
       "posted": "",
       "deadline": "",
       "url": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
       "source_domain": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
-      "description": "Humann / SuperBeets - Issuer/brand: Humann, maker of SuperBeets, a US supplement brand. - Review: Creative agency-of-record search. - Status/timeline: The review concluded in 2026; WorkInProgress was selected after a four-week process conducted by Humann\u2019s media agency, Eden Collective. - Estimated value: Not disclosed. Finalists reportedly received a $15,000 stipend. - Source: Ad Age reports the completed review and selection, so this is not cur",
+      "description": "Humann / SuperBeets - Issuing organization/brand: Humann, the U.S. supplement brand known for SuperBeets. - Review type: Creative agency search. - Outcome: WorkInProgress was selected as the first creative agency of record. - Timeline: The four-week review concluded in 2026. - Estimated budget: Not disclosed; finalist agencies reportedly received a $15,000 stipend. - Status: Closed\u2014not an active opportunity. The available results do not provide v",
       "first_seen": "2026-10-16"
     },
     {
@@ -506,18 +506,6 @@
       "first_seen": "2026-10-14"
     },
     {
-      "id": "0dbedfa8fcb7f944",
-      "type": "perplexity",
-      "title": "Utah Valley Convention Center \u2014 Marketing and Promotional Services",
-      "issuer": "** Utah Valley Convention Center, Utah",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/marketing-and-promotional-services-0kf7",
-      "source_domain": "https://www.cleat.ai/government/contracts/marketing-and-promotional-services-0kf7",
-      "description": "Utah Valley Convention Center \u2014 Marketing and Promotional Services - Issuing organization: Utah Valley Convention Center, Utah. - What is being sought: Marketing and promotional services to attract national and regional events, coordinate with hospitality partners and Explore Utah Valley, increase regional spending and hotel room nights, and provide performance reporting. - Deadline: November 9, 2026, at 10:00 p.m. UTC. - Estimated value: Not sta",
-      "first_seen": "2026-10-14"
-    },
-    {
       "id": "b6f6de1308ea865b",
       "type": "perplexity",
       "title": "September\u2013November 2026 deadlines",
@@ -527,6 +515,18 @@
       "url": "https://www.governmentcontracts.us/government-contracts/opportunity-details/92915760005513285.htm?searchText=management",
       "source_domain": "https://www.governmentcontracts.us/government-contracts/opportunity-details/92915760005513285.htm?searchText=management",
       "description": "No qualifying opportunities can be verified from the available results. The search results primarily show opportunities with September\u2013November 2026 deadlines, not opportunities open in May 2026. The only May 2026 result is for Tennessee facilities-management services, which is not an advertising or marketing procurement. Other results are either outside the requested May window, expired, or lack sufficient evidence of a May 2026 deadline. Accord",
+      "first_seen": "2026-10-14"
+    },
+    {
+      "id": "0dbedfa8fcb7f944",
+      "type": "perplexity",
+      "title": "Minnesota Gaming Advertising Agency Services",
+      "issuer": "Services",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/marketing-and-promotional-services-0kf7",
+      "source_domain": "https://www.cleat.ai/government/contracts/marketing-and-promotional-services-0kf7",
+      "description": "Minnesota Gaming Advertising Agency Services - Issuing organization: Minnesota government agency; the available listing describes a state gaming-related procurement. - What is being sought: Advertising-agency services to market and sell gaming products while promoting their contribution to environmental and community programs. - Deadline: November 20, 2026. - Estimated value: Not stated in the available notice. - Status: Listed as an open RFP, so",
       "first_seen": "2026-10-14"
     },
     {
@@ -998,18 +998,6 @@
       "first_seen": "2026-10-05"
     },
     {
-      "id": "1cfabfe27a391c29",
-      "type": "perplexity",
-      "title": "Dave & Buster\u2019s",
-      "issuer": "review",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.mediapost.com/publications/article/418302/dave-busters-appoints-new-media-creative-agenc.html",
-      "source_domain": "https://www.mediapost.com/publications/article/418302/dave-busters-appoints-new-media-creative-agenc.html",
-      "description": "Dave & Buster\u2019s - Issuing organization/brand: Dave & Buster\u2019s, a US-based restaurant and entertainment chain. - Review type: Creative and media agency review. The company selected Gut as its creative agency of record and Mediaplus as its media agency of record after a formal review. Gut\u2019s remit includes brand strategy, creative development, social media, and influencer work; Mediaplus is responsible for national and local-market media strategy. -",
-      "first_seen": "2026-10-05"
-    },
-    {
       "id": "d13b2a0b1654788d",
       "type": "perplexity",
       "title": "open in May 2026",
@@ -1408,13 +1396,13 @@
     {
       "id": "5d8a0f392605cd96",
       "type": "perplexity",
-      "title": "Dave & Buster\u2019s \u2014 Completed 2026 Agency Review",
-      "issuer": "Review",
+      "title": "Dave & Buster\u2019s",
+      "issuer": "review",
       "posted": "",
       "deadline": "",
       "url": "https://finance.yahoo.com/media-advertising/articles/dave-busters-taps-gut-mediaplus-130000476.html",
       "source_domain": "https://finance.yahoo.com/media-advertising/articles/dave-busters-taps-gut-mediaplus-130000476.html",
-      "description": "Dave & Buster\u2019s \u2014 Completed 2026 Agency Review - Brand: Dave & Buster\u2019s. - What was reviewed: Creative, brand strategy, social and influencer work, and media. - Timeline: The review began in spring 2026 and concluded in September 2026; GUT was appointed creative agency of record and Mediaplus media agency of record. - Estimated budget: Not disclosed. - Status: Not currently open\u2014included only as a documented 2026 major-brand review, not an active",
+      "description": "Dave & Buster\u2019s - Issuing organization/brand: Dave & Buster\u2019s, a U.S. dining and entertainment company. - Review type: Creative and media agency review. - Outcome: GUT was appointed creative agency of record for brand strategy, creative, social, and influencer work; Mediaplus was appointed media agency of record. - Timeline: Review began in spring 2026 and concluded in September 2026; agencies were scheduled to begin October 1, 2026. - Estimated",
       "first_seen": "2026-09-27"
     },
     {
