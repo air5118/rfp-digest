@@ -1,17 +1,29 @@
 {
-  "generated": "2026-10-23",
+  "generated": "2026-10-24",
   "rfps": [
     {
-      "id": "3564e6ef6d7b7c94",
+      "id": "4db19dc144ea2e24",
       "type": "perplexity",
-      "title": "October 2026",
-      "issuer": "of Transportation \u2014 \u201cMarketing, Advertising and Public Relat",
-      "posted": "2026-10-13",
+      "title": "active US advertising or marketing RFPs open in May 2026",
+      "issuer": "Contracts:** listed as closed, with a May 1, 2026 deadline",
+      "posted": "",
       "deadline": "",
-      "url": "https://www.louisacounty.gov/bids.aspx?bidID=307&PRINT=YES",
-      "source_domain": "https://www.louisacounty.gov/bids.aspx?bidID=307&PRINT=YES",
-      "description": "No qualifying opportunities can be verified from the available results. The search results show US opportunities, but they are dated October 2026, not opportunities open in May 2026. Because the request requires active, non-expired opportunities specifically open during May 2026, none can be included without risking inaccurate or noncompliant listings. The available results include: - Louisa County, Virginia \u2014 \u201cTourism Advertising and Marketing S",
-      "first_seen": "2026-10-23"
+      "url": "https://govtribe.com/category/unspsc/82101800-advertising-agency-services",
+      "source_domain": "https://govtribe.com/category/unspsc/82101800-advertising-agency-services",
+      "description": "No verifiable active US advertising or marketing RFPs open in May 2026 can be identified from the available results. The search results show several US opportunities from 2026, but they do not meet the requirement of being open in May: - Utah Tech University \u2014 Virtual Tour Platform and Content Development Services: listed as closed, with a May 21, 2026 deadline. - University of Maryland \u2014 RFP_00032948TTR_UMD OMC_Media: listed as closed, with a Ma",
+      "first_seen": "2026-10-24"
+    },
+    {
+      "id": "5a0874542219d9a8",
+      "type": "perplexity",
+      "title": "Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services",
+      "issuer": "** Louisa County, Virginia, United States",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/tourism-advertising-and-marketing-services-ot-27-01-4q9q",
+      "source_domain": "https://www.cleat.ai/government/contracts/tourism-advertising-and-marketing-services-ot-27-01-4q9q",
+      "description": "Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services - Issuing organization: Louisa County, Virginia, United States. - What is being sought: Advertising and full-service marketing, including print, digital, broadcast, direct-mail, out-of-home advertising, creative services, and analytics. - Deadline: November 4, 2026, at 3:30 p.m. local time. - Estimated value: Not stated in the available notice. - Source: (https://www.cleat.ai/go",
+      "first_seen": "2026-10-24"
     },
     {
       "id": "72e88bed4edc0a00",
@@ -23,6 +35,18 @@
       "url": "https://starbridge.ai/rfp/request-for-proposal-54-ss-3260077-marketing-advertising",
       "source_domain": "https://starbridge.ai/rfp/request-for-proposal-54-ss-3260077-marketing-advertising",
       "description": "North Carolina Department of Transportation \u2014 Marketing, Advertising, and Public Relations Services - Issuing organization: North Carolina Department of Transportation. - What is being sought: Full-service marketing, communications, advertising, outreach, and education-program support. - Deadline: October 27, 2026. - Estimated value: Not stated in the available notice. - Source: (https://starbridge.ai/rfp/request-for-proposal-54-ss-3260077-market",
+      "first_seen": "2026-10-23"
+    },
+    {
+      "id": "3564e6ef6d7b7c94",
+      "type": "perplexity",
+      "title": "Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services",
+      "issuer": "** Louisa County, Virginia",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.louisacounty.gov/bids.aspx?bidID=307&PRINT=YES",
+      "source_domain": "https://www.louisacounty.gov/bids.aspx?bidID=307&PRINT=YES",
+      "description": "Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services - Issuing organization: Louisa County, Virginia - What is being sought: Qualified firms to provide tourism advertising and/or full-service marketing. The county may establish a pool of multiple contractors; logo redesign and rebranding are excluded. - Deadline: November 4, 2026, at 3:30 p.m. - Estimated value: Not stated in the posting. - Direct RFP posting: [Louisa County bid p",
       "first_seen": "2026-10-23"
     },
     {
@@ -46,7 +70,7 @@
       "deadline": "",
       "url": "https://starbridge.ai/rfp/26-042-1210-tourism-marketing-services",
       "source_domain": "https://starbridge.ai/rfp/26-042-1210-tourism-marketing-services",
-      "description": "La Plata County, Colorado \u2014 Tourism Marketing Services - Issuing organization: La Plata County Board of County Commissioners, Colorado, through the County Procurement Division. - What is being sought: Comprehensive tourism marketing services. - Deadline: November 19, 2026, at 10:00 a.m. Mountain Standard Time; questions are due November 13, 2026. - Estimated value: Not stated in the available notice. - Source: Starbridge bid notice - Direct sourc",
+      "description": "La Plata County, Colorado \u2014 Tourism Marketing Services - Issuing organization: La Plata County Board of County Commissioners, Colorado, United States. - What is being sought: Comprehensive tourism marketing services from qualified contractors. - Deadline: November 19, 2026, at 10:00 a.m. Mountain Standard Time; questions are due November 13, 2026. - Estimated value: Not stated in the available notice. - Source: (https://starbridge.ai/rfp/26-042-1",
       "first_seen": "2026-10-23"
     },
     {
@@ -160,13 +184,13 @@
     {
       "id": "8b4075b2fb83f468",
       "type": "perplexity",
-      "title": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion",
-      "issuer": "** City of Overland Park, Kansas",
+      "title": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion and Destination Marketing",
+      "issuer": "** City of Overland Park, Kansas, United States",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
       "source_domain": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
-      "description": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion - Issuing organization: City of Overland Park, Kansas - What is being sought: Convention and tourism promotion and destination marketing services. - Deadline: November 13, 2026 - Estimated value: Not stated - Source: (https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination)",
+      "description": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion and Destination Marketing - Issuing organization: City of Overland Park, Kansas, United States. - What is being sought: Convention and tourism promotion, destination marketing, tourism advertising, and visitor information center operations. - Deadline: November 13, 2026. - Estimated value: Not stated in the available notice. - Source: (https://starbridge.ai/rfp/convention-and-touris",
       "first_seen": "2026-10-21"
     },
     {
@@ -292,13 +316,13 @@
     {
       "id": "012ec7ef7c6f448a",
       "type": "perplexity",
-      "title": "North Carolina State Agency \u2014 Marketing, Advertising and Public Relations Services",
+      "title": "North Carolina Public Agency \u2014 Marketing, Advertising and Public Relations Services",
       "issuer": "\u2014 Marketing, Advertising and Public Relations Services",
       "posted": "",
       "deadline": "",
       "url": "https://rfpplanet.com/mktg-2749/marketing-advertising-and-public-relations",
       "source_domain": "https://rfpplanet.com/mktg-2749/marketing-advertising-and-public-relations",
-      "description": "North Carolina State Agency \u2014 Marketing, Advertising and Public Relations Services - Issuing organization: A North Carolina government agency; the supplied listing does not identify the agency by name. - What is being reviewed: Full-service marketing, advertising, communications, creative production, media planning and buying, campaign strategy, video and audio production, collateral, digital advertising, television, radio, direct mail, transit,",
+      "description": "North Carolina Public Agency \u2014 Marketing, Advertising and Public Relations Services - Issuing organization: A public agency in North Carolina, United States; the available listing does not identify the agency by name. - What is being sought: Full-service marketing, communications, advertising, outreach, and education-program support. - Deadline: October 27, 2026. - Estimated value: Not stated in the available notice. - Source: (https://rfpplanet.",
       "first_seen": "2026-10-18"
     },
     {
@@ -376,13 +400,13 @@
     {
       "id": "d13a8d6acb7ddaa4",
       "type": "perplexity",
-      "title": "California State Lottery Commission \u2014 Hispanic marketing and advertising agency",
-      "issuer": "- **Brand/issuer:** California State Lottery Commission, Cal",
-      "posted": "2026-10-12",
+      "title": "California State Lottery \u2014 Hispanic Marketing and Advertising Agency RFP",
+      "issuer": "See source",
+      "posted": "",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/r005664-hispanic-marketing-and-advertising-agency-rfp-e9qk",
       "source_domain": "https://www.cleat.ai/government/contracts/r005664-hispanic-marketing-and-advertising-agency-rfp-e9qk",
-      "description": "California State Lottery Commission \u2014 Hispanic marketing and advertising agency - Brand/issuer: California State Lottery Commission, California, US. - Review type: Hispanic-market advertising and marketing agency; the selected agency would support awareness, brand perception, and sales among California\u2019s Hispanic consumers, replacing the current Hispanic agency partner. - Timeline: Issued October 12, 2026; proposals due November 23, 2026, at 3:00",
+      "description": "California State Lottery \u2014 Hispanic Marketing and Advertising Agency RFP - Issuing organization: California State Lottery, California, United States. - What is being sought: A strategic marketing and advertising agency serving the California Hispanic consumer market, including culturally relevant creative, integrated marketing plans, media strategy, research, analytics, and production. - Deadline: November 23, 2026, at 11:00 p.m. UTC. - Estimated",
       "first_seen": "2026-10-18"
     },
     {
@@ -742,7 +766,7 @@
       "deadline": "",
       "url": "https://linden-nj.gov/notices/notice-to-bidders-10/",
       "source_domain": "https://linden-nj.gov/notices/notice-to-bidders-10/",
-      "description": "City of Linden, New Jersey \u2014 Municipal Marketing Services - Issuing organization: City of Linden, New Jersey - What is being sought: Municipal marketing services under a professional-services qualification process - Deadline: November 6, 2026, at 10:00 a.m. - Estimated value: Not stated - Status: The notice says solicitations are available through the City\u2019s eProcurement portal, but the available result does not provide a dedicated RFP posting or",
+      "description": "City of Linden, New Jersey \u2014 Municipal Marketing Services - Issuing organization: City of Linden, New Jersey - What is being sought: Professional municipal marketing services beginning January 1, 2027. The notice states that solicitation documents and submissions are handled through the city\u2019s eProcurement portal. - Deadline: November 6, 2026, at 10:00 a.m. - Estimated value: Not stated in the notice. - Direct posting: [City of Linden notice to b",
       "first_seen": "2026-10-11"
     },
     {
@@ -1442,18 +1466,6 @@
       "first_seen": "2026-09-28"
     },
     {
-      "id": "5d8a0f392605cd96",
-      "type": "perplexity",
-      "title": "active, open 2026 US advertising or marketing opportunity",
-      "issuer": "of record and Mediaplus as media agency of record",
-      "posted": "",
-      "deadline": "",
-      "url": "https://finance.yahoo.com/media-advertising/articles/dave-busters-taps-gut-mediaplus-130000476.html",
-      "source_domain": "https://finance.yahoo.com/media-advertising/articles/dave-busters-taps-gut-mediaplus-130000476.html",
-      "description": "No qualifying active, open 2026 US advertising or marketing opportunity can be confirmed from the available results. The only clearly US-based brand review identified was Dave & Buster\u2019s, but it is not active: the company completed its 2026 review and appointed GUT as creative agency of record and Mediaplus as media agency of record. The review began in spring 2026 and concluded before the September announcement.",
-      "first_seen": "2026-09-27"
-    },
-    {
       "id": "cd6a78c1f25a4060",
       "type": "perplexity",
       "title": "Why no opportunities are listed",
@@ -1475,6 +1487,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVJTWFRMSElwUHJJLVdxWWlCbXRJOXZDVnRKX0ZrbWk5bW1fLXlxWjRyVWEyclA3RzUybUE4eHdOTS1zTUVzcDZ2VkFYazA4RlRYRWlfeVZUQll6QlUwMzFidlhXUnlnQ2M2SVRyQW5vcElta2xnd21oVGo2Sm1MNFJlSWpJeVlKcEFhMkhKOWcycDNHSVhGeERMV1FFMEh2ZVBHZG1OY05Odw?oc=5",
       "source_domain": "https://www.mediapost.com",
       "description": "Intuit Puts Its $690 Million U.S. Media Account In Review 07/09/2026 MediaPost",
+      "first_seen": "2026-09-27"
+    },
+    {
+      "id": "5d8a0f392605cd96",
+      "type": "perplexity",
+      "title": "Dave & Buster\u2019s",
+      "issuer": "review**",
+      "posted": "",
+      "deadline": "",
+      "url": "https://finance.yahoo.com/media-advertising/articles/dave-busters-taps-gut-mediaplus-130000476.html",
+      "source_domain": "https://finance.yahoo.com/media-advertising/articles/dave-busters-taps-gut-mediaplus-130000476.html",
+      "description": "Dave & Buster\u2019s - Issuing organization/brand: Dave & Buster\u2019s, a US-based dining and entertainment company. - Review type: Combined creative and media agency review. The search covered brand strategy, creative development, social, influencer marketing, media strategy, planning, and buying. - Timeline: The review began in spring 2026 and concluded in September 2026. Dave & Buster\u2019s appointed GUT as creative agency of record and Mediaplus as media",
       "first_seen": "2026-09-27"
     },
     {
@@ -2676,102 +2700,6 @@
       "source_domain": "https://rfpplanet.com/mktg-2649/advertising-marketing-and-event-planning-s",
       "description": "Advertising, Marketing and Event Planning Services \u2014 Massachusetts government listing - Issuing organization: Government entity in Massachusetts - What is being sought: Advertising, marketing, and event planning services, including web-based/social/emerging media, creative services, marketing services, event planning/support, and integrated marketing services - Deadline: September 14, 2026 - Estimated value: NA in the available result - Posting /",
       "first_seen": "2026-09-09"
-    },
-    {
-      "id": "0e071de71bbcfc39",
-      "type": "perplexity",
-      "title": "rankings and guides to agencies",
-      "issuer": "review news in the search results provided, and I can\u2019t run",
-      "posted": "",
-      "deadline": "",
-      "url": "https://topagencylists.com/best-cpg-marketing-agencies",
-      "source_domain": "https://topagencylists.com/best-cpg-marketing-agencies",
-      "description": "I\u2019m not seeing reliable, up\u2011to\u2011date 2026 brand-specific agency review news in the search results provided, and I can\u2019t run new searches this turn. The results you shared are largely \u201cbest agency\u201d lists and practice articles, not announcements of active reviews or pitches by major US brands. Because of that, I cannot confidently name current 2026 reviews with budgets and timelines without going beyond verifiable information. Given those constraint",
-      "first_seen": "2026-09-08"
-    },
-    {
-      "id": "2684442b89636022",
-      "type": "brand_lead",
-      "title": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released",
-      "issuer": "Help Net Security",
-      "posted": "2026-08-02",
-      "deadline": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdktnNGVJbXl5N21kTGZpWXhlTHRWRlBGXzhheGYydjFvQklXckxTcHNHRlJyblg3bVRweGNGdmhPaG1NSnNPVnl0ZGhlb1JFQUg2ckdSNVRUS29Jb1BfN2lndlJxZHNLdU5XTVF6d0w5R2F4aTJQY1VyYUhidVdMYWpoeU94YTlQTjFvcWVOYlZkaE9xSGJBWTAwVFg3dWR6eG5EOUJpaUtUclJtQW0wWjR1M1RRSWtXMmN5SE5qeWV6Vl9XTlNaZ3JnbjE4bDE2TW0wTg?oc=5",
-      "source_domain": "https://www.helpnetsecurity.com",
-      "description": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released Help Net Security",
-      "first_seen": "2026-09-08"
-    },
-    {
-      "id": "89372c65114511ba",
-      "type": "perplexity",
-      "title": "U.S. Marine Corps \u2013 Perforated Window Film (Indoor & Outdoor Display Advertising)",
-      "issuer": "** U",
-      "posted": "",
-      "deadline": "",
-      "url": "https://discover.govdash.com/solicitations/019ff214-069f-708d-b5c7-3db2202f87fe--perforated-window-film",
-      "source_domain": "https://discover.govdash.com/solicitations/019ff214-069f-708d-b5c7-3db2202f87fe--perforated-window-film",
-      "description": "U.S. Marine Corps \u2013 Perforated Window Film (Indoor & Outdoor Display Advertising) - Issuing organization: U.S. Marine Corps (via SAM.gov listing referenced by an aggregator) - RFP / Solicitation title: Perforated Window Film | Indoor and Outdoor Display Advertising (NAICS 541850 \u2013 Outdoor Advertising) - What is being sought: - Supply and installation of perforated window film for display advertising, covering indoor and outdoor applications at a",
-      "first_seen": "2026-09-08"
-    },
-    {
-      "id": "852319277cf18d24",
-      "type": "perplexity",
-      "title": "Texas Air National Guard \u2013 Billboard Campaign",
-      "issuer": "** **Texas Air National Guard (TXANG)**",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.highergov.com/contract-opportunity/txang-billboard-campaign-w50s76-26-q-a008-k-a050c/",
-      "source_domain": "https://www.highergov.com/contract-opportunity/txang-billboard-campaign-w50s76-26-q-a008-k-a050c/",
-      "description": "Texas Air National Guard \u2013 Billboard Campaign - Issuing organization: Texas Air National Guard (TXANG) - RFP / Solicitation title: TXANG Billboard Campaign \u2013 W50S76\u201126\u2011Q\u2011A008 - What is being sought: - A contractor to develop, procure, and manage a billboard advertising campaign for the Texas Air National Guard. - The snippet shows contact information from a contract\u2011opportunity aggregator and indicates a formal solicitation tied to the 2026 fisca",
-      "first_seen": "2026-09-08"
-    },
-    {
-      "id": "09dcb68f23868951",
-      "type": "perplexity",
-      "title": "Limits of the available 2026 data",
-      "issuer": "See source",
-      "posted": "",
-      "deadline": "",
-      "url": "https://bestinfluencermarketingagencies.com/best/cpg",
-      "source_domain": "https://bestinfluencermarketingagencies.com/best/cpg",
-      "description": "Limits of the available 2026 data - The results we have are rankings and directories of agencies (e.g., CPG performance marketing agencies, influencer agencies, iGaming marketing firms), not brand-led reviews or RFPs. - They describe what agencies are good for and which categories they serve (CPG, food & beverage, automotive, etc.) but do not name specific US brands that are actively in review or pitching in 2026, nor do they provide pitch calend",
-      "first_seen": "2026-09-08"
-    },
-    {
-      "id": "7936f697c65ccc53",
-      "type": "perplexity",
-      "title": "Lexington, Buena Vista & Rockbridge Tourism, Virginia \u2014 Tourism Agency of Record",
-      "issuer": "of Record",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.highergov.com/sl/contract-opportunity/va-rfp-2026-01-lexington-buena-vista-an-73504609/",
-      "source_domain": "https://www.highergov.com/sl/contract-opportunity/va-rfp-2026-01-lexington-buena-vista-an-73504609/",
-      "description": "Lexington, Buena Vista & Rockbridge Tourism, Virginia \u2014 Tourism Agency of Record - Issuing organization: Lexington, Buena Vista & Rockbridge Tourism, Virginia - What is being sought: An agency of record with substantial destination-marketing and visitor-economy experience to provide tourism marketing services. - Deadline: The available search results did not show a confirmed closing date; the anticipated contract was expected to begin in Q4 2026,",
-      "first_seen": "2026-09-08"
-    },
-    {
-      "id": "5b1b86e4af4764bd",
-      "type": "perplexity",
-      "title": "Economic Development Branding & Marketing Program \u2013 Connecticut (Government)",
-      "issuer": "** US government authority in **Connecticut, USA** (economic",
-      "posted": "",
-      "deadline": "",
-      "url": "https://rfpplanet.com/mktg-2625/economic-development-branding-and-marketin",
-      "source_domain": "https://rfpplanet.com/mktg-2625/economic-development-branding-and-marketin",
-      "description": "Economic Development Branding & Marketing Program \u2013 Connecticut (Government) - Issuing organization: US government authority in Connecticut, USA (economic development district) - What is being sought: The RFP is titled \u201cEconomic Development Branding and Marketing Services\u201d and seeks marketing and branding firms to develop and implement a comprehensive economic development branding and marketing program for the district and surrounding areas. Requ",
-      "first_seen": "2026-09-08"
-    },
-    {
-      "id": "2b87d9cea50152c4",
-      "type": "perplexity",
-      "title": "Advertising and Media Buying Services",
-      "issuer": "** U",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.highergov.com/contract-opportunity/advertising-and-media-buying-services-n6426726q5035-k-b6c6d/",
-      "source_domain": "https://www.highergov.com/contract-opportunity/advertising-and-media-buying-services-n6426726q5035-k-b6c6d/",
-      "description": "Advertising and Media Buying Services - Issuing organization: U.S. Navy / NAVSEA / Naval Surface Warfare Centers - What is being sought: Advertising and media buying services for enterprise recruiting, including paid media, digital campaigns, creative development, and campaign management - Deadline: September 11, 2026 - Estimated value: Not stated in the result - URL: https://www.highergov.com/contract-opportunity/advertising-and-media-buying-ser",
-      "first_seen": "2026-09-08"
     }
   ]
 }
