@@ -1,6 +1,66 @@
 {
-  "generated": "2026-10-24",
+  "generated": "2026-10-25",
   "rfps": [
+    {
+      "id": "2684442b89636022",
+      "type": "brand_lead",
+      "title": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released",
+      "issuer": "Help Net Security",
+      "posted": "2026-08-02",
+      "deadline": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdktnNGVJbXl5N21kTGZpWXhlTHRWRlBGXzhheGYydjFvQklXckxTcHNHRlJyblg3bVRweGNGdmhPaG1NSnNPVnl0ZGhlb1JFQUg2ckdSNVRUS29Jb1BfN2lndlJxZHNLdU5XTVF6d0w5R2F4aTJQY1VyYUhidVdMYWpoeU94YTlQTjFvcWVOYlZkaE9xSGJBWTAwVFg3dWR6eG5EOUJpaUtUclJtQW0wWjR1M1RRSWtXMmN5SE5qeWV6Vl9XTlNaZ3JnbjE4bDE2TW0wTg?oc=5",
+      "source_domain": "https://www.helpnetsecurity.com",
+      "description": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released Help Net Security",
+      "first_seen": "2026-10-25"
+    },
+    {
+      "id": "4db19dc144ea2e24",
+      "type": "perplexity",
+      "title": "Maryland Digital Advertising Services \u2014 Expired",
+      "issuer": "** Not identified in the available result",
+      "posted": "",
+      "deadline": "",
+      "url": "https://govtribe.com/category/unspsc/82101800-advertising-agency-services",
+      "source_domain": "https://govtribe.com/category/unspsc/82101800-advertising-agency-services",
+      "description": "Maryland Digital Advertising Services \u2014 Expired - Issuing organization: Not identified in the available result - RFP title: RFP 92284 \u2013 Digital Advertising Services - Deadline: June 10, 2026 - Status: Closed; therefore excluded - Estimated value: Not stated - Direct URL: Not available in the result",
+      "first_seen": "2026-10-25"
+    },
+    {
+      "id": "b389188633a5d77f",
+      "type": "perplexity",
+      "title": "Hawaii Department of Business, Economic Development and Tourism \u2014 Aloha Stadium Swap Meet Marketing",
+      "issuer": "of Business, Economic Development and Tourism \u2014 Aloha Stadiu",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/swap-meet-promotional-and-advertising-agency-a3j1",
+      "source_domain": "https://www.cleat.ai/government/contracts/swap-meet-promotional-and-advertising-agency-a3j1",
+      "description": "Hawaii Department of Business, Economic Development and Tourism \u2014 Aloha Stadium Swap Meet Marketing - Issuing organization: Hawaii Department of Business, Economic Development and Tourism - Seeking: A business entity to manage, coordinate, and market the Aloha Stadium Swap Meet and Marketplace, including digital, social media, traditional media, promotional planning, and performance reporting. - Deadline: November 21, 2026 - Estimated value: Not",
+      "first_seen": "2026-10-25"
+    },
+    {
+      "id": "7e5bf5ff5a4b5087",
+      "type": "perplexity",
+      "title": "City of Ellensburg, Washington \u2014 Tourism Marketing and Advertising",
+      "issuer": "** City of Ellensburg, Washington",
+      "posted": "",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/tourism-marketing-advertising-and-visitor-information-0",
+      "source_domain": "https://starbridge.ai/rfp/tourism-marketing-advertising-and-visitor-information-0",
+      "description": "City of Ellensburg, Washington \u2014 Tourism Marketing and Advertising - Issuing organization: City of Ellensburg, Washington - Seeking: Tourism marketing, advertising, and visitor information center operations. - Deadline: November 2, 2026 - Estimated value: Not stated in the available listing. - Source: (https://starbridge.ai/rfp/tourism-marketing-advertising-and-visitor-information-0)",
+      "first_seen": "2026-10-25"
+    },
+    {
+      "id": "8cc68a3d17de6a26",
+      "type": "perplexity",
+      "title": "Ascension Parish Government, Louisiana \u2014 Sports Marketing and Sponsorship Services",
+      "issuer": "** Ascension Parish Government, Louisiana",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/sports-marketing-and-sponsorship-services-5705",
+      "source_domain": "https://www.cleat.ai/government/contracts/sports-marketing-and-sponsorship-services-5705",
+      "description": "Ascension Parish Government, Louisiana \u2014 Sports Marketing and Sponsorship Services - Issuing organization: Ascension Parish Government, Louisiana - Seeking: Sports marketing and sponsorship services, including commercial advertising packages, field sponsorships, corporate outreach, sponsorship contracts, and advertising-signage installation. - Deadline: November 30, 2026 - Estimated value: Not stated in the available listing. - Source: (https://w",
+      "first_seen": "2026-10-25"
+    },
     {
       "id": "ad17b27beb71ce6a",
       "type": "perplexity",
@@ -50,18 +110,6 @@
       "first_seen": "2026-10-23"
     },
     {
-      "id": "3564e6ef6d7b7c94",
-      "type": "perplexity",
-      "title": "Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services",
-      "issuer": "** Louisa County, Virginia",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.louisacounty.gov/bids.aspx?bidID=307&PRINT=YES",
-      "source_domain": "https://www.louisacounty.gov/bids.aspx?bidID=307&PRINT=YES",
-      "description": "Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services - Issuing organization: Louisa County, Virginia - What is being sought: Qualified firms to provide advertising and/or full-service marketing services for the county. The county may establish a pool and make multiple awards; rebranding and logo revision are excluded. - Deadline: November 4, 2026, at 3:30 p.m. - Estimated value: Not stated in the posting. - Direct RFP posting: [Lo",
-      "first_seen": "2026-10-23"
-    },
-    {
       "id": "7facd68d69b6b6ab",
       "type": "perplexity",
       "title": "Louisa County, Virginia \u2014 Out-of-Home Media Placement Specialist",
@@ -74,15 +122,27 @@
       "first_seen": "2026-10-23"
     },
     {
+      "id": "3564e6ef6d7b7c94",
+      "type": "perplexity",
+      "title": "Los Angeles County Bus Advertising \u2014 Expired",
+      "issuer": "** Los Angeles County, California",
+      "posted": "",
+      "deadline": "2026-11-04",
+      "url": "https://www.louisacounty.gov/bids.aspx?bidID=307&PRINT=YES",
+      "source_domain": "https://www.louisacounty.gov/bids.aspx?bidID=307&PRINT=YES",
+      "description": "Los Angeles County Bus Advertising \u2014 Expired - Issuing organization: Los Angeles County, California - RFP title: RFQ-IS-26260729 \u2013 433055 MM Long Beach Authority Bus King Ads - Deadline: May 14, 2026 at 12:00 PM - Status: Closed; therefore excluded - Estimated value: Not stated - Direct URL: Not available in the result The other visible US opportunities are scheduled for October or November 2026, not May\u2014for example, Louisa County\u2019s tourism adver",
+      "first_seen": "2026-10-23"
+    },
+    {
       "id": "46bef4ef73ae7055",
       "type": "perplexity",
       "title": "La Plata County, Colorado \u2014 Tourism Marketing Services",
-      "issuer": "** La Plata County Board of County Commissioners, through th",
+      "issuer": "** La Plata County, Colorado",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/26-042-1210-tourism-marketing-services",
       "source_domain": "https://starbridge.ai/rfp/26-042-1210-tourism-marketing-services",
-      "description": "La Plata County, Colorado \u2014 Tourism Marketing Services - Issuing organization: La Plata County Board of County Commissioners, through the County Procurement Division. - What is being sought: Comprehensive tourism marketing services. - Deadline: November 19, 2026, at 10:00 a.m. MST. Questions are due November 13, 2026. - Estimated value: Not stated in the available source. - Source: (https://starbridge.ai/rfp/26-042-1210-tourism-marketing-services",
+      "description": "La Plata County, Colorado \u2014 Tourism Marketing Services - Issuing organization: La Plata County, Colorado - Seeking: Comprehensive tourism marketing services for the county. - Deadline: November 19, 2026, at 10:00 a.m. Mountain Standard Time - Estimated value: Not stated in the available listing. - Source: (https://starbridge.ai/rfp/26-042-1210-tourism-marketing-services)",
       "first_seen": "2026-10-23"
     },
     {
@@ -196,13 +256,13 @@
     {
       "id": "8b4075b2fb83f468",
       "type": "perplexity",
-      "title": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion and Destination Marketing",
-      "issuer": "** City of Overland Park, Kansas, United States",
+      "title": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion",
+      "issuer": "** City of Overland Park, Kansas",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
       "source_domain": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
-      "description": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion and Destination Marketing - Issuing organization: City of Overland Park, Kansas, United States. - What is being sought: Convention and tourism promotion, destination marketing, tourism advertising, and visitor information center operations. - Deadline: November 13, 2026. - Estimated value: Not stated in the available notice. - Source: (https://starbridge.ai/rfp/convention-and-touris",
+      "description": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion - Issuing organization: City of Overland Park, Kansas - Seeking: Convention and tourism promotion and destination marketing services. - Deadline: November 13, 2026 - Estimated value: Not stated in the available listing. - Source: (https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination)",
       "first_seen": "2026-10-21"
     },
     {
@@ -298,7 +358,7 @@
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/rfp-ftb-2627-00432-caleitc-advertising-campaign-718u",
       "source_domain": "https://www.cleat.ai/government/contracts/rfp-ftb-2627-00432-caleitc-advertising-campaign-718u",
-      "description": "California Franchise Tax Board \u2014 CalEITC Advertising Campaign - Issuing organization: California Franchise Tax Board. - What is being sought: Creative design and digital advertising services for the California Earned Income Tax Credit advertising campaign under RFP FTB-2627-00432. - Deadline: The available notice does not clearly state a closing deadline. - Estimated value: Not stated in the available notice. - Source: CLEATUS contract summary -",
+      "description": "California Franchise Tax Board \u2014 CalEITC Advertising Campaign - Issuing organization: California Franchise Tax Board - Seeking: Creative design and digital advertising services for a California Earned Income Tax Credit advertising campaign. - Deadline: December 31, 2026, at 11:00 p.m. UTC - Estimated value: Not stated in the available listing. - Source: (https://www.cleat.ai/government/contracts/rfp-ftb-2627-00432-caleitc-advertising-campaign-718",
       "first_seen": "2026-10-19"
     },
     {
@@ -412,13 +472,13 @@
     {
       "id": "d13a8d6acb7ddaa4",
       "type": "perplexity",
-      "title": "California State Lottery \u2014 Hispanic Marketing and Advertising Agency RFP",
-      "issuer": "See source",
+      "title": "California State Lottery \u2014 Hispanic Marketing and Advertising Agency",
+      "issuer": "- **Issuing organization:** California State Lottery, Califo",
       "posted": "",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/r005664-hispanic-marketing-and-advertising-agency-rfp-e9qk",
       "source_domain": "https://www.cleat.ai/government/contracts/r005664-hispanic-marketing-and-advertising-agency-rfp-e9qk",
-      "description": "California State Lottery \u2014 Hispanic Marketing and Advertising Agency RFP - Issuing organization: California State Lottery, California, United States. - What is being sought: A strategic marketing and advertising agency serving the California Hispanic consumer market, including culturally relevant creative, integrated marketing plans, media strategy, research, analytics, and production. - Deadline: November 23, 2026, at 11:00 p.m. UTC. - Estimated",
+      "description": "California State Lottery \u2014 Hispanic Marketing and Advertising Agency - Issuing organization: California State Lottery, California - Seeking: A strategic marketing and advertising agency serving the California Hispanic consumer market, including culturally relevant creative, integrated marketing plans, media strategy, research, and analytics. - Deadline: November 23, 2026, at 11:00 p.m. UTC - Estimated value: Approximately $40 million in maximum e",
       "first_seen": "2026-10-18"
     },
     {
@@ -614,6 +674,18 @@
       "first_seen": "2026-10-14"
     },
     {
+      "id": "0dbedfa8fcb7f944",
+      "type": "perplexity",
+      "title": "Utah Valley Convention Center \u2014 Marketing and Promotional Services",
+      "issuer": "** Utah Valley Convention Center-related procurement in Utah",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cleat.ai/government/contracts/marketing-and-promotional-services-0kf7",
+      "source_domain": "https://www.cleat.ai/government/contracts/marketing-and-promotional-services-0kf7",
+      "description": "Utah Valley Convention Center \u2014 Marketing and Promotional Services - Issuing organization: Utah Valley Convention Center-related procurement in Utah - Seeking: Strategic marketing and promotional campaigns to attract national and regional events, coordinate with hospitality stakeholders, and increase regional spending and hotel room nights. - Deadline: November 9, 2026 - Estimated value: Not stated in the available listing. - Source: (https://www",
+      "first_seen": "2026-10-14"
+    },
+    {
       "id": "b6f6de1308ea865b",
       "type": "perplexity",
       "title": "September\u2013November 2026 deadlines",
@@ -623,18 +695,6 @@
       "url": "https://www.governmentcontracts.us/government-contracts/opportunity-details/92915760005513285.htm?searchText=management",
       "source_domain": "https://www.governmentcontracts.us/government-contracts/opportunity-details/92915760005513285.htm?searchText=management",
       "description": "No qualifying opportunities can be verified from the available results. The search results primarily show opportunities with September\u2013November 2026 deadlines, not opportunities open in May 2026. The only May 2026 result is for Tennessee facilities-management services, which is not an advertising or marketing procurement. Other results are either outside the requested May window, expired, or lack sufficient evidence of a May 2026 deadline. Accord",
-      "first_seen": "2026-10-14"
-    },
-    {
-      "id": "0dbedfa8fcb7f944",
-      "type": "perplexity",
-      "title": "Minnesota Gaming Advertising Agency Services",
-      "issuer": "Services",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/marketing-and-promotional-services-0kf7",
-      "source_domain": "https://www.cleat.ai/government/contracts/marketing-and-promotional-services-0kf7",
-      "description": "Minnesota Gaming Advertising Agency Services - Issuing organization: Minnesota government agency; the available listing describes a state gaming-related procurement. - What is being sought: Advertising-agency services to market and sell gaming products while promoting their contribution to environmental and community programs. - Deadline: November 20, 2026. - Estimated value: Not stated in the available notice. - Status: Listed as an open RFP, so",
       "first_seen": "2026-10-14"
     },
     {
@@ -2604,114 +2664,6 @@
       "source_domain": "https://adage.com",
       "description": "8 agency reviews to know about: Uber, Mattel, Popeyes, Intuit, Subway Ad Age",
       "first_seen": "2026-09-10"
-    },
-    {
-      "id": "d26d515a97334b5e",
-      "type": "perplexity",
-      "title": "no specific 2026 brand-side announcements",
-      "issuer": "reviews identified across casino/gaming, CPG, food & beverag",
-      "posted": "",
-      "deadline": "",
-      "url": "https://everything-pr.com/how-to-write-a-food-and-beverage-pr-rfp-in-2026",
-      "source_domain": "https://everything-pr.com/how-to-write-a-food-and-beverage-pr-rfp-in-2026",
-      "description": "Based on the information available in the prior search results, there were no specific 2026 brand-side announcements of major US advertisers actively conducting advertising, media, or creative agency reviews identified across casino/gaming, CPG, food & beverage, retail, financial services, healthcare, or automotive. The results were largely generic RFP templates, agency lists, and how-to content rather than concrete, named brand reviews. Because",
-      "first_seen": "2026-09-09"
-    },
-    {
-      "id": "ec16e357c33a3cf6",
-      "type": "perplexity",
-      "title": "Transit authorities (advertising, ridership campaigns)",
-      "issuer": "See source",
-      "posted": "",
-      "deadline": "",
-      "url": "http://www.bidsusa.net/Default.cfm?Page=400&BSID=5019624",
-      "source_domain": "http://www.bidsusa.net/Default.cfm?Page=400&BSID=5019624",
-      "description": "5. Transit authorities (advertising, ridership campaigns) The search results show a Tucson bus advertisements/outdoor advertising entry, confirming that US transit agencies procure advertising services. For May 2026 specifically: - Target major US transit authorities: - e.g., LA Metro, New York MTA, Chicago CTA, WMATA (DC), MBTA (Boston), Valley Metro (Phoenix), Sun Tran/Tucson, etc. - Check each authority\u2019s procurement portal and filter by: - Po",
-      "first_seen": "2026-09-09"
-    },
-    {
-      "id": "a6d6b7141fbadb1f",
-      "type": "perplexity",
-      "title": "Texas Government Entity \u2013 Advertising Services (MKTG\u20112621)",
-      "issuer": "** A **Texas government authority** (USA) \u2013 specific agency",
-      "posted": "",
-      "deadline": "",
-      "url": "https://rfpplanet.com/mktg-2621/advertising-services",
-      "source_domain": "https://rfpplanet.com/mktg-2621/advertising-services",
-      "description": "Texas Government Entity \u2013 Advertising Services (MKTG\u20112621) - Issuing organization: A Texas government authority (USA) \u2013 specific agency name not provided in the snippet, but identified as a government entity in Texas, US. - What is being sought: Broad advertising services, including: - Online, newspaper, magazine, television, radio, billboard signage, mobile vehicle advertising, and other media\u2011related advertising methods. - Deadline: - RFP poste",
-      "first_seen": "2026-09-09"
-    },
-    {
-      "id": "e3e749ca16a9d549",
-      "type": "perplexity",
-      "title": "Statewide Fit, Focused and Friendly Marketing Campaign \u2014 North Dakota Department of Health and Human Services",
-      "issuer": "of Health and Human Services",
-      "posted": "",
-      "deadline": "",
-      "url": "https://bidscopeai.com/opportunities/40bb587b-9c87-4811-8c23-af435fde211d",
-      "source_domain": "https://bidscopeai.com/opportunities/40bb587b-9c87-4811-8c23-af435fde211d",
-      "description": "Statewide Fit, Focused and Friendly Marketing Campaign \u2014 North Dakota Department of Health and Human Services - Issuing organization: North Dakota Department of Health and Human Services - What is being sought: A full-service advertising and marketing agency to develop, implement, and evaluate a statewide campaign promoting physical activity, social engagement, and healthy recreation among school-aged children - Deadline: September 9, 2026, 12:00",
-      "first_seen": "2026-09-09"
-    },
-    {
-      "id": "ce36e519461691d2",
-      "type": "perplexity",
-      "title": "State lottery advertising and marketing (US only)",
-      "issuer": "is a US state lottery or state government",
-      "posted": "",
-      "deadline": "",
-      "url": "https://app.govly.com/public/opportunities/16951594",
-      "source_domain": "https://app.govly.com/public/opportunities/16951594",
-      "description": "2. State lottery advertising and marketing (US only) For each lottery, use the state\u2019s official procurement portal (or the lottery\u2019s own RFP page), and filter by posting date in May 2026: - Examples of portals to check: - Virginia eProcurement Marketplace/eVA for Virginia Lottery. - Michigan SIGMA/VSS for Michigan Lottery opportunities (e.g., videographer RFPs are visible in 2026 and show that this is the right system). - Other state lotteries: T",
-      "first_seen": "2026-09-09"
-    },
-    {
-      "id": "033f6c56a06157a5",
-      "type": "perplexity",
-      "title": "Notes on Casino/Gaming, Food/Beverage, Retail, and Consumer Goods Brand RFPs (Private Sector)",
-      "issuer": "RFPs** from **casino/gaming, food/beverage, retail, or consu",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.yogonet.com/international/news/2026/08/20/125996-responsible-online-gaming-association-launches-marketing-and-advertising-code",
-      "source_domain": "https://www.yogonet.com/international/news/2026/08/20/125996-responsible-online-gaming-association-launches-marketing-and-advertising-code",
-      "description": "Notes on Casino/Gaming, Food/Beverage, Retail, and Consumer Goods Brand RFPs (Private Sector) Within the information available: - I did not identify any clearly open, 2026\u2011dated US advertising or marketing agency RFPs from casino/gaming, food/beverage, retail, or consumer goods brands that met all of your conditions (US issuer, US scope, clearly marked as an agency search or advertising/marketing RFP, and still open). - Some industry articles dis",
-      "first_seen": "2026-09-09"
-    },
-    {
-      "id": "55716e836e87fcd7",
-      "type": "brand_lead",
-      "title": "In Review, July 2026: Headline highlights from Sephora, L\u2019Or\u00e9al, P.Louise and more...",
-      "issuer": "TheIndustry.beauty",
-      "posted": "2026-07-31",
-      "deadline": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2xEcXh5UUlUclJVUlhXRGhtTHJSVzdwQS03RjlKWW92U1FkR25ZR3ZNa2Q0U0tPazdFWjhnbWlaeXM2WTVzMUhEc0JXWVUtY1VyUEoyNFdQU29iRkJTRXVfa0tnbDNoRXpqUHZwcDFRU3dMcjFyUmFjRE1fNXo1QUlxam1WWF9QWmFJUXpuWDNQMkh3cXVsOURUakRYWm1sOS1WWG4wcks?oc=5",
-      "source_domain": "https://theindustry.beauty",
-      "description": "In Review, July 2026: Headline highlights from Sephora, L\u2019Or\u00e9al, P.Louise and more... TheIndustry.beauty",
-      "first_seen": "2026-09-09"
-    },
-    {
-      "id": "02fe222bfc878f07",
-      "type": "perplexity",
-      "title": "Convention & Visitors / Tourism DMO Services \u2013 Snohomish County, WA (RFP\u201126\u20110754BC)",
-      "issuer": "** **Snohomish County**, Washington, USA",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/naics/561591?tab=opportunities",
-      "source_domain": "https://www.cleat.ai/government/naics/561591?tab=opportunities",
-      "description": "Convention & Visitors / Tourism DMO Services \u2013 Snohomish County, WA (RFP\u201126\u20110754BC) - Issuing organization: Snohomish County, Washington, USA - What is being sought: Snohomish County is seeking proposals for Destination Marketing Organization (DMO) Services under solicitation number RFP\u201126\u20110754BC. DMO services typically encompass: - Destination branding and tourism promotion - Paid media and advertising campaigns - Digital marketing, content, and",
-      "first_seen": "2026-09-09"
-    },
-    {
-      "id": "403539e1d6109ab1",
-      "type": "perplexity",
-      "title": "Advertising, Marketing and Event Planning Services \u2014 Massachusetts government listing",
-      "issuer": "** Government entity in Massachusetts",
-      "posted": "",
-      "deadline": "",
-      "url": "https://rfpplanet.com/mktg-2649/advertising-marketing-and-event-planning-s",
-      "source_domain": "https://rfpplanet.com/mktg-2649/advertising-marketing-and-event-planning-s",
-      "description": "Advertising, Marketing and Event Planning Services \u2014 Massachusetts government listing - Issuing organization: Government entity in Massachusetts - What is being sought: Advertising, marketing, and event planning services, including web-based/social/emerging media, creative services, marketing services, event planning/support, and integrated marketing services - Deadline: September 14, 2026 - Estimated value: NA in the available result - Posting /",
-      "first_seen": "2026-09-09"
     }
   ]
 }
