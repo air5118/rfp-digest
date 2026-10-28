@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-27",
+  "generated": "2026-10-28",
   "rfps": [
+    {
+      "id": "f1e3987ed76a109e",
+      "type": "perplexity",
+      "title": "US advertising or marketing RFPs with deadlines in May 2026",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://sam.gov/opp/431c055026dfb1d2f68415bb98ba0919/view",
+      "source_domain": "https://sam.gov/opp/431c055026dfb1d2f68415bb98ba0919/view",
+      "description": "No qualifying opportunities can be verified from the available results. The search results do not provide active, open US advertising or marketing RFPs with deadlines in May 2026. The listed opportunities are either: - Closed with May 2026 deadlines, such as Maryland\u2019s media solicitation due May 15, 2026. - Open in later months of 2026, including opportunities due in September, October, or November. - Not clearly advertising or marketing procurem",
+      "first_seen": "2026-10-28"
+    },
+    {
+      "id": "f96eb46b61c987e2",
+      "type": "perplexity",
+      "title": "Port of [California agency] \u2014 As-Needed Creative Agency Services",
+      "issuer": "Services",
+      "posted": "",
+      "deadline": "",
+      "url": "https://craxy.ai/find-rfps/cmv7x5ka700qrzj09y6zrvkku",
+      "source_domain": "https://craxy.ai/find-rfps/cmv7x5ka700qrzj09y6zrvkku",
+      "description": "Port of [California agency] \u2014 As-Needed Creative Agency Services - Issuing organization: A California port authority, United States. - What is being sought: As-needed creative agency, marketing, branding, and strategic-planning services across five sub-brands, including campaign concepts, copywriting, design, and implementation. - Deadline: November 18, 2026. - Estimated value: Not stated in the available source. - Eligibility: Onshore US organiz",
+      "first_seen": "2026-10-28"
+    },
     {
       "id": "5b9637db15cd16d6",
       "type": "brand_lead",
@@ -424,13 +448,13 @@
     {
       "id": "8b4075b2fb83f468",
       "type": "perplexity",
-      "title": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion and Destination Marketing Services",
-      "issuer": "** City of Overland Park, Kansas",
+      "title": "City of Overland Park \u2014 Convention and Tourism Promotion and Destination Marketing",
+      "issuer": "** City of Overland Park, Kansas, United States",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
       "source_domain": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
-      "description": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion and Destination Marketing Services - Issuing organization: City of Overland Park, Kansas. - What is being sought: Convention and tourism promotion, destination marketing, and related services. - Deadline: November 13, 2026. - Estimated value: Not stated in the available listing. - Source: (https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination)",
+      "description": "City of Overland Park \u2014 Convention and Tourism Promotion and Destination Marketing - Issuing organization: City of Overland Park, Kansas, United States. - What is being sought: Convention and tourism promotion and destination marketing services. - Deadline: November 13, 2026. - Estimated value: Not stated. - Source: (https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination)",
       "first_seen": "2026-10-21"
     },
     {
@@ -634,7 +658,7 @@
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/r005664-hispanic-marketing-and-advertising-agency-rfp-e9qk",
       "source_domain": "https://www.cleat.ai/government/contracts/r005664-hispanic-marketing-and-advertising-agency-rfp-e9qk",
-      "description": "California State Lottery \u2014 Hispanic Marketing and Advertising Agency - Issuing organization: California State Lottery, California - Seeking: A strategic marketing and advertising agency serving the California Hispanic consumer market, including culturally relevant creative, integrated marketing plans, media strategy, research, and analytics. - Deadline: November 23, 2026, at 11:00 p.m. UTC - Estimated value: Approximately $40 million in maximum e",
+      "description": "California State Lottery \u2014 Hispanic Marketing and Advertising Agency - Issuing organization: California State Lottery, California, United States. - What is being sought: A strategic marketing and advertising agency serving the California Hispanic consumer market, including culturally relevant creative, integrated marketing plans, media strategy, research, and analytics. - Deadline: November 23, 2026. - Estimated value: Approximately $40 million i",
       "first_seen": "2026-10-18"
     },
     {
@@ -725,12 +749,12 @@
       "id": "1a5e5afdba708785",
       "type": "perplexity",
       "title": "Humann / SuperBeets",
-      "issuer": "** Humann, the US supplement company behind SuperBeets",
+      "issuer": "/ brand:** Humann, the U",
       "posted": "",
       "deadline": "",
       "url": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
       "source_domain": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
-      "description": "Humann / SuperBeets - Issuing organization: Humann, the US supplement company behind SuperBeets. - What was reviewed: A creative agency of record search. The review was run by incumbent media agency Eden Collective and sought a creative partner. - Timeline: A four-week review in 2026; WorkInProgress was selected as the first creative AOR. - Estimated budget: Not disclosed. Finalists reportedly received a $15,000 stipend. - Current status: Closed,",
+      "description": "Humann / SuperBeets - Issuing organization / brand: Humann, the U.S. supplement company behind SuperBeets. - Review type: Creative agency-of-record search; media and strategy were already handled by Eden Collective. - Timeline: A four-week review concluded with WorkInProgress selected as creative AOR. - Estimated budget: Not disclosed; finalist agencies reportedly received a $15,000 stipend. - Status: Closed\u2014not an active opportunity. - Source UR",
       "first_seen": "2026-10-16"
     },
     {
@@ -1178,6 +1202,18 @@
       "first_seen": "2026-10-07"
     },
     {
+      "id": "f9f3d8e098111789",
+      "type": "perplexity",
+      "title": "not clearly an advertising, marketing, or creative-services opportunity",
+      "issuer": "** City of Durham",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.durhamnc.gov/bids.aspx?bidID=2421&PRINT=YES",
+      "source_domain": "https://www.durhamnc.gov/bids.aspx?bidID=2421&PRINT=YES",
+      "description": "No qualifying opportunities were found in the available results. The search surfaced only one potentially relevant US government posting, but it is not clearly an advertising, marketing, or creative-services opportunity: - City of Durham, North Carolina \u2014 SW-112D On-Call Design Services - Issuing organization: City of Durham - What is being sought: On-call design services; the available listing does not establish that the work is advertising or m",
+      "first_seen": "2026-10-06"
+    },
+    {
       "id": "04f9e82ade8bfa20",
       "type": "perplexity",
       "title": "active, open 2026 US advertising-agency reviews, media pitches, or creative searches",
@@ -1235,18 +1271,6 @@
       "url": "https://sam.gov/opp/6794ec103584fc961b86c222a400b7bd/view",
       "source_domain": "https://sam.gov/opp/6794ec103584fc961b86c222a400b7bd/view",
       "description": "City of Minneapolis, Minnesota \u2014 Communications and Marketing Services/TAP - Issuing organization: City of Minneapolis, Minnesota - RFP title: Communications and Marketing Services/TAP - Deadline: October 13, 2026 - Estimated value: Not stated - Status: Not eligible\u2014posted September 18, 2026. - Direct URL: https://www.highergov.com/sl/contract-opportunity/mn-rfp-pw-communications-and-marketing-serv-74212719/",
-      "first_seen": "2026-10-06"
-    },
-    {
-      "id": "f9f3d8e098111789",
-      "type": "perplexity",
-      "title": "City of Durham, North Carolina \u2014 SW-112D On-Call Design Services",
-      "issuer": "** City of Durham, North Carolina",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.durhamnc.gov/bids.aspx?bidID=2421&PRINT=YES",
-      "source_domain": "https://www.durhamnc.gov/bids.aspx?bidID=2421&PRINT=YES",
-      "description": "City of Durham, North Carolina \u2014 SW-112D On-Call Design Services - Issuing organization: City of Durham, North Carolina - What is being sought: On-call design services under RFQ 27-1113. The available posting does not establish that the services are advertising or marketing-related, so this opportunity should be validated against the solicitation documents before pursuing. - Deadline: October 29, 2026, at 4:00 p.m. - Estimated value: Not stated -",
       "first_seen": "2026-10-06"
     },
     {
@@ -1409,12 +1433,12 @@
       "id": "92c2ed9116535954",
       "type": "perplexity",
       "title": "Dave & Buster\u2019s",
-      "issuer": "** Dave & Buster\u2019s, US dining and entertainment company",
+      "issuer": "/ brand:** Dave & Buster\u2019s, a U",
       "posted": "",
       "deadline": "",
       "url": "https://www.marketingdive.com/news/dave-busters-shakes-up-agencies-amid-bid-to-rebuild-brand-relevance/831369/",
       "source_domain": "https://www.marketingdive.com/news/dave-busters-shakes-up-agencies-amid-bid-to-rebuild-brand-relevance/831369/",
-      "description": "Dave & Buster\u2019s - Issuing organization: Dave & Buster\u2019s, US dining and entertainment company - Review type: Creative and media agency-of-record review - Status: Closed; Gut was named creative AOR and Mediaplus media AOR, with duties beginning October 1, 2026. - Deadline: Not applicable\u2014the review had concluded - Estimated value: Not disclosed",
+      "description": "Dave & Buster\u2019s - Issuing organization / brand: Dave & Buster\u2019s, a U.S. dining and entertainment company. - Review type: Creative and media agency-of-record review. The scope covered brand strategy, creative, social, influencer marketing, media planning, buying, guest data, local activation, and measurement. - Timeline: The review began in spring 2026 and concluded in fall 2026; GUT and Mediaplus were appointed effective October 1, 2026. - Estima",
       "first_seen": "2026-10-01"
     },
     {
