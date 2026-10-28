@@ -14,6 +14,18 @@
       "first_seen": "2026-10-28"
     },
     {
+      "id": "f08842e6378953fb",
+      "type": "perplexity",
+      "title": "State of Oregon \u2014 Marketing Services Solicitation",
+      "issuer": "** State of Oregon",
+      "posted": "",
+      "deadline": "",
+      "url": "https://oregonbuys.gov/bso/external/bidDetail.sda?docId=S-580100-00018205",
+      "source_domain": "https://oregonbuys.gov/bso/external/bidDetail.sda?docId=S-580100-00018205",
+      "description": "State of Oregon \u2014 Marketing Services Solicitation - Issuing organization: State of Oregon - What is being sought: The search result identifies an active Oregon state solicitation, but does not provide enough detail to verify that its scope is advertising, marketing, or creative services. - Deadline: October 22, 2026 - Estimated value: Not stated - Direct RFP posting: [OregonBuys solicitation S-580100-00018205](https://oregonbuys.gov/bso/external/",
+      "first_seen": "2026-10-28"
+    },
+    {
       "id": "f96eb46b61c987e2",
       "type": "perplexity",
       "title": "Port of [California agency] \u2014 As-Needed Creative Agency Services",
@@ -23,6 +35,18 @@
       "url": "https://craxy.ai/find-rfps/cmv7x5ka700qrzj09y6zrvkku",
       "source_domain": "https://craxy.ai/find-rfps/cmv7x5ka700qrzj09y6zrvkku",
       "description": "Port of [California agency] \u2014 As-Needed Creative Agency Services - Issuing organization: A California port authority, United States. - What is being sought: As-needed creative agency, marketing, branding, and strategic-planning services across five sub-brands, including campaign concepts, copywriting, design, and implementation. - Deadline: November 18, 2026. - Estimated value: Not stated in the available source. - Eligibility: Onshore US organiz",
+      "first_seen": "2026-10-28"
+    },
+    {
+      "id": "ceae1d5aa8b62e76",
+      "type": "perplexity",
+      "title": "City of Rochester, New York \u2014 Event Production and Management Services",
+      "issuer": "** City of Rochester, New York",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.cityofrochester.gov/departments/bureau-communciations-and-special-events/rfp-professional-services-production-and",
+      "source_domain": "https://www.cityofrochester.gov/departments/bureau-communciations-and-special-events/rfp-professional-services-production-and",
+      "description": "City of Rochester, New York \u2014 Event Production and Management Services - Issuing organization: City of Rochester, New York - What is being sought: Professional services to produce, manage, and execute the Frederick Douglass HBCU Classic Weekend of Hope. The posting is event-focused rather than a conventional advertising or marketing-services RFP. - Deadline: November 4, 2026, at 12:00 p.m. - Estimated value: Not stated - Direct RFP posting: [City",
       "first_seen": "2026-10-28"
     },
     {
@@ -76,13 +100,13 @@
     {
       "id": "5a0874542219d9a8",
       "type": "perplexity",
-      "title": "County of Louisa, Virginia \u2014 Tourism Advertising and Marketing Services",
-      "issuer": "** County of Louisa, Virginia",
+      "title": "County of Louisa \u2014 Tourism Advertising and Marketing Services",
+      "issuer": "** County of Louisa, Virginia, United States",
       "posted": "",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/tourism-advertising-and-marketing-services-ot-27-01-4q9q",
       "source_domain": "https://www.cleat.ai/government/contracts/tourism-advertising-and-marketing-services-ot-27-01-4q9q",
-      "description": "County of Louisa, Virginia \u2014 Tourism Advertising and Marketing Services - Issuing organization: County of Louisa, Virginia. - What is being sought: Advertising and full-service marketing, including print, digital, broadcast, direct-mail, out-of-home, creative, and analytics services. - Deadline: November 4, 2026, at 3:30 p.m. local time. - Estimated value: Not stated in the available listing. - Source: (https://www.cleat.ai/government/contracts/t",
+      "description": "County of Louisa \u2014 Tourism Advertising and Marketing Services - Issuing organization: County of Louisa, Virginia, United States. - What is being sought: A pool of qualified firms to provide tourism advertising and full-service marketing, including print, digital, broadcast, direct mail, out-of-home advertising, creative services, and analytics. - Deadline: November 4, 2026, at 3:30 p.m. local time. - Estimated value: Not stated in the available l",
       "first_seen": "2026-10-27"
     },
     {
@@ -182,18 +206,6 @@
       "first_seen": "2026-10-26"
     },
     {
-      "id": "4db19dc144ea2e24",
-      "type": "perplexity",
-      "title": "active U.S. advertising or marketing RFPs open in May 2026",
-      "issuer": "Services \u2014 Utah:** Closed March 28, 2026, so it is not open",
-      "posted": "",
-      "deadline": "",
-      "url": "https://govtribe.com/category/unspsc/82101800-advertising-agency-services",
-      "source_domain": "https://govtribe.com/category/unspsc/82101800-advertising-agency-services",
-      "description": "No verifiable active U.S. advertising or marketing RFPs open in May 2026 can be identified from the available results. The results show either expired opportunities, dates outside May 2026, or insufficient solicitation details: - Tourism Marketing Agency Services \u2014 Utah: Closed March 28, 2026, so it is not open in May. - California advertising campaign: The result identifies an RFP but does not provide a May 2026 deadline or enough information to",
-      "first_seen": "2026-10-25"
-    },
-    {
       "id": "2684442b89636022",
       "type": "brand_lead",
       "title": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released",
@@ -256,13 +268,13 @@
     {
       "id": "8cc68a3d17de6a26",
       "type": "perplexity",
-      "title": "Ascension Parish Government, Louisiana \u2014 Sports Marketing and Sponsorship Services",
-      "issuer": "** Ascension Parish Government, Louisiana",
+      "title": "Ascension Parish Government \u2014 Sports Marketing and Sponsorship Services",
+      "issuer": "** Ascension Parish Government, Louisiana, United States",
       "posted": "",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/sports-marketing-and-sponsorship-services-5705",
       "source_domain": "https://www.cleat.ai/government/contracts/sports-marketing-and-sponsorship-services-5705",
-      "description": "Ascension Parish Government, Louisiana \u2014 Sports Marketing and Sponsorship Services - Issuing organization: Ascension Parish Government, Louisiana - Seeking: Sports marketing and sponsorship services, including commercial advertising packages, field sponsorships, corporate outreach, sponsorship contracts, and advertising-signage installation. - Deadline: November 30, 2026 - Estimated value: Not stated in the available listing. - Source: (https://w",
+      "description": "Ascension Parish Government \u2014 Sports Marketing and Sponsorship Services - Issuing organization: Ascension Parish Government, Louisiana, United States. - What is being sought: Sports marketing and sponsorship services, including generating commercial advertising revenue, securing facility sponsorships, developing advertising packages, conducting corporate outreach, and managing signage installation. - Deadline: November 30, 2026. - Estimated value",
       "first_seen": "2026-10-25"
     },
     {
@@ -448,13 +460,13 @@
     {
       "id": "8b4075b2fb83f468",
       "type": "perplexity",
-      "title": "City of Overland Park \u2014 Convention and Tourism Promotion and Destination Marketing",
+      "title": "City of Overland Park \u2014 Convention and Tourism Promotion and Destination Marketing Services",
       "issuer": "** City of Overland Park, Kansas, United States",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
       "source_domain": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
-      "description": "City of Overland Park \u2014 Convention and Tourism Promotion and Destination Marketing - Issuing organization: City of Overland Park, Kansas, United States. - What is being sought: Convention and tourism promotion and destination marketing services. - Deadline: November 13, 2026. - Estimated value: Not stated. - Source: (https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination)",
+      "description": "City of Overland Park \u2014 Convention and Tourism Promotion and Destination Marketing Services - Issuing organization: City of Overland Park, Kansas, United States. - What is being sought: Convention and tourism promotion and destination marketing services for the city. - Deadline: November 13, 2026. - Estimated value: Not stated in the available listing. - Direct source: [Starbridge opportunity page](https://starbridge.ai/rfp/convention-and-tourism",
       "first_seen": "2026-10-21"
     },
     {
@@ -533,12 +545,12 @@
       "id": "6a508c9ceba90ae4",
       "type": "perplexity",
       "title": "California Franchise Tax Board \u2014 CalEITC Advertising Campaign",
-      "issuer": "** California Franchise Tax Board",
+      "issuer": "** California Franchise Tax Board, California, United States",
       "posted": "",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/rfp-ftb-2627-00432-caleitc-advertising-campaign-718u",
       "source_domain": "https://www.cleat.ai/government/contracts/rfp-ftb-2627-00432-caleitc-advertising-campaign-718u",
-      "description": "California Franchise Tax Board \u2014 CalEITC Advertising Campaign - Issuing organization: California Franchise Tax Board - Seeking: Creative design and digital advertising services for a California Earned Income Tax Credit advertising campaign. - Deadline: December 31, 2026, at 11:00 p.m. UTC - Estimated value: Not stated in the available listing. - Source: (https://www.cleat.ai/government/contracts/rfp-ftb-2627-00432-caleitc-advertising-campaign-718",
+      "description": "California Franchise Tax Board \u2014 CalEITC Advertising Campaign - Issuing organization: California Franchise Tax Board, California, United States. - What is being sought: A consulting services contractor to provide creative design and digital advertising for the California Earned Income Tax Credit advertising campaign. - Deadline: December 31, 2026, according to the bid listing. - Estimated value: Up to approximately $900,000 total\u2014$450,000 per yea",
       "first_seen": "2026-10-19"
     },
     {
@@ -1202,18 +1214,6 @@
       "first_seen": "2026-10-07"
     },
     {
-      "id": "f9f3d8e098111789",
-      "type": "perplexity",
-      "title": "not clearly an advertising, marketing, or creative-services opportunity",
-      "issuer": "** City of Durham",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.durhamnc.gov/bids.aspx?bidID=2421&PRINT=YES",
-      "source_domain": "https://www.durhamnc.gov/bids.aspx?bidID=2421&PRINT=YES",
-      "description": "No qualifying opportunities were found in the available results. The search surfaced only one potentially relevant US government posting, but it is not clearly an advertising, marketing, or creative-services opportunity: - City of Durham, North Carolina \u2014 SW-112D On-Call Design Services - Issuing organization: City of Durham - What is being sought: On-call design services; the available listing does not establish that the work is advertising or m",
-      "first_seen": "2026-10-06"
-    },
-    {
       "id": "04f9e82ade8bfa20",
       "type": "perplexity",
       "title": "active, open 2026 US advertising-agency reviews, media pitches, or creative searches",
@@ -1271,6 +1271,18 @@
       "url": "https://sam.gov/opp/6794ec103584fc961b86c222a400b7bd/view",
       "source_domain": "https://sam.gov/opp/6794ec103584fc961b86c222a400b7bd/view",
       "description": "City of Minneapolis, Minnesota \u2014 Communications and Marketing Services/TAP - Issuing organization: City of Minneapolis, Minnesota - RFP title: Communications and Marketing Services/TAP - Deadline: October 13, 2026 - Estimated value: Not stated - Status: Not eligible\u2014posted September 18, 2026. - Direct URL: https://www.highergov.com/sl/contract-opportunity/mn-rfp-pw-communications-and-marketing-serv-74212719/",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "f9f3d8e098111789",
+      "type": "perplexity",
+      "title": "City of Durham, North Carolina \u2014 On-Call Design Services",
+      "issuer": "** City of Durham, North Carolina",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.durhamnc.gov/bids.aspx?bidID=2421&PRINT=YES",
+      "source_domain": "https://www.durhamnc.gov/bids.aspx?bidID=2421&PRINT=YES",
+      "description": "City of Durham, North Carolina \u2014 On-Call Design Services - Issuing organization: City of Durham, North Carolina - What is being sought: On-call design services. The available posting does not establish that the work includes advertising or marketing services, so it should be reviewed before inclusion in a marketing opportunity pipeline. - Deadline: October 29, 2026, at 4:00 p.m. - Estimated value: Not stated - Direct RFP posting: [City of Durham",
       "first_seen": "2026-10-06"
     },
     {
@@ -1432,13 +1444,13 @@
     {
       "id": "92c2ed9116535954",
       "type": "perplexity",
-      "title": "Dave & Buster\u2019s",
-      "issuer": "/ brand:** Dave & Buster\u2019s, a U",
+      "title": "Dave & Buster\u2019s \u2014 Excluded",
+      "issuer": "See source",
       "posted": "",
       "deadline": "",
       "url": "https://www.marketingdive.com/news/dave-busters-shakes-up-agencies-amid-bid-to-rebuild-brand-relevance/831369/",
       "source_domain": "https://www.marketingdive.com/news/dave-busters-shakes-up-agencies-amid-bid-to-rebuild-brand-relevance/831369/",
-      "description": "Dave & Buster\u2019s - Issuing organization / brand: Dave & Buster\u2019s, a U.S. dining and entertainment company. - Review type: Creative and media agency-of-record review. The scope covered brand strategy, creative, social, influencer marketing, media planning, buying, guest data, local activation, and measurement. - Timeline: The review began in spring 2026 and concluded in fall 2026; GUT and Mediaplus were appointed effective October 1, 2026. - Estima",
+      "description": "Dave & Buster\u2019s \u2014 Excluded - Issuer/brand: Dave & Buster\u2019s, United States - Review type: Creative and media agency-of-record review - Status: Excluded \u2014 the review had already concluded, with Gut appointed creative AOR and Mediaplus appointed media AOR. - Timeline: Review began in spring 2026; agencies were scheduled to begin October 1. - Estimated budget: Not disclosed. - Source URL: https://www.marketingdive.com/news/dave-busters-shakes-up-agen",
       "first_seen": "2026-10-01"
     },
     {
