@@ -2,6 +2,18 @@
   "generated": "2026-10-31",
   "rfps": [
     {
+      "id": "a679800d199b13f2",
+      "type": "perplexity",
+      "title": "SUNY Niagara, New York \u2014 Marketing Agency of Record",
+      "issuer": "of Record",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.lightrfp.com/marketplace/bid/NYSCR-2140116/marketing-agency-of-record",
+      "source_domain": "https://www.lightrfp.com/marketplace/bid/NYSCR-2140116/marketing-agency-of-record",
+      "description": "SUNY Niagara, New York \u2014 Marketing Agency of Record - Issuing organization: SUNY Niagara, New York. - What is being sought: Marketing agency-of-record services, including advertising, graphic arts, marketing, and interior design. - Deadline: November 24, 2026. - Estimated value: Not stated in the available source. - Source: LightRFP listing Direct source URL: https://www.lightrfp.com/marketplace/bid/NYSCR-2140116/marketing-agency-of-record",
+      "first_seen": "2026-10-31"
+    },
+    {
       "id": "5cea52753dd1f589",
       "type": "perplexity",
       "title": "New York State, County, and Local Fairs \u2014 Marketing and Advertising",
@@ -14,6 +26,18 @@
       "first_seen": "2026-10-31"
     },
     {
+      "id": "2a1fcd97c620a91c",
+      "type": "perplexity",
+      "title": "New York State Department of Civil Service \u2014 Interior Design Services",
+      "issuer": "of Civil Service \u2014 Interior Design Services",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.nyscr.ny.gov/Ads/Search?Skip=25&Status=Open&DateFilter=All&Top=25&Sort=-DateIssued",
+      "source_domain": "https://www.nyscr.ny.gov/Ads/Search?Skip=25&Status=Open&DateFilter=All&Top=25&Sort=-DateIssued",
+      "description": "New York State Department of Civil Service \u2014 Interior Design Services - Issuing organization: New York State Department of Civil Service, Office of Financial Administration - What is being sought: Interior design services. The procurement portal categorizes the opportunity under \u201cAdvertising, Graphic Arts, Marketing & Interior Design.\u201d - Deadline: December 16, 2026. - Estimated value: Between $150,000 and $1.5 million, according to the procuremen",
+      "first_seen": "2026-10-31"
+    },
+    {
       "id": "6634178f0c79dfc2",
       "type": "perplexity",
       "title": "Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services",
@@ -23,6 +47,18 @@
       "url": "https://webapps1.chicago.gov/vcsearch/cta/solicitationdetails/B26FC04926",
       "source_domain": "https://webapps1.chicago.gov/vcsearch/cta/solicitationdetails/B26FC04926",
       "description": "Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services - What is being sought: Advertising and/or full-service marketing services supporting Louisa County tourism; the county may establish a pool and make multiple awards. Rebranding and logo revision are excluded. - Deadline: November 4, 2026, at 3:30 p.m. - Estimated value: Not stated. - Status: Open. - Direct RFP posting: [Louisa County bid posting](https://www.louisacounty.gov/bi",
+      "first_seen": "2026-10-31"
+    },
+    {
+      "id": "90f86467babc796e",
+      "type": "perplexity",
+      "title": "City of Chicago, Illinois \u2014 Printed Materials for City Events Target Market",
+      "issuer": "** City of Chicago, Department of Cultural Affairs and Speci",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.seabrooktx.gov/bids.aspx?bidID=167&PRINT=YES",
+      "source_domain": "https://www.seabrooktx.gov/bids.aspx?bidID=167&PRINT=YES",
+      "description": "City of Chicago, Illinois \u2014 Printed Materials for City Events Target Market - Issuing organization: City of Chicago, Department of Cultural Affairs and Special Events - What is being sought: Printed materials supporting city events and target-market outreach. - Deadline: December 10, 2026. - Estimated value: Not stated in the posting. - Direct solicitation posting: [City of Chicago solicitation details](https://webapps1.chicago.gov/vcsearch/city/",
       "first_seen": "2026-10-31"
     },
     {
@@ -53,12 +89,12 @@
       "id": "8b4075b2fb83f468",
       "type": "perplexity",
       "title": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion and Destination Marketing Services",
-      "issuer": "** City of Overland Park, Kansas, United States",
+      "issuer": "** City of Overland Park, Kansas",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
       "source_domain": "https://starbridge.ai/rfp/convention-and-tourism-promotion-and-destination",
-      "description": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion and Destination Marketing Services - Issuing organization: City of Overland Park, Kansas, United States. - What is being sought: Convention and tourism promotion and destination marketing services. - Deadline: November 13, 2026. - Estimated value: Not stated in the available listing. - Source: Starbridge listing",
+      "description": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion and Destination Marketing Services - Issuing organization: City of Overland Park, Kansas. - What is being sought: Convention and tourism promotion and destination marketing services. - Deadline: November 13, 2026. - Estimated value: Not stated in the available source. - Source: Starbridge listing Direct source URL: https://starbridge.ai/rfp/convention-and-tourism-promotion-and-desti",
       "first_seen": "2026-10-30"
     },
     {
@@ -461,12 +497,12 @@
       "id": "8cc68a3d17de6a26",
       "type": "perplexity",
       "title": "Ascension Parish, Louisiana \u2014 Sports Marketing and Sponsorship Services",
-      "issuer": "** Ascension Parish Government, Louisiana, through a subcont",
+      "issuer": "** Ascension Parish Government, Louisiana; the listing descr",
       "posted": "",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/sports-marketing-and-sponsorship-services-5705",
       "source_domain": "https://www.cleat.ai/government/contracts/sports-marketing-and-sponsorship-services-5705",
-      "description": "Ascension Parish, Louisiana \u2014 Sports Marketing and Sponsorship Services - Issuing organization: Ascension Parish Government, Louisiana, through a subcontract opportunity. - What is being sought: Sports marketing and sponsorship services, including selling facility-wide advertising packages, corporate outreach, sponsorship-contract execution, and installation of physical and digital advertising. - Deadline: November 30, 2026. - Estimated value: No",
+      "description": "Ascension Parish, Louisiana \u2014 Sports Marketing and Sponsorship Services - Issuing organization: Ascension Parish Government, Louisiana; the listing describes a subcontract opportunity supporting parish projects. - What is being sought: Sports marketing and sponsorship services, including development and sale of facility-wide advertising packages and corporate outreach through physical signage and digital platforms. - Deadline: November 30, 2026.",
       "first_seen": "2026-10-25"
     },
     {
@@ -506,6 +542,18 @@
       "first_seen": "2026-10-23"
     },
     {
+      "id": "3564e6ef6d7b7c94",
+      "type": "perplexity",
+      "title": "Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services",
+      "issuer": "** Louisa County, Virginia",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.louisacounty.gov/bids.aspx?bidID=307&PRINT=YES",
+      "source_domain": "https://www.louisacounty.gov/bids.aspx?bidID=307&PRINT=YES",
+      "description": "Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services - Issuing organization: Louisa County, Virginia - What is being sought: Qualified firms to provide advertising and/or full-service marketing services; the county may establish a pool of multiple contractors. Rebranding and logo revision are excluded. - Deadline: November 4, 2026, at 3:30 p.m. - Estimated value: Not stated in the posting. - Direct RFP posting: [Louisa County bid",
+      "first_seen": "2026-10-23"
+    },
+    {
       "id": "7facd68d69b6b6ab",
       "type": "perplexity",
       "title": "Louisa County, Virginia \u2014 Out-of-Home Media Placement Specialist",
@@ -539,18 +587,6 @@
       "url": "https://www.cleat.ai/government/contracts/digital-and-social-media-management-1f9k",
       "source_domain": "https://www.cleat.ai/government/contracts/digital-and-social-media-management-1f9k",
       "description": "Kentucky Tourism, Arts, and Heritage Cabinet \u2014 Digital and Social Media Management - Issuing organization: Commonwealth of Kentucky, Tourism, Arts, and Heritage Cabinet. - What is being sought: Comprehensive marketing and advertising services, including digital and social media management. - Deadline: October 9, 2026. - Estimated value: Not stated in the available notice. - Source: (https://www.cleat.ai/government/contracts/digital-and-social-med",
-      "first_seen": "2026-10-23"
-    },
-    {
-      "id": "3564e6ef6d7b7c94",
-      "type": "perplexity",
-      "title": "County of Louisa, Virginia \u2014 Tourism Advertising and Marketing Services",
-      "issuer": "** County of Louisa, Virginia, United States",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.louisacounty.gov/bids.aspx?bidID=307&PRINT=YES",
-      "source_domain": "https://www.louisacounty.gov/bids.aspx?bidID=307&PRINT=YES",
-      "description": "County of Louisa, Virginia \u2014 Tourism Advertising and Marketing Services - Issuing organization: County of Louisa, Virginia, United States. - What is being sought: Advertising and full-service marketing services supporting local tourism, including print, digital, broadcast, direct mail, out-of-home advertising, creative services, and analytics. The county may establish a pool of multiple contractors. - Deadline: November 4, 2026, at 3:30 p.m. loca",
       "first_seen": "2026-10-23"
     },
     {
@@ -914,6 +950,18 @@
       "first_seen": "2026-10-17"
     },
     {
+      "id": "1a5e5afdba708785",
+      "type": "perplexity",
+      "title": "active, open 2026 US advertising or marketing RFP, agency review, media pitch, or creative search",
+      "issuer": "review, media pitch, or creative search** with a confirmed d",
+      "posted": "",
+      "deadline": "",
+      "url": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
+      "source_domain": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
+      "description": "No qualifying opportunities can be verified from the available results. The search results do not identify any active, open 2026 US advertising or marketing RFP, agency review, media pitch, or creative search with a confirmed deadline and US-only scope. The only seemingly relevant result concerns Humann\u2019s completed creative-agency review, not an active opportunity; other results are agency-service pages, award coverage, or general commentary. Acc",
+      "first_seen": "2026-10-16"
+    },
+    {
       "id": "ee353f825abdf8e3",
       "type": "perplexity",
       "title": "September\u2013October 2026",
@@ -935,18 +983,6 @@
       "url": "https://sam.gov/opp/e655fbb2b14841939ee543b96e392d82/view",
       "source_domain": "https://sam.gov/opp/e655fbb2b14841939ee543b96e392d82/view",
       "description": "J4 2026 Event Production Services - Issuing organization: Not identifiable from the available result - What is being sought: Event production services; the available snippet does not establish that this is an advertising, marketing, or creative-services procurement - Deadline: Not shown in the available result - Estimated value: Not shown - Status: Active federal contract opportunity, but it does not meet the requested state/local-government and",
-      "first_seen": "2026-10-16"
-    },
-    {
-      "id": "1a5e5afdba708785",
-      "type": "perplexity",
-      "title": "Humann / SuperBeets",
-      "issuer": "See source",
-      "posted": "",
-      "deadline": "",
-      "url": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
-      "source_domain": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
-      "description": "Humann / SuperBeets - Issuer/brand: Humann, the US supplement company behind SuperBeets. - Review type: Creative agency-of-record search. - Timeline: The review concluded with WorkInProgress selected; it is not an active opportunity. - Estimated budget: Not disclosed. - Status: Excluded because the search is completed, not open in 2026.",
       "first_seen": "2026-10-16"
     },
     {
