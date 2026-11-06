@@ -2,6 +2,18 @@
   "generated": "2026-11-06",
   "rfps": [
     {
+      "id": "5309f72caa0e8b20",
+      "type": "perplexity",
+      "title": "advertising or marketing RFPs open in May 2026",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://sam.gov/workspace/contract/opp/c934bf50e6360691dbcb825f4c4b0b94/view",
+      "source_domain": "https://sam.gov/workspace/contract/opp/c934bf50e6360691dbcb825f4c4b0b94/view",
+      "description": "No qualifying active opportunities can be confirmed from the available results. The search results do not provide a verified set of advertising or marketing RFPs open in May 2026. The only potentially relevant federal result is an Army marketing notice, but it is dated November 2026 and explicitly states that no RFP will be available for competitive proposals. Another advertising-related result is a request for information\u2014not an RFP\u2014and is also",
+      "first_seen": "2026-11-06"
+    },
+    {
       "id": "1b512c7ecd76910b",
       "type": "perplexity",
       "title": "advertising or marketing RFP open in May 2026",
@@ -14,6 +26,30 @@
       "first_seen": "2026-11-06"
     },
     {
+      "id": "fd6d08170334b59c",
+      "type": "perplexity",
+      "title": "Nevada Division of Tourism \u2014 Integrated Marketing Effectiveness Study",
+      "issuer": "** Nevada Division of Tourism",
+      "posted": "",
+      "deadline": "",
+      "url": "https://usesettle.com/rfp-hunter/integrated-marketing-effectiveness-study-rcu",
+      "source_domain": "https://usesettle.com/rfp-hunter/integrated-marketing-effectiveness-study-rcu",
+      "description": "Nevada Division of Tourism \u2014 Integrated Marketing Effectiveness Study - Issuing organization: Nevada Division of Tourism - What is being sought: Research and measurement of paid, owned, and earned marketing effectiveness, including quarterly surveys, campaign recall testing, data analysis, and reporting. - Deadline: December 8, 2026 - Estimated value: Not stated - Source: (https://usesettle.com/rfp-hunter/integrated-marketing-effectiveness-study-",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "25b116108699aba8",
+      "type": "perplexity",
+      "title": "Juab County Tourism \u2014 SEO, Strategic Marketing & Digital Advertising RFP",
+      "issuer": "** Juab County Tourism, Utah",
+      "posted": "",
+      "deadline": "",
+      "url": "https://starbridge.ai/rfp/seo-and-digital-advertising-rfp",
+      "source_domain": "https://starbridge.ai/rfp/seo-and-digital-advertising-rfp",
+      "description": "Juab County Tourism \u2014 SEO, Strategic Marketing & Digital Advertising RFP - Issuing organization: Juab County Tourism, Utah - What is being sought: SEO, strategic marketing, and digital advertising services, including a one-year contract with renewal options. - Deadline: November 23, 2026 - Estimated value: Approximately $60,000 annually - Source: (https://starbridge.ai/rfp/seo-and-digital-advertising-rfp)",
+      "first_seen": "2026-11-06"
+    },
+    {
       "id": "1673c73277480f88",
       "type": "perplexity",
       "title": "Warren County Tourism Department \u2014 Media Buying Services",
@@ -22,7 +58,7 @@
       "deadline": "",
       "url": "https://starbridge.ai/rfp/media-buying-services-for-the-warren-county-tourism",
       "source_domain": "https://starbridge.ai/rfp/media-buying-services-for-the-warren-county-tourism",
-      "description": "Warren County Tourism Department \u2014 Media Buying Services - Issuing organization: Warren County Tourism Department, New York, United States. - What is being sought: A strategic media-buying partner to attract leisure travelers to the Lake George area, including market insight, media planning and buying, performance measurement, and production of applicable ad copy, images, video, and audio. - Deadline: December 10, 2026. - Estimated value: Not sta",
+      "description": "Warren County Tourism Department \u2014 Media Buying Services - Issuing organization: Warren County Tourism Department, New York - What is being sought: A strategic media-buying partner to attract leisure travelers to the Lake George area, including planning, buying, market insights, execution, and performance measurement. - Deadline: December 10, 2026 - Estimated value: Not stated - Source: (https://starbridge.ai/rfp/media-buying-services-for-the-war",
       "first_seen": "2026-11-05"
     },
     {
@@ -758,18 +794,6 @@
       "first_seen": "2026-10-23"
     },
     {
-      "id": "3564e6ef6d7b7c94",
-      "type": "perplexity",
-      "title": "Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services",
-      "issuer": "** Louisa County, Virginia",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.louisacounty.gov/bids.aspx?bidID=307&PRINT=YES",
-      "source_domain": "https://www.louisacounty.gov/bids.aspx?bidID=307&PRINT=YES",
-      "description": "Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services - Issuing organization: Louisa County, Virginia - What is being sought: Qualified firms to provide advertising and/or full-service marketing services; the county may establish multiple contracts with selected providers. - Deadline: November 4, 2026, at 3:30 p.m. - Estimated value: Not stated in the available posting. - Direct source: [Louisa County bid posting](https://www.louis",
-      "first_seen": "2026-10-23"
-    },
-    {
       "id": "7facd68d69b6b6ab",
       "type": "perplexity",
       "title": "Louisa County, Virginia \u2014 Out-of-Home Media Placement Specialist",
@@ -803,6 +827,18 @@
       "url": "https://www.cleat.ai/government/contracts/digital-and-social-media-management-1f9k",
       "source_domain": "https://www.cleat.ai/government/contracts/digital-and-social-media-management-1f9k",
       "description": "Kentucky Tourism, Arts, and Heritage Cabinet \u2014 Digital and Social Media Management - Issuing organization: Commonwealth of Kentucky, Tourism, Arts, and Heritage Cabinet. - What is being sought: Comprehensive marketing and advertising services, including digital and social media management. - Deadline: October 9, 2026. - Estimated value: Not stated in the available notice. - Source: (https://www.cleat.ai/government/contracts/digital-and-social-med",
+      "first_seen": "2026-10-23"
+    },
+    {
+      "id": "3564e6ef6d7b7c94",
+      "type": "perplexity",
+      "title": "Colorado Tourism Agency \u2014 Tourism Marketing Services",
+      "issuer": "\u2014 Tourism Marketing Services",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.louisacounty.gov/bids.aspx?bidID=307&PRINT=YES",
+      "source_domain": "https://www.louisacounty.gov/bids.aspx?bidID=307&PRINT=YES",
+      "description": "Colorado Tourism Agency \u2014 Tourism Marketing Services - Issuing organization: Colorado government tourism agency; the search result does not identify the specific agency - What is being sought: Tourism marketing services, including paid-media campaign development and media buying across digital, print, broadcast, and outdoor channels. - Deadline: November 19, 2026 - Estimated value: Not stated - Source: (https://rfpplanet.com/mktg-2775/tourism-mar",
       "first_seen": "2026-10-23"
     },
     {
