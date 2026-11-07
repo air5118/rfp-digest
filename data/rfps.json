@@ -1,17 +1,29 @@
 {
-  "generated": "2026-11-06",
+  "generated": "2026-11-07",
   "rfps": [
     {
-      "id": "5309f72caa0e8b20",
+      "id": "a65daa62e609abc3",
       "type": "perplexity",
-      "title": "advertising or marketing RFPs open in May 2026",
-      "issuer": "See source",
+      "title": "Port of Portland, Oregon \u2014 Portland International Airport Advertising Program Concession",
+      "issuer": "** Port of Portland, Oregon",
       "posted": "",
       "deadline": "",
-      "url": "https://sam.gov/workspace/contract/opp/c934bf50e6360691dbcb825f4c4b0b94/view",
-      "source_domain": "https://sam.gov/workspace/contract/opp/c934bf50e6360691dbcb825f4c4b0b94/view",
-      "description": "No qualifying active opportunities can be confirmed from the available results. The search results do not provide a verified set of advertising or marketing RFPs open in May 2026. The only potentially relevant federal result is an Army marketing notice, but it is dated November 2026 and explicitly states that no RFP will be available for competitive proposals. Another advertising-related result is a request for information\u2014not an RFP\u2014and is also",
-      "first_seen": "2026-11-06"
+      "url": "https://starbridge.ai/rfp/2026-advertising-program-concession-solicitation",
+      "source_domain": "https://starbridge.ai/rfp/2026-advertising-program-concession-solicitation",
+      "description": "Port of Portland, Oregon \u2014 Portland International Airport Advertising Program Concession - Issuing organization: Port of Portland, Oregon. - What is being sought: Operation of the 2026 advertising program concession at Portland International Airport. - Deadline: November 24, 2026. - Estimated value: Not stated in the available notice. - Source: Port of Portland solicitation listing.",
+      "first_seen": "2026-11-07"
+    },
+    {
+      "id": "5f8d7f2449495481",
+      "type": "perplexity",
+      "title": "City of Palm Desert, California \u2014 Tourism Marketing and Creative Services",
+      "issuer": "** City of Palm Desert, California",
+      "posted": "",
+      "deadline": "",
+      "url": "https://bidbanana.com/bid/F0irbzyA0yNyT6AuB3R9",
+      "source_domain": "https://bidbanana.com/bid/F0irbzyA0yNyT6AuB3R9",
+      "description": "City of Palm Desert, California \u2014 Tourism Marketing and Creative Services - Issuing organization: City of Palm Desert, California. - What is being sought: A full-service tourism marketing firm for destination marketing, brand and creative development, media planning and buying, public relations, social media, email marketing, website support, research, measurement, and analytics. - Deadline: The available listing states October 22, 2026; the list",
+      "first_seen": "2026-11-07"
     },
     {
       "id": "1b512c7ecd76910b",
@@ -23,6 +35,18 @@
       "url": "https://sam.gov/workspace/contract/opp/2c9536a8ae43424b8054966d528211c4/view",
       "source_domain": "https://sam.gov/workspace/contract/opp/2c9536a8ae43424b8054966d528211c4/view",
       "description": "No qualifying opportunities can be confirmed from the available results. The search results do not identify an active advertising or marketing RFP open in May 2026 from a US government, lottery, tourism agency, university, transit authority, city, or county. The only May 2026 result is a Veterans Affairs solicitation for \u201cS206,\u201d which does not concern advertising or marketing. Other results are either unrelated procurements, inactive notices, sou",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "5309f72caa0e8b20",
+      "type": "perplexity",
+      "title": "active, open US advertising or marketing RFPs with deadlines in May 2026",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://sam.gov/workspace/contract/opp/c934bf50e6360691dbcb825f4c4b0b94/view",
+      "source_domain": "https://sam.gov/workspace/contract/opp/c934bf50e6360691dbcb825f4c4b0b94/view",
+      "description": "No qualifying opportunities can be verified from the available results. The search results do not establish any active, open US advertising or marketing RFPs with deadlines in May 2026: - U.S. Army \u2014 \u201cOptimizing the U.S. Army Marketing Strategy Process Marketing Director\u201d: marked inactive and explicitly states that no RFP will be available for competitive proposals. - Joint Advertising, Market Research & Studies (JAMRS) \u2014 Advertising Services: id",
       "first_seen": "2026-11-06"
     },
     {
@@ -52,13 +76,13 @@
     {
       "id": "1673c73277480f88",
       "type": "perplexity",
-      "title": "Warren County Tourism Department \u2014 Media Buying Services",
-      "issuer": "\u2014 Media Buying Services",
+      "title": "Warren County Tourism Department, New York \u2014 Media Buying Services",
+      "issuer": "** Warren County Tourism Department, New York",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/media-buying-services-for-the-warren-county-tourism",
       "source_domain": "https://starbridge.ai/rfp/media-buying-services-for-the-warren-county-tourism",
-      "description": "Warren County Tourism Department \u2014 Media Buying Services - Issuing organization: Warren County Tourism Department, New York - What is being sought: A strategic media-buying partner to attract leisure travelers to the Lake George area, including planning, buying, market insights, execution, and performance measurement. - Deadline: December 10, 2026 - Estimated value: Not stated - Source: (https://starbridge.ai/rfp/media-buying-services-for-the-war",
+      "description": "Warren County Tourism Department, New York \u2014 Media Buying Services - Issuing organization: Warren County Tourism Department, New York. - What is being sought: A strategic media-buying partner for leisure tourism promotion of the Lake George area, including planning, buying, market insight, performance measurement, and use of approved creative assets. - Deadline: December 10, 2026. - Estimated value: Not stated in the available notice. - Source: W",
       "first_seen": "2026-11-05"
     },
     {
@@ -698,18 +722,6 @@
       "first_seen": "2026-10-25"
     },
     {
-      "id": "a5dbd60558ca0659",
-      "type": "perplexity",
-      "title": "US Patent and Trademark Office \u2014 Social Media and Digital Media",
-      "issuer": "** United States Department of Commerce, United States Paten",
-      "posted": "",
-      "deadline": "2026-11-06",
-      "url": "https://www.cleat.ai/government/contracts/social-media-campaign-execution-and-digital-media-buying-5bjz",
-      "source_domain": "https://www.cleat.ai/government/contracts/social-media-campaign-execution-and-digital-media-buying-5bjz",
-      "description": "US Patent and Trademark Office \u2014 Social Media and Digital Media - Issuer: United States Department of Commerce, United States Patent and Trademark Office - What is being sought: Social-media campaign execution, digital amplification, media buying, content scheduling, engagement tracking, and related public-awareness support. - Timeline: Response deadline November 6, 2026. - Estimated value: Not stated in the available result. - Status: Open based",
-      "first_seen": "2026-10-25"
-    },
-    {
       "id": "55716e836e87fcd7",
       "type": "brand_lead",
       "title": "In Review, July 2026: Headline highlights from Sephora, L\u2019Or\u00e9al, P.Louise and more...",
@@ -1000,13 +1012,13 @@
     {
       "id": "832ba2f1f4ff1dd9",
       "type": "perplexity",
-      "title": "Louisa County",
-      "issuer": "** Louisa County, Virginia, United States",
+      "title": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion and Destination Marketing Services",
+      "issuer": "** City of Overland Park, Kansas",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/rfp-129899-tourism-advertising-and-marketing-services",
       "source_domain": "https://starbridge.ai/rfp/rfp-129899-tourism-advertising-and-marketing-services",
-      "description": "Louisa County - Issuing organization: Louisa County, Virginia, United States. - What is being sought: Advertising and full-service marketing services. - Review type: Advertising/marketing services. - Deadline: November 4, 2026. - Estimated value: Not stated. - Status: Open US public-sector opportunity; not a major commercial brand review. The available results do not substantiate any currently open 2026 reviews by major brands in the requested ca",
+      "description": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion and Destination Marketing Services - Issuing organization: City of Overland Park, Kansas. - What is being sought: Convention and tourism promotion and destination marketing services. - Deadline: November 13, 2026. - Estimated value: Not stated in the available notice. - Source: Aggregated RFP listing identifying the Overland Park solicitation. Only opportunities with a clearly ident",
       "first_seen": "2026-10-19"
     },
     {
@@ -2400,90 +2412,6 @@
       "source_domain": "https://www.adweek.com/agencies/accredited-debt-relief-appoints-tca-first-ever-media-aor-household-debt-record-high/",
       "description": "Accredited Debt Relief - Issuing organization: Accredited Debt Relief, a U.S. debt-consolidation company. - Review type: Media agency pitch for its first media agency of record, emphasizing cross-channel campaigns and customer acquisition. - Status: Closed; Omnicom\u2019s TCA was appointed media agency of record after a competitive pitch. - Timeline: Appointment announced September 15, 2026; the review was complete by that date. - Estimated budget: No",
       "first_seen": "2026-09-23"
-    },
-    {
-      "id": "b407795c0772ebac",
-      "type": "perplexity",
-      "title": "Town of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services",
-      "issuer": "** Town of Jackson, Wyoming",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
-      "source_domain": "https://www.jacksonwy.gov/bids.aspx?bidID=119",
-      "description": "Town of Jackson, Wyoming \u2014 Municipal Brand Identity & Social Media Consulting Services - Issuing organization: Town of Jackson, Wyoming - What is being sought: A consultant to provide municipal brand-identity strategy and social-media consulting, including research, creative development, community outreach, campaign management, and ongoing social-media support. - Deadline: October 9, 2026, at 5:00 p.m. Mountain Time - Estimated value: Not stated",
-      "first_seen": "2026-09-22"
-    },
-    {
-      "id": "4f278bee416e18ca",
-      "type": "perplexity",
-      "title": "The Coca-Cola Company \u2014 Global media, data, and technology review",
-      "issuer": "** The Coca-Cola Company, a US-based beverage company",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.adweek.com/agencies/coca-colas-top-marketer-reveals-what-hes-looking-for-in-his-next-agency/",
-      "source_domain": "https://www.adweek.com/agencies/coca-colas-top-marketer-reveals-what-hes-looking-for-in-his-next-agency/",
-      "description": "The Coca-Cola Company \u2014 Global media, data, and technology review - Issuing organization: The Coca-Cola Company, a US-based beverage company. - What is being reviewed: Its approximately $4 billion global media, data, and technology account; the North American portion is also being handled as a separate pitch. This is primarily a media and marketing-technology review rather than a creative-agency search. - Timeline: The account was reported as bei",
-      "first_seen": "2026-09-22"
-    },
-    {
-      "id": "57e9117fc18fd91b",
-      "type": "perplexity",
-      "title": "Important exclusions",
-      "issuer": "See source",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.acquisition.gov/far/subpart-5.2?searchTerms=5.203",
-      "source_domain": "https://www.acquisition.gov/far/subpart-5.2?searchTerms=5.203",
-      "description": "Important exclusions The search identified other potentially relevant 2026 postings, but they were not included because they appeared expired as of September 22, 2026. These include the City of Gloucester, Massachusetts destination marketing opportunity, which had a September 15 proposal opening, and the City of Alameda, California communications-support RFP, which had a September 11 proposal deadline.",
-      "first_seen": "2026-09-22"
-    },
-    {
-      "id": "a8e55c9ffd2bae27",
-      "type": "perplexity",
-      "title": "Findings not eligible for inclusion",
-      "issuer": "rankings is not an RFP or active agency search",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.brandedagency.com/blog/best-marketing-agency-in-the-world-2026",
-      "source_domain": "https://www.brandedagency.com/blog/best-marketing-agency-in-the-world-2026",
-      "description": "Findings not eligible for inclusion - A 2026 article about marketing-agency rankings is not an RFP or active agency search. - A food-and-beverage agency ranking is not an issuer-led procurement opportunity. - The Ragan 2026 Marketing Awards accepts entries globally and is an awards program, not an advertising or marketing-agency review. - The remaining results concern agency directories, agency capabilities, buyer guides, or general market commen",
-      "first_seen": "2026-09-22"
-    },
-    {
-      "id": "4d18802db4abcd4e",
-      "type": "perplexity",
-      "title": "Ector County, Texas \u2014 Marketing, Venue Development, Event Recruitment, and Brand Coordination Services",
-      "issuer": "** Ector County, Texas",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/marketing-venue-development-event-recruitment-and-brand-coordination-services-ii-dtwc",
-      "source_domain": "https://www.cleat.ai/government/contracts/marketing-venue-development-event-recruitment-and-brand-coordination-services-ii-dtwc",
-      "description": "Ector County, Texas \u2014 Marketing, Venue Development, Event Recruitment, and Brand Coordination Services - Issuing organization: Ector County, Texas - What is being sought: A strategic partner to provide comprehensive marketing, venue development, event recruitment, and brand-coordination services for the Ector County Coliseum & Exhibition Center. The objectives include increasing attendance, improving venue visibility, and attracting promoters and",
-      "first_seen": "2026-09-22"
-    },
-    {
-      "id": "806986cb1a68cab6",
-      "type": "perplexity",
-      "title": "Comprehensive Marketing and Advertising Services \u2014 Kentucky Tourism Cabinet",
-      "issuer": "** Commonwealth of Kentucky, Cabinet and its agencies",
-      "posted": "",
-      "deadline": "",
-      "url": "https://apify.com/talcoe/us-government-bids-rfps",
-      "source_domain": "https://apify.com/talcoe/us-government-bids-rfps",
-      "description": "Comprehensive Marketing and Advertising Services \u2014 Kentucky Tourism Cabinet - Issuing organization: Commonwealth of Kentucky, Cabinet and its agencies - What is being sought: Comprehensive marketing and advertising services to promote Kentucky tourism, including events, venues, meetings, conventions, cultural activities, historical sites, recreation, entertainment, scenic attractions, and related visitor-generating activities. - Deadline: October",
-      "first_seen": "2026-09-22"
-    },
-    {
-      "id": "e658de61810dca16",
-      "type": "perplexity",
-      "title": "City of Palm Desert Economic Development \u2014 Media Planning and Buying",
-      "issuer": "** City of Palm Desert Economic Development, California, Uni",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/consumer-marketing-and-digital-advertising-8v52",
-      "source_domain": "https://www.cleat.ai/government/contracts/consumer-marketing-and-digital-advertising-8v52",
-      "description": "City of Palm Desert Economic Development \u2014 Media Planning and Buying - Issuing organization: City of Palm Desert Economic Development, California, United States. - What is being sought: Strategic media planning, audience targeting, advertising-space procurement, budget allocation, rate negotiation, placement schedules, and proof-of-performance reporting for tourism projects. - Deadline: October 23, 2026. - Estimated value: Approximately $550,000",
-      "first_seen": "2026-09-22"
     }
   ]
 }
