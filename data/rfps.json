@@ -2,6 +2,18 @@
   "generated": "2026-11-10",
   "rfps": [
     {
+      "id": "1b9546b58f456fdd",
+      "type": "perplexity",
+      "title": "advertising or marketing RFP issued by a US organization with a deadline in May 2026",
+      "issuer": "a US organization with a deadline in May 2026**:",
+      "posted": "",
+      "deadline": "",
+      "url": "https://sam.gov/opp/fef02a88bc3d4e3bb3a9abf3600e4bfb/view",
+      "source_domain": "https://sam.gov/opp/fef02a88bc3d4e3bb3a9abf3600e4bfb/view",
+      "description": "No qualifying opportunities can be confirmed from the available results. The search results do not establish an active, open advertising or marketing RFP issued by a US organization with a deadline in May 2026: - The SAM.gov housekeeping solicitation was open in May 2026, but it seeks security services, not advertising or marketing. - The signage project was published in October 2026, outside the requested May 2026 window. - The USPTO public-awar",
+      "first_seen": "2026-11-10"
+    },
+    {
       "id": "6c4b5ea723184c3a",
       "type": "perplexity",
       "title": "County Tourism Marketing Services \u2014 RFP 26-042-1210",
@@ -58,7 +70,7 @@
       "deadline": "",
       "url": "https://starbridge.ai/rfp/marketing-and-promotion-of-suffolk-county-tourism",
       "source_domain": "https://starbridge.ai/rfp/marketing-and-promotion-of-suffolk-county-tourism",
-      "description": "Suffolk County, New York \u2014 Tourism Marketing and Promotion - Issuing organization: Suffolk County Office of Central Procurement, on behalf of the County Executive and Department of Economic Development and Planning. - What is being sought: A partner to promote Suffolk County as a business and tourist destination. The scope includes development and execution of a marketing and advertising plan, branding, media planning, public relations, and socia",
+      "description": "Suffolk County, New York \u2014 Tourism Marketing and Promotion - Issuing organization: Suffolk County Office of Central Procurement, on behalf of the Suffolk County Executive and Department of Economic Development and Planning, New York, US. - What is being sought: A marketing partner to promote Suffolk County as a business and tourist destination. - Deadline: December 4, 2026. - Estimated value: Not stated in the available source. - Source: Procurem",
       "first_seen": "2026-11-08"
     },
     {
@@ -71,6 +83,18 @@
       "url": "https://bidbanana.com/bid/Fa7z0Vz8Lc9k2xomcsdH",
       "source_domain": "https://bidbanana.com/bid/Fa7z0Vz8Lc9k2xomcsdH",
       "description": "North Carolina Department of Health and Human Services \u2014 Creative Services and Media Buying - Issuing organization / brand: North Carolina Department of Health and Human Services, Office of Communications. - Review type: Full-service creative, marketing, communications, and media-buying support for public-health campaigns. - Deadline: October 30, 2026. - Timeline: Solicitation opened September 16, 2026; proposed three-year, as-needed contract. -",
+      "first_seen": "2026-11-08"
+    },
+    {
+      "id": "8171054481deb259",
+      "type": "perplexity",
+      "title": "Minnesota Lottery \u2014 Advertising Agency Services",
+      "issuer": "Services",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.mnlottery.com/vendor-opportunities/",
+      "source_domain": "https://www.mnlottery.com/vendor-opportunities/",
+      "description": "Minnesota Lottery \u2014 Advertising Agency Services - Issuing organization: Minnesota State Lottery, Minnesota, US. - What is being sought: Advertising agency services, presumably including campaign strategy, creative, media, and related advertising support. - Deadline: Written proposals due November 20, 2026, at 2:00 p.m. CST. Written questions were due October 16, 2026. - Estimated value: Not stated in the available source. - Source: Minnesota Lott",
       "first_seen": "2026-11-08"
     },
     {
@@ -95,18 +119,6 @@
       "url": "https://www.cleat.ai/government/contracts/seo-and-digital-advertising-rfp-96h4",
       "source_domain": "https://www.cleat.ai/government/contracts/seo-and-digital-advertising-rfp-96h4",
       "description": "Juab County, Utah - Issuer: Juab County, Utah - What is being sought: SEO, digital advertising, media buying, advertising copy, graphics, and multimedia content supporting destination marketing. - Review type: Local-government advertising and digital-marketing procurement\u2014not a major consumer-brand agency review. - Deadline: November 23, 2026. - Estimated value: Approximately $60,000 annually. - Source:",
-      "first_seen": "2026-11-08"
-    },
-    {
-      "id": "8171054481deb259",
-      "type": "perplexity",
-      "title": "California State Lottery Commission \u2014 Hispanic Marketing and Advertising Agency",
-      "issuer": "- **Issuing organization:** California State Lottery Commiss",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.mnlottery.com/vendor-opportunities/",
-      "source_domain": "https://www.mnlottery.com/vendor-opportunities/",
-      "description": "California State Lottery Commission \u2014 Hispanic Marketing and Advertising Agency - Issuing organization: California State Lottery Commission, California - What is being sought: Strategic planning, creative development, digital and social media marketing, consumer research, production, media planning and buying, promotions, experiential marketing, and public relations targeting California\u2019s Hispanic consumer market. Relevant experience may include",
       "first_seen": "2026-11-08"
     },
     {
@@ -220,13 +232,13 @@
     {
       "id": "1673c73277480f88",
       "type": "perplexity",
-      "title": "Warren County Tourism Department \u2014 Media Buying Services",
-      "issuer": "\u2014 Media Buying Services",
+      "title": "Warren County, New York \u2014 Tourism Media Buying Services",
+      "issuer": "** Warren County Tourism Department, New York, US",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/media-buying-services-for-the-warren-county-tourism",
       "source_domain": "https://starbridge.ai/rfp/media-buying-services-for-the-warren-county-tourism",
-      "description": "Warren County Tourism Department \u2014 Media Buying Services - Issuing organization: Warren County Tourism Department, New York, United States. - What is being sought: A strategic media-buying partner to attract leisure travelers to the Lake George area, including media planning, buying execution, and related ad-copy, image, video, and audio support. The scope excludes meeting-planner, convention-organizer, and group-sales marketing. - Deadline: Dece",
+      "description": "Warren County, New York \u2014 Tourism Media Buying Services - Issuing organization: Warren County Tourism Department, New York, US. - What is being sought: Strategic leisure-tourism media buying to attract travelers to the Lake George area, including planning, buying execution, market insight, and performance reporting. - Deadline: December 10, 2026. - Estimated value: Not stated in the available source. - Source: Procurement listing: https://starbri",
       "first_seen": "2026-11-05"
     },
     {
@@ -352,13 +364,13 @@
     {
       "id": "46aa43c4885fdea7",
       "type": "perplexity",
-      "title": "California Lottery \u2014 Hispanic Marketing and Advertising Agency Partner",
-      "issuer": "Partner",
+      "title": "California State Lottery \u2014 Hispanic-market advertising and marketing agency",
+      "issuer": "- **Issuing organization:** California State Lottery, a US s",
       "posted": "",
       "deadline": "",
       "url": "https://govtribe.com/file/government-file/rfp-r005664-hispanic-final-dot-pdf",
       "source_domain": "https://govtribe.com/file/government-file/rfp-r005664-hispanic-final-dot-pdf",
-      "description": "California Lottery \u2014 Hispanic Marketing and Advertising Agency Partner - Issuing organization: California Lottery. - What is being sought: A strategic Hispanic marketing and advertising agency to reach California\u2019s Hispanic consumer market. The scope includes strategic planning, creative development, digital and social media, consumer research, media planning and buying, promotions, experiential marketing, and public relations. Relevant experienc",
+      "description": "California State Lottery \u2014 Hispanic-market advertising and marketing agency - Issuing organization: California State Lottery, a US state agency. - What is being sought: An advertising and marketing agency for the California Hispanic consumer market, including strategic planning, creative development, digital and social media, research, production, media planning and buying, promotions, experiential marketing, and public relations. - Review type:",
       "first_seen": "2026-11-03"
     },
     {
@@ -509,12 +521,12 @@
       "id": "4aee48ba2bbbb9ae",
       "type": "perplexity",
       "title": "McDonald County 911, Missouri \u2014 Advertising Services",
-      "issuer": "** McDonald County 911 Special District, Missouri, United St",
+      "issuer": "** McDonald County 911, Missouri, US",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/advertising-rfp",
       "source_domain": "https://starbridge.ai/rfp/advertising-rfp",
-      "description": "McDonald County 911, Missouri \u2014 Advertising Services - Issuing organization: McDonald County 911 Special District, Missouri, United States. - What is being sought: Advertising services. - Deadline: November 18, 2026. - Estimated value: Not stated in the available posting. - Direct source: https://starbridge.ai/rfp/advertising-rfp Only opportunities with a clearly identified US issuer and an indicated 2026 deadline were included. The available res",
+      "description": "McDonald County 911, Missouri \u2014 Advertising Services - Issuing organization: McDonald County 911, Missouri, US. - What is being sought: Advertising services; the available listing does not provide enough detail to characterize the full scope. - Deadline: November 18, 2026. - Estimated value: Not stated in the available source. - Source: Procurement listing: https://starbridge.ai/rfp/advertising-rfp",
       "first_seen": "2026-10-30"
     },
     {
@@ -965,12 +977,12 @@
       "id": "46bef4ef73ae7055",
       "type": "perplexity",
       "title": "La Plata County, Colorado \u2014 Tourism Marketing Services",
-      "issuer": "** La Plata County, Colorado",
+      "issuer": "** La Plata County, Colorado, US",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/26-042-1210-tourism-marketing-services",
       "source_domain": "https://starbridge.ai/rfp/26-042-1210-tourism-marketing-services",
-      "description": "La Plata County, Colorado \u2014 Tourism Marketing Services - Issuing organization: La Plata County, Colorado. - What is being sought: Comprehensive tourism marketing services, including convention, tourism-promotion, and destination-marketing work. - Deadline: November 19, 2026. - Estimated value: Not stated in the available source. - Direct source: [26-042-1210 Tourism Marketing Services](https://starbridge.ai/rfp/26-042-1210-tourism-marketing-servi",
+      "description": "La Plata County, Colorado \u2014 Tourism Marketing Services - Issuing organization: La Plata County, Colorado, US. - What is being sought: Comprehensive tourism marketing services, including convention and tourism promotion and destination marketing. - Deadline: November 19, 2026. - Estimated value: Not stated in the available source. - Source: Procurement listing: https://starbridge.ai/rfp/26-042-1210-tourism-marketing-services",
       "first_seen": "2026-10-23"
     },
     {
@@ -1156,13 +1168,13 @@
     {
       "id": "832ba2f1f4ff1dd9",
       "type": "perplexity",
-      "title": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion and Destination Marketing Services",
-      "issuer": "** City of Overland Park, Kansas",
+      "title": "Excluded opportunities",
+      "issuer": "See source",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/rfp-129899-tourism-advertising-and-marketing-services",
       "source_domain": "https://starbridge.ai/rfp/rfp-129899-tourism-advertising-and-marketing-services",
-      "description": "City of Overland Park, Kansas \u2014 Convention and Tourism Promotion and Destination Marketing Services - Issuing organization: City of Overland Park, Kansas. - What is being sought: Convention and tourism promotion and destination marketing services. - Deadline: November 13, 2026. - Estimated value: Not stated in the available notice. - Source: Aggregated RFP listing identifying the Overland Park solicitation. Only opportunities with a clearly ident",
+      "description": "Excluded opportunities The following US opportunities found in the results were excluded because the available information indicated they were already closed or did not meet the requested active-opportunity criteria: - Louisa County, Virginia \u2014 Tourism Advertising and Marketing Services: listed as closed. - Colorado State Fair Authority \u2014 CSF Marketing Services: listed with a October 16, 2026 closing date, which had passed in the search results.",
       "first_seen": "2026-10-19"
     },
     {
@@ -1418,6 +1430,18 @@
       "first_seen": "2026-10-16"
     },
     {
+      "id": "1a5e5afdba708785",
+      "type": "perplexity",
+      "title": "Excluded results",
+      "issuer": "procurement rather than a major brand review; the available",
+      "posted": "",
+      "deadline": "",
+      "url": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
+      "source_domain": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
+      "description": "Excluded results - Humann / SuperBeets: The available result describes a completed creative review in which WorkInProgress was selected; it is not an active opportunity. - Virginia Exposition Park marketing communications RFP: Marked expired; it closed October 30, 2026. - Ohio homebuyer-program media services RFP: A US opportunity, but it is a government agency procurement rather than a major brand review; the available result does not identify t",
+      "first_seen": "2026-10-16"
+    },
+    {
       "id": "777724dfeb0e850b",
       "type": "perplexity",
       "title": "Enrollment Marketing Services \u2014 University at Albany, SUNY",
@@ -1427,18 +1451,6 @@
       "url": "https://www.nyscr.ny.gov/Ads/Search?Skip=50&Status=Open&DateFilter=All&Top=50&Sort=-DateIssued",
       "source_domain": "https://www.nyscr.ny.gov/Ads/Search?Skip=50&Status=Open&DateFilter=All&Top=50&Sort=-DateIssued",
       "description": "Enrollment Marketing Services \u2014 University at Albany, SUNY - Issuing organization: State University of New York, University at Albany, New York - What is being sought: Enrollment marketing services, listed under advertising, graphic arts, marketing, and interior design procurement. - Deadline: December 2, 2026 - Estimated value: Not stated in the available posting - Status: Open - RFP posting: [NYS Contracting Opportunities](https://www.nyscr.ny.",
-      "first_seen": "2026-10-16"
-    },
-    {
-      "id": "1a5e5afdba708785",
-      "type": "perplexity",
-      "title": "California State Lottery \u2014 Hispanic Marketing & Advertising Agency",
-      "issuer": "- **Issuing organization / brand:** California State Lottery",
-      "posted": "",
-      "deadline": "",
-      "url": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
-      "source_domain": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
-      "description": "California State Lottery \u2014 Hispanic Marketing & Advertising Agency - Issuing organization / brand: California State Lottery, Sacramento, California. - Review type: Integrated Hispanic-market advertising and marketing agency search, covering strategy and execution across traditional, digital, social, and emerging channels. - Deadline: Phase I eligibility proposals due November 23, 2026. - Timeline: Agency evaluations are scheduled for January\u2013Febr",
       "first_seen": "2026-10-16"
     },
     {
