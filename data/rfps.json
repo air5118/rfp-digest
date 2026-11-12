@@ -2,6 +2,18 @@
   "generated": "2026-11-12",
   "rfps": [
     {
+      "id": "9fa3f97c5859eac2",
+      "type": "perplexity",
+      "title": "active, open US advertising or marketing RFPs with deadlines in May 2026",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://sam.gov/workspace/contract/opp/07fcbecd0dba49909c85b0f4e579216d/view",
+      "source_domain": "https://sam.gov/workspace/contract/opp/07fcbecd0dba49909c85b0f4e579216d/view",
+      "description": "No qualifying opportunities can be verified from the available results. The search results do not show active, open US advertising or marketing RFPs with deadlines in May 2026: - The only potentially relevant federal listing, ICE Wide Outreach and Communications Support Services, is explicitly a sources-sought notice rather than an RFP, and its response deadline was May 31, 2022\u2014not 2026. - The other marketing-related SAM.gov result, Marketing an",
+      "first_seen": "2026-11-12"
+    },
+    {
       "id": "041aae153ebf620e",
       "type": "perplexity",
       "title": "Tourism Marketing Services \u2014 Colorado",
@@ -26,6 +38,30 @@
       "first_seen": "2026-11-12"
     },
     {
+      "id": "49f29ffb41f3bc79",
+      "type": "perplexity",
+      "title": "Suffolk County Department of Economic Development and Planning \u2014 Marketing and Promotion of Suffolk County Tourism",
+      "issuer": "of Economic Development and Planning \u2014 Marketing and Promoti",
+      "posted": "",
+      "deadline": "",
+      "url": "https://govtribe.com/category/unspsc/80141600-sales-and-business-promotion-activities",
+      "source_domain": "https://govtribe.com/category/unspsc/80141600-sales-and-business-promotion-activities",
+      "description": "Suffolk County Department of Economic Development and Planning \u2014 Marketing and Promotion of Suffolk County Tourism - Issuing organization: Suffolk County Department of Economic Development and Planning, New York. - What is being sought: Tourism marketing and promotional services for Suffolk County. - Deadline: December 4, 2026. - Estimated value: Not stated in the available listing. - Source:",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "0b5a035a899b2aa8",
+      "type": "brand_lead",
+      "title": "Pizza Hut is preparing to begin US media agency review",
+      "issuer": "Ad Age",
+      "posted": "2026-11-12",
+      "deadline": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BV3J5UkkydTRjTWRzcWZRRmktLTl2V3NuSlBRS1FGUnpoWU9jNm1TOTNDRGdzSDNmZlhwbzBrSkNzMGpCZkJWeW5zU0ZTNjBjZXc4RWo5ak5TWmxsM2dITHlzR050a2FNU21NMWhTakowOURvWFZXTEY3b3U?oc=5",
+      "source_domain": "https://adage.com",
+      "description": "Pizza Hut is preparing to begin US media agency review Ad Age",
+      "first_seen": "2026-11-12"
+    },
+    {
       "id": "d01a2a1ca84cad0b",
       "type": "perplexity",
       "title": "Nashville and Davidson County \u2014 Tourism, Convention Sales and Marketing",
@@ -35,6 +71,18 @@
       "url": "https://www.scanningrfp.com/1195938-usa-tennessee-tourism-convention-sales-and-marketing-services-rfp.html",
       "source_domain": "https://www.scanningrfp.com/1195938-usa-tennessee-tourism-convention-sales-and-marketing-services-rfp.html",
       "description": "Nashville and Davidson County \u2014 Tourism, Convention Sales and Marketing - Issuing organization: Metropolitan Government of Nashville and Davidson County, Tennessee. - What is being sought: Tourism and convention sales and marketing services, including destination promotion, promotional materials, visitor-support systems, online marketing, and annual tourism and convention marketing plans. - Deadline: December 4, 2026. - Estimated value: Not state",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "0bdb484f53200b80",
+      "type": "perplexity",
+      "title": "Metropolitan Government of Nashville and Davidson County \u2014 Tourism and Convention Sales & Marketing Services",
+      "issuer": "** Metropolitan Government of Nashville and Davidson County",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.govhub.online/bids/tennessee/tourism-and-convention-sales-and-marketing-gg000123/",
+      "source_domain": "https://www.govhub.online/bids/tennessee/tourism-and-convention-sales-and-marketing-gg000123/",
+      "description": "Metropolitan Government of Nashville and Davidson County \u2014 Tourism and Convention Sales & Marketing Services - Issuing organization: Metropolitan Government of Nashville and Davidson County, Tennessee. - What is being sought: Comprehensive tourism and convention sales, marketing, promotional-material development, distribution, and visitor-services support to promote Nashville as a leisure, meetings, convention, and events destination. - Deadline:",
       "first_seen": "2026-11-12"
     },
     {
@@ -50,16 +98,16 @@
       "first_seen": "2026-11-12"
     },
     {
-      "id": "d8b5374953cbaf9b",
+      "id": "a8b9d0a27be68a32",
       "type": "perplexity",
-      "title": "Visit Rhode Island Media Attribution and Campaign Measurement",
-      "issuer": "** Rhode Island Commerce Corporation",
+      "title": "California State Lottery Commission \u2014 Hispanic Marketing and Advertising Agency",
+      "issuer": "- **Issuing organization:** California State Lottery Commiss",
       "posted": "",
       "deadline": "",
-      "url": "https://www.govhub.online/bids/marketing/",
-      "source_domain": "https://www.govhub.online/bids/marketing/",
-      "description": "Visit Rhode Island Media Attribution and Campaign Measurement - Issuing organization: Rhode Island Commerce Corporation. - What is being sought: Media attribution and campaign-measurement services for Visit Rhode Island. - Deadline: November 24, 2026. - Estimated value: Not stated. - Source: GovHub\u2019s open-bid listing identifies the Rhode Island Commerce Corporation and deadline. Direct source: https://www.govhub.online/bids/marketing/",
-      "first_seen": "2026-11-11"
+      "url": "https://easbid.com/bids/marketing",
+      "source_domain": "https://easbid.com/bids/marketing",
+      "description": "California State Lottery Commission \u2014 Hispanic Marketing and Advertising Agency - Issuing organization: California State Lottery Commission. - What is being sought: Hispanic marketing and advertising agency services under solicitation R005664. - Deadline: November 23, 2026. - Estimated value: Not stated in the available listing. - Source:",
+      "first_seen": "2026-11-12"
     },
     {
       "id": "265a836d61f136e0",
@@ -83,6 +131,18 @@
       "url": "https://usesettle.com/rfp-hunter/brand-identity-services-r5l3",
       "source_domain": "https://usesettle.com/rfp-hunter/brand-identity-services-r5l3",
       "description": "Suffolk County, New York - Brand/issuer: Suffolk County, New York, United States. - Review: Marketing and promotion services, including marketing and advertising planning, creative strategy, brand development, media planning and buying, SEO, and public relations. - Timeline: Proposals due December 4, 2026; questions due November 18, 2026. - Estimated budget: The listing displays an estimated budget of \u201c$4,\u201d which appears incomplete or unreliable.",
+      "first_seen": "2026-11-11"
+    },
+    {
+      "id": "d8b5374953cbaf9b",
+      "type": "perplexity",
+      "title": "Oregon Tourism Commission \u2014 Statewide Strategic Communications & Media Relations Consultant Services",
+      "issuer": "** Oregon Tourism Commission, doing business as Travel Orego",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.govhub.online/bids/marketing/",
+      "source_domain": "https://www.govhub.online/bids/marketing/",
+      "description": "Oregon Tourism Commission \u2014 Statewide Strategic Communications & Media Relations Consultant Services - Issuing organization: Oregon Tourism Commission, doing business as Travel Oregon. - What is being sought: A communications or marketing agency to develop and execute statewide tourism communications and media-relations campaigns, potentially including strategy, media outreach, press materials, crisis communications, and social-media engagement.",
       "first_seen": "2026-11-11"
     },
     {
@@ -1490,6 +1550,18 @@
       "first_seen": "2026-10-16"
     },
     {
+      "id": "1a5e5afdba708785",
+      "type": "perplexity",
+      "title": "Humann \u2014 SuperBeets",
+      "issuer": "** Humann, the supplement company behind SuperBeets",
+      "posted": "2026-10-13",
+      "deadline": "",
+      "url": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
+      "source_domain": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
+      "description": "Humann \u2014 SuperBeets - Issuing organization: Humann, the supplement company behind SuperBeets - What is being reviewed: Creative agency of record - Agency-review status: Humann completed a creative review and selected WorkInProgress; the process was run by its media agency, Eden Collective - Timeline: A four-week review; the source is dated October 13, 2026 - Estimated budget: Not disclosed - Source URL: https://adage.substack.com/p/why-a-media-ag",
+      "first_seen": "2026-10-16"
+    },
+    {
       "id": "d5a96ab0cab5ee68",
       "type": "brand_lead",
       "title": "Hawke Media Named Agency of Record for Jacuzzi Group to Drive Next Phase of Growth for its Wellness Brands",
@@ -1523,18 +1595,6 @@
       "url": "https://starbridge.ai/rfp/comprehensive-marketing-and-advertising-services-4",
       "source_domain": "https://starbridge.ai/rfp/comprehensive-marketing-and-advertising-services-4",
       "description": "Excluded: Kentucky Tourism, Arts and Heritage Cabinet - Issuing organization: Kentucky Finance and Administration Cabinet, on behalf of the Tourism, Arts and Heritage Cabinet - What was sought: Comprehensive tourism marketing and advertising services, including creative, media planning and placement, digital, television, radio, video, out-of-home, paid social, research, and multimedia production. - Deadline: October 9, 2026 - Status: Excluded bec",
-      "first_seen": "2026-10-16"
-    },
-    {
-      "id": "1a5e5afdba708785",
-      "type": "perplexity",
-      "title": "Excluded results",
-      "issuer": "procurement rather than a major brand review; the available",
-      "posted": "",
-      "deadline": "",
-      "url": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
-      "source_domain": "https://adage.substack.com/p/why-a-media-agency-ran-its-clients",
-      "description": "Excluded results - Humann / SuperBeets: The available result describes a completed creative review in which WorkInProgress was selected; it is not an active opportunity. - Virginia Exposition Park marketing communications RFP: Marked expired; it closed October 30, 2026. - Ohio homebuyer-program media services RFP: A US opportunity, but it is a government agency procurement rather than a major brand review; the available result does not identify t",
       "first_seen": "2026-10-16"
     },
     {
