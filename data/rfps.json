@@ -2,6 +2,30 @@
   "generated": "2026-11-13",
   "rfps": [
     {
+      "id": "c0c0a3467c4dfed9",
+      "type": "perplexity",
+      "title": "active US advertising or marketing RFP that was open in May 2026",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://sam.gov/workspace/contract/opp/43500777051d4d90ad7c7b2b8545f94b/view",
+      "source_domain": "https://sam.gov/workspace/contract/opp/43500777051d4d90ad7c7b2b8545f94b/view",
+      "description": "No qualifying opportunities can be confirmed from the available results. The search results do not identify an active US advertising or marketing RFP that was open in May 2026. The only result mentioning a May 2026 deadline is the Army\u2019s Marketplace for Acquisition of Professional Services (MAPS) opportunity, but it is a broad professional-services IDIQ rather than a clearly advertising or marketing procurement. The other advertising-related resu",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "id": "cd952bfbddd03675",
+      "type": "perplexity",
+      "title": "Warren County Tourism Department \u2014 Paid Media Services",
+      "issuer": "\u2014 Paid Media Services",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.bidhits.com/bid.php?country=usa&rfp=paid+media+biddings+procurement+opportunities+suppliers+contract+opportunities+rfp+50202&idLj=Wy27fC",
+      "source_domain": "https://www.bidhits.com/bid.php?country=usa&rfp=paid+media+biddings+procurement+opportunities+suppliers+contract+opportunities+rfp+50202&idLj=Wy27fC",
+      "description": "Warren County Tourism Department \u2014 Paid Media Services - Issuing organization: Warren County Tourism Department, New York, United States. - What is being sought: A strategic media-buying partner to attract leisure travelers to the Lake George area. The scope excludes meeting planners, convention organizers, and group-sales audiences. - Deadline: December 10, 2026. - Estimated value: Not stated in the available listing. - Source:",
+      "first_seen": "2026-11-13"
+    },
+    {
       "id": "682ca88d85412f6c",
       "type": "perplexity",
       "title": "Pizza Hut",
@@ -40,13 +64,13 @@
     {
       "id": "3042e5ca76f1b8c7",
       "type": "perplexity",
-      "title": "Suffolk County Tourism Marketing and Promotion \u2014 New York",
-      "issuer": "** Suffolk County Department of Economic Development and Pla",
+      "title": "Suffolk County Department of Economic Development and Planning \u2014 Tourism Marketing and Promotion",
+      "issuer": "of Economic Development and Planning \u2014 Tourism Marketing and",
       "posted": "",
       "deadline": "",
       "url": "https://www.cleat.ai/government/contracts/marketing-and-promotion-of-suffolk-county-tourism-department-of-economic-development-and-planning-1wxt",
       "source_domain": "https://www.cleat.ai/government/contracts/marketing-and-promotion-of-suffolk-county-tourism-department-of-economic-development-and-planning-1wxt",
-      "description": "Suffolk County Tourism Marketing and Promotion \u2014 New York - Issuing organization: Suffolk County Department of Economic Development and Planning. - What is being sought: A marketing partner to develop and implement a tourism and business-destination marketing program, including advertising, media buying, public relations, social media, brand development, research, and consumer outreach. - Deadline: December 4, 2026. - Estimated value: Not stated",
+      "description": "Suffolk County Department of Economic Development and Planning \u2014 Tourism Marketing and Promotion - Issuing organization: Suffolk County Department of Economic Development and Planning, New York, United States. - What is being sought: A partner to develop and execute a marketing and advertising plan promoting Suffolk County as a business and tourist destination. - Deadline: December 4, 2026. - Estimated value: Not stated in the available listing.",
       "first_seen": "2026-11-12"
     },
     {
@@ -88,13 +112,13 @@
     {
       "id": "0bdb484f53200b80",
       "type": "perplexity",
-      "title": "Metropolitan Government of Nashville and Davidson County \u2014 Tourism and Convention Sales & Marketing Services",
+      "title": "Nashville Metropolitan Government \u2014 Tourism and Convention Sales & Marketing Services",
       "issuer": "** Metropolitan Government of Nashville and Davidson County",
       "posted": "",
       "deadline": "",
       "url": "https://www.govhub.online/bids/tennessee/tourism-and-convention-sales-and-marketing-gg000123/",
       "source_domain": "https://www.govhub.online/bids/tennessee/tourism-and-convention-sales-and-marketing-gg000123/",
-      "description": "Metropolitan Government of Nashville and Davidson County \u2014 Tourism and Convention Sales & Marketing Services - Issuing organization: Metropolitan Government of Nashville and Davidson County, Tennessee. - What is being sought: Comprehensive tourism and convention sales, marketing, promotional-material development, distribution, and visitor-services support to promote Nashville as a leisure, meetings, convention, and events destination. - Deadline:",
+      "description": "Nashville Metropolitan Government \u2014 Tourism and Convention Sales & Marketing Services - Issuing organization: Metropolitan Government of Nashville and Davidson County and the Tourism and Convention Commission, Tennessee, United States. - What is being sought: Comprehensive tourism and convention sales, marketing, and visitor services, including national and international promotion of Nashville for leisure travel, meetings, conventions, and events",
       "first_seen": "2026-11-12"
     },
     {
@@ -148,13 +172,13 @@
     {
       "id": "d8b5374953cbaf9b",
       "type": "perplexity",
-      "title": "Oregon Tourism Commission \u2014 Statewide Strategic Communications & Media Relations Consultant Services",
+      "title": "Oregon Tourism Commission \u2014 Statewide Strategic Communications and Media Relations",
       "issuer": "** Oregon Tourism Commission, doing business as Travel Orego",
       "posted": "",
       "deadline": "",
       "url": "https://www.govhub.online/bids/marketing/",
       "source_domain": "https://www.govhub.online/bids/marketing/",
-      "description": "Oregon Tourism Commission \u2014 Statewide Strategic Communications & Media Relations Consultant Services - Issuing organization: Oregon Tourism Commission, doing business as Travel Oregon. - What is being sought: A communications or marketing agency to develop and execute statewide tourism communications and media-relations campaigns, potentially including strategy, media outreach, press materials, crisis communications, and social-media engagement.",
+      "description": "Oregon Tourism Commission \u2014 Statewide Strategic Communications and Media Relations - Issuing organization: Oregon Tourism Commission, doing business as Travel Oregon, United States. - What is being sought: Strategic communications and media-relations services to promote tourism within Oregon, potentially including communications strategy, media outreach, press materials, crisis communications, public-relations counsel, and social-media engagement",
       "first_seen": "2026-11-11"
     },
     {
@@ -1156,13 +1180,13 @@
     {
       "id": "46bef4ef73ae7055",
       "type": "perplexity",
-      "title": "La Plata County, Colorado \u2014 Tourism Marketing Services",
-      "issuer": "** La Plata County, Colorado, US",
+      "title": "La Plata County \u2014 Tourism Marketing Services",
+      "issuer": "** La Plata County, Colorado, United States",
       "posted": "",
       "deadline": "",
       "url": "https://starbridge.ai/rfp/26-042-1210-tourism-marketing-services",
       "source_domain": "https://starbridge.ai/rfp/26-042-1210-tourism-marketing-services",
-      "description": "La Plata County, Colorado \u2014 Tourism Marketing Services - Issuing organization: La Plata County, Colorado, US. - What is being sought: Comprehensive tourism marketing services, including convention and tourism promotion and destination marketing. - Deadline: November 19, 2026. - Estimated value: Not stated in the available source. - Source: Procurement listing: https://starbridge.ai/rfp/26-042-1210-tourism-marketing-services",
+      "description": "La Plata County \u2014 Tourism Marketing Services - Issuing organization: La Plata County, Colorado, United States. - What is being sought: Comprehensive tourism marketing services for the county. - Deadline: November 19, 2026. - Estimated value: Not stated in the available listing. - Source:",
       "first_seen": "2026-10-23"
     },
     {
