@@ -1,16 +1,28 @@
 {
-  "generated": "2026-11-12",
+  "generated": "2026-11-13",
   "rfps": [
+    {
+      "id": "682ca88d85412f6c",
+      "type": "perplexity",
+      "title": "Pizza Hut",
+      "issuer": "review**; the process had reportedly begun with an RFI, whic",
+      "posted": "2026-11-12",
+      "deadline": "",
+      "url": "https://adage.com/agencies/accounts-in-review/aa-pizza-hut-media-review/",
+      "source_domain": "https://adage.com/agencies/accounts-in-review/aa-pizza-hut-media-review/",
+      "description": "Pizza Hut - Issuer/brand: Pizza Hut, United States - Sector: Food and beverage / restaurant - Review type: US media agency review; the process had reportedly begun with an RFI, which generally precedes a formal pitch. - Agencies reportedly invited: Spark Foundry, Horizon Media, PMG, and Brainlabs. - Timeline: The available source is dated November 12, 2026; no final selection date or formal closing deadline is reported. - Estimated budget: Not pu",
+      "first_seen": "2026-11-13"
+    },
     {
       "id": "9fa3f97c5859eac2",
       "type": "perplexity",
-      "title": "active, open US advertising or marketing RFPs with deadlines in May 2026",
+      "title": "active, US-only advertising or marketing RFPs open in May 2026",
       "issuer": "See source",
       "posted": "",
       "deadline": "",
       "url": "https://sam.gov/workspace/contract/opp/07fcbecd0dba49909c85b0f4e579216d/view",
       "source_domain": "https://sam.gov/workspace/contract/opp/07fcbecd0dba49909c85b0f4e579216d/view",
-      "description": "No qualifying opportunities can be verified from the available results. The search results do not show active, open US advertising or marketing RFPs with deadlines in May 2026: - The only potentially relevant federal listing, ICE Wide Outreach and Communications Support Services, is explicitly a sources-sought notice rather than an RFP, and its response deadline was May 31, 2022\u2014not 2026. - The other marketing-related SAM.gov result, Marketing an",
+      "description": "No qualifying opportunities can be verified from the available results. The search results do not identify any active, US-only advertising or marketing RFPs open in May 2026. The available results are either unrelated procurements, outside the requested timeframe, inactive notices, or sources-sought postings rather than open RFPs. For example, the ICE communications notice is inactive and concerns a 2022 sources-sought notice, not a 2026 RFP. The",
       "first_seen": "2026-11-12"
     },
     {
@@ -2424,90 +2436,6 @@
       "source_domain": "https://sam.gov/opp/5cc112753c8b439ebb5c4848d7d35a09/view",
       "description": "Advertising Agency Services for Air Education and Training Command - Issuing organization: U.S. Air Force, Air Education and Training Command - RFP title: Advertising Agency Services for Air Education and Training Command - Deadline: Not available in the search result - Estimated value: Not available - Status/date issue: The opportunity page was published in September 2026 and therefore does not establish that it was open in May 2026. - Direct UR",
       "first_seen": "2026-09-29"
-    },
-    {
-      "id": "2b01f71874bc9893",
-      "type": "perplexity",
-      "title": "active U.S. advertising or marketing RFPs open in May 2026",
-      "issuer": "RFP closing November 20, 2026, and a SouthWest Transit marke",
-      "posted": "",
-      "deadline": "",
-      "url": "https://sam.gov/opp/2987bbf8999d4fab8d76f918103ace55/view",
-      "source_domain": "https://sam.gov/opp/2987bbf8999d4fab8d76f918103ace55/view",
-      "description": "I could not verify any qualifying active U.S. advertising or marketing RFPs open in May 2026 from the search results available. The results were primarily opportunities published in September\u2013October 2026, expired or future-dated notices, non-marketing procurements, or listings without enough information to confirm that the opportunity was open during May 2026. The only potentially relevant result was a third-party nationwide marketing-bids index",
-      "first_seen": "2026-09-28"
-    },
-    {
-      "id": "2878a0db70bf2d47",
-      "type": "perplexity",
-      "title": "University of South Dakota",
-      "issuer": "** University of South Dakota, Vermillion, South Dakota",
-      "posted": "",
-      "deadline": "",
-      "url": "https://bidscopeai.com/opportunities/d63a5e28-b6e5-4206-8f54-8b45322aa2fc",
-      "source_domain": "https://bidscopeai.com/opportunities/d63a5e28-b6e5-4206-8f54-8b45322aa2fc",
-      "description": "University of South Dakota - Issuing organization: University of South Dakota, Vermillion, South Dakota. - What is being sought: A strategic marketing, communications, and public-relations agency partner to support enrollment, reputation, and engagement objectives. - Review type: Marketing, communications, PR, and potentially creative/digital services. - Deadline: October 16, 2026, at 12:00 p.m.; an award decision and contract negotiation were an",
-      "first_seen": "2026-09-28"
-    },
-    {
-      "id": "b1ae39942eba5874",
-      "type": "perplexity",
-      "title": "Metropolitan Nashville Airport Authority",
-      "issuer": "search** for Nashville International Airport and John C",
-      "posted": "",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/advertising-marketing-management-project-no-26-028",
-      "source_domain": "https://starbridge.ai/rfp/advertising-marketing-management-project-no-26-028",
-      "description": "Metropolitan Nashville Airport Authority - Issuing organization/brand: Metropolitan Nashville Airport Authority, Tennessee, United States. - Review type: A full-service advertising and marketing agency search for Nashville International Airport and John C. Tune Airport, including brand awareness, creative campaigns, digital, print, broadcast, social, and airport media. - Deadline/status: The proposal deadline was April 3, 2026, and the opportunit",
-      "first_seen": "2026-09-28"
-    },
-    {
-      "id": "1dd61fb82dc18725",
-      "type": "perplexity",
-      "title": "Five Guys",
-      "issuer": "** Five Guys, a U",
-      "posted": "2026-09-08",
-      "deadline": "",
-      "url": "https://www.adweek.com/agencies/five-guys-chooses-mirimar-as-creative-aor-to-share-its-story-and-go-beyond-word-of-mouth/",
-      "source_domain": "https://www.adweek.com/agencies/five-guys-chooses-mirimar-as-creative-aor-to-share-its-story-and-go-beyond-word-of-mouth/",
-      "description": "Five Guys - Issuing organization: Five Guys, a U.S.-based restaurant chain. - Review type: Creative agency review. - Status: Closed; Mirimar was appointed creative agency of record. - Timeline: Appointment announced September 8, 2026. - Estimated budget: Not disclosed. - Source URL: https://www.adweek.com/agencies/five-guys-chooses-mirimar-as-creative-aor-to-share-its-story-and-go-beyond-word-of-mouth/ Because the available results do not provide",
-      "first_seen": "2026-09-28"
-    },
-    {
-      "id": "43130bfe72a9e8a6",
-      "type": "perplexity",
-      "title": "Ector County, Texas \u2014 Marketing, Venue Development, Event Recruitment, and Brand Coordination",
-      "issuer": "** Ector County, Texas",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.highergov.com/sl/contract-opportunity/tx-marketing-venue-development-event-recr-74056219/",
-      "source_domain": "https://www.highergov.com/sl/contract-opportunity/tx-marketing-venue-development-event-recr-74056219/",
-      "description": "Ector County, Texas \u2014 Marketing, Venue Development, Event Recruitment, and Brand Coordination - Issuing organization: Ector County, Texas - What is being sought: A strategic marketing partner for the Ector County Coliseum & Exhibition Center, covering marketing, venue development, event recruitment, and brand coordination. - Deadline: October 8, 2026, at 10:00 a.m. Central Time. - Estimated value: Not stated in the available source. - Direct sour",
-      "first_seen": "2026-09-28"
-    },
-    {
-      "id": "30511a1627682b05",
-      "type": "perplexity",
-      "title": "Dave & Buster\u2019s",
-      "issuer": "review identified is **Dave & Buster\u2019s**, but it is no longe",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.morningstar.com/news/pr-newswire/20260924ny55533/dave-busters-taps-gut-and-mediaplus-to-power-the-next-chapter-of-growth-marketing",
-      "source_domain": "https://www.morningstar.com/news/pr-newswire/20260924ny55533/dave-busters-taps-gut-and-mediaplus-to-power-the-next-chapter-of-growth-marketing",
-      "description": "No qualifying opportunities can be verified from the available results. The only clearly US-based 2026 agency review identified is Dave & Buster\u2019s, but it is no longer active: the company announced appointments of GUT as creative agency of record and Mediaplus as media agency of record after a review that began in spring 2026. Because the review has concluded, it is excluded from the active-opportunity list. The remaining results are agency direc",
-      "first_seen": "2026-09-28"
-    },
-    {
-      "id": "693844f0435703de",
-      "type": "perplexity",
-      "title": "City of Boston, Massachusetts \u2014 Street Furniture Program and Advertising Partnership",
-      "issuer": "** City of Boston, Massachusetts",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.boston.gov/news/city-boston-releases-rfp-new-street-furniture-program",
-      "source_domain": "https://www.boston.gov/news/city-boston-releases-rfp-new-street-furniture-program",
-      "description": "City of Boston, Massachusetts \u2014 Street Furniture Program and Advertising Partnership - Issuing organization: City of Boston, Massachusetts - What is being sought: A business partner to upgrade and expand bus shelters, wayfinding kiosks, and other street-furniture elements; the program is intended to be supported by advertising revenue. - Deadline: November 4, 2026 - Estimated value: Not stated in the available notice. - Direct posting: [City of B",
-      "first_seen": "2026-09-28"
     }
   ]
 }
