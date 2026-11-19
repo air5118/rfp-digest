@@ -1,6 +1,42 @@
 {
-  "generated": "2026-11-18",
+  "generated": "2026-11-19",
   "rfps": [
+    {
+      "id": "25572708f69e705e",
+      "type": "perplexity",
+      "title": "US advertising or marketing RFPs open in May 2026",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://sam.gov/opp/df1bfb2204d32fa7b3c5e96ed7909375/view",
+      "source_domain": "https://sam.gov/opp/df1bfb2204d32fa7b3c5e96ed7909375/view",
+      "description": "No qualifying opportunities can be verified from the available search results. The results do not identify active US advertising or marketing RFPs open in May 2026. The only clearly advertising-related result is an inactive solicitation originally published in 2006, while the other results concern facilities, security, signage replacement, housekeeping, or turf services.",
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "fe575730c2664d49",
+      "type": "perplexity",
+      "title": "Rockland County Department of Economic Development, Tourism and Film \u2014 Marketing Agency of Record",
+      "issuer": "of Economic Development, Tourism and Film \u2014 Marketing Agency",
+      "posted": "",
+      "deadline": "",
+      "url": "https://proposalworkspace.com/state-opportunities/new-york-marketing-agency-of-record-for-rockland-county-department-of-be9ad7f8-85fb-4630-8086-2c5da75a6c7f",
+      "source_domain": "https://proposalworkspace.com/state-opportunities/new-york-marketing-agency-of-record-for-rockland-county-department-of-be9ad7f8-85fb-4630-8086-2c5da75a6c7f",
+      "description": "Rockland County Department of Economic Development, Tourism and Film \u2014 Marketing Agency of Record - Issuing organization: Rockland County, New York. - What is being sought: A marketing agency of record to support economic development, tourism promotion, destination marketing, film initiatives, and related communications. - Deadline: December 17, 2026. - Estimated value: Not stated in the available notice. - Direct source: [Rockland County Marketi",
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "f8642a598a24749b",
+      "type": "perplexity",
+      "title": "Destination Dutchess",
+      "issuer": "** Destination Dutchess, Dutchess County, New York",
+      "posted": "",
+      "deadline": "",
+      "url": "https://rfpplanet.com/mktg-2855/destination-dutchess-advertising-agency-of",
+      "source_domain": "https://rfpplanet.com/mktg-2855/destination-dutchess-advertising-agency-of",
+      "description": "Destination Dutchess - Issuing organization: Destination Dutchess, Dutchess County, New York. - What is being sought: Advertising agency of record covering audience research, strategic and creative direction, media planning and buying, digital display, paid social, search, streaming/CTV, audio, print, out-of-home, production, collateral, and related communications. - Review type: Creative, media, digital advertising, and broader agency-of-record",
+      "first_seen": "2026-11-19"
+    },
     {
       "id": "2841057cfb3a2125",
       "type": "perplexity",
@@ -38,18 +74,6 @@
       "first_seen": "2026-11-17"
     },
     {
-      "id": "07e49a74740ae923",
-      "type": "perplexity",
-      "title": "R005664 Hispanic Marketing and Advertising Agency RFP",
-      "issuer": "See source",
-      "posted": "",
-      "deadline": "",
-      "url": "https://bidbanana.com/bid/6xp52DKORLzzsAK2nWCK",
-      "source_domain": "https://bidbanana.com/bid/6xp52DKORLzzsAK2nWCK",
-      "description": "R005664 Hispanic Marketing and Advertising Agency RFP - Issuing organization: Unspecified California public agency - What is being sought: Hispanic-focused marketing and advertising agency services. - Deadline: November 23, 2026. - Estimated value: Not reported. - Status: Listed as open. - Source: GovTribe procurement listing",
-      "first_seen": "2026-11-17"
-    },
-    {
       "id": "7405e209a9774751",
       "type": "perplexity",
       "title": "OEPM 26-400 Business Development Marketing Communications Services",
@@ -59,6 +83,18 @@
       "url": "https://bidbanana.com/closed-bids/marketing-advertising-bids-rfp",
       "source_domain": "https://bidbanana.com/closed-bids/marketing-advertising-bids-rfp",
       "description": "OEPM 26-400 Business Development Marketing Communications Services - Issuing organization: California Office of Exposition Park Management - What is being sought: Business-development marketing and communications services. - Deadline: December 1, 2026. - Estimated value: Not reported. - Status: Listed as open. - Source: Bid Banana listing",
+      "first_seen": "2026-11-17"
+    },
+    {
+      "id": "07e49a74740ae923",
+      "type": "perplexity",
+      "title": "City of Overland Park \u2014 Convention and Tourism Promotion and Destination Marketing",
+      "issuer": "** City of Overland Park, Kansas",
+      "posted": "",
+      "deadline": "",
+      "url": "https://bidbanana.com/bid/6xp52DKORLzzsAK2nWCK",
+      "source_domain": "https://bidbanana.com/bid/6xp52DKORLzzsAK2nWCK",
+      "description": "City of Overland Park \u2014 Convention and Tourism Promotion and Destination Marketing - Issuing organization: City of Overland Park, Kansas. - What is being sought: Comprehensive tourism marketing, convention sales, sports-tourism support, annual marketing plans, group sales, event coordination, transient guest-tax forecasting, and economic-impact analysis. - Deadline: November 13, 2026. - Estimated value: Approximately $250,000\u2013$600,000. - Direct s",
       "first_seen": "2026-11-17"
     },
     {
@@ -107,18 +143,6 @@
       "url": "https://sam.gov/opp/a423a36927df016d53e2f8e64c3cafc4/view",
       "source_domain": "https://sam.gov/opp/a423a36927df016d53e2f8e64c3cafc4/view",
       "description": "No qualifying opportunities can be verified from the available results. The search results do not identify any active, US-based advertising or marketing RFPs open in May 2026: - The Virginia Army National Guard outdoor advertising opportunity is marked Inactive and concerns a 2019 solicitation. - The FTC social-media advertising monitoring opportunity is also Inactive, with a July 19, 2024 deadline. - The Army marketing-strategy notice states tha",
-      "first_seen": "2026-11-15"
-    },
-    {
-      "id": "933fa3567d022a5a",
-      "type": "perplexity",
-      "title": "Tunica Convention and Visitors Bureau \u2014 Destination Marketing Campaign",
-      "issuer": "** Tunica Convention and Visitors Bureau, Mississippi",
-      "posted": "",
-      "deadline": "",
-      "url": "https://tunicatravel.com/rfp26/",
-      "source_domain": "https://tunicatravel.com/rfp26/",
-      "description": "Tunica Convention and Visitors Bureau \u2014 Destination Marketing Campaign - Issuing organization: Tunica Convention and Visitors Bureau, Mississippi. - What is being sought: An outside advertising agency to develop and execute a comprehensive destination marketing campaign promoting Tunica, including its casino partners, to gamblers and tourists in key drive markets. - Deadline: December 14, 2026, at 4:00 p.m. CST. - Estimated value: $280,000. - Sta",
       "first_seen": "2026-11-15"
     },
     {
@@ -326,18 +350,6 @@
       "first_seen": "2026-11-12"
     },
     {
-      "id": "005370db7033a493",
-      "type": "perplexity",
-      "title": "May 2026",
-      "issuer": "supporting military recruiting, but it is shown as a Novembe",
-      "posted": "",
-      "deadline": "",
-      "url": "https://sam.gov/workspace/contract/opp/851724803cffa917498efab7c4510d34/view",
-      "source_domain": "https://sam.gov/workspace/contract/opp/851724803cffa917498efab7c4510d34/view",
-      "description": "No qualifying opportunities can be verified from the available results. The returned listings are not open in May 2026: they are dated November 2026, describe inactive or unrelated solicitations, reference historical opportunities, or are RFIs rather than active advertising/marketing RFPs. Including them would violate the requirements to provide active, US-only opportunities open in May 2026. The only potentially relevant result is a SAM.gov RFI",
-      "first_seen": "2026-11-12"
-    },
-    {
       "id": "49f29ffb41f3bc79",
       "type": "perplexity",
       "title": "Marketing and Promotion of Suffolk County Tourism",
@@ -347,6 +359,18 @@
       "url": "https://govtribe.com/category/unspsc/80141600-sales-and-business-promotion-activities",
       "source_domain": "https://govtribe.com/category/unspsc/80141600-sales-and-business-promotion-activities",
       "description": "Marketing and Promotion of Suffolk County Tourism - Issuing organization: Suffolk County Department of Economic Development and Planning, New York. - What is being sought: Marketing and promotional services for Suffolk County tourism. - Deadline: December 4, 2026. - Estimated value: Not stated in the available source. - Source: GovTribe solicitation listing.",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "005370db7033a493",
+      "type": "perplexity",
+      "title": "Full-Service Marketing, Communications, and Advertising Services \u2014 State of North Carolina",
+      "issuer": "** State of North Carolina; the available result does not id",
+      "posted": "",
+      "deadline": "",
+      "url": "https://sam.gov/workspace/contract/opp/851724803cffa917498efab7c4510d34/view",
+      "source_domain": "https://sam.gov/workspace/contract/opp/851724803cffa917498efab7c4510d34/view",
+      "description": "Full-Service Marketing, Communications, and Advertising Services \u2014 State of North Carolina - Issuing organization: State of North Carolina; the available result does not identify the specific department. - What is being sought: As-needed full-service marketing, communications, and advertising services, including media planning and buying, for a three-year period. - Deadline: October 30, 2026, shown in the available posting. The listing also shows",
       "first_seen": "2026-11-12"
     },
     {
@@ -360,6 +384,18 @@
       "source_domain": "https://easbid.com/bids/marketing",
       "description": "Coastal Mississippi Destination Marketing Publisher Opportunity - Issuing organization: Mississippi Development Authority / Coastal Mississippi. - What is being sought: Qualified destination-marketing publishers to support tourism promotion. - Deadline: November 19, 2026. - Estimated value: Not stated in the available source. - Source: EasBid\u2019s listing of open U.S. marketing and advertising bids.",
       "first_seen": "2026-11-12"
+    },
+    {
+      "id": "d8b5374953cbaf9b",
+      "type": "perplexity",
+      "title": "Tunica Convention and Visitors Bureau \u2014 Destination Marketing Campaign",
+      "issuer": "** Tunica Convention and Visitors Bureau, Mississippi",
+      "posted": "",
+      "deadline": "",
+      "url": "https://www.govhub.online/bids/marketing/",
+      "source_domain": "https://www.govhub.online/bids/marketing/",
+      "description": "Tunica Convention and Visitors Bureau \u2014 Destination Marketing Campaign - Issuing organization: Tunica Convention and Visitors Bureau, Mississippi. - What is being sought: An outside agency to develop and execute a comprehensive destination advertising and marketing campaign targeting gamblers and tourists, including promotion of Tunica\u2019s casino partners. - Deadline: December 14, 2026. - Estimated value: Approximately $280,000. - Direct source: [T",
+      "first_seen": "2026-11-11"
     },
     {
       "id": "265a836d61f136e0",
@@ -395,18 +431,6 @@
       "url": "https://usesettle.com/rfp-hunter/brand-identity-services-r5l3",
       "source_domain": "https://usesettle.com/rfp-hunter/brand-identity-services-r5l3",
       "description": "Suffolk County, New York - Brand/issuer: Suffolk County, New York, United States. - Review: Marketing and promotion services, including marketing and advertising planning, creative strategy, brand development, media planning and buying, SEO, and public relations. - Timeline: Proposals due December 4, 2026; questions due November 18, 2026. - Estimated budget: The listing displays an estimated budget of \u201c$4,\u201d which appears incomplete or unreliable.",
-      "first_seen": "2026-11-11"
-    },
-    {
-      "id": "d8b5374953cbaf9b",
-      "type": "perplexity",
-      "title": "Oregon Tourism Commission, dba Travel Oregon \u2014 Strategic Communications and Media Relations",
-      "issuer": "** Oregon Tourism Commission, dba Travel Oregon",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.govhub.online/bids/marketing/",
-      "source_domain": "https://www.govhub.online/bids/marketing/",
-      "description": "Oregon Tourism Commission, dba Travel Oregon \u2014 Strategic Communications and Media Relations - Issuing organization: Oregon Tourism Commission, dba Travel Oregon. - What is being sought: A strategic communications and public-relations partner to develop tourism storylines, secure earned media coverage, support media outreach, and assist with press trips and tourism-industry communications. - Deadline: November 25, 2026. - Estimated value: $45,000",
       "first_seen": "2026-11-11"
     },
     {
@@ -575,18 +599,6 @@
       "url": "https://rfpplanet.com/mktg-2789/marketing-and-advertising-services",
       "source_domain": "https://rfpplanet.com/mktg-2789/marketing-and-advertising-services",
       "description": "New York Public Agency \u2014 Marketing and Advertising Services - Issuing organization: A public agency in New York; the available listing does not identify the agency. - What is being sought: Marketing and advertising services. - Deadline: December 1, 2026. - Estimated value: Not stated in the available source. - Source: (https://rfpplanet.com/mktg-2789/marketing-and-advertising-services)",
-      "first_seen": "2026-11-07"
-    },
-    {
-      "id": "aad962924c245ed6",
-      "type": "perplexity",
-      "title": "Nebraska Government Agency \u2014 Media Advertising Campaign Services",
-      "issuer": "\u2014 Media Advertising Campaign Services",
-      "posted": "2026-10-28",
-      "deadline": "2026-11-18",
-      "url": "https://rfpplanet.com/mktg-2795/media-advertising-campaign-services",
-      "source_domain": "https://rfpplanet.com/mktg-2795/media-advertising-campaign-services",
-      "description": "Nebraska Government Agency \u2014 Media Advertising Campaign Services - Issuer: Government agency in Nebraska, United States - Sector: Public sector - What is being sought: Media advertising campaign services. - Timeline: Published October 28, 2026; proposals due November 18, 2026. - Estimated value: Not disclosed. - Status: Open based on the available listing. - Source URL: https://rfpplanet.com/mktg-2795/media-advertising-campaign-services",
       "first_seen": "2026-11-07"
     },
     {
@@ -1022,18 +1034,6 @@
       "first_seen": "2026-10-29"
     },
     {
-      "id": "4db19dc144ea2e24",
-      "type": "perplexity",
-      "title": "District of Columbia \u2014 Integrated Marketing and Communications Services",
-      "issuer": "** District of Columbia, United States",
-      "posted": "",
-      "deadline": "",
-      "url": "https://govtribe.com/category/unspsc/82101800-advertising-agency-services",
-      "source_domain": "https://govtribe.com/category/unspsc/82101800-advertising-agency-services",
-      "description": "District of Columbia \u2014 Integrated Marketing and Communications Services - Issuer: District of Columbia, United States - What is being sought: Integrated marketing and communications services. - Review type: Integrated marketing, communications, and potentially media/creative services. - Deadline: November 19, 2026. - Estimated value: Not stated. - Brand sector: Government, not a commercial brand. - Source:",
-      "first_seen": "2026-10-29"
-    },
-    {
       "id": "0c6c58c24ecf224f",
       "type": "perplexity",
       "title": "Diageo",
@@ -1079,6 +1079,18 @@
       "url": "https://www.gastonianc.gov/caromont-rfp",
       "source_domain": "https://www.gastonianc.gov/caromont-rfp",
       "description": "City of Gastonia, North Carolina \u2014 CaroMont Health Park Facility Management - Issuing organization: City of Gastonia, North Carolina. - What is being sought: Operation and management of CaroMont Health Park, including financial management, facility maintenance, marketing, and event services. - Deadline: November 30, 2026, at 5:00 p.m. - Estimated value: Not stated. - RFP posting: [CaroMont Health Park RFP](https://www.gastonianc.gov/caromont-rfp)",
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "4db19dc144ea2e24",
+      "type": "perplexity",
+      "title": "California Franchise Tax Board \u2014 CalEITC Advertising Campaign",
+      "issuer": "** California Franchise Tax Board",
+      "posted": "",
+      "deadline": "",
+      "url": "https://govtribe.com/category/unspsc/82101800-advertising-agency-services",
+      "source_domain": "https://govtribe.com/category/unspsc/82101800-advertising-agency-services",
+      "description": "California Franchise Tax Board \u2014 CalEITC Advertising Campaign - Issuing organization: California Franchise Tax Board. - What is being sought: Advertising services for the California Earned Income Tax Credit campaign. - Deadline: December 31, 2026. - Estimated value: Approximately $450,000 annually, with an optional second year. - Direct source: [Advertising agency services opportunities](https://govtribe.com/category/unspsc/82101800-advertising-a",
       "first_seen": "2026-10-29"
     },
     {
@@ -2400,30 +2412,6 @@
       "source_domain": "https://www.indianbroadcastingworld.com",
       "description": "Doordarshan seeks agency for DD Free Dish auctions indianbroadcastingworld.com",
       "first_seen": "2026-10-05"
-    },
-    {
-      "id": "d13b2a0b1654788d",
-      "type": "perplexity",
-      "title": "open in May 2026",
-      "issuer": "a **US organization**, and had a verifiable deadline and app",
-      "posted": "",
-      "deadline": "",
-      "url": "https://sam.gov/content/home.In",
-      "source_domain": "https://sam.gov/content/home.In",
-      "description": "I could not verify any qualifying opportunities from the available search results. The results did not provide enough information to confirm that an advertising or marketing solicitation was open in May 2026, issued by a US organization, and had a verifiable deadline and application details. The only directly relevant source returned was the official SAM.gov homepage, which confirms the federal contracting portal but does not identify a qualifyin",
-      "first_seen": "2026-10-04"
-    },
-    {
-      "id": "8592b6d99d02dd89",
-      "type": "perplexity",
-      "title": "City of Palm Desert, California \u2014 Tourism Marketing and Creative Services",
-      "issuer": "** City of Palm Desert, California; the opportunity is assoc",
-      "posted": "",
-      "deadline": "",
-      "url": "https://usesettle.com/rfp-hunter/beef-marketing-campaign-services-2340354",
-      "source_domain": "https://usesettle.com/rfp-hunter/beef-marketing-campaign-services-2340354",
-      "description": "City of Palm Desert, California \u2014 Tourism Marketing and Creative Services - Issuing organization: City of Palm Desert, California; the opportunity is associated with the city\u2019s economic-development and tourism functions. - What is being sought: A professional-services firm to provide tourism marketing and creative services, including brand and creative management, media planning and buying, public relations, social media, tourism email communicat",
-      "first_seen": "2026-10-04"
     }
   ]
 }
