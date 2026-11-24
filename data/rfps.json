@@ -1,16 +1,40 @@
 {
-  "generated": "2026-11-22",
+  "generated": "2026-11-24",
   "rfps": [
+    {
+      "id": "211b9c83a0e5cb4a",
+      "type": "perplexity",
+      "title": "No qualifying opportunities can be verified from the available search results. The only returned result is a BidNet NAIC",
+      "issuer": "See source",
+      "posted": "",
+      "deadline": "",
+      "url": "https://communications.bidnet.com/hubfs/BND%20Vendor%20Guides/NAICS%20Codes%20for%20SANDAG%20Grant%20Programs.pdf",
+      "source_domain": "https://communications.bidnet.com/hubfs/BND%20Vendor%20Guides/NAICS%20Codes%20for%20SANDAG%20Grant%20Programs.pdf",
+      "description": "No qualifying opportunities can be verified from the available search results. The only returned result is a BidNet NAICS-code reference document, not an active 2026 advertising, marketing, or creative-services RFP. Because the posting\u2019s issuer, scope, deadline, and active status cannot be established, no opportunity is included.",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "137cc31688c3f316",
+      "type": "brand_lead",
+      "title": "AdImpact's Cycle in Review 2025-2026",
+      "issuer": "AdImpact",
+      "posted": "2026-11-17",
+      "deadline": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40WllVclFkb20xNGpEVmFxYTBDaHQxNDBaZXRoVnI2eEhTYXMyc21GQi16RUxzeS1CY0R6N2xTeVp6bGVES2c3NXdpMmdvTmxHTWhOcjlvVTlQeHhDZmJ6UG5ISGxwYWNwRFJmcUUySGdXUdIBggFBVV95cUxQV2RvWjViUWs1MFFuLURNMXJoTDNTTG9VOTd2bjlpVnBpTFhodGdmWm9fN0NqZ3UtQTVlQjQtMkhxVmh5VTd6X2dBVlc2YVpBS2tJTE9YejZVaDU0cDRaS3ZORVNrV0xRMFg4VGwwcnNqbExwdWxWN1Q3MDlWRUxNUVFR?oc=5",
+      "source_domain": "https://adimpact.com",
+      "description": "AdImpact's Cycle in Review 2025-2026 AdImpact",
+      "first_seen": "2026-11-24"
+    },
     {
       "id": "26dffb6911d21534",
       "type": "perplexity",
-      "title": "Westchester County Parks \u2014 Branding, Media Planning, Buying, and Marketing Services",
-      "issuer": "** Westchester County Department of Parks, Recreation and Co",
-      "posted": "2026-11-19",
-      "deadline": "2027-01-07",
+      "title": "Westchester County Parks \u2014 Branding, Media Planning, Media Buying, and Marketing Services",
+      "issuer": "** Westchester County, New York, Department of Parks, Recrea",
+      "posted": "",
+      "deadline": "",
       "url": "https://www.westchestergov.com/rfp/downloadFile?parameter1=43014_RFP_Branding_Media_Planning_Buying_and_Marketing_Services_Final_2026.11.19.12.57.43.pdf",
       "source_domain": "https://www.westchestergov.com/rfp/downloadFile?parameter1=43014_RFP_Branding_Media_Planning_Buying_and_Marketing_Services_Final_2026.11.19.12.57.43.pdf",
-      "description": "Westchester County Parks \u2014 Branding, Media Planning, Buying, and Marketing Services - Sector: Public recreation, tourism, and entertainment - What is being reviewed: Brand strategy, creative concept and tagline development, media planning and buying, and campaigns across digital, streaming, out-of-home, broadcast, print, and emerging channels. - Timeline: Issued November 19, 2026; proposals due January 7, 2027, at 4:00 p.m. - Estimated budget: No",
+      "description": "Westchester County Parks \u2014 Branding, Media Planning, Media Buying, and Marketing Services - Issuing organization: Westchester County, New York, Department of Parks, Recreation and Conservation. - What is being sought: Qualified advertising and marketing agencies to provide branding, media planning, media buying, strategic marketing support, and related services for Westchester County Parks, Westchester County Golf, the Westchester County Center,",
       "first_seen": "2026-11-22"
     },
     {
@@ -106,7 +130,7 @@
       "deadline": "",
       "url": "https://sam.gov/opp/77c9bc0842ce4f759e7d082270de4a40/view",
       "source_domain": "https://sam.gov/opp/77c9bc0842ce4f759e7d082270de4a40/view",
-      "description": "Nebraska Army National Guard \u2014 Targeted Advertising with AI Capabilities - Organization: Nebraska Army National Guard - RFP title: NEARNG Targeted Advertising with AI Capabilities - What is being sought: Lead-generation services and artificial-intelligence marketing tools to increase enlistments. - Published: May 19, 2026 - Deadline: June 22, 2026, at 10:00 a.m. Central Time - Estimated value: Not stated in the available notice - Direct URL: http",
+      "description": "Nebraska Army National Guard \u2014 Targeted Advertising with AI Capabilities - Organization: Nebraska Army National Guard - RFP title: NEARNG Targeted Advertising with AI Capabilities - What is sought: Lead-generation services and AI marketing tools to increase enlistments; classified under advertising agencies and advertising support. - Deadline: June 22, 2026, at 10:00 a.m. CST. - Estimated value: Not stated in the available notice. - Direct URL: h",
       "first_seen": "2026-11-22"
     },
     {
@@ -302,6 +326,18 @@
       "first_seen": "2026-11-20"
     },
     {
+      "id": "4f8ca5f8136c443e",
+      "type": "perplexity",
+      "title": "New York Public Agency \u2014 Advertising Agency of Record Services",
+      "issuer": "\u2014 Advertising Agency of Record Services",
+      "posted": "",
+      "deadline": "",
+      "url": "https://craxy.ai/find-rfps/cmwkjajze038ofhygjzcj19rp",
+      "source_domain": "https://craxy.ai/find-rfps/cmwkjajze038ofhygjzcj19rp",
+      "description": "New York Public Agency \u2014 Advertising Agency of Record Services - Issuing organization: A New York public-sector issuer; the available search result does not identify the agency by name. - What is being sought: Advertising agency-of-record services covering research, planning, creative development, media buying, reporting, advertising-plan development, campaign creative, brand tools, and media optimization. - Deadline: December 4, 2026. Questions",
+      "first_seen": "2026-11-20"
+    },
+    {
       "id": "08e7720cfb1b0888",
       "type": "perplexity",
       "title": "New York Government Authority \u2014 Marketing and Promotion Services",
@@ -311,18 +347,6 @@
       "url": "https://callcenterrfp.com/1200274-usa-new-york-marketing-and-promotion-services-rfp.html",
       "source_domain": "https://callcenterrfp.com/1200274-usa-new-york-marketing-and-promotion-services-rfp.html",
       "description": "New York Government Authority \u2014 Marketing and Promotion Services - Issuing organization: A New York-based government authority; the available listing does not identify the agency by name. - What is being sought: Marketing and promotion services. - Deadline: December 18, 2026. - Estimated value: Not stated. - Status: Open based on the listed future closing date. - Source: https://callcenterrfp.com/1200274-usa-new-york-marketing-and-promotion-servi",
-      "first_seen": "2026-11-20"
-    },
-    {
-      "id": "4f8ca5f8136c443e",
-      "type": "perplexity",
-      "title": "New York Government Authority \u2014 Advertising Agency of Record",
-      "issuer": "of Record",
-      "posted": "",
-      "deadline": "",
-      "url": "https://craxy.ai/find-rfps/cmwkjajze038ofhygjzcj19rp",
-      "source_domain": "https://craxy.ai/find-rfps/cmwkjajze038ofhygjzcj19rp",
-      "description": "New York Government Authority \u2014 Advertising Agency of Record - Sector: Public-sector advertising - What is being reviewed: Agency-of-record services covering research, campaign planning, creative development, media buying, reporting, advertising account management, brand tools, website collaboration, and scripts. - Timeline: Questions due November 30, 2026; submissions due December 4, 2026. - Estimated budget: Not stated in the available source.",
       "first_seen": "2026-11-20"
     },
     {
@@ -1826,18 +1850,6 @@
       "first_seen": "2026-10-22"
     },
     {
-      "id": "f04d0f8171c6159d",
-      "type": "perplexity",
-      "title": "California State Lottery \u2014 Hispanic Marketing and Advertising Agency",
-      "issuer": "- **Issuing organization:** California State Lottery Commiss",
-      "posted": "2026-10-12",
-      "deadline": "2026-11-23",
-      "url": "https://starbridge.ai/rfp/r005664-hispanic-marketing-and-advertising-agency",
-      "source_domain": "https://starbridge.ai/rfp/r005664-hispanic-marketing-and-advertising-agency",
-      "description": "California State Lottery \u2014 Hispanic Marketing and Advertising Agency - Issuing organization: California State Lottery Commission. - What is being reviewed: A strategic marketing and advertising agency for the California Hispanic consumer market, including culturally relevant creative, integrated marketing plans, media strategy, research, and analytics. - Review type: Creative, media, digital/marketing strategy, and research. - Timeline: Issued Oc",
-      "first_seen": "2026-10-22"
-    },
-    {
       "id": "42d5be757a416fda",
       "type": "perplexity",
       "title": "active U.S. advertising or marketing RFPs open in May 2026",
@@ -2496,102 +2508,6 @@
       "source_domain": "https://aws.state.ak.us/OnlinePublicNotices/Notices/View.aspx?id=225327",
       "description": "Alaska \u2014 Advertising and Marketing Services - Issuing organization: State of Alaska - What is being sought: Advertising and marketing services under RFP 26-35-214988. - Deadline: October 27, 2026, at 3:00 p.m. - Estimated value: Not stated in the available posting. - Direct RFP posting: [Alaska Online Public Notices](https://aws.state.ak.us/OnlinePublicNotices/Notices/View.aspx?id=225327)",
       "first_seen": "2026-10-10"
-    },
-    {
-      "id": "0c604f8fa2da77bf",
-      "type": "perplexity",
-      "title": "active U.S. advertising or marketing RFPs open in May 2026",
-      "issuer": "solicitation listed a November 20, 2026 deadline, so it was",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/strategic-marketing-communications-creative-and-media-services-tcdn",
-      "source_domain": "https://www.cleat.ai/government/contracts/strategic-marketing-communications-creative-and-media-services-tcdn",
-      "description": "I could not verify any active U.S. advertising or marketing RFPs open in May 2026 from the available search results. The results returned opportunities issued in September\u2013October 2026, which do not meet your requirement for opportunities open in May 2026. For example: - The City of Montgomery, Alabama, issued a strategic marketing and communications RFP in September 2026, with a deadline of October 5, 2026; it was already closed. - The City of R",
-      "first_seen": "2026-10-09"
-    },
-    {
-      "id": "88aeaae5f885d754",
-      "type": "brand_lead",
-      "title": "Week in Review: UK Broadcasters Discuss Channel 4/UKTV Merger, NBCU Brings Agents to the Upfronts, and Ad Spend Soars Despite Consumer Caution",
-      "issuer": "VideoWeek",
-      "posted": "2026-10-09",
-      "deadline": "",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPc2Zub1ZTczBYUUFaM1M0UjhYekt1OWZZOUJDRDRBcU81UHdGampXMFJXNktNRVpuMU1aQV8xd21JdWJUZmgyVnMtYlZ0STlITE5oaGYwSXNWMWZRR1BfVkwzY2ZpM0R1QXIxTlRsdE9NSW54Y25hZlZHWWhTWnRCLUxHcTJSczZ6NzMzcWZaZHFoMTE0Q09oQ3dHTTZwM092ay03TUt3SXNPbkpGZklpOUg3aFZ3ZV80X196R1ZPVExYejJEd1FzdVM1Njc2MndfdWdKTEJRTzdUQko2al9sekNlaEJnOWJocEpLeUtrcGktMkc3ejJRSE9kUjBNMXBRaGdr?oc=5",
-      "source_domain": "https://videoweek.com",
-      "description": "Week in Review: UK Broadcasters Discuss Channel 4/UKTV Merger, NBCU Brings Agents to the Upfronts, and Ad Spend Soars Despite Consumer Caution VideoWeek",
-      "first_seen": "2026-10-09"
-    },
-    {
-      "id": "bb6525be91c27add",
-      "type": "perplexity",
-      "title": "Minnesota State Lottery \u2014 Advertising Agency Services",
-      "issuer": "Services",
-      "posted": "",
-      "deadline": "",
-      "url": "https://rfpplanet.com/mktg-2726/advertising-agency-services",
-      "source_domain": "https://rfpplanet.com/mktg-2726/advertising-agency-services",
-      "description": "Minnesota State Lottery \u2014 Advertising Agency Services - Issuing organization: Minnesota State Lottery, Minnesota. - What is being sought: Advertising agency services to market and sell gaming-related products, including communications emphasizing entertainment and support for environmental and community programs. - Deadline: November 20, 2026. - Estimated value: Not stated in the available listing. - Source: (https://rfpplanet.com/mktg-2726/adver",
-      "first_seen": "2026-10-09"
-    },
-    {
-      "id": "53d938185e3948a8",
-      "type": "perplexity",
-      "title": "WMCHealth",
-      "issuer": "of record** for enterprise brand positioning and advertising",
-      "posted": "2026-09-17",
-      "deadline": "",
-      "url": "https://starbridge.ai/rfp/brand-and-advertising-agency-of-record-request-for",
-      "source_domain": "https://starbridge.ai/rfp/brand-and-advertising-agency-of-record-request-for",
-      "description": "WMCHealth - Issuing organization/brand: Westchester Medical Center Health Network, New York, United States. - What is being sought: A brand and advertising agency of record for enterprise brand positioning and advertising. - Timeline: Released September 17, 2026; deadline October 9, 2026. The listing marks the opportunity closed, so it should not be treated as active. - Estimated budget: Not reported. - Source URL: https://starbridge.ai/rfp/brand",
-      "first_seen": "2026-10-08"
-    },
-    {
-      "id": "7301c76833a16f74",
-      "type": "perplexity",
-      "title": "Santa Rosa County Board of County Commissioners \u2014 Economic Development Advertising, Marketing, and Public Relations",
-      "issuer": "** Santa Rosa County Board of County Commissioners, Florida",
-      "posted": "",
-      "deadline": "",
-      "url": "https://www.cleat.ai/government/contracts/professional-advertising-marketing-and-public-relations-services-for-economic-development-y106",
-      "source_domain": "https://www.cleat.ai/government/contracts/professional-advertising-marketing-and-public-relations-services-for-economic-development-y106",
-      "description": "Santa Rosa County Board of County Commissioners \u2014 Economic Development Advertising, Marketing, and Public Relations - Issuing organization: Santa Rosa County Board of County Commissioners, Florida. - What is being sought: Professional advertising, marketing, and public-relations services supporting the county\u2019s Economic Development Office. - Deadline: October 19, 2026. - Estimated value: Not-to-exceed $125,000 for the initial one-year term, with",
-      "first_seen": "2026-10-08"
-    },
-    {
-      "id": "266cdcd6dc685d7f",
-      "type": "perplexity",
-      "title": "October 2026",
-      "issuer": "See source",
-      "posted": "",
-      "deadline": "",
-      "url": "https://sam.gov/opp/d4d757ab9cc6494b9557d5619471f77d/view",
-      "source_domain": "https://sam.gov/opp/d4d757ab9cc6494b9557d5619471f77d/view",
-      "description": "No qualifying opportunities can be verified from the available results. The search results show opportunities with deadlines in October 2026, not May 2026, including a federal SAM.gov solicitation due October 30, 2026 and a Palm Desert tourism-marketing RFP due October 22, 2026. They therefore do not meet the requirement for active opportunities open in May 2026. No result provided sufficient evidence of a US advertising or marketing RFP that was",
-      "first_seen": "2026-10-08"
-    },
-    {
-      "id": "f45bb2433ec07054",
-      "type": "perplexity",
-      "title": "OC Fair & Event Center",
-      "issuer": "** 32nd District Agricultural Association, California",
-      "posted": "",
-      "deadline": "",
-      "url": "https://craxy.ai/find-rfps/cmusblhlr01ji0b0x0ts7q7or",
-      "source_domain": "https://craxy.ai/find-rfps/cmusblhlr01ji0b0x0ts7q7or",
-      "description": "OC Fair & Event Center - Issuing organization: 32nd District Agricultural Association, California - Review: Strategic advertising, creative development, media planning and buying, digital performance marketing, research, analytics, and account management. - Deadline: October 27, 2026, at 11:00 a.m. PDT. - Estimated value: Not disclosed - Status: Expired/closed - Source URL: The available results therefore do not support listing any major US brand",
-      "first_seen": "2026-10-08"
-    },
-    {
-      "id": "b90cafc18e1dce6a",
-      "type": "perplexity",
-      "title": "Alaska Government Agency \u2014 Advertising and Marketing Services",
-      "issuer": "\u2014 Advertising and Marketing Services",
-      "posted": "",
-      "deadline": "",
-      "url": "https://rfpplanet.com/mktg-2722/advertising-and-marketing-services",
-      "source_domain": "https://rfpplanet.com/mktg-2722/advertising-and-marketing-services",
-      "description": "Alaska Government Agency \u2014 Advertising and Marketing Services - Issuing organization: A government agency in Alaska; the available listing does not identify the agency by name. - What is being sought: Full-service advertising and marketing support, including campaign research, planning, creative development, traditional and digital media, social media, analytics, tracking, collateral, and promotional materials. - Deadline: October 27, 2026 - Esti",
-      "first_seen": "2026-10-08"
     }
   ]
 }
